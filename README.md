@@ -8,9 +8,9 @@ This repository contains updated Suricata rules specifically tailored for Projec
 
 **Enhanced Detection Logic:** Optimized rules to reduce false positives and improve accuracy.
 
-**New Threat Signatures: **Added rules to detect the latest threat vectors and malware variants.
+**New Threat Signatures:** Added rules to detect the latest threat vectors and malware variants.
 
-**Performance Improvements: **Optimized rule patterns for faster packet inspection without compromising detection quality.
+**Performance Improvements:** Optimized rule patterns for faster packet inspection without compromising detection quality.
 
 **Sigma Analytics Integration:** Incorporated logic from SIGMA analytics to confirm the IP address of real intruders, improving threat attribution accuracy.
 
