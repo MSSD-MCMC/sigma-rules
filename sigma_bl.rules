@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Sat Mar  1 05:00:22 +08 2025
+# Auto-generated on Sat Mar  1 06:00:22 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -13,13 +13,15 @@ drop ip 193.32.162.130 any -> any any (msg:"SIGMA Blacklisted IP 193.32.162.130 
 drop ip 61.220.44.44 any -> any any (msg:"SIGMA Blacklisted IP 61.220.44.44 (Inbound)"; sid:6000008; rev:1; priority:1;)
 drop ip 196.251.70.166 any -> any any (msg:"SIGMA Blacklisted IP 196.251.70.166 (Inbound)"; sid:6000009; rev:1; priority:1;)
 drop ip 15.235.2.68 any -> any any (msg:"SIGMA Blacklisted IP 15.235.2.68 (Inbound)"; sid:6000010; rev:1; priority:1;)
-drop ip 196.251.88.103 any -> any any (msg:"SIGMA Blacklisted IP 196.251.88.103 (Inbound)"; sid:6000011; rev:1; priority:1;)
-drop ip 92.118.39.72 any -> any any (msg:"SIGMA Blacklisted IP 92.118.39.72 (Inbound)"; sid:6000012; rev:1; priority:1;)
-drop ip 196.251.67.42 any -> any any (msg:"SIGMA Blacklisted IP 196.251.67.42 (Inbound)"; sid:6000013; rev:1; priority:1;)
-drop ip 173.245.58.112 any -> any any (msg:"SIGMA Blacklisted IP 173.245.58.112 (Inbound)"; sid:6000014; rev:1; priority:1;)
-drop ip 162.125.85.13 any -> any any (msg:"SIGMA Blacklisted IP 162.125.85.13 (Inbound)"; sid:6000015; rev:1; priority:1;)
-drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (Inbound)"; sid:6000016; rev:1; priority:1;)
-drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000017; rev:1; priority:1;)
-drop ip 172.64.32.112 any -> any any (msg:"SIGMA Blacklisted IP 172.64.32.112 (Inbound)"; sid:6000018; rev:1; priority:1;)
-drop ip 125.129.154.111 any -> any any (msg:"SIGMA Blacklisted IP 125.129.154.111 (Inbound)"; sid:6000019; rev:1; priority:1;)
-drop ip 103.183.75.137 any -> any any (msg:"SIGMA Blacklisted IP 103.183.75.137 (Inbound)"; sid:6000020; rev:1; priority:1;)
+drop ip 92.118.39.72 any -> any any (msg:"SIGMA Blacklisted IP 92.118.39.72 (Inbound)"; sid:6000011; rev:1; priority:1;)
+drop ip 94.141.161.95 any -> any any (msg:"SIGMA Blacklisted IP 94.141.161.95 (Inbound)"; sid:6000012; rev:1; priority:1;)
+drop ip 196.251.88.103 any -> any any (msg:"SIGMA Blacklisted IP 196.251.88.103 (Inbound)"; sid:6000013; rev:1; priority:1;)
+drop ip 182.151.27.213 any -> any any (msg:"SIGMA Blacklisted IP 182.151.27.213 (Inbound)"; sid:6000014; rev:1; priority:1;)
+drop ip 173.245.58.112 any -> any any (msg:"SIGMA Blacklisted IP 173.245.58.112 (Inbound)"; sid:6000015; rev:1; priority:1;)
+drop ip 196.251.67.42 any -> any any (msg:"SIGMA Blacklisted IP 196.251.67.42 (Inbound)"; sid:6000016; rev:1; priority:1;)
+drop ip 172.64.32.112 any -> any any (msg:"SIGMA Blacklisted IP 172.64.32.112 (Inbound)"; sid:6000017; rev:1; priority:1;)
+drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (Inbound)"; sid:6000018; rev:1; priority:1;)
+drop ip 162.125.85.13 any -> any any (msg:"SIGMA Blacklisted IP 162.125.85.13 (Inbound)"; sid:6000019; rev:1; priority:1;)
+drop ip 125.129.154.111 any -> any any (msg:"SIGMA Blacklisted IP 125.129.154.111 (Inbound)"; sid:6000020; rev:1; priority:1;)
+drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000021; rev:1; priority:1;)
+drop ip 103.183.75.137 any -> any any (msg:"SIGMA Blacklisted IP 103.183.75.137 (Inbound)"; sid:6000022; rev:1; priority:1;)
