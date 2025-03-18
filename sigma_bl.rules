@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Tue Mar 18 21:00:22 +08 2025
+# Auto-generated on Tue Mar 18 22:00:22 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -13,8 +13,9 @@ drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (I
 drop ip 196.251.67.42 any -> any any (msg:"SIGMA Blacklisted IP 196.251.67.42 (Inbound)"; sid:6000008; rev:1; priority:1;)
 drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000009; rev:1; priority:1;)
 drop ip 162.125.81.17 any -> any any (msg:"SIGMA Blacklisted IP 162.125.81.17 (Inbound)"; sid:6000010; rev:1; priority:1;)
-drop ip 173.245.58.112 any -> any any (msg:"SIGMA Blacklisted IP 173.245.58.112 (Inbound)"; sid:6000011; rev:1; priority:1;)
-drop ip 172.64.33.148 any -> any any (msg:"SIGMA Blacklisted IP 172.64.33.148 (Inbound)"; sid:6000012; rev:1; priority:1;)
-drop ip 70.54.182.130 any -> any any (msg:"SIGMA Blacklisted IP 70.54.182.130 (Inbound)"; sid:6000013; rev:1; priority:1;)
-drop ip 117.50.188.180 any -> any any (msg:"SIGMA Blacklisted IP 117.50.188.180 (Inbound)"; sid:6000014; rev:1; priority:1;)
-drop ip 103.172.236.15 any -> any any (msg:"SIGMA Blacklisted IP 103.172.236.15 (Inbound)"; sid:6000015; rev:1; priority:1;)
+drop ip 172.64.33.148 any -> any any (msg:"SIGMA Blacklisted IP 172.64.33.148 (Inbound)"; sid:6000011; rev:1; priority:1;)
+drop ip 173.245.58.112 any -> any any (msg:"SIGMA Blacklisted IP 173.245.58.112 (Inbound)"; sid:6000012; rev:1; priority:1;)
+drop ip 177.212.103.208 any -> any any (msg:"SIGMA Blacklisted IP 177.212.103.208 (Inbound)"; sid:6000013; rev:1; priority:1;)
+drop ip 134.209.168.219 any -> any any (msg:"SIGMA Blacklisted IP 134.209.168.219 (Inbound)"; sid:6000014; rev:1; priority:1;)
+drop ip 115.73.209.212 any -> any any (msg:"SIGMA Blacklisted IP 115.73.209.212 (Inbound)"; sid:6000015; rev:1; priority:1;)
+drop ip 117.50.67.183 any -> any any (msg:"SIGMA Blacklisted IP 117.50.67.183 (Inbound)"; sid:6000016; rev:1; priority:1;)
