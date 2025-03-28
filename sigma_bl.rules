@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Fri Mar 28 10:00:22 +08 2025
+# Auto-generated on Fri Mar 28 11:00:21 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -30,6 +30,4 @@ drop ip 196.251.85.62 any -> any any (msg:"SIGMA Blacklisted IP 196.251.85.62 (I
 drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000025; rev:1; priority:1;)
 drop ip 172.64.33.148 any -> any any (msg:"SIGMA Blacklisted IP 172.64.33.148 (Inbound)"; sid:6000026; rev:1; priority:1;)
 drop ip 31.217.175.216 any -> any any (msg:"SIGMA Blacklisted IP 31.217.175.216 (Inbound)"; sid:6000027; rev:1; priority:1;)
-drop ip 218.60.50.90 any -> any any (msg:"SIGMA Blacklisted IP 218.60.50.90 (Inbound)"; sid:6000028; rev:1; priority:1;)
-drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (Inbound)"; sid:6000029; rev:1; priority:1;)
-drop ip 103.193.177.66 any -> any any (msg:"SIGMA Blacklisted IP 103.193.177.66 (Inbound)"; sid:6000030; rev:1; priority:1;)
+drop ip 103.193.177.66 any -> any any (msg:"SIGMA Blacklisted IP 103.193.177.66 (Inbound)"; sid:6000028; rev:1; priority:1;)
