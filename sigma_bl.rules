@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Thu Apr 10 00:00:22 +08 2025
+# Auto-generated on Thu Apr 10 01:00:22 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -23,9 +23,8 @@ drop ip 27.254.137.144 any -> any any (msg:"SIGMA Blacklisted IP 27.254.137.144 
 drop ip 61.171.95.18 any -> any any (msg:"SIGMA Blacklisted IP 61.171.95.18 (Inbound)"; sid:6000018; rev:1; priority:1;)
 drop ip 45.138.158.114 any -> any any (msg:"SIGMA Blacklisted IP 45.138.158.114 (Inbound)"; sid:6000019; rev:1; priority:1;)
 drop ip 40.81.30.170 any -> any any (msg:"SIGMA Blacklisted IP 40.81.30.170 (Inbound)"; sid:6000020; rev:1; priority:1;)
-drop ip 185.196.220.81 any -> any any (msg:"SIGMA Blacklisted IP 185.196.220.81 (Inbound)"; sid:6000021; rev:1; priority:1;)
-drop ip 196.251.85.62 any -> any any (msg:"SIGMA Blacklisted IP 196.251.85.62 (Inbound)"; sid:6000022; rev:1; priority:1;)
-drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000023; rev:1; priority:1;)
-drop ip 51.222.106.82 any -> any any (msg:"SIGMA Blacklisted IP 51.222.106.82 (Inbound)"; sid:6000024; rev:1; priority:1;)
-drop ip 170.64.166.123 any -> any any (msg:"SIGMA Blacklisted IP 170.64.166.123 (Inbound)"; sid:6000025; rev:1; priority:1;)
-drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (Inbound)"; sid:6000026; rev:1; priority:1;)
+drop ip 185.174.40.105 any -> any any (msg:"SIGMA Blacklisted IP 185.174.40.105 (Inbound)"; sid:6000021; rev:1; priority:1;)
+drop ip 185.196.220.81 any -> any any (msg:"SIGMA Blacklisted IP 185.196.220.81 (Inbound)"; sid:6000022; rev:1; priority:1;)
+drop ip 196.251.85.62 any -> any any (msg:"SIGMA Blacklisted IP 196.251.85.62 (Inbound)"; sid:6000023; rev:1; priority:1;)
+drop ip 196.251.69.116 any -> any any (msg:"SIGMA Blacklisted IP 196.251.69.116 (Inbound)"; sid:6000024; rev:1; priority:1;)
+drop ip 196.251.87.74 any -> any any (msg:"SIGMA Blacklisted IP 196.251.87.74 (Inbound)"; sid:6000025; rev:1; priority:1;)
