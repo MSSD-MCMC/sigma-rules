@@ -1180,6 +1180,7 @@ http://121.235.219.203:51678/i
 http://222.127.68.176:53947/i
 http://222.127.68.176:53947/bin.sh
 http://180.190.238.223:50741/bin.sh
+http://121.235.219.203:51678/bin.sh
 http://182.114.193.87:60509/i
 http://183.92.205.148:43828/i
 http://124.6.168.74:37536/i
@@ -10226,6 +10227,7 @@ http://218.22.21.248:58080/AAct.exe
 http://104.243.129.2/ChromeSetup.exe
 https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd
 https://evangroup.ru/bitrix/js/main/core/core.js
+http://203.204.217.190:8080/beacon_lagacy.bin
 http://120.25.163.165:8080/mimikatz_trunk/Win32/mimikatz.exe
 http://218.92.65.139:20001/AV.lnk
 http://117.50.95.62:9880/info.zip
