@@ -1,3 +1,6 @@
+http://61.53.83.233:45963/bin.sh
+http://115.58.91.243:39461/i
+http://219.157.55.128:35485/i
 http://60.209.255.91:54012/i
 http://117.215.51.182:35339/bin.sh
 http://42.231.108.131:36517/bin.sh
@@ -10189,7 +10192,6 @@ http://210.114.11.173:806/02.08.2022.exe
 http://43.153.222.28:4646/02.08.2022.exe
 http://47.122.64.112:5555/02.08.2022.exe
 http://211.149.159.163:8888/02.08.2022.exe
-http://106.15.224.147:36500/02.08.2022.exe
 https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip
 https://123.60.83.46/02.08.2022.exe
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
@@ -10226,6 +10228,7 @@ http://89.197.154.116/Monitor.exe
 http://89.197.154.116/Charter.exe
 http://89.197.154.116/Excel.exe
 http://89.197.154.116/Prototype.exe
+http://89.197.154.116/Uploader.exe
 http://89.197.154.116/Icon.exe
 http://89.197.154.116/Tracker.exe
 http://218.22.21.248:58080/AAct.exe
@@ -10809,7 +10812,6 @@ http://99.71.130.109:8022//sshd
 http://102.223.106.188:9023//sshd
 http://95.230.215.65//sshd
 http://87.26.194.197:8884//sshd
-http://88.123.92.100:8000//sshd
 http://91.164.39.142:50006//sshd
 http://76.53.38.126:8082//sshd
 http://91.231.190.163:8080/sshd
