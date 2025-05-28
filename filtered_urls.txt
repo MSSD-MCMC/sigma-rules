@@ -1,3 +1,21 @@
+http://182.127.2.28:36484/i
+http://117.206.28.66:58818/i
+http://36.248.120.198:37882/i
+http://117.26.208.136:52373/i
+http://115.55.244.247:40062/i
+http://117.213.92.102:60745/bin.sh
+http://117.235.101.209:57810/i
+http://42.231.181.249:47162/i
+http://182.114.249.46:46978/bin.sh
+http://117.206.28.66:58818/bin.sh
+http://117.217.142.213:49180/bin.sh
+http://117.26.208.136:52373/bin.sh
+http://117.200.84.99:41238/i
+http://27.207.231.100:41877/i
+http://117.235.101.209:57810/bin.sh
+http://42.231.181.249:47162/bin.sh
+http://120.28.212.217:55147/i
+http://87.121.84.163/mipsel
 http://117.216.28.118:35459/i
 http://39.90.145.69:60047/bin.sh
 http://192.240.55.219:3940/i
@@ -725,6 +743,7 @@ http://112.245.169.222:44562/i
 http://180.191.32.144:60654/i
 http://112.245.169.222:44562/bin.sh
 http://180.191.32.144:60654/bin.sh
+http://113.26.158.23:40478/bin.sh
 http://185.156.72.8/kx.exe
 http://42.178.61.79:57870/bin.sh
 http://200.59.88.115:46459/i
@@ -1048,7 +1067,6 @@ http://47.86.190.58:60135/linux
 http://83.254.226.199:47853/bin.sh
 http://120.28.200.17:38954/bin.sh
 http://125.160.198.71:55371/.i
-http://112.87.155.179:23393/.i
 http://84.15.250.81:23916/.i
 http://171.248.169.196:11264/.i
 http://180.106.225.189:55722/i
@@ -1407,7 +1425,6 @@ http://neon.galaxias.cc/wget.sh
 http://neon.galaxias.cc/w.sh
 http://neon.galaxias.cc/c.sh
 http://81.232.19.247:49822/i
-http://1.94.238.169:55555/02.08.2022.exe
 http://120.27.20.98:10086/02.08.2022.exe
 http://183.91.77.253:19833/i
 http://130.255.128.176:62275/i
@@ -1525,7 +1542,6 @@ https://badgervolleyball.org/wp-content/mios.zip
 https://badgervolleyball.org/fsos.zip
 https://ace-project.org/j.js
 https://daviddarle.fr/wp-content/bule.zip
-http://27.192.35.208:33559/i
 http://89.42.88.163/yarn
 http://89.42.88.163/bin
 http://89.42.88.163/sora.sh
@@ -2154,6 +2170,7 @@ http://62.60.226.165/public_files/gISmrok.txt
 http://62.60.226.165/public_files/ipboFIn.txt
 http://62.60.226.165/public_files/akagAkr.txt
 http://31.170.22.205/dl200
+http://218.93.44.86:46489/bin.sh
 http://43.155.132.55:18324/02.08.2022.exe
 http://70.113.102.40:51845/i
 http://93.21.252.43:47572/i
@@ -2267,6 +2284,7 @@ http://69.49.65.5:32154/.i
 http://72.29.46.195:33411/bin.sh
 http://148.66.16.228/02.08.2022.exe
 http://49.232.56.252:443/02.08.2022.exe
+http://148.66.16.227/02.08.2022.exe
 http://121.36.93.103:443/02.08.2022.exe
 http://62.234.185.105/02.08.2022.exe
 http://8.153.97.202:443/02.08.2022.exe
@@ -2676,7 +2694,6 @@ http://14.224.174.212:1433/1.exe
 http://hybridemails.ae/esign-app.exe
 https://tapestryoftruth.com/media/video_file/Round_Setup.exe
 https://cdn.glitch.global/74002823-d235-4cf1-ba34-36967b91f68e/Deku_X_Cheat.dll?v=1718323411486
-http://198.50.242.157/cfxre.exe
 https://envs.sh/w1u.exe
 http://43.226.39.44:5988/TestMemTest36.exe
 https://envs.sh/Yix.exe
@@ -2799,6 +2816,7 @@ https://45.81.23.57/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://45.81.23.56/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://45.81.23.54/bin//support.client.exe?i=&e=Support&y=Guest&r=
 http://124.123.26.174:8888/sshd
+https://113.44.67.52:9443/02.08.2022.exe
 https://47.106.229.212/02.08.2022.exe
 https://47.100.180.123:30035/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
@@ -4600,6 +4618,7 @@ http://75.83.174.193/sshd
 http://201.20.104.54:21795/i
 http://181.98.167.112:20381/i
 http://185.23.105.33:46882/i
+http://42.186.17.183:8080/02.08.2022.exe
 http://1.14.123.213:7777/02.08.2022.exe
 http://101.35.228.105:20080/02.08.2022.exe
 http://1.15.34.67:7777/02.08.2022.exe
@@ -4763,6 +4782,7 @@ http://win-network-checker.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://utorrent-server-api.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://utorrent-server-api.cc/update/TPB-1.exe
 http://security-service-api-link.cc/1337/TORRENTOLD-1.exe
+http://update-checker-status.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://security-service-api-link.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://87.121.84.254/update/TPB-1.exe
 http://microsoft-auth-network.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
@@ -6361,7 +6381,6 @@ http://154.126.184.240:24236/i
 http://146.196.122.104:20065/i
 http://178.168.9.189:56526/.i
 http://190.24.142.85:27419/i
-http://76.140.113.250:5777/i
 http://win-network-checker.cc/1337/TORRENTOLD-1.exe
 http://fox-news-checker.cc/1337/TORRENTOLD-1.exe
 http://utorrent-server-api.cc/1337/TORRENTOLD-1.exe
@@ -7847,6 +7866,7 @@ https://annadegismen.com/js/cnvlhd.js
 https://annadegismen.com/js/wjnalk.js
 https://annadegismen.com/js/gecixy.js
 https://annadegismen.com/js/qrxjgz.js
+https://annadegismen.com/js/owvzhd.js
 https://annadegismen.com/js/xoasqn.js
 https://annadegismen.com/js/dybexn.js
 https://annadegismen.com/js/ukitdj.js
@@ -7899,7 +7919,6 @@ https://annadegismen.com/js/fcvdqi.js
 https://annadegismen.com/js/qnrbse.js
 https://annadegismen.com/js/xkhlro.js
 https://annadegismen.com/js/btyrlu.js
-https://annadegismen.com/js/abovez.js
 https://annadegismen.com/js/imbdcr.js
 https://annadegismen.com/js/anhosv.js
 https://annadegismen.com/js/kewbaz.js
@@ -8087,8 +8106,8 @@ https://annadegismen.com/js/tcgdqr.js
 https://annadegismen.com/js/qpvbmw.js
 https://annadegismen.com/js/kdmgzy.js
 https://annadegismen.com/js/nscgoi.js
-https://annadegismen.com/js/gvtuqd.js
 https://annadegismen.com/js/nwqtuo.js
+https://annadegismen.com/js/youwtb.js
 https://annadegismen.com/js/xfsnmk.js
 https://annadegismen.com/js/bazyuq.js
 https://annadegismen.com/js/lyqtmc.js
@@ -8189,7 +8208,6 @@ http://annadegismen.com/js/meciyz.js
 http://annadegismen.com/js/uzrhnf.js
 http://annadegismen.com/js/xbuqgz.js
 http://annadegismen.com/js/jaieho.js
-http://annadegismen.com/js/yvsmlo.js
 http://annadegismen.com/js/jfoepi.js
 http://annadegismen.com/js/ljkacr.js
 http://annadegismen.com/js/ybisjv.js
@@ -8467,6 +8485,7 @@ http://annadegismen.com/js/acbsyg.js
 http://annadegismen.com/js/ndesbu.js
 http://annadegismen.com/js/ftdyqb.js
 http://annadegismen.com/js/cjtvmy.js
+http://annadegismen.com/js/bqivxc.js
 http://annadegismen.com/js/tqdwvp.js
 http://annadegismen.com/js/xoasqn.js
 http://annadegismen.com/js/eyivgm.js
@@ -10941,6 +10960,7 @@ http://120.50.10.30:27726/i
 http://176.120.211.83:26214/i
 http://113.214.56.234:44138/i
 http://77.87.236.206:28992/i
+http://213.155.192.139:14175/i
 http://202.56.164.74:5595/i
 http://121.200.63.162:27123/i
 http://94.251.5.51:31559/i
@@ -11296,6 +11316,7 @@ http://216.244.201.251:8104/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
 https://dezino.ir/smed/smed.js
+https://tlmtravelstours.com/nt/nt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://dparagons.com/me/me.js
 https://ossbtvestaffcics.com/ias/ias.js
@@ -11369,6 +11390,7 @@ https://storage.googleapis.com/by9sdoqaf4zo.appspot.com/w/faa0ZXu52Jz0FGE.html?a
 https://storage.googleapis.com/kjl51nnbkg8f.appspot.com/w/I3HMeWO60GWvUmx.html?b=841660865822302577
 https://storage.googleapis.com/c08hrgew4vlk.appspot.com/w/j28WVEcoAgAouGq.html?w=036663603374497270
 http://49.204.235.203:1899/.i
+https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://203.145.165.14:61828/.i
 http://178.173.39.201:56059/.i
 http://1717.1000uc.com/Updates1/up.exe
