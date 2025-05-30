@@ -252,7 +252,6 @@ http://85.91.210.201:43913/i
 http://190.214.55.142:23120/i
 http://181.199.86.79:32837/i
 http://217.96.228.37:56322/i
-http://217.64.135.53:63442/i
 http://2.55.90.62:802/sshd
 http://41.147.195.150:8081/sshd
 http://115.56.146.105:40295/bin.sh
@@ -378,6 +377,7 @@ http://87.121.84.163/mipsel
 http://192.240.55.219:3940/i
 http://87.121.84.163/x86
 http://196.251.81.110/condi.x86_64
+http://196.251.81.110/condi.x86
 http://87.121.84.163/arm6
 http://87.121.84.163/mips
 http://45.38.4.50/hiddenbin/boatnet.arm5
@@ -391,6 +391,7 @@ http://45.38.4.50/hiddenbin/boatnet.mpsl
 http://45.38.4.50/hiddenbin/boatnet.mips
 http://115.60.225.166:45959/bin.sh
 http://87.121.84.163/arm5
+http://196.251.81.110/condi.arm4
 http://107.175.246.45/xampp/cx/new_image.jpg
 http://223.15.25.18:57157/bin.sh
 http://175.9.168.20:32822/bin.sh
@@ -462,6 +463,7 @@ http://91.80.175.172/sshd
 http://27.215.126.132:54606/i
 http://119.115.187.95:37507/bin.sh
 http://200.59.88.129:52275/i
+http://27.215.185.72:58425/bin.sh
 http://200.59.88.129:52275/bin.sh
 http://113.24.132.229:35800/i
 http://196.251.116.67/bins/sora.m68k
@@ -474,7 +476,7 @@ http://45.90.116.132/x-3.2-.Sakura
 http://45.90.116.132/m-p.s-l.Sakura
 http://45.90.116.132/x-8.6-.Sakura
 http://196.251.116.67/bins/sora.mpsl
-http://196.251.116.67/bins/sora.x86
+http://196.251.116.67/bins/sora.spc
 http://196.251.116.67/bins/sora.sh4
 http://183.92.207.39:55762/i
 http://88.206.28.213:44700/i
@@ -513,6 +515,7 @@ http://183.30.204.2:81/AV.scr
 http://183.30.204.2:81/Photo.scr
 http://47.239.251.9:8080/Video.lnk
 http://58.22.95.215:6868/Video.scr
+http://183.30.204.2:81/AV.lnk
 http://183.30.204.2:81/Video.lnk
 http://196.210.93.149:38554/i
 http://213.209.150.249/bfile.exe
@@ -2119,7 +2122,6 @@ http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://github.com/BankXAdmin/Free-PhotoShop-Meme-Coin-Packs/raw/refs/heads/main/FreePhotoShop%20Meme%20Coin%20Packs.exe
-http://github.com/00094/String-Remover/raw/refs/heads/main/rah.exe
 http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/bea.bin
 http://182.92.113.13:8000/svchost.elf
@@ -2643,7 +2645,6 @@ https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.kogtp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxprotectech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardwave.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://onyxshieldcore.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcryptorix.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxarmorcrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardify.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -7154,7 +7155,6 @@ https://43.153.222.28:4545/02.08.2022.exe
 https://43.246.208.199:8443/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
 https://raw.githubusercontent.com/L0veNxn22/EulenModMenu/main/Loader.exe
-http://update.volam2005pk.com/hostfile/taptin/game.exe
 https://raw.githubusercontent.com/20Matrix77/2FTS3/main/mpsl
 https://loader.hxsoftwares.com/loader.exe
 https://raw.githubusercontent.com/caonim2le/yournigas/main/sh4
@@ -7581,6 +7581,7 @@ https://annadegismen.com/js/hcflvo.js
 https://annadegismen.com/js/bvnqhc.js
 https://annadegismen.com/js/mpwhqf.js
 https://annadegismen.com/js/fulspy.js
+https://annadegismen.com/js/slqmjg.js
 https://annadegismen.com/js/kaqpov.js
 https://annadegismen.com/js/cdqpkj.js
 https://annadegismen.com/js/wltkns.js
@@ -7631,11 +7632,13 @@ https://annadegismen.com/js/komysw.js
 https://annadegismen.com/js/hmysqu.js
 https://annadegismen.com/js/nhsylg.js
 https://annadegismen.com/js/zemxuh.js
+https://annadegismen.com/js/ihznpm.js
 https://annadegismen.com/js/kegqza.js
 https://annadegismen.com/js/ogytzk.js
 https://annadegismen.com/js/glyphn.js
 https://annadegismen.com/js/xfnjgo.js
 https://annadegismen.com/js/uvlpmk.js
+https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/yuesrp.js
 https://annadegismen.com/js/wkmpis.js
 https://annadegismen.com/js/tjsqpz.js
@@ -8353,7 +8356,6 @@ http://annadegismen.com/js/hxysdw.js
 http://annadegismen.com/js/lihkms.js
 http://annadegismen.com/js/gatled.js
 http://annadegismen.com/js/xcyqdg.js
-http://annadegismen.com/js/nozmuk.js
 http://annadegismen.com/js/brgdto.js
 http://annadegismen.com/js/xkhlro.js
 http://annadegismen.com/js/eyfbaq.js
@@ -9098,7 +9100,6 @@ http://81.16.242.236:28115/Mozi.m
 http://95.170.203.178:46806/Mozi.m
 http://103.230.153.181:2570/Mozi.m
 http://109.92.143.90:65469/Mozi.m
-http://180.211.169.2:53087/Mozi.m
 http://197.155.64.126:47085/Mozi.m
 http://181.224.243.165:50531/Mozi.m
 http://202.124.33.242:51961/Mozi.m
@@ -9331,6 +9332,7 @@ http://134.249.141.119:22752/i
 http://200.72.199.203:1542/i
 http://89.231.14.137:2282/i
 http://212.251.68.204:60040/i
+http://88.204.58.118:54105/i
 http://88.116.62.226:52714/i
 http://77.46.170.18:53326/i
 http://36.67.251.151:24382/i
@@ -10577,6 +10579,7 @@ http://185.34.20.221:58688/i
 http://185.190.20.228:46441/i
 http://202.124.33.242:51961/i
 http://188.72.6.218:43597/i
+http://181.129.2.18:15557/i
 http://150.129.202.197:1316/i
 http://181.211.252.34:1808/i
 http://212.18.223.229:40464/i
@@ -11030,6 +11033,7 @@ https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
+https://dnccomputers.com/downIoadSM.php
 http://103.6.5.3/MobileAnjian.apk
 https://github.com/Den4ikYT/spoofer/raw/main/HWID%20SPOOFER.rar
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
@@ -11142,7 +11146,6 @@ https://dezino.ir/smed/smed.js
 https://tlmtravelstours.com/nt/nt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://ossbtvestaffcics.com/ias/ias.js
-https://etihadtechnology.com.np/ue/ue.js
 http://29sbt.ru/lib/rl2xse0Do/
 https://nusatoyota.co.id/teev/teev.js
 https://github.com/tedburke/CommandCam/archive/refs/heads/master.zip
