@@ -352,7 +352,6 @@ http://119.179.239.180:44135/bin.sh
 http://124.95.7.247:38889/bin.sh
 http://42.7.133.61:40605/bin.sh
 http://115.55.11.171:52782/bin.sh
-http://83.229.123.144/02.08.2022.exe
 http://89.23.113.213/Documents/file.lnk
 http://89.221.203.199/Downloads/test.lnk
 http://89.221.203.207/Documents/fewddsw.lnk
@@ -414,8 +413,6 @@ http://175.174.76.252:52949/bin.sh
 http://45.38.4.50/hiddenbin/boatnet.x86
 http://87.121.84.163/x86_64
 http://188.38.3.30:49218/i
-http://125.40.64.114:34188/i
-http://196.251.81.110/condi.mips
 http://45.38.4.50/hiddenbin/boatnet.arm
 http://194.61.232.180:53361/i
 http://77.247.88.81:45712/i
@@ -2150,7 +2147,6 @@ http://178.131.62.104:53111/.i
 http://79.127.101.143:54822/.i
 http://71.15.96.217:65214/.i
 http://121.185.252.173:27484/.i
-http://111.70.30.158:17848/.i
 http://95.137.249.38:59115/bin.sh
 http://144.91.67.66:60125/linux
 http://95.153.244.164:58315/bin.sh
@@ -3755,7 +3751,6 @@ https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zi
 https://github.com/brehdonacounter/contact-form1-main/releases/download/v2.0/Software.zip
 https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v1.0/Application.zip
 https://github.com/BaconlitosHub/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Application.zip
-https://github.com/Toxic7797/fidrox-main/releases/download/v1.0/Application.zip
 https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip
 https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip
 https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v1.0/Application.zip
@@ -8652,6 +8647,7 @@ http://ftp.ywxww.net:820/ydcx.exe
 http://ftp.ywxww.net:820/smb.exe
 http://ftp.ywxww.net:820/KB2808679x64.exe
 http://ftp.ywxww.net:820/svchost.exe
+http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
 http://ftp.ywxww.net:820/hdtune.exe
@@ -9301,6 +9297,7 @@ http://31.210.217.24:64046/Mozi.m
 http://89.28.58.97:37382/Mozi.m
 http://103.1.157.126:20748/Mozi.m
 http://37.202.49.118:56648/Mozi.m
+http://2.180.35.231:56242/Mozi.m
 http://203.80.244.154:46151/Mozi.m
 http://103.90.207.58:41059/Mozi.m
 http://182.160.124.186:5529/Mozi.m
@@ -9492,7 +9489,6 @@ https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b529
 https://evangroup.ru/bitrix/js/main/core/core.js
 http://203.204.217.190:8080/beacon.rar
 http://203.204.217.190:8080/Sq1mon-V.zip
-http://203.204.217.190:8080/library.so
 http://203.204.217.190:8080/data.bin
 http://203.204.217.190:8080/beacon.bin
 http://203.204.217.190:8080/beacon_lagacy.bin
@@ -10510,7 +10506,6 @@ http://210.56.21.206:8104/.i
 http://2.57.219.149:46697/.i
 http://190.111.116.96:50724/.i
 http://131.108.39.235:1237/.i
-http://36.92.207.29:60948/.i
 http://200.123.142.116:48769/.i
 http://37.193.88.34:10867/.i
 http://45.161.217.70:4690/.i
