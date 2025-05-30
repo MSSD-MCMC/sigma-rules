@@ -487,7 +487,6 @@ http://124.131.148.93:39786/i
 http://74.214.56.173:51681/bin.sh
 http://175.172.85.112:47471/i
 http://120.37.232.237:49771/bin.sh
-http://124.131.148.93:39786/bin.sh
 http://101.51.52.94:43923/bin.sh
 http://182.123.167.14:50452/bin.sh
 http://175.172.85.112:47471/bin.sh
@@ -1593,7 +1592,6 @@ http://178.208.187.90/hiddenbin/boatnet.mips
 http://212.80.9.172/armhf
 http://212.80.9.172/powerpc64
 http://212.80.9.172/mips
-http://212.80.9.172/mipsel
 http://212.80.9.172/i686
 http://212.80.9.172/aarch64
 http://212.80.9.172/arm
@@ -1800,6 +1798,7 @@ http://185.156.72.2/newdef/random.exe
 http://185.156.72.2/off/random.exe
 http://185.156.72.2/testmine/random.exe
 http://185.156.72.2/files/fate/random.exe
+http://209.141.34.106/neon.m68k
 http://209.141.34.106/c.sh
 http://209.141.34.106/w.sh
 http://209.141.34.106/wget.sh
@@ -7460,7 +7459,6 @@ https://raw.githubusercontent.com/HAa15/driver-shitty/main/kdmapper_Release.exe
 http://github.com/v0lt/VirtualDub2/releases/download/2.1.3/VirtualDub2_v2.1.3.667_win32.7z
 http://update.cg100iii.com/cgmb/Update.exe
 http://update.cg100iii.com/cgpro/Update.exe
-http://quanly.jxmienphi.net/uploadvltt/Autokeoxe.exe
 http://lsks.volamngayxua.net/AutoUpdate.exe
 http://github.com/SkibidiXElaina/wuselaina/raw/refs/heads/main/build.exe
 https://raw.githubusercontent.com/keygroup777-ransomware/downloader/refs/heads/main/taskmoder.exe
@@ -8351,7 +8349,6 @@ http://annadegismen.com/js/obinaf.js
 http://annadegismen.com/js/ogytzk.js
 http://annadegismen.com/js/zoafhp.js
 http://annadegismen.com/js/euhzjt.js
-http://annadegismen.com/js/pvhmaj.js
 http://annadegismen.com/js/duvijc.js
 http://annadegismen.com/js/lzjxve.js
 http://annadegismen.com/js/wgusdm.js
@@ -9261,6 +9258,7 @@ http://43.230.158.26:5393/Mozi.m
 http://156.155.176.210:40080/Mozi.m
 http://181.94.245.254:3028/Mozi.m
 http://185.56.172.234:9362/Mozi.m
+http://200.123.142.116:48769/Mozi.m
 http://62.162.113.34:21172/Mozi.m
 http://194.183.186.164:50835/Mozi.m
 http://41.190.70.217:20050/Mozi.m
@@ -9973,7 +9971,6 @@ http://116.206.151.203:478/install_python3.sh
 http://203.232.37.151/av_downloader.exe
 http://203.232.37.151/pornhub_downloader.exe
 http://203.232.37.151/install_python3.sh
-http://2.187.118.22:25609/.i
 https://raw.githubusercontent.com/zwzonepieces/posapsi/master/ChatLife.exe
 http://186.118.121.223:8027/.i
 http://27.156.154.3:58633/.i
@@ -10699,7 +10696,6 @@ http://202.131.244.202:30068/.i
 http://36.64.210.218:25588/.i
 http://109.202.63.7:5181/.i
 http://91.228.64.59:62680/.i
-http://103.237.174.30:22399/.i
 http://103.90.207.234:55903/.i
 http://41.215.23.222:44072/.i
 http://181.117.210.108:5315/.i
