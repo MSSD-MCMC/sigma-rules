@@ -1,3 +1,15 @@
+http://176.65.149.110/sh4
+http://176.65.149.110/armv5l
+http://176.65.149.110/m68k
+http://176.65.149.110/armv6l
+http://176.65.149.110/i686
+http://176.65.149.110/mipsel
+http://176.65.149.110/mips
+http://176.65.149.110/x86
+http://176.65.149.110/i586
+http://176.65.149.110/armv4l
+http://196.251.81.110/bot.x86_64
+http://176.65.149.110/sparc
 http://31.25.237.197/dwrioej/neon.spc
 http://31.25.237.197/dwrioej/neon.arm
 http://31.25.237.197/dwrioej/neon.x86
@@ -384,7 +396,6 @@ http://87.121.84.163/mipsel
 http://196.251.81.110/condi.arm7
 http://192.240.55.219:3940/i
 http://87.121.84.163/x86
-http://196.251.81.110/condi.x86_64
 http://87.121.84.163/arm6
 http://87.121.84.163/mips
 http://45.38.4.50/hiddenbin/boatnet.arm5
@@ -963,6 +974,7 @@ https://github.com/caonim2le/yournigas/raw/refs/heads/main/mpsl
 https://github.com/caonim2le/yournigas/raw/refs/heads/main/arm5
 https://github.com/caonim2le/yournigas/raw/refs/heads/main/sh4
 https://github.com/caonim2le/yournigas/raw/refs/heads/main/x86_32
+http://196.251.113.165/t
 http://80.94.92.143/mig
 http://185.208.159.232/amd64
 http://143.92.48.9/2023
@@ -1884,6 +1896,7 @@ https://107.150.0.247/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://94.26.90.7/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://47.239.205.200:60112/linux
 http://64.183.60.198:22414/.i
+http://31.182.123.72:62516/.i
 http://71.68.38.147:1677/i
 http://81.5.66.44:8248/i
 http://218.153.133.130:55843/i
@@ -7473,6 +7486,7 @@ https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
+https://annadegismen.com/js/ygwqnm.js
 https://annadegismen.com/js/zhlkqy.js
 https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
@@ -7691,7 +7705,6 @@ https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/fqtdxe.js
-https://annadegismen.com/js/oemktg.js
 https://annadegismen.com/js/xzpwsy.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
@@ -7862,6 +7875,7 @@ https://annadegismen.com/js/xezyfb.js
 https://annadegismen.com/js/htvriu.js
 https://annadegismen.com/js/bfigvd.js
 https://annadegismen.com/js/pvhmaj.js
+https://annadegismen.com/js/sveuca.js
 https://annadegismen.com/js/xntyfk.js
 https://annadegismen.com/js/mhayzo.js
 https://annadegismen.com/js/wbpusy.js
@@ -7893,6 +7907,7 @@ https://annadegismen.com/js/youwtb.js
 https://annadegismen.com/js/xfsnmk.js
 https://annadegismen.com/js/lyqtmc.js
 https://annadegismen.com/js/syabui.js
+https://annadegismen.com/js/majqwv.js
 https://annadegismen.com/js/mwpjqs.js
 https://annadegismen.com/js/ktaxgd.js
 https://annadegismen.com/js/gnkjqf.js
@@ -7986,7 +8001,6 @@ http://annadegismen.com/js/inercb.js
 http://annadegismen.com/js/uovxcl.js
 http://annadegismen.com/js/pmgyrd.js
 http://annadegismen.com/js/cgafnd.js
-http://annadegismen.com/js/rqdgsp.js
 http://annadegismen.com/js/ibgeaz.js
 http://annadegismen.com/js/dnmzaq.js
 http://annadegismen.com/js/ptjfnz.js
@@ -9134,7 +9148,6 @@ http://193.169.146.186:61643/Mozi.m
 http://84.36.25.50:64488/Mozi.m
 http://46.100.63.216:18364/Mozi.m
 http://113.214.56.228:41018/Mozi.m
-http://102.141.182.53:30884/Mozi.m
 http://89.28.58.132:37382/Mozi.m
 http://103.82.211.164:45793/Mozi.m
 http://202.53.164.46:35803/Mozi.m
@@ -9402,7 +9415,6 @@ http://104.243.129.2/ChromeSetup.exe
 https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd
 https://evangroup.ru/bitrix/js/main/core/core.js
 http://203.204.217.190:8080/library.so
-http://203.204.217.190:8080/payload.dll
 http://203.204.217.190:8080/beacon.bin
 http://120.25.163.165:8080/mimikatz_trunk/Win32/mimikatz.exe
 http://218.92.65.139:20001/AV.lnk
@@ -10721,6 +10733,7 @@ http://190.128.195.138:50368/i
 http://131.108.39.235:1237/i
 http://89.254.173.147:44386/i
 http://195.34.91.22:61437/i
+http://216.155.93.238:33194/i
 http://186.67.227.98:65300/i
 http://164.77.147.186:12652/i
 http://81.16.247.81:17403/i
@@ -11289,6 +11302,7 @@ https://kramersmarionnettes.com/intermission.php
 https://kramersmarionnettes.com/redesign.php
 https://kramersmarionnettes.com/fizz.php
 https://aakrutitexture.in/wp-content/uploads/revslider/templates/360panorama/welder.php
+https://kramersmarionnettes.com/designer.php
 https://kramersmarionnettes.com/frustrating.php
 https://aakrutitexture.in/wp-content/uploads/revslider/templates/360panorama/buried.php
 https://kramersmarionnettes.com/conditioner.php
@@ -11360,7 +11374,6 @@ https://jyothishmathi.in/familial.php
 http://visam.info/update_vbase/VOKLIGHT.exe
 http://visam.info/update_vbase/VOKLIGHTD.exe
 http://103.125.163.10:7080/.i
-https://jyothishmathi.in/habitual.php
 https://jyothishmathi.in/ruleless.php
 https://docs.google.com/uc?export=download&id=1tiLqoZOt07VyLvDmmSfS7iA452jWhKTj&revid=0B7gsMQZks4XkcDJCWHUvaTJ2QVlvcHNmNnovU2lDZStEK2JZPQ
 https://drive.google.com/uc?export=download&id=1ETPmpb2shvUny5DxJ5awfpxklxqpBzGx
@@ -11628,6 +11641,7 @@ http://guiavestindoabeca.com.br/Documents/2019-01/
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
 http://download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
+http://livetrack.in/EmployeeMasterImages/qace.jpg
 http://advustech.com/PvvWE-5ve_e-avu/InvoiceCodeChanges/US/Service-Invoice
 http://aulist.com/GvHr-MMJ5U8ZN2kc5aoq_NkxhpRvvh-t9/
 http://advustech.com/l5EcamTDy/
