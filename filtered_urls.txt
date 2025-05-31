@@ -334,7 +334,6 @@ http://222.141.112.19:57086/i
 http://123.245.32.21:35482/bin.sh
 http://115.50.4.223:33765/i
 http://138.204.196.136:37024/i
-http://138.204.196.136:37024/bin.sh
 http://113.239.253.169:41596/i
 http://61.163.151.37:39721/i
 http://113.239.253.169:41596/bin.sh
@@ -2106,6 +2105,7 @@ http://47.86.1.37:60125/linux
 http://47.239.192.107:60140/linux
 http://203.203.90.22:14961/.i
 http://47.122.113.12:60109/linux
+http://112.86.10.2:7510/.i
 http://81.23.169.191:36881/.i
 http://104.62.109.8:5504/.i
 http://221.159.190.196:8868/.i
@@ -2394,6 +2394,7 @@ http://62.105.59.51:55671/bin.sh
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 http://77.226.241.197:5003/tftp
 http://202.57.43.234:19001/tftp
+http://122.55.206.38:8485/tftp
 http://60.53.126.54:27102/tftp
 http://103.156.141.240:90/tftp
 http://93.182.77.20:86/tftp
@@ -3140,6 +3141,7 @@ https://github.com/suvam-01/AlayaLite/releases/download/v1.4.8/AlayaLite_v1.4.8.
 https://github.com/aplasta/EvoluNoob/releases/download/v3.5.6/evolunoob_v3.5.6.zip
 https://github.com/RICARDOCRC735/NavicatPwn/releases/download/3.2.3/NavicatPwn-3.2.3.zip
 https://github.com/Gayathriemblock/Faze-Hwid-Spoofer-UNDETECTED/releases/download/3.7.3/faze-hwid-spoofer-undetected-3-7-3.zip
+https://deviceprotect.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://github.com/darksoul67m2b8/1ad-TheSims4d/releases/download/0uhwsn30k1/6xtetndm5xnggc.rar
 https://github.com/lordland929on6/1ab-PhantasyStarOnline2b/releases/download/p7ew0zthra/156qeiu3fhnohcj2.rar
 https://github.com/AbrahamWana/Project-Castaway-Trainer-Cheats/releases/download/v1.0/Software.zip
@@ -6655,6 +6657,7 @@ http://212.85.166.12:22448/i
 http://27.156.154.3:58633/i
 http://103.43.6.114:7055/i
 http://207.113.208.58:2544/i
+http://139.255.97.116:6983/i
 http://194.187.151.163:1360/i
 http://47.49.114.179:27254/i
 http://190.110.204.150:34857/i
@@ -7630,6 +7633,7 @@ https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
 https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
+https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
 https://annadegismen.com/js/gecixy.js
 https://annadegismen.com/js/qrxjgz.js
@@ -7914,6 +7918,7 @@ https://annadegismen.com/js/ktaxgd.js
 https://annadegismen.com/js/gnkjqf.js
 http://annadegismen.com/js/ctiakn.js
 http://annadegismen.com/js/geruvw.js
+http://annadegismen.com/js/wueshi.js
 http://annadegismen.com/js/gabjzd.js
 http://annadegismen.com/js/nhoiwl.js
 http://annadegismen.com/js/lisyxb.js
@@ -8222,7 +8227,6 @@ http://annadegismen.com/js/xezyfb.js
 http://annadegismen.com/js/smvkca.js
 http://annadegismen.com/js/gcbepw.js
 http://annadegismen.com/js/fmxscl.js
-http://annadegismen.com/js/dsqvlp.js
 http://annadegismen.com/js/ergubk.js
 http://annadegismen.com/js/jhoxtn.js
 http://annadegismen.com/js/lkcwbp.js
@@ -8898,6 +8902,7 @@ http://37.252.86.167:36327/.i
 http://95.70.238.134:55591/.i
 http://193.239.254.115:28577/Mozi.m
 http://185.56.172.234:9362/.i
+http://91.92.188.72:64496/Mozi.m
 http://109.207.216.197:1031/sshd
 http://86.106.101.159:1026/sshd
 http://117.216.139.148:2004/sshd
@@ -10916,6 +10921,7 @@ http://203.80.244.154:46151/i
 http://212.237.112.109:54692/i
 http://91.92.82.180:17789/i
 http://80.23.51.235:60454/i
+http://41.190.69.6:26285/i
 http://103.1.157.126:20748/i
 http://109.73.242.146:49426/i
 http://103.7.27.90:17260/i
@@ -11662,7 +11668,6 @@ http://artscreenstudio.ru/assets/Telekom/RechnungOnline/112018/
 http://itssprout.com/wp-includes/3
 http://itssprout.com/wp-includes/2
 http://itssprout.com/wp-includes/1
-http://p6.zbjimg.com/task/2010-11/17/pub/4ce336b4661fd.rar
 http://p6.zbjimg.com/task/2010-11/04/pub/4cd2620ce3f10.rar
 http://p6.zbjimg.com/task/2011-08/11/pub/4e4334b150fcf.rar
 http://p6.zbjimg.com/task/2011-10/14/1121109/4e97e74d5dd8e.rar
@@ -11707,7 +11712,6 @@ https://www.dropbox.com/s/dl/dqrsgzlf8jeefw0/Firefox_67.3.45.js
 https://www.dropbox.com/s/dl/g4is5u674v6l2yy/Firefox_67.3.16.js
 http://studio.clanweb.eu/fekir.exe
 http://papillo.jecool.net/chapo.exe
-http://crimefreesoftware.com/MC_setup.exe
 http://robertrowe.com/DOC/Past-Due-invoice/
 http://robertrowe.com/STATUS/Auditor-of-State-Notification-of-EFT-Deposit/
 http://www.tirtasentosa.com/admim/mine001.exe
