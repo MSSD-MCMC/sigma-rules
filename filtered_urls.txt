@@ -575,6 +575,7 @@ http://41.146.77.245:8083/sshd
 http://58.126.214.95:22167/i
 http://222.127.75.52:59775/bin.sh
 http://104.236.60.16/mig
+http://196.251.115.189/t
 http://189.165.208.60:1143/i
 http://183.214.149.164:57990/i
 http://189.165.208.60:1143/bin.sh
@@ -9510,7 +9511,6 @@ http://185.163.45.5/l.exe
 http://web.archive.org/web/20240808120223if_/http://154.216.19.139/bins/mirai.bin
 http://web.archive.org/web/20240808121041if_/http://154.216.19.139/bins/mirai.armv6l
 http://web.archive.org/web/20240808121230if_/http://154.216.19.139/bins/mirai.i586
-http://web.archive.org/web/20240808122636if_/http://154.216.19.139/bins/mirai.sparc
 http://web.archive.org/web/20240808121308if_/http://154.216.19.139/bins/mirai.i686
 http://web.archive.org/web/20240808122159if_/http://154.216.19.139/bins/mirai.powerpc
 http://web.archive.org/web/20240808121347if_/http://154.216.19.139/bins/mirai.m68k
@@ -11217,7 +11217,6 @@ https://kramersmarionnettes.com/frustrating.php
 https://aakrutitexture.in/wp-content/uploads/revslider/templates/360panorama/buried.php
 https://kramersmarionnettes.com/conditioner.php
 https://kramersmarionnettes.com/unthinkably.php
-https://aakrutitexture.in/wp-content/uploads/revslider/templates/360panorama/carbolic.php
 https://aakrutitexture.in/wp-content/uploads/revslider/templates/360panorama/luckily.php
 http://49.158.206.47:52010/.i
 https://www.publicolor-rr.com.br/dressing.php
@@ -11575,6 +11574,7 @@ http://okhan.net/soft/UploadFile/YOUXI/okhan.net-2wn.rar
 http://okhan.net/soft/UploadFile/ANQUAN/pjbingdianhuanyuan.rar
 http://itssprout.com/wp-includes/3
 http://itssprout.com/wp-includes/2
+http://itssprout.com/wp-includes/1
 http://p6.zbjimg.com/task/2010-11/17/pub/4ce336b4661fd.rar
 http://p6.zbjimg.com/task/2010-11/04/pub/4cd2620ce3f10.rar
 http://p6.zbjimg.com/task/2011-08/11/pub/4e4334b150fcf.rar
