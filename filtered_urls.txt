@@ -235,7 +235,6 @@ http://121.127.34.150/main_mips
 http://121.127.34.150/main_arm5
 http://207.174.22.171/mips
 http://urabenet.ddns.net/main_arm5
-http://urabenet.ddns.net/main_mips
 http://42.112.26.129/gompsl
 http://66.187.4.33/a
 http://42.112.26.129/gmpsl
@@ -411,7 +410,6 @@ http://117.26.208.136:52373/bin.sh
 http://120.28.212.217:55147/i
 http://87.121.84.163/mipsel
 http://192.240.55.219:3940/i
-http://87.121.84.163/x86
 http://196.251.81.110/condi.x86_64
 http://196.251.81.110/condi.x86
 http://87.121.84.163/arm6
@@ -1808,6 +1806,7 @@ http://glamandglow.com.sg/poli.bin
 http://clouddarkkkkk.duckdns.org/MKvkXE250.bin
 https://23.95.173.124/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://ssghostierconnect.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
+http://2.179.184.17:55147/i
 http://198.12.83.69/qCijwQMDlWhlTw182.bin
 http://47.83.226.38:60149/linux
 http://112.86.12.19:22374/.i
@@ -2408,7 +2407,6 @@ http://112.50.168.3:39717/i
 http://124.131.90.91:12457/i
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
 https://envs.sh/FOk.exe
-https://lsks.volamngayxua.net/AutoUpdate.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
 http://43.226.39.44:5988/TestMemTest10.exe
@@ -6743,7 +6741,6 @@ https://uyul.oss-cn-beijing.aliyuncs.com/in/1229.dll
 http://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/5142A417D128494B9A9D67961121E943.exe
 http://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 https://weco2.oss-me-east-1.aliyuncs.com/futon
-http://kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/QQ%E5%8D%8E%E5%A4%8F%E6%9B%B4%E6%96%B0%E6%96%87%E4%BB%B6/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F.exe
 http://93.176.52.107/Dark_Brout_ncrypt.exe
 https://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/B0B34B3375B144C680A0456FFDD639A0.exe
 http://93.176.52.107/Nan_Autre_ncrypt.exe
@@ -8127,7 +8124,6 @@ http://annadegismen.com/js/uhoqtj.js
 http://annadegismen.com/js/oyhixg.js
 http://annadegismen.com/js/bzykis.js
 http://annadegismen.com/js/wxpfmy.js
-http://annadegismen.com/js/ckhvft.js
 http://annadegismen.com/js/mbfnwq.js
 http://annadegismen.com/js/gvtuqd.js
 http://annadegismen.com/js/vjyzld.js
@@ -9411,6 +9407,7 @@ http://104.243.129.2/ChromeSetup.exe
 https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd
 https://evangroup.ru/bitrix/js/main/core/core.js
 http://203.204.217.190:8080/beacon.bin
+http://203.204.217.190:8080/beacon.exe
 http://120.25.163.165:8080/mimikatz_trunk/Win32/mimikatz.exe
 http://218.92.65.139:20001/AV.lnk
 http://117.50.95.62:9880/info.zip
@@ -11034,7 +11031,6 @@ http://14.224.174.212/Ransomware.WannaCry_Plus.zip
 https://noithaticon.vn/DRIVEapplet.exe
 http://f24-zfcloud.zdn.vn/17c4755d1d45ed1bb454/8703634058188758823
 http://85.72.39.196:39497/.i
-http://oys0ro.static.otenet.gr:39497/.i
 http://216.188.216.17:54983/i
 http://162.194.8.169:56611/i
 http://67.78.106.23:55731/i
