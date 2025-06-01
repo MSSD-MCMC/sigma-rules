@@ -438,6 +438,7 @@ http://183.185.217.1:8000/sshd
 http://2.125.59.57:10085/sshd
 http://117.26.208.136:52373/i
 http://117.26.208.136:52373/bin.sh
+http://196.251.81.110/condi.arm7
 http://192.240.55.219:3940/i
 http://196.251.81.110/condi.x86_64
 http://196.251.81.110/condi.x86
@@ -1797,7 +1798,6 @@ http://209.141.34.106/dwrioej/neon.x86_64
 http://185.149.146.73/WindowsHealthMonitor.exe
 http://185.149.146.73/archive8.zip
 http://112.86.3.149:37941/i
-http://112.86.3.149:37941/bin.sh
 http://103.10.63.150:37596/i
 http://105.186.219.3:48957/i
 http://64.183.60.198:22414/i
@@ -4666,6 +4666,7 @@ http://154.83.95.7/linux
 https://employees.medicalcenterclinic.com/_WCM_images/prod.jpg
 https://employees.medicalcenterclinic.com/_WCM_images/toke.jpg
 https://employees.medicalcenterclinic.com/_WCM_images/si.jpg
+https://employees.medicalcenterclinic.com/_WCM_images/bea.jpg
 https://www.blackhost.xyz/srv/fup/uploads/DRGDF.HGFG
 http://103.161.230.108:51055/i
 http://190.65.26.56:8002/sshd
@@ -4679,6 +4680,7 @@ http://197.157.195.20:50062/i
 http://128.127.102.134:7554/i
 http://61.88.113.141:8000/sshd
 https://galerisenimutiara.com/Xraqwapfu.pdf
+http://109.87.136.70:58451/i
 http://117.25.137.34:19538/i
 http://209.141.35.180/sex.sh
 http://190.128.157.114:51240/i
@@ -6828,7 +6830,6 @@ https://167.250.49.155/bin/x64/mimispool.dll
 http://e4l4.com/%E8%AF%BE%E4%BB%B6-%E7%AC%AC6%E8%AF%BE%E6%97%B6-910%E7%AB%A0%E8%8A%82.pptx
 http://e4l4.com/%E5%89%AF%E6%9C%AC21.3%E8%93%9D%E9%98%9F%E6%8A%A4%E7%BD%91%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99210303.xlsx
 https://raw.githubusercontent.com/cqHack/DDoS-Script/refs/heads/master/cqHack.pl
-http://185.16.38.38:555/ver/d.jpg
 http://185.16.38.38:555/api/t.jpg
 http://43.153.222.28:4646/h3qQ
 http://43.153.222.28:4646/c9uL
@@ -7441,7 +7442,6 @@ https://annadegismen.com/js/iodhgt.js
 https://annadegismen.com/js/ofbnkh.js
 https://annadegismen.com/js/qefpth.js
 https://annadegismen.com/js/dhzwae.js
-https://annadegismen.com/js/ljkacr.js
 https://annadegismen.com/js/dwjupc.js
 https://annadegismen.com/js/mxciwn.js
 https://annadegismen.com/js/fdkrnb.js
@@ -7692,6 +7692,7 @@ https://annadegismen.com/js/chztsf.js
 https://annadegismen.com/js/jezqcu.js
 https://annadegismen.com/js/pmgyrd.js
 https://annadegismen.com/js/sxvnkf.js
+https://annadegismen.com/js/gdufvy.js
 https://annadegismen.com/js/jxufsd.js
 https://annadegismen.com/js/wjlhgv.js
 https://annadegismen.com/js/ecpjkf.js
@@ -8329,7 +8330,6 @@ http://annadegismen.com/js/jvoihp.js
 http://annadegismen.com/js/onqyfe.js
 https://annadegismen.com/js/aqhyxf.js
 http://annadegismen.com/js/aqhyxf.js
-https://annadegismen.com/js/ljqxrf.js
 https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/y.png
 https://raw.githubusercontent.com/rouki555/dcm/refs/heads/main/Document.zip
 https://raw.githubusercontent.com/elpastor24/shilajit2/refs/heads/main/pasrem13.txt
@@ -10077,7 +10077,6 @@ http://89.231.14.137:2282/.i
 http://88.119.193.17:10462/.i
 http://88.116.62.226:52714/.i
 http://88.119.151.142:10462/.i
-http://194.208.56.189:19006/.i
 http://162.194.8.169:56611/.i
 http://190.92.29.206:1076/.i
 http://200.35.49.74:43586/.i
@@ -10676,7 +10675,6 @@ http://118.179.121.235:1123/i
 http://124.29.249.182:31583/i
 http://102.39.242.53:50000/i
 http://81.163.57.65:29776/i
-http://84.22.136.158:32729/i
 http://91.204.154.197:62057/i
 http://43.249.52.210:12166/i
 http://103.187.151.107:1500/i
@@ -11070,7 +11068,6 @@ https://tlmtravelstours.com/nt/nt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://ossbtvestaffcics.com/ias/ias.js
 https://korkmazdekor.com/mred/mred.js
-https://etihadtechnology.com.np/ue/ue.js
 http://29sbt.ru/lib/rl2xse0Do/
 https://nusatoyota.co.id/teev/teev.js
 https://spoar.org.in/gcn/gcn.js
@@ -11449,6 +11446,7 @@ http://src1.minibai.com/uploads/thirdupload/5c8b08b37a426.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_02.exe
 http://konsor.ru/keygen.exe
 http://download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
+http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_01.exe
 http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
 http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
@@ -11492,6 +11490,7 @@ http://brightworks.cz/file/support/trust/En/042019/
 http://solutelco.com/cgi-bin/eWbnM-h00hVr2pTu3KYyR_YAVLSNiUf-a0u/
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
+http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
 http://flyingmutts.com/secure.myacc.resourses.com/
