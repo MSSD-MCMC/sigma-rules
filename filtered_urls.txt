@@ -445,6 +445,7 @@ http://27.215.185.72:58425/bin.sh
 http://200.59.88.129:52275/bin.sh
 http://113.24.132.229:35800/i
 http://196.251.116.67/bins/sora.m68k
+http://196.251.116.67/bins/sora.arm7
 http://196.251.116.67/bins/sora.arm6
 http://45.90.116.132/p-p.c-.Sakura
 http://45.90.116.132/a-r.m-7.Sakura
@@ -10622,6 +10623,7 @@ http://36.91.144.195:2274/i
 http://46.100.50.137:56504/i
 http://5.198.242.56:13277/i
 http://37.157.219.158:16470/i
+http://62.249.140.222:7543/i
 http://91.92.188.72:64496/i
 http://78.29.14.127:29050/i
 http://121.101.130.152:49784/i
@@ -11029,7 +11031,6 @@ http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
 https://tlmtravelstours.com/nt/nt.js
-https://chinesegarden.com.tr/nit/nit.js
 https://ossbtvestaffcics.com/ias/ias.js
 https://etihadtechnology.com.np/ue/ue.js
 http://29sbt.ru/lib/rl2xse0Do/
