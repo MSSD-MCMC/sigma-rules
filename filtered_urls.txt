@@ -233,6 +233,7 @@ http://185.168.174.222:19920/i
 http://90.68.160.149:4018/i
 http://2.66.71.18/sshd
 http://47.111.151.151/02.08.2022.exe
+http://219.151.176.187:8000/02.08.2022.exe
 http://1.15.15.230:8888/02.08.2022.exe
 http://185.78.119.211:21584/i
 http://5.237.245.57:36792/i
@@ -241,7 +242,6 @@ http://5.55.115.69:14525/i
 http://62.12.77.205:1167/i
 http://78.110.74.38:7817/i
 http://78.132.82.98/sshd
-http://45.95.169.115/ohshit.sh
 http://45.95.169.114/SnOoPy.sh
 http://45.95.169.114/a-r.m-6.SNOOPY
 http://62.60.226.191/scpx.exe
@@ -334,11 +334,9 @@ http://45.95.169.115/hiddenbin/boatnet.sh4
 http://45.95.169.115/hiddenbin/boatnet.m68k
 http://198.98.59.180/hiddenbin/boatnet.sh4
 http://45.95.169.115/hiddenbin/boatnet.arm5
-http://45.95.169.115/hiddenbin/boatnet.arm
 http://45.95.169.115/hiddenbin/boatnet.mips
 http://45.95.169.115/hiddenbin/boatnet.arm6
 http://45.95.169.115/hiddenbin/boatnet.ppc
-http://45.95.169.115/hiddenbin/boatnet.arm7
 http://198.98.59.180/hiddenbin/boatnet.x86
 http://198.98.59.180/hiddenbin/boatnet.arm
 http://198.98.59.180/hiddenbin/boatnet.arm5
@@ -388,7 +386,6 @@ http://141.98.11.82/bins/z9GdbmiPoT1CYXtsXr4DYxGfZQoAwH2Upr
 http://141.98.11.82/bins/MDukejRpEVRJtAF8qJOUHxMH7xLDBBSPzA
 http://141.98.11.82/bins/MCWmH8qLGsVQZzvbYfRMovyxDSv25KlH75
 http://conn.masjesu.zip/bins/ObtRzbXMZ0GLfCR0BK23moxR4k1LgUKj5Q
-http://conn.masjesu.zip/bins/1Url4Vmjm3jutDoL4IALrwVcTgwtmfdAki
 http://conn.masjesu.zip/bins/l8bIo6MX0E2xzUa8GlxxB3QQT28nJjEe7E
 http://conn.masjesu.zip/bins/59fT4e3UEmL9oGFEi4nhEPDL9v4liwzVzv
 http://141.98.11.82/bins.sh
@@ -469,7 +466,6 @@ http://141.98.11.82/bins/1Url4Vmjm3jutDoL4IALrwVcTgwtmfdAki
 http://141.98.11.82/bins/kcZ7wDS9Ey1472EBe1Yh1UdgSWJCDpmXmX
 http://141.98.11.82/bins/j5pF2uRAfRIrxFbSnk6Wcqg8sFoHfAcw0f
 http://141.98.11.82/bins/7QHC5pMEH9TTTNrssZuZWwCur8ig80hgfa
-http://141.98.11.82/bins/tCV5vO5tw9z8XJnNLCPzh9rWcP75X3gc4G
 http://141.98.11.82/bins/ObtRzbXMZ0GLfCR0BK23moxR4k1LgUKj5Q
 http://141.98.11.82/bins/k86m
 http://141.98.11.82/bins/lespim
@@ -525,7 +521,6 @@ https://celebratingseniors.net/oste.zip
 http://111.185.170.106:38236/bin.sh
 http://222.127.60.217:51332/i
 http://175.174.76.252:52949/i
-http://175.174.76.252:52949/bin.sh
 http://45.38.4.50/hiddenbin/boatnet.x86
 http://188.38.3.30:49218/i
 http://196.251.81.110/condi.mips
@@ -748,7 +743,6 @@ http://185.156.72.8/1.exe
 http://185.156.72.8/2.exe
 http://113.26.80.149:39446/i
 http://113.26.80.149:39446/bin.sh
-http://76.72.238.153:59506/bin.sh
 http://112.198.133.117:51106/i
 http://112.198.133.117:51106/bin.sh
 http://112.198.193.5:54495/i
@@ -844,7 +838,6 @@ http://112.198.193.5:54495/bin.sh
 http://151.243.213.208/wget.sh
 http://151.243.213.208/bins/navo.m68k
 http://151.243.213.208/bins/navo.arm7
-http://151.243.213.208/bins/navo.ppc
 http://151.243.213.208/bins/navo.mips
 http://151.243.213.208/bins/navo.arm
 http://151.243.213.208/bins/navo.mpsl
@@ -887,6 +880,7 @@ https://khavar.com/aecheck2.txt
 https://kgaming.ddns.net/schematics_update/KiKiHUN_software.exe
 https://46.107.153.223/schematics_update/KiKiHUN_software.exe
 http://86.54.42.131/amd64
+http://175.175.30.180:37164/i
 http://60.6.50.41:39080/i
 http://175.175.30.180:37164/bin.sh
 http://60.6.50.41:39080/bin.sh
@@ -4200,6 +4194,7 @@ http://185.23.105.33:46882/i
 http://101.35.228.105:20080/02.08.2022.exe
 http://1.15.34.67:7777/02.08.2022.exe
 http://39.107.242.125/02.08.2022.exe
+http://124.222.81.106:8888/02.08.2022.exe
 http://8.138.33.224/02.08.2022.exe
 http://8.218.50.207/aasdasdqrunshkkkkkkk
 http://8.218.50.207/asdqsadsdahhhhhtxt
@@ -5798,6 +5793,7 @@ http://47.236.179.229/bns/ewe.arm
 http://114.55.100.165:19998/02.08.2022.exe
 http://196.251.73.224/scan/spirit.tgz
 http://196.251.80.174/cet/aduna
+http://176.65.134.15/mips.nn
 http://177.140.237.125:52369/i
 http://95.62.202.150:10071/sshd
 https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
@@ -7294,6 +7290,7 @@ https://annadegismen.com/js/kawjhl.js
 https://annadegismen.com/js/gabjzd.js
 https://annadegismen.com/js/ehyjku.js
 https://annadegismen.com/js/auwgir.js
+https://annadegismen.com/js/gkevtl.js
 https://annadegismen.com/js/flutce.js
 https://annadegismen.com/js/bzykis.js
 https://annadegismen.com/js/vxoiba.js
@@ -7553,7 +7550,6 @@ https://annadegismen.com/js/mkpfoy.js
 https://annadegismen.com/js/clrfhb.js
 https://annadegismen.com/js/qdkgmu.js
 https://annadegismen.com/js/edfcjh.js
-https://annadegismen.com/js/naryxl.js
 https://annadegismen.com/js/kdzjqg.js
 https://annadegismen.com/js/nfdjux.js
 https://annadegismen.com/js/wueshi.js
