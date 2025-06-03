@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Wed Jun  4 01:00:25 +08 2025
+# Auto-generated on Wed Jun  4 02:00:23 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -175,13 +175,13 @@ drop ip 190.129.122.185 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 190.1
 drop ip 189.3.191.89 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 189.3.191.89 (Inbound)"; sid:6000170; rev:1; priority:1;)
 drop ip 189.203.141.242 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 189.203.141.242 (Inbound)"; sid:6000171; rev:1; priority:1;)
 drop ip 188.166.221.4 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 188.166.221.4 (Inbound)"; sid:6000172; rev:1; priority:1;)
-drop ip 187.51.208.158 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.51.208.158 (Inbound)"; sid:6000173; rev:1; priority:1;)
-drop ip 187.212.0.221 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.212.0.221 (Inbound)"; sid:6000174; rev:1; priority:1;)
-drop ip 187.174.238.116 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.174.238.116 (Inbound)"; sid:6000175; rev:1; priority:1;)
-drop ip 187.134.26.83 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.134.26.83 (Inbound)"; sid:6000176; rev:1; priority:1;)
-drop ip 186.248.197.77 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.248.197.77 (Inbound)"; sid:6000177; rev:1; priority:1;)
-drop ip 186.233.208.13 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.233.208.13 (Inbound)"; sid:6000178; rev:1; priority:1;)
-drop ip 186.182.16.9 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.182.16.9 (Inbound)"; sid:6000179; rev:1; priority:1;)
+drop ip 187.212.0.221 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.212.0.221 (Inbound)"; sid:6000173; rev:1; priority:1;)
+drop ip 187.174.238.116 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.174.238.116 (Inbound)"; sid:6000174; rev:1; priority:1;)
+drop ip 187.134.26.83 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 187.134.26.83 (Inbound)"; sid:6000175; rev:1; priority:1;)
+drop ip 186.248.197.77 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.248.197.77 (Inbound)"; sid:6000176; rev:1; priority:1;)
+drop ip 186.233.208.13 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.233.208.13 (Inbound)"; sid:6000177; rev:1; priority:1;)
+drop ip 186.182.16.9 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.182.16.9 (Inbound)"; sid:6000178; rev:1; priority:1;)
+drop ip 186.168.106.202 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.168.106.202 (Inbound)"; sid:6000179; rev:1; priority:1;)
 drop ip 186.118.142.216 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 186.118.142.216 (Inbound)"; sid:6000180; rev:1; priority:1;)
 drop ip 185.255.91.226 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 185.255.91.226 (Inbound)"; sid:6000181; rev:1; priority:1;)
 drop ip 185.255.90.145 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 185.255.90.145 (Inbound)"; sid:6000182; rev:1; priority:1;)
