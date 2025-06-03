@@ -336,7 +336,6 @@ http://198.98.59.180/hiddenbin/boatnet.sh4
 http://45.95.169.115/hiddenbin/boatnet.arm5
 http://45.95.169.115/hiddenbin/boatnet.mips
 http://45.95.169.115/hiddenbin/boatnet.arm6
-http://45.95.169.115/hiddenbin/boatnet.ppc
 http://198.98.59.180/hiddenbin/boatnet.x86
 http://198.98.59.180/hiddenbin/boatnet.arm
 http://198.98.59.180/hiddenbin/boatnet.arm5
@@ -467,8 +466,6 @@ http://141.98.11.82/bins/kcZ7wDS9Ey1472EBe1Yh1UdgSWJCDpmXmX
 http://141.98.11.82/bins/j5pF2uRAfRIrxFbSnk6Wcqg8sFoHfAcw0f
 http://141.98.11.82/bins/7QHC5pMEH9TTTNrssZuZWwCur8ig80hgfa
 http://141.98.11.82/bins/ObtRzbXMZ0GLfCR0BK23moxR4k1LgUKj5Q
-http://141.98.11.82/bins/k86m
-http://141.98.11.82/bins/lespim
 http://113.239.253.169:41596/i
 http://61.163.151.37:39721/i
 http://113.239.253.169:41596/bin.sh
@@ -568,6 +565,7 @@ http://196.251.116.67/bins/sora.arm6
 http://196.251.116.67/bins/sora.mips
 http://196.251.116.67/bins/sora.mpsl
 http://196.251.116.67/bins/sora.ppc
+http://196.251.116.67/bins/sora.x86
 http://183.92.207.39:55762/i
 http://42.112.26.129/arm4
 http://42.112.26.129/ppc
@@ -613,6 +611,7 @@ https://kristalzemin.com/fvUzhChhkypflanQIm96.bin
 https://kristalzemin.com/Selvskrevet254.mdp
 https://maidforyou1985.com/bufs.zip
 https://medthermography.com/raxs.zip
+https://windomstatetheater.com/mits.zip
 https://medthermography.com/fsxs.zip
 https://jakestrack.com/zsps.zip
 http://medthermography.com/oste.zip
@@ -813,6 +812,7 @@ http://219.70.90.108:41909/i
 http://120.28.81.174:48166/bin.sh
 http://84.21.171.134:60144/linux
 http://47.242.66.123:60124/linux
+http://112.87.155.113:21858/.i
 http://46.6.15.103:16726/.i
 http://188.150.45.193:38170/bin.sh
 http://124.71.110.163:7450/02.08.2022.exe
@@ -1012,6 +1012,7 @@ http://42.112.26.71/rev.mpsl
 http://42.112.26.71/haha.mpsl
 http://42.112.26.71/rev.arm
 https://idfccard.com/apps/cards2.1.apk
+https://idfccard.com/apps/cards2.3.apk
 https://idfccard.com/apps/cards2.2.apk
 http://120.79.64.164/02.08.2022.exe
 http://117.72.206.39:443/02.08.2022.exe
@@ -1428,7 +1429,6 @@ https://hdgreen.org/Gamma_installer_144.dmg
 https://hdgreen.org/ayin.v0.1.0.exe
 https://hdgreen.org/Gamma_app_stable_vers_107_2_setup_proVer%20(8).exe
 https://hdgreen.org/Soft_Mine_app_stable_vers_113_2_setup_proVer.exe
-https://hdgreen.org/Alli_AI_stable_latest_release_ver_801_Setup_win.exe
 https://hdgreen.org/BrowserSetup.exe
 https://mail.screenconnectwise.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://support.screenconnectwise.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -1931,6 +1931,7 @@ http://94.26.90.217/tt/armv5l
 http://123.231.92.17:41609/i
 http://188.12.100.131:30261/i
 http://148.66.16.229/02.08.2022.exe
+http://148.66.16.230/02.08.2022.exe
 http://115.127.68.162:55090/i
 http://88.8.22.161:10004/sshd
 http://88.8.22.161:10006/sshd
@@ -2910,6 +2911,7 @@ https://drive.google.com/uc?export=download&id=18tpMXWMaHqKIsoy08Gq3a7rKUblJL8-y
 https://cooptraexxon.com/temp/wEotIbaw.txt
 http://78.70.203.243:42685/bin.sh
 https://login.zcqhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://ticai20.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://31.170.22.205/dl20
 https://github.com/zeko14h/tracex-hwid-spoofer/releases/download/v3.5.7/tracex-hwid-spoofer-v3.5.7.zip
 https://electrum-dogecoin.com/download/electrum-doge-1.4.2.AppImage
@@ -6242,7 +6244,6 @@ http://2.180.18.98:58173/i
 https://staplebrokenmetaliyro.blogspot.com/
 http://203.115.101.242:32242/i
 http://197.254.71.110:4533/i
-http://211.197.121.81:57354/i
 https://github.com/ArvendraChhonkar/todo/releases/download/macosandwindows/install_setup_v1.2.0.dmg
 http://github.com/jackyz777/activebypass/raw/refs/heads/main/payload.exe
 https://github.com/trismagi/daemon/raw/main/watchdog
@@ -6931,6 +6932,7 @@ http://103.236.133.81:21414/.i
 http://47.49.114.179:27254/.i
 http://190.110.204.150:34857/.i
 http://41.57.125.226:1037/.i
+http://180.94.69.230:45238/.i
 http://37.220.123.125:45497/.i
 http://212.233.125.238:19923/.i
 http://103.164.191.74:12576/.i
@@ -7422,6 +7424,7 @@ https://annadegismen.com/js/mdnujx.js
 https://annadegismen.com/js/gchrsz.js
 https://annadegismen.com/js/lnpmqd.js
 https://annadegismen.com/js/mbpjue.js
+https://annadegismen.com/js/kspntc.js
 https://annadegismen.com/js/meciyz.js
 https://annadegismen.com/js/tgfhvd.js
 https://annadegismen.com/js/ivrfja.js
@@ -7622,7 +7625,6 @@ https://annadegismen.com/js/nemuxy.js
 https://annadegismen.com/js/evktub.js
 https://annadegismen.com/js/ypufma.js
 https://annadegismen.com/js/gaxwco.js
-https://annadegismen.com/js/ldfnaq.js
 https://annadegismen.com/js/pxobar.js
 https://annadegismen.com/js/dspvek.js
 https://annadegismen.com/js/nozmuk.js
@@ -9489,6 +9491,7 @@ http://203.2.65.29:8086/help.scr
 http://203.2.65.29:8085/help.scr
 http://124.67.254.109:61234/help.scr
 http://139.159.155.204:88/help.scr
+http://139.159.155.204:81/help.scr
 http://117.157.17.194:9999/help.scr
 https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
 http://27.156.224.11:43529/.i
