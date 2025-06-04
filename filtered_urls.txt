@@ -1,3 +1,17 @@
+http://144.172.73.113/sh4
+http://144.172.73.113/armv7l
+http://144.172.73.113/mipsel
+http://144.172.73.113/co
+http://144.172.73.113/ppc
+http://144.172.73.113/mips
+http://144.172.73.113/i686
+http://144.172.73.113/i586
+http://144.172.73.113/arm61
+http://144.172.73.113/dss
+http://144.172.73.113/dc
+http://144.172.73.113/m68k
+http://144.172.73.113/586
+http://144.172.73.113/x86
 https://raw.githubusercontent.com/sohpierainxz/Fnaf-1/main/fusca%20game.exe
 https://raw.githubusercontent.com/sohpierainxz/Fnaf-1/main/celta%20preto.exe
 https://raw.githubusercontent.com/sohpierainxz/Fnaf-1/main/output.exe
@@ -904,6 +918,7 @@ http://81.152.254.193:81/sshd
 http://31.154.187.24:34995/i
 http://176.254.84.45:22854/i
 http://185.12.204.60/hiddenbin/boatnet.x86_64
+http://185.12.204.60/hiddenbin/boatnet.mpsl
 http://185.12.204.60/hiddenbin/boatnet.arm5
 http://185.12.204.60/hiddenbin/boatnet.arm7
 http://185.12.204.60/hiddenbin/boatnet.spc
@@ -941,6 +956,7 @@ http://176.65.137.60/x-8.6-.Sakura
 http://176.65.137.60/a-r.m-5.Sakura
 http://198.12.83.90/DYCwcSm22.bin
 http://42.112.26.129/lol.mips
+http://42.112.26.129/lol.mpsl
 http://185.156.72.2/files/7929079921/3Svu0S9.exe
 http://72.177.84.111:8232/i
 http://87.110.148.251:56481/i
@@ -1144,7 +1160,6 @@ http://113.239.253.169:41596/bin.sh
 http://61.163.151.37:39721/bin.sh
 http://42.4.108.247:43351/bin.sh
 http://72.10.10.177:44600/i
-http://200.59.86.6:58098/i
 https://104.194.140.36/SPOOFER-M/Flambi.exe
 http://104.194.140.36/TOR-R/Lbmkq.exe
 http://104.194.140.36/SPOOFER-M/welcome.exe
@@ -1224,7 +1239,6 @@ http://194.135.230.86:1550/i
 http://69.116.6.66:2006/i
 http://37.61.191.138:15338/i
 http://27.215.126.132:54606/i
-http://196.251.116.67/bins/sora.arm6
 http://196.251.116.67/bins/sora.mips
 http://196.251.116.67/bins/sora.mpsl
 http://196.251.116.67/bins/sora.spc
@@ -1474,7 +1488,6 @@ http://94.154.35.115/user_profiles_photo/update.exe
 http://mywebh.kro.kr/bins/navo.ppc
 http://mywebh.kro.kr/bins/navo.arm6
 http://mywebh.kro.kr/bins/navo.sh4
-http://mywebh.kro.kr/bins/navo.x86_64
 http://mywebh.kro.kr/wget.sh
 http://213.209.150.18/plugmanff2.exe
 http://213.209.150.18/agodhh3.exe
@@ -2498,6 +2511,7 @@ http://194.147.34.207:5080/client.bin
 http://github.com/user-attachments/files/19831362/alpha.zip
 http://github.com/sohpierainxz/Fnaf-1/raw/refs/heads/main/fusca%20game.exe
 http://github.com/decalage2/oletools/releases/download/v0.60.2/oletools-0.60.2.zip
+http://github.com/user-attachments/files/19831288/crack.nurik.zip
 http://172.170.254.193:8181/firmware/TS2_0001.bin
 http://github.com/user-attachments/files/19831450/Solara.zip
 http://github.com/user-attachments/files/19835739/solarus.zip
@@ -2901,7 +2915,6 @@ https://45.81.23.58/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://45.81.23.57/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://45.81.23.54/bin//support.client.exe?i=&e=Support&y=Guest&r=
 http://123.133.87.149:35548/i
-http://123.133.87.149:35548/bin.sh
 http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
 https://113.44.67.52:9443/02.08.2022.exe
@@ -4170,6 +4183,7 @@ https://github.com/RAZZISPROATGAMING/hacathon-backend-smit/releases/download/v2.
 http://github.com/iqquxd/futzin-online/releases/download/v2.0/Release_x64.zip
 https://github.com/TiagoFerlaCamini/Minecraft-nao-responsivo/releases/download/v2.0/Release_x64.zip/
 https://github.com/exvinityf/BSternAIChain/releases/download/v1.0/Application.zip
+http://github.com/TREY89878668/dagger/releases/download/v2.0/Software.zip
 http://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip
 https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip/
 http://github.com/NT8068/AWP.gg-Executor-Roblox/releases/download/v2.0/Software.zip
@@ -4523,6 +4537,7 @@ https://github.com/amoni2019/FonePaw-Screen-Recorder-Free/releases/download/v1.0
 https://github.com/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip
 https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip
 https://github.com/subhankarpramanik/DrFone-Toolkit/releases/download/v1.0/Software.zip
+https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip
 https://github.com/123450-cloud/bestcodes.dev/releases/download/v1.0/App.zip
 https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip
 https://github.com/VJGara/VueScan-Pro-Free/releases/download/v1.0/Software.zip
@@ -4663,6 +4678,7 @@ https://mxews5.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://acc.nmphelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://acc.crjhelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
+https://acc.tishelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxsafenova.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxleo.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://jdsfrw-11.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
@@ -6209,6 +6225,7 @@ https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/download/v3.0/Software.
 https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip
 https://github.com/burlador31/Mod-Gta5/releases/download/v1.0/Software.zip
 https://github.com/Hackermanisdumb/Mod-Gta5/releases/download/v2.0/Software.zip
+https://github.com/Sweaty27/Roblox-Bunni-Executor/releases/download/v3.0/Software.zip
 https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip
 http://8.217.202.103/curl
 http://8.217.202.103/bash
@@ -6388,10 +6405,8 @@ http://178.54.47.70:18564/i
 https://ofice365.github.io/1/test.jpg
 https://d2314eac.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
 http://81.70.85.113/earm
-http://81.70.85.113/backdoor/emips
 http://81.70.85.113/tp/earm7
 http://81.70.85.113/backdoor/earm5
-http://81.70.85.113/tp/earm
 http://81.70.85.113/tp/emips
 http://81.70.85.113/earm7
 http://81.70.85.113/backdoor/earm
@@ -6506,6 +6521,7 @@ https://github.com/zefordk/ikeya/raw/refs/heads/main/shellcodeAny.bin
 https://github.com/New-Codder/test/raw/refs/heads/main/shellcodeAny.bin
 https://github.com/RanjitGandhi2/fff/raw/refs/heads/main/101.bin
 https://github.com/razidvb/myfiles/raw/refs/heads/main/loader.bin
+https://github.com/RanjitGandhi2/fff/raw/refs/heads/main/play.bin
 https://github.com/RanjitGandhi2/fff/raw/refs/heads/main/mera.bin
 https://github.com/New-Codder/test/raw/refs/heads/main/2.bin
 https://github.com/RanjitGandhi2/fff/raw/refs/heads/main/bao.bin
@@ -7331,6 +7347,7 @@ http://117.20.27.25:21414/.i
 http://182.93.83.124:11028/.i
 http://103.43.6.118:7055/.i
 http://190.96.1.233:53106/.i
+http://159.148.48.50:55174/.i
 http://112.25.237.58:13777/.i
 http://89.165.170.74:18999/.i
 http://203.115.101.242:32242/.i
@@ -8477,7 +8494,6 @@ http://annadegismen.com/js/kdzjqg.js
 http://annadegismen.com/js/dplaun.js
 http://annadegismen.com/js/piasrb.js
 http://annadegismen.com/js/stlhfw.js
-http://annadegismen.com/js/zcvefb.js
 http://annadegismen.com/js/wyqmpl.js
 http://annadegismen.com/js/bqfgev.js
 http://annadegismen.com/js/jowhkb.js
@@ -8744,7 +8760,6 @@ https://raw.githubusercontent.com/Marcin2123/jjsploit/refs/heads/main/JJSploit_8
 https://raw.githubusercontent.com/Marcin2123/jjsploit/refs/heads/main/file_jjsploit
 https://raw.githubusercontent.com/Marcin2123/actualka/refs/heads/main/file
 http://c3poolbat.oss-accelerate.aliyuncs.com/c3pool7.bat
-http://update.vlnguba.com/add.bat
 http://c3poolbat.oss-accelerate.aliyuncs.com/autoc3pool.bat
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injector.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injectorOld.exe
@@ -9083,7 +9098,6 @@ http://117.72.70.169/protect_distribution.exe
 http://192.162.49.16:19327/.i
 https://39.98.174.154:8888/02.08.2022.exe
 https://39.98.174.154:52683/02.08.2022.exe
-https://139.196.237.171:12345/02.08.2022.exe
 https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
@@ -9498,6 +9512,7 @@ http://95.170.203.178:46806/i
 http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://59.153.80.90:4581/i
+http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://88.135.26.83:32710/i
 http://88.119.151.142:10462/i
@@ -9770,7 +9785,6 @@ http://web.archive.org/web/20240808122936if_/http://154.216.19.139/bins/mirai.gn
 http://web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mips
 http://37.9.35.70/latest.exe
 https://43.153.222.28/02.08.2022.exe
-http://47.243.175.24:8444/02.08.2022.exe
 http://47.120.61.164/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
@@ -9830,7 +9844,6 @@ https://vodomer-service.ru/bitrix/cache/js/s1/kolibri_corppro/kernel_main/kernel
 https://raw.githubusercontent.com/jijilovedada/jijilovedada/main/tools/cc/AdaptorOvernight.exe
 http://2.183.9.88:43156/.i
 http://117.50.184.22:8888/supershell/compile/download/win
-http://47.98.177.117:8888/supershell/compile/download/1.exe
 http://47.98.177.117:8888/supershell/compile/download//1.exe
 http://111.231.145.137:8888/supershell/compile/download/1.exe
 http://101.35.228.105:8888/supershell/compile/download/tool
@@ -10417,7 +10430,6 @@ https://github.com/MazaCoin/maza/releases/download/v0.16.3/maza-0.16.3-osx-unsig
 https://github.com/MazaCoin/maza/releases/download/v0.16.3/maza-0.16.3-win32-setup-unsigned.exe
 https://imtoken8.cc/imToken.apk
 http://117.50.194.20/Y-steamworks.exe
-http://85.89.188.97:31433/.i
 http://103.30.85.58:9332/.i
 http://197.159.1.58:25983/.i
 http://89.28.58.81:24363/.i
@@ -11690,7 +11702,6 @@ http://download.skycn.com/hao123-soft-online-bcs/soft/D/2014-06-12_djylh.exe
 http://download.skycn.com/hao123-soft-online-bcs/soft/P/pocketrar350sc.exe
 https://itcomsrv.kz/wp-content/DOC/g1gc04s1woz64tp6ugkcifwtu7pk0_l0pue-9898692635/
 http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
-http://host1.eatapplejackdinernyc.com/ixmXaWjD?FLJkZqE=519
 http://dance-holic.com/2shot/ODJF-GWd94pNQpGx2OGn_nZwJuQBvv-qz/
 http://dl.1003b.56a.com/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe
 http://xiaoma-10021647.file.myqcloud.com/qrtb.exe
