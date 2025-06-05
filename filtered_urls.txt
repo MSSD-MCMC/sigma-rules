@@ -1726,7 +1726,6 @@ http://207.231.111.146/bin/support.client.exe
 http://81.94.155.251/hiddenbin/boatnet.mips
 http://81.94.155.251/hiddenbin/boatnet.x86
 http://81.94.155.251/hiddenbin/boatnet.sh4
-http://81.94.155.251/hiddenbin/boatnet.arc
 http://81.94.155.251/hiddenbin/boatnet.m68k
 http://jakestrack.com/fsps.zip
 http://222.127.68.176:53947/i
@@ -2047,6 +2046,7 @@ http://185.156.72.2/newdef/random.exe
 http://185.156.72.2/off/random.exe
 http://185.156.72.2/testmine/random.exe
 http://185.156.72.2/files/fate/random.exe
+http://209.141.34.106/neon.arm5
 http://213.209.150.18/obicrypttwo.exe
 https://onfiltre.com.tr/wp-content/giphy.gif
 https://theipgenerators.com/uploads/onlineboss.txt
@@ -3223,7 +3223,6 @@ https://github.com/letzchipman7/fallen/releases/download/v1.0.0/win_init.exe
 https://m.nsdhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxironvault.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxphantomlock.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://connect.cloudscontroller.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://github.com/JuanBustoss/src/raw/refs/heads/master/Application.zip
 https://loadingfreelofhr.net/VC_redist.x64.exe
 http://91.175.237.52:8080/sshd
@@ -10383,7 +10382,6 @@ http://159.224.143.43:60566/.i
 http://190.145.123.18:3553/.i
 http://122.170.110.131:9105/cryptography_module_windows.exe
 http://190.110.206.134:50463/i
-http://176.37.170.214:6685/i
 http://93.123.53.204:10483/i
 http://182.253.115.156:59323/i
 http://195.9.14.86:44780/i
@@ -11068,7 +11066,6 @@ http://178.34.157.178:34820/i
 http://203.17.23.194:20834/i
 http://79.175.42.206:7773/i
 http://83.147.93.226:16660/i
-http://221.120.98.22:10789/i
 http://179.51.168.26:10428/i
 http://178.214.241.150:28760/i
 http://190.111.116.96:50724/i
