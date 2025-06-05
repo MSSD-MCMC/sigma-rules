@@ -1554,6 +1554,7 @@ http://121.202.208.193/sshd
 http://219.70.90.108:41909/bin.sh
 http://112.198.193.5:54495/bin.sh
 http://151.243.213.208/wget.sh
+http://151.243.213.208/bins/navo.arm7
 http://151.243.213.208/bins/navo.ppc
 http://151.243.213.208/bins/navo.mips
 http://151.243.213.208/bins/navo.arm
@@ -1963,6 +1964,7 @@ http://27.192.35.208:33559/i
 http://51.38.140.180/cbot/cbot_debug.exe
 http://51.38.140.180/cbot/cbot.exe
 http://51.38.140.180/cbot/raw_cbot_debug.exe
+http://185.12.204.118/hiddenbin/boatnet.mpsl
 http://51.38.140.180/cbot/raw_cbot.exe
 http://185.12.204.118/hiddenbin/boatnet.arm7
 http://75.127.7.164/rMupHxJuMgY210.bin
@@ -3016,7 +3018,6 @@ https://vidrioyaluminio.mx/Tibia.pfm
 https://pastebin.com/raw/XAfmb6xp
 https://www.khavar.com/GHDsdCBN124.bin
 http://107.150.0.103/sh
-http://103.130.157.22:24107/i
 http://82.156.190.69/02.08.2022.exe
 http://8.210.78.137:81/02.08.2022.exe
 http://43.139.233.218:8181/02.08.2022.exe
@@ -9597,7 +9598,6 @@ http://storage.soowim.co.kr/IT_plan_cifs.exe
 https://storage.soowim.co.kr/tstory.exe
 http://113.50.0.109:8083/Host.out
 http://139.198.15.223:8080/PingInfoView.exe
-http://storage.soowim.co.kr/tstory.exe
 http://39.100.33.142:9092/cen22.php
 http://212.98.231.10:8888/DLLGIRIS.dll
 http://139.198.15.223:8080/ScanPort.exe
@@ -11239,6 +11239,7 @@ http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 https://drive.google.com/uc?export=download&id=1Wuy2Y3vBxibDFQCs6-kx96NOcarZixfD
 http://118.26.174.163/app/view/ta.sh
+http://5.236.93.129:43975/.i
 http://www.spinaservice.com/lhxMaib/aDsiTkfkj104.bin
 http://www.spinaservice.com/lhxMaib/AFGTOQtRwrFa138.bin
 https://github.com/ssslllap1/asdasd/raw/main/crypted.exe
@@ -11729,7 +11730,6 @@ http://chiptune.com/razor/rzr-winner_intro.zip
 http://nerve.untergrund.net/releases/zorke_release/zorke_nfo_file_viewer_v1.00/zke-nfoview.exe
 http://download.skycn.com/hao123-soft-online-bcs/soft/D/2014-06-12_djylh.exe
 http://download.skycn.com/hao123-soft-online-bcs/soft/P/pocketrar350sc.exe
-https://itcomsrv.kz/wp-content/DOC/g1gc04s1woz64tp6ugkcifwtu7pk0_l0pue-9898692635/
 http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
 http://dance-holic.com/2shot/ODJF-GWd94pNQpGx2OGn_nZwJuQBvv-qz/
 http://dl.1003b.56a.com/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe
@@ -11808,6 +11808,7 @@ http://advustech.com/cFjy-2q9I_Yq-se/COMET/SIGNS/PAYMENT/NOTIFICATION/01/16/2019
 http://www.myvcart.com/drop/css/obr.hta
 http://guiavestindoabeca.com.br/Documents/2019-01/
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
+http://download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 http://livetrack.in/EmployeeMasterImages/qace.jpg
 http://advustech.com/PvvWE-5ve_e-avu/InvoiceCodeChanges/US/Service-Invoice
