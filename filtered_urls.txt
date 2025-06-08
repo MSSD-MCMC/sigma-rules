@@ -306,7 +306,6 @@ http://103.77.241.50/dwrioej/neon.armv7l
 http://103.77.241.50/dwrioej/neon.sh4
 http://103.77.241.50/dwrioej/neon.i586
 http://103.77.241.50/dwrioej/neon.arc
-http://103.77.241.50/dwrioej/neon.m68k
 http://103.77.241.50/dwrioej/neon.i686
 http://103.77.241.50/dwrioej/neon.mips
 http://103.77.241.50/dwrioej/neon.x86_64
@@ -536,6 +535,7 @@ https://pastebin.com/raw/PCsGZEzd
 https://pastebin.com/raw/D75Qx2kp
 https://pastebin.com/raw/2UYcZ0Gj
 http://196.251.81.110/bot.arm5
+http://196.251.81.110/bot.arm7
 http://196.251.81.110/bot.mips
 http://196.251.81.110/bot.sh4
 http://39.107.85.83:50050/02.08.2022.exe
@@ -811,7 +811,6 @@ https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrou
 http://github.com/anonimusman00-2/xmr/raw/refs/heads/main/Silent%20Miner.zip
 http://github.com/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip
 http://43.252.229.158:9898/02.08.2022.exe
-http://139.159.157.238:55555/02.08.2022.exe
 http://109.92.232.94:60396/i
 http://176.121.58.98:6353/i
 http://78.30.244.228:14416/i
@@ -1157,6 +1156,7 @@ http://91.212.166.206/dropper.apk
 http://91.212.166.206/no_dropper.apk
 http://218.91.153.60:35075/i
 http://218.91.153.60:35075/bin.sh
+http://1.94.238.169:55555/02.08.2022.exe
 http://120.27.20.98:10086/02.08.2022.exe
 http://183.91.77.253:19833/i
 http://130.255.128.176:62275/i
@@ -2007,6 +2007,7 @@ http://93.182.77.20:86/tftp
 http://85.185.185.193:50500/i
 http://43.229.20.42:2874/i
 http://112.50.168.3:39717/i
+https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://envs.sh/FOk.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
@@ -2237,6 +2238,7 @@ http://66.187.4.77/fish.sh4
 http://66.187.4.77/fish.mips
 http://66.187.4.77/fish.arm
 http://66.187.4.77/fish.ppc
+http://conn.masjesu.zip/scan.sh
 http://conn.masjesu.zip/l7vmra
 https://raw.githubusercontent.com/RAHMOUNBEN/LC/refs/heads/main/XClient.exe
 https://raw.githubusercontent.com/JustJZero/ahh/refs/heads/main/Cloudy.exe
@@ -4110,6 +4112,7 @@ http://66.196.62.177:10159/i
 http://190.65.26.57:8002/sshd
 http://154.68.30.214:6360/i
 http://164.126.142.45:1084/sshd
+http://161.81.121.4/sshd
 http://121.160.13.185:2463/i
 http://1.1.109.99:60080/sshd
 https://web.qxfhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -5561,7 +5564,6 @@ http://39.105.211.255:4445/02.08.2022.exe
 http://45.115.236.152:37232/02.08.2022.exe
 http://45.144.136.13/02.08.2022.exe
 http://85.206.188.166:8582/sshd
-https://turkey-ivf.org/Invoice4231284.exe
 https://github.com/leinchchanceleinch/jik/raw/refs/heads/main/d.msi
 http://185.148.3.216/PGMRIFGD
 http://185.148.3.216/Okfgjrg5d8gt
@@ -5644,7 +5646,6 @@ https://d2314eac.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.e
 http://81.70.85.113/backdoor/earm
 http://81.70.85.113/backdoor/empsl
 http://81.70.85.113/earm6
-http://81.70.85.113/tp/earm5
 http://81.70.85.113/emips
 http://81.70.85.113/backdoor/ex86
 http://96.18.93.160:21220/i
@@ -5826,7 +5827,6 @@ https://raw.githubusercontent.com/sleepysnz/skibidi/refs/heads/main/CondoGenerat
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
-http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
@@ -6803,7 +6803,6 @@ https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
-https://annadegismen.com/js/ygwqnm.js
 https://annadegismen.com/js/zhlkqy.js
 https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
@@ -6878,12 +6877,12 @@ https://annadegismen.com/js/lhkrya.js
 https://annadegismen.com/js/nmsgoz.js
 https://annadegismen.com/js/uxsfql.js
 https://annadegismen.com/js/stwzbl.js
+https://annadegismen.com/js/lkcwbp.js
 https://annadegismen.com/js/wpglyv.js
 https://annadegismen.com/js/ilgesm.js
 https://annadegismen.com/js/ynjsml.js
 https://annadegismen.com/js/ckhvft.js
 https://annadegismen.com/js/nwbgvc.js
-https://annadegismen.com/js/ijermv.js
 https://annadegismen.com/js/ieubhk.js
 https://annadegismen.com/js/ctiakn.js
 https://annadegismen.com/js/stlhfw.js
@@ -7020,7 +7019,6 @@ https://annadegismen.com/js/ftdyqb.js
 https://annadegismen.com/js/dnmzaq.js
 https://annadegismen.com/js/jtocel.js
 https://annadegismen.com/js/bqivxc.js
-https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/fqtdxe.js
 https://annadegismen.com/js/oemktg.js
@@ -7295,7 +7293,6 @@ http://annadegismen.com/js/cotbjd.js
 http://annadegismen.com/js/tzokax.js
 http://annadegismen.com/js/ivrfja.js
 http://annadegismen.com/js/ypufma.js
-http://annadegismen.com/js/chztsf.js
 http://annadegismen.com/js/ehyjku.js
 http://annadegismen.com/js/mspldv.js
 http://annadegismen.com/js/slqmjg.js
@@ -7926,6 +7923,7 @@ https://raw.githubusercontent.com/MorganTaraum/automatic-octo-barnacle/refs/head
 https://media.githubusercontent.com/media/Furystorage/Api/main/svchost.exe
 https://github.com/sdifru877234/ilu123g5/raw/main/svchost.exe
 https://a12xxx1.oss-cn-hongkong.aliyuncs.com/svchost.exe
+https://a19ccc1.oss-cn-hongkong.aliyuncs.com/svchost.exe
 https://a18qqq1.oss-cn-hongkong.aliyuncs.com/svchost.exe
 https://a23uuu1.oss-cn-hongkong.aliyuncs.com/svchost.exe
 https://github.com/user337666/brow666/raw/main/svchost.exe
@@ -8189,6 +8187,7 @@ http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 http://192.162.49.16:19327/.i
 https://39.98.174.154:8888/02.08.2022.exe
+https://39.98.174.154:52683/02.08.2022.exe
 https://139.196.237.171:12345/02.08.2022.exe
 https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
@@ -8613,6 +8612,7 @@ http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://182.160.102.188:16079/i
 http://59.153.80.90:4581/i
+http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://88.135.26.83:32710/i
 http://88.119.151.142:10462/i
@@ -8961,7 +8961,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://89.197.154.116/lazagne.exe
 http://81.23.169.206:39697/.i
-http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
 http://116.58.62.74/Photo.scr
 http://122.179.136.112/Photo.scr
@@ -9203,6 +9202,7 @@ http://99.71.130.109:8040//sshd
 http://119.13.179.84:8081//sshd
 http://119.13.179.227:8081//sshd
 http://31.125.243.56:8181//sshd
+http://178.182.253.59:8084//sshd
 http://165.73.108.6:8028//sshd
 http://202.3.248.178//sshd
 http://91.164.39.142:50005//sshd
@@ -10350,6 +10350,7 @@ https://drive.google.com/uc?export=download&id=1sqvM1XSORanfNVqst_KkDmN8yHgulm4k
 https://codeload.github.com/drakeo03/rbxfpsunlocker-x64-hotfix1/zip/refs/heads/main
 http://122.160.164.103:5694/.i
 https://drive.google.com/uc?export=download&id=1GFn3lqD1rVybuT4ha-ldl92wT8ysRZfc
+http://2.187.36.184:39442/.i
 http://ircftp.net/image.png
 http://203.204.186.225:13718/.i
 https://drive.google.com/uc?export=download&id=1sAtMEXZN3QpVqzfxNc-5Dtnnn8lIHDXH
@@ -10573,7 +10574,6 @@ https://forms.saurashtrauniversity.edu/baffled.php
 http://66.189.122.244:32124/.i
 http://shop.mediasova.ru/upload/medialibrary/012/chaperon.php
 http://cr.nsohost.com/public/plugins/daterangepicker/example/truancy.php
-http://cr.nsohost.com/public/plugins/daterangepicker/example/worksite.php
 http://cr.nsohost.com/public/plugins/daterangepicker/example/legible.php
 http://cr.nsohost.com/public/plugins/daterangepicker/example/unremarkable.php
 https://onedrive.live.com/download?cid=04A3894062E7D373&resid=4A3894062E7D373%21192&authkey=AB7I1w77n6TSB3M
@@ -10774,6 +10774,7 @@ http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
 http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
 http://download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
+http://download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
 http://fakers.co.jp/25072019_0963.xls
 http://download.pdf00.cn/pdfreader/news/v1.0.7.01/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.01/mini_01.exe
