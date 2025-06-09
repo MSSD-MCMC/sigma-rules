@@ -512,7 +512,6 @@ http://212.56.35.232:881/c1.exe
 http://192.252.181.93:6635/38.46.13.90_86.bin
 http://neon.galaxias.cc/neon.mips
 http://neon.galaxias.cc/neon.mpsl
-http://neon.galaxias.cc/debug
 http://neon.galaxias.cc/neon.sh4
 http://neon.galaxias.cc/neon.m68k
 http://neon.galaxias.cc/dvr.sh
@@ -941,6 +940,7 @@ https://raw.githubusercontent.com/waf/dracula-cmd/master/dist/ColorTool.zip
 https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrounds.zip
 http://github.com/anonimusman00-2/xmr/raw/refs/heads/main/Silent%20Miner.zip
 http://github.com/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip
+http://43.252.229.158:9898/02.08.2022.exe
 http://139.159.157.238:55555/02.08.2022.exe
 http://109.92.232.94:60396/i
 http://176.121.58.98:6353/i
@@ -1655,6 +1655,7 @@ http://42.200.207.90/386
 http://42.200.207.90/arm
 http://check-for-status.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://check-for-status.cc/1337/TORRENTOLD-1.exe
+http://check-for-status.cc/update/TPB-1.exe
 http://185.149.146.73/archive8.zip
 http://36.91.77.59:43282/i
 http://103.10.63.150:37596/i
@@ -2106,7 +2107,6 @@ http://43.229.20.42:2874/i
 http://112.50.168.3:39717/i
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
 https://envs.sh/FOk.exe
-https://lsks.volamngayxua.net/AutoUpdate.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
@@ -2273,6 +2273,7 @@ https://47.100.180.123:30035/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://101.226.8.163/02.08.2022.exe
+https://43.140.215.17/02.08.2022.exe
 https://83.219.250.119:8443/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
@@ -2293,7 +2294,6 @@ https://8.141.166.236/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://39.75.154.200:53269/i
-http://47.113.217.92:8001/02.08.2022.exe
 http://47.113.217.92:8000/02.08.2022.exe
 http://120.27.235.78/02.08.2022.exe
 http://8.148.224.96:8888/02.08.2022.exe
@@ -3108,7 +3108,6 @@ https://github.com/PREAKP90/Python_Wallpaper_Crawler/releases/download/v1.0/Soft
 https://github.com/shirfor/autoforjob/releases/download/v2.0/Software.zip
 https://github.com/shirfor/autoforjob/releases/download/v1.0/Software.zip
 https://github.com/Probe895/PRODIGY_WD_01/releases/download/v2.0/Software.zip
-https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip
 https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip
 https://github.com/SamuDark4068/test-interface/releases/download/v2.0/Software.zip
 https://github.com/luis4325234/Al-Photoshop-2024/releases/download/v1.0/Application.zip
@@ -5904,6 +5903,7 @@ http://47.236.179.229/ewe.sh
 http://47.236.179.229/bns/ewe.arm5
 https://dacemirror.sci-hub.se/journal-article/30343922aca0fb8e53340406c2d9339d/sora2012.pdf
 http://202.141.166.71:30117/.i
+http://14.29.160.181:10080/02.08.2022.exe
 http://182.109.0.22:28888/sshd
 http://14.54.96.182:8150/sshd
 http://46.24.237.234:8011/sshd
@@ -6017,7 +6017,6 @@ http://2.54.89.174:802/sshd
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
 http://14.45.99.185:31353/.i
-http://8.140.239.162/02.08.2022.exe
 http://201.20.100.30:53515/i
 http://190.220.229.49:12646/i
 http://31.185.103.48:54941/i
@@ -6224,6 +6223,7 @@ http://93.176.52.107/Nan_Autre_ncrypt.exe
 http://93.176.52.107/Pack_Autre_ncrypt.exe
 https://weco.oss-eu-central-1.aliyuncs.com/test_kbnt
 http://93.176.52.107/Pack_Brout_ncrypt.exe
+http://weco.oss-eu-central-1.aliyuncs.com/test_kbnt
 https://weco.oss-eu-central-1.aliyuncs.com/simple
 http://github.com/cctv-security/rev/raw/main/Client-built.exe
 https://raw.githubusercontent.com/mariolalo/myrec/refs/heads/main/NOTallowedtocrypt.exe
@@ -6860,6 +6860,7 @@ https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
+https://annadegismen.com/js/inrkdl.js
 https://annadegismen.com/js/zhlkqy.js
 https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
@@ -6894,9 +6895,7 @@ https://annadegismen.com/js/afyles.js
 https://annadegismen.com/js/ropalb.js
 https://annadegismen.com/js/evfolp.js
 https://annadegismen.com/js/bivasm.js
-https://annadegismen.com/js/kawjhl.js
 https://annadegismen.com/js/gabjzd.js
-https://annadegismen.com/js/ehyjku.js
 https://annadegismen.com/js/auwgir.js
 https://annadegismen.com/js/gkevtl.js
 https://annadegismen.com/js/flutce.js
@@ -7087,6 +7086,7 @@ https://annadegismen.com/js/xzpwsy.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
 https://annadegismen.com/js/qzmcax.js
+https://annadegismen.com/js/owajis.js
 https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
 https://annadegismen.com/js/hmarws.js
@@ -7119,6 +7119,7 @@ https://annadegismen.com/js/wyafhx.js
 https://annadegismen.com/js/whdsul.js
 https://annadegismen.com/js/fgejix.js
 https://annadegismen.com/js/oknpgb.js
+https://annadegismen.com/js/wsjkzd.js
 https://annadegismen.com/js/pexogi.js
 https://annadegismen.com/js/dnuwsr.js
 https://annadegismen.com/js/jvoihp.js
@@ -7423,6 +7424,7 @@ http://annadegismen.com/js/pxobar.js
 http://annadegismen.com/js/vqpfdh.js
 http://annadegismen.com/js/kyrdlt.js
 http://annadegismen.com/js/mnyrdf.js
+http://annadegismen.com/js/yduphe.js
 http://annadegismen.com/js/tmvhgx.js
 http://annadegismen.com/js/shajxm.js
 http://annadegismen.com/js/dhbwlx.js
@@ -7497,6 +7499,7 @@ http://annadegismen.com/js/ogytzk.js
 http://annadegismen.com/js/zoafhp.js
 http://annadegismen.com/js/euhzjt.js
 http://annadegismen.com/js/pvhmaj.js
+http://annadegismen.com/js/duvijc.js
 http://annadegismen.com/js/lzjxve.js
 http://annadegismen.com/js/wgusdm.js
 http://annadegismen.com/js/wsjkzd.js
@@ -7738,7 +7741,6 @@ http://annadegismen.com/js/ktaxgd.js
 http://annadegismen.com/js/qlzjfg.js
 http://annadegismen.com/js/pnescq.js
 http://annadegismen.com/js/sveuca.js
-http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
 http://annadegismen.com/js/sbozjq.js
@@ -7933,6 +7935,7 @@ https://github.com/ordogos2/g575/releases/download/Download/setup.7.0.zip
 https://raw.githubusercontent.com/Marcin2123/jjsploit/refs/heads/main/JJSploit_8.10.7_x64-setup.exe
 https://raw.githubusercontent.com/Marcin2123/jjsploit/refs/heads/main/file_jjsploit
 https://raw.githubusercontent.com/Marcin2123/actualka/refs/heads/main/file
+http://c3poolbat.oss-accelerate.aliyuncs.com/c3pool7.bat
 http://update.vlnguba.com/add.bat
 http://c3poolbat.oss-accelerate.aliyuncs.com/autoc3pool.bat
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injector.exe
@@ -7946,7 +7949,6 @@ https://github.com/caonim2le/yournigas/raw/main/arm7/
 http://ftp.ywxww.net:820/vc17x64.exe
 http://ftp.ywxww.net:820/PCHunter64.exe
 http://ftp.ywxww.net:820/pm3100.exe
-http://ftp.ywxww.net:820/qwsrv3.3.exe
 http://ftp.ywxww.net:820/ydcx.exe
 http://ftp.ywxww.net:820/smb.exe
 http://ftp.ywxww.net:820/KB2808679x64.exe
@@ -8953,6 +8955,7 @@ http://111.231.145.137:8888/supershell/compile/download/3.exe
 http://8.218.138.77:8888/supershell/compile/download/%5Bwin
 https://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 http://27.147.132.114:38521/.i
+http://120.77.253.240/Photo.scr
 https://raw.githubusercontent.com/KoMasinfo/IDcb/main/CBS_applcation_details_072602024_xlsx.rar
 https://github.com/Adrinnno/PTwis/raw/main/File_CBS_App_details_no-0923871691_xlsx.zip
 https://github.com/Reporgu/fakado/raw/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
@@ -9756,6 +9759,7 @@ http://78.29.14.127:29050/.i
 http://118.127.105.182:17818/.i
 http://14.200.203.114:7122/.i
 http://82.117.197.102:19001/.i
+http://188.68.95.174:13872/.i
 http://2.57.219.149:46697/.i
 http://131.108.39.235:1237/.i
 http://36.92.207.29:60948/.i
@@ -10727,6 +10731,7 @@ http://cfs9.blog.daum.net/upload_control/download.blog?fhandle=MEp5eURAZnM5LmJsb
 http://cfs13.tistory.com/upload_control/download.blog?fhandle=YmxvZzE5MTk5NUBmczEzLnRpc3RvcnkuY29tOi9hdHRhY2gvMC8xNzAwMDAwMDAwMDAuZXhl&filename=oleaut32.dll%BF%C0%B7%F9%C7%D8%B0%E1%C7%CF%B1%E2.exe
 http://cfs10.blog.daum.net/upload_control/download.blog?fhandle=MDczaFhAZnMxMC5ibG9nLmRhdW0ubmV0Oi9JTUFHRS8wLzkwLmV4ZQ==&filename=XP_SP3_%ED%85%8C%EB%A7%88%ED%8C%A8%EC%B9%98.exe
 http://cfs13.tistory.com/upload_control/download.blog?fhandle=YmxvZzE5MTk5NUBmczEzLnRpc3RvcnkuY29tOi9hdHRhY2gvMC8xNzAwMDAwMDAwMDAuZXhl&filename=oleaut32.dll%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%D8%B0%EF%BF%BD%EF%BF%BD%CF%B1%EF%BF%BD.exe
+http://cfs7.blog.daum.net/upload_control/download.blog?fhandle=MEtnWE5AZnM3LmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5leGU=&filename=%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%A2%85%EB%9F%89%EC%A0%9C_%ED%85%8C%EC%8A%A4%ED%8A%B8-cksal16.exe/%EC%9D%B8%ED%84%B0%EB%84%B7_%EC%A2%85%EB%9F%89%EC%A0%9C_%ED%85%8C%EC%8A%A4%ED%8A%B8-cksal16.exe
 http://194.145.227.21/ldr.sh
 https://docs.google.com/uc?export=download&id=1JPL-UoUydm5HypQM67uokyDdrbLbpxvW&revid=0B7zpIPRmOC5UbHpWclQ0cXdyTE5vWTRBYmNidzNHTGM3bzVrPQ
 http://102.39.242.53:50000/
