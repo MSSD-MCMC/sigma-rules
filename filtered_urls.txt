@@ -873,7 +873,6 @@ http://146.103.25.100/main_arm6
 http://146.103.25.100/main_arm7
 http://146.103.25.100/main_arm5
 http://146.103.25.100/main_ppc
-http://146.103.25.100/main_x86_64
 http://146.103.25.100/main_mips
 http://146.103.25.100/main_x86
 http://146.103.25.100/main_mpsl
@@ -1674,6 +1673,7 @@ http://60.43.126.86/sshd
 http://157.157.22.65/sshd
 http://193.109.44.220/sshd
 http://glamandglow.com.sg/poli.bin
+http://2.179.184.17:55147/i
 https://app.box.com/shared/static/lr9c3ado06l5gfgzh1wq0ypp6efit0ay.zip
 http://176.39.83.89:41465/.i
 http://36.67.170.143:6580/i
@@ -1690,7 +1690,6 @@ http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
 http://82.102.157.161:802/sshd
 http://37.82.210.219/sshd
-http://211.229.88.50:32107/.i
 http://42.200.207.90/386
 http://42.200.207.90/arm
 http://check-for-status.cc/1337/TORRENTOLD-1.exe
@@ -1732,6 +1731,7 @@ http://218.153.133.130:55843/.i
 http://2.249.142.165:48793/Mozi.m
 http://210.96.44.219:45071/i
 http://20.169.41.5:2086/02.08.2022.exe
+http://1.94.236.193:9998/02.08.2022.exe
 http://119.166.72.154:37900/Mozi.m
 http://120.28.169.169:54784/i
 http://120.28.169.169:54784/bin.sh
@@ -2308,6 +2308,7 @@ http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://43.140.215.17/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
+https://120.79.64.164:58232/02.08.2022.exe
 https://103.19.190.184:4436/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
@@ -2514,7 +2515,6 @@ http://113.189.105.82:8080/sshd
 http://59.154.173.138:8000/sshd
 http://36.67.2.227:24502/i
 http://188.173.136.155:36689/i
-https://educacom.com.br/wp-admin/tmp/7d.jpg
 https://github.com/bahaaaymen/Chapito/releases/download/v3.3.6/Stay.Out.Firewind.v1.8.6.zip
 https://github.com/Sylvanogammer/Apex-No-Recoil/releases/download/v1.8.4-beta.4/apex-no-recoil-v1.8.4-beta.4.zip
 https://github.com/roniel8/Apex-No-Recoil/releases/download/v2.5.1-alpha.3/apex-no-recoil-v2-5-1-alpha-3.zip
@@ -5723,7 +5723,6 @@ https://upchemicals.co.in/test/cgi-bin/MR_BEAN/ALL_BEAN
 https://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://200.14.250.72/BLJYSVHW/info.zip
 http://200.14.250.72/BLJYSVHW/IMG001.exe
-http://47.109.201.173:8888/02.08.2022.exe
 http://8.130.132.210:7777/02.08.2022.exe
 http://45.236.175.69:21016/sshd
 http://2.55.94.61:802/sshd
@@ -5741,6 +5740,7 @@ http://81.70.85.113/backdoor/earm
 http://81.70.85.113/tp/ex86
 http://81.70.85.113/tp/empsl
 http://81.70.85.113/backdoor/empsl
+http://81.70.85.113/ex86
 http://81.70.85.113/tp/earm6
 http://81.70.85.113/earm6
 http://81.70.85.113/backdoor/earm6
@@ -6073,6 +6073,7 @@ http://93.177.240.118:12669/i
 http://154.126.186.44:34102/i
 http://177.247.15.185:5451/i
 http://78.26.136.125:25540/i
+http://14.33.239.247:48764/i
 https://112.124.71.123/02.08.2022.exe
 http://185.148.3.216/fdiuIoijofgrg
 https://raw.githubusercontent.com/Nvcommander2/Allgens/refs/heads/main/msgde.exe
@@ -6798,6 +6799,7 @@ https://fundrescuetech.com/XbcEr4Er3/Ginny
 https://fundrescuetech.com/XbcEr4Er3/Pikachu
 https://fundrescuetech.com/XbcEr4Er3/Sonic
 http://111.231.18.241:9999/02.08.2022.exe
+http://47.103.147.200:8899/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://39.102.210.162:8080/shell.elf
 http://39.102.210.162:8080/g.exe
@@ -6899,6 +6901,7 @@ https://annadegismen.com/js/xpdlwg.js
 https://annadegismen.com/js/kawjhl.js
 https://annadegismen.com/js/gabjzd.js
 https://annadegismen.com/js/ehyjku.js
+https://annadegismen.com/js/auwgir.js
 https://annadegismen.com/js/gkevtl.js
 https://annadegismen.com/js/flutce.js
 https://annadegismen.com/js/bzykis.js
@@ -7045,7 +7048,6 @@ https://annadegismen.com/js/kegqza.js
 https://annadegismen.com/js/ogytzk.js
 https://annadegismen.com/js/glyphn.js
 https://annadegismen.com/js/xfnjgo.js
-https://annadegismen.com/js/uvlpmk.js
 https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/yuesrp.js
 https://annadegismen.com/js/wkmpis.js
@@ -7090,7 +7092,6 @@ https://annadegismen.com/js/owajis.js
 https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
 https://annadegismen.com/js/hmarws.js
-https://annadegismen.com/js/htbgwa.js
 https://annadegismen.com/js/ucxlfi.js
 https://annadegismen.com/js/uovxcl.js
 https://annadegismen.com/js/htfvnw.js
@@ -7165,7 +7166,6 @@ https://annadegismen.com/js/clrfhb.js
 https://annadegismen.com/js/qdkgmu.js
 https://annadegismen.com/js/edfcjh.js
 https://annadegismen.com/js/naryxl.js
-https://annadegismen.com/js/kdzjqg.js
 https://annadegismen.com/js/nfdjux.js
 https://annadegismen.com/js/wueshi.js
 https://annadegismen.com/js/zyuakm.js
@@ -7360,7 +7360,6 @@ http://annadegismen.com/js/njrtbu.js
 http://annadegismen.com/js/gkevtl.js
 http://annadegismen.com/js/wmxrlh.js
 http://annadegismen.com/js/kluhib.js
-http://annadegismen.com/js/ldrqxi.js
 http://annadegismen.com/js/iylbjk.js
 http://annadegismen.com/js/hnwkmj.js
 http://annadegismen.com/js/bvafux.js
@@ -8126,6 +8125,7 @@ https://raw.githubusercontent.com/C5Hackr/Phantom/main/Phantom/Resources/donut.e
 http://156.255.2.100/ffmpeg.jpg
 http://101.133.156.69:7001/02.08.2022.exe
 http://140.192.101.212:4343/.DS_Store
+http://152.136.140.85:40389/key.pem
 https://raw.githubusercontent.com/Justincoding3/slumfun/main/Obfuscated.exe
 https://raw.githubusercontent.com/r00t-3xp10it/redpill/main/utils/compiled.exe
 https://raw.githubusercontent.com/SecWiki/windows-kernel-exploits/master/MS14-068/MS14-068.exe
@@ -9700,7 +9700,6 @@ http://178.214.241.150:28760/.i
 http://90.182.214.225:50162/.i
 http://82.114.109.66:60555/.i
 http://103.90.207.58:41059/.i
-http://151.237.4.20:46151/.i
 http://193.228.134.161:62706/.i
 http://91.92.94.138:15350/.i
 http://185.71.69.198:34190/.i
@@ -9717,6 +9716,7 @@ http://103.7.27.90:17260/.i
 http://176.62.237.79:62202/.i
 http://176.122.28.26:55939/.i
 http://47.50.169.82:55508/.i
+http://81.16.123.55:41567/.i
 http://103.101.81.142:1281/.i
 http://82.114.200.50:48416/.i
 http://109.108.84.121:28531/.i
@@ -10029,6 +10029,7 @@ http://91.92.188.72:64496/i
 http://78.29.14.127:29050/i
 http://121.101.130.152:49784/i
 http://46.100.5.56:45003/i
+http://46.151.56.42:28186/i
 http://115.165.209.73:42721/i
 http://139.255.67.189:26678/i
 http://95.141.135.138:14131/i
@@ -10500,6 +10501,7 @@ https://mersped.mycpanel.rs/ema_KvcEBm137.bin
 http://182.253.205.236:48543/.i
 https://www.usaayurveda.com/js/prototype/form.js
 http://update.cg100iii.com/cgmb/BenzMonster.exe
+http://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 https://palharesinformatica.com.br/down/newsales/adm_atu.exe
 http://jobcity.com/img/RM0XpX/
 https://tecni-soft.com/ACCESORIOS/PLg/
@@ -10699,7 +10701,6 @@ http://yzkzixun.com/v2x2vexx.jpg
 http://davaorealproperty.com/blogs/i0jOsqdfOKxC2/
 http://www.todaysmenu.in/css/sites/8chik9xrj/owjub2/
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
-http://jkshaonv.com/wp-admin/eTrac/qqlOX3LVJH/
 https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
@@ -10778,7 +10779,6 @@ http://src1.minibai.com/uploads/thirdupload/5c8b08b37a426.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_02.exe
 http://www.konsor.ru/keygen.exe
 http://download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
-http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_01.exe
 http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
 http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
@@ -10895,7 +10895,6 @@ http://www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://veryboys.com/game/download/zip/waigua/shiqi/2003/06/20030620.exe
 http://veryboys.com/game/download/zip/waigua/mir2/2003/05/200305252.exe
-http://veryboys.com/game/download/zip/waigua/mu/2003/07/20030721.exe
 http://www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
 http://www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
 http://veryboys.com/game/download/zip/waigua/mir2/2003/05/20030520.exe
