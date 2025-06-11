@@ -1,5 +1,5 @@
 # Suricata Blocking Rules
-# Auto-generated on Wed Jun 11 13:00:23 +08 2025
+# Auto-generated on Wed Jun 11 14:00:22 +08 2025
 # ===========================
 # INBOUND BLOCKING RULES
 # ===========================
@@ -260,17 +260,17 @@ drop ip 115.190.95.198 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 115.19
 drop ip 115.151.72.153 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 115.151.72.153 (Inbound)"; sid:6000255; rev:1; priority:1;)
 drop ip 114.96.92.203 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 114.96.92.203 (Inbound)"; sid:6000256; rev:1; priority:1;)
 drop ip 114.219.56.122 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 114.219.56.122 (Inbound)"; sid:6000257; rev:1; priority:1;)
-drop ip 114.130.56.191 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 114.130.56.191 (Inbound)"; sid:6000258; rev:1; priority:1;)
-drop ip 114.10.47.109 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 114.10.47.109 (Inbound)"; sid:6000259; rev:1; priority:1;)
-drop ip 113.31.108.164 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 113.31.108.164 (Inbound)"; sid:6000260; rev:1; priority:1;)
-drop ip 113.31.103.19 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 113.31.103.19 (Inbound)"; sid:6000261; rev:1; priority:1;)
-drop ip 112.95.227.2 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 112.95.227.2 (Inbound)"; sid:6000262; rev:1; priority:1;)
-drop ip 111.180.199.183 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 111.180.199.183 (Inbound)"; sid:6000263; rev:1; priority:1;)
-drop ip 111.173.105.202 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 111.173.105.202 (Inbound)"; sid:6000264; rev:1; priority:1;)
-drop ip 110.225.96.203 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 110.225.96.203 (Inbound)"; sid:6000265; rev:1; priority:1;)
-drop ip 108.162.193.148 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 108.162.193.148 (Inbound)"; sid:6000266; rev:1; priority:1;)
-drop ip 108.162.192.112 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 108.162.192.112 (Inbound)"; sid:6000267; rev:1; priority:1;)
-drop ip 107.173.127.141 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 107.173.127.141 (Inbound)"; sid:6000268; rev:1; priority:1;)
+drop ip 114.10.47.109 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 114.10.47.109 (Inbound)"; sid:6000258; rev:1; priority:1;)
+drop ip 113.31.108.164 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 113.31.108.164 (Inbound)"; sid:6000259; rev:1; priority:1;)
+drop ip 113.31.103.19 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 113.31.103.19 (Inbound)"; sid:6000260; rev:1; priority:1;)
+drop ip 112.95.227.2 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 112.95.227.2 (Inbound)"; sid:6000261; rev:1; priority:1;)
+drop ip 111.180.199.183 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 111.180.199.183 (Inbound)"; sid:6000262; rev:1; priority:1;)
+drop ip 111.173.105.202 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 111.173.105.202 (Inbound)"; sid:6000263; rev:1; priority:1;)
+drop ip 110.225.96.203 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 110.225.96.203 (Inbound)"; sid:6000264; rev:1; priority:1;)
+drop ip 108.162.193.148 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 108.162.193.148 (Inbound)"; sid:6000265; rev:1; priority:1;)
+drop ip 108.162.192.112 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 108.162.192.112 (Inbound)"; sid:6000266; rev:1; priority:1;)
+drop ip 107.173.127.141 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 107.173.127.141 (Inbound)"; sid:6000267; rev:1; priority:1;)
+drop ip 107.155.55.174 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 107.155.55.174 (Inbound)"; sid:6000268; rev:1; priority:1;)
 drop ip 105.73.164.78 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 105.73.164.78 (Inbound)"; sid:6000269; rev:1; priority:1;)
 drop ip 104.28.195.186 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 104.28.195.186 (Inbound)"; sid:6000270; rev:1; priority:1;)
 drop ip 104.236.248.24 any -> any any (msg:"SIGMA-Blacklisted-Threat-List 104.236.248.24 (Inbound)"; sid:6000271; rev:1; priority:1;)
