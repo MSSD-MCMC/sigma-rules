@@ -31,7 +31,6 @@ http://1.94.184.17:8000/zbsm.zip
 http://195.82.147.93/adm005/med/slui.exe
 http://185.156.72.2/files/7357722688/YAPbcUJ.exe
 http://185.156.72.2/files/5373596444/MDXeY9z.exe
-https://files.catbox.moe/t50ge8.jpg
 https://acert.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://csis.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://ar-bn.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -70,7 +69,6 @@ http://160.250.137.130/curl.sh
 http://hihi.trumdvfb.com/bins/cutex86_64
 http://hihi.trumdvfb.com/bins/cutearm6
 http://hihi.trumdvfb.com/bins/cutesh4
-http://hihi.trumdvfb.com/bins/cutem68k
 http://hihi.trumdvfb.com/bins/cutearm7
 http://hihi.trumdvfb.com/bins/cutempsl
 http://hihi.trumdvfb.com/bins/cutearm
@@ -275,7 +273,6 @@ http://butbot.ddns.net/arm7
 http://butbot.ddns.net/arm5
 http://butbot.ddns.net/arm6
 http://butbot.ddns.net/sh4
-http://butbot.ddns.net/x86
 http://butbot.ddns.net/x86_64
 http://butbot.ddns.net/spc
 http://butbot.ddns.net/ppc
@@ -612,7 +609,6 @@ http://205.185.124.206/i686
 http://205.185.124.206/x86
 http://205.185.124.206/ppc
 http://205.185.124.206/co
-http://traxanhc2.duckdns.org/dwrioej/neon.armv7l
 http://traxanhc2.duckdns.org/dwrioej/neon.armv4l
 http://traxanhc2.duckdns.org/dwrioej/neon.powerpc-440fp
 http://traxanhc2.duckdns.org/dwrioej/neon.i586
@@ -1180,6 +1176,7 @@ https://medthermography.com/fsxs.zip
 https://jakestrack.com/zsps.zip
 http://medthermography.com/oste.zip
 https://jakestrack.com/fste.zip
+https://medthermography.com/lebu.zip
 https://jakestrack.com/fsps.zip
 https://ace-project.org/d.js
 http://185.156.72.2/files/5494432675/sGe7ljJ.exe
@@ -1490,12 +1487,10 @@ http://62.60.226.165/public_files/bfakmmk.txt
 http://62.60.226.165/public_files/kFAehaa.txt
 http://62.60.226.165/public_files/ndAIAFF.txt
 http://62.60.226.165/public_files/fiknfmr.txt
-http://62.60.226.165/public_files/hkkbAkm.txt
 http://62.60.226.165/public_files/Fdhdkjh.txt
 http://62.60.226.165/public_files/gAbfmrb.txt
 http://62.60.226.165/public_files/kiISdaS.txt
 http://62.60.226.165/public_files/hefkkib.txt
-http://62.60.226.165/public_files/eIkhIhk.txt
 http://62.60.226.165/public_files/ioeSamn.txt
 http://62.60.226.165/public_files/grodoAh.txt
 http://62.60.226.165/public_files/nkgenkF.txt
@@ -2038,7 +2033,6 @@ http://94.26.90.217/s
 http://94.26.90.217/l
 http://94.26.90.217/m
 http://94.26.90.217/tt/mips
-http://94.26.90.217/vv/riscv32
 http://94.26.90.217/vv/mipsel
 http://94.26.90.217/tt/armv4l
 http://94.26.90.217/tt/arc
@@ -2056,6 +2050,7 @@ http://94.26.90.217/tt/riscv32
 http://94.26.90.217/ee/armv6l
 http://94.26.90.217/vv/i686
 http://94.26.90.217/vv/mips64
+http://94.26.90.217/ee/armv4eb
 http://94.26.90.217/tt/armv6l
 http://94.26.90.217/tt/armv4eb
 http://94.26.90.217/vv/arc
@@ -2526,6 +2521,7 @@ https://47.109.45.147:23071/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 http://118.31.114.149:8081/02.08.2022.exe
 https://8.141.166.236/02.08.2022.exe
+https://43.155.195.102:8888/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://39.75.154.200:53269/i
@@ -6447,7 +6443,6 @@ https://a11xxx1.oss-cn-hongkong.aliyuncs.com/k360.exe
 https://a17rrr1.oss-cn-hongkong.aliyuncs.com/k360.exe
 https://a23uuu1.oss-cn-hongkong.aliyuncs.com/k360.exe
 https://a18qqq1.oss-cn-hongkong.aliyuncs.com/k360.exe
-https://a26bbb1.oss-cn-hongkong.aliyuncs.com/k360.exe
 https://a19ccc1.oss-cn-hongkong.aliyuncs.com/k360.exe
 https://raw.githubusercontent.com/nakuss/dwdwadwa/refs/heads/main/Client-built.exe
 https://raw.githubusercontent.com/TPinauskas/AntiCheat/refs/heads/main/Amogus.exe
@@ -6766,6 +6761,7 @@ http://93.87.31.84:40955/.i
 http://103.236.135.177:21414/.i
 http://173.178.94.224:1364/.i
 http://207.113.208.58:2544/.i
+http://103.245.78.68:10257/.i
 http://103.121.195.3:3985/.i
 http://103.43.6.114:7055/.i
 http://103.84.39.181:19439/.i
@@ -7025,6 +7021,7 @@ https://annadegismen.com/js/natsgp.js
 https://annadegismen.com/js/bfkovw.js
 https://annadegismen.com/js/xnzoum.js
 https://annadegismen.com/js/ibgeaz.js
+https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/mqpbho.js
 https://annadegismen.com/js/rznscf.js
 https://annadegismen.com/js/pnescq.js
@@ -7287,6 +7284,7 @@ https://annadegismen.com/js/fqwgbd.js
 https://annadegismen.com/js/onqyfe.js
 https://annadegismen.com/js/awnrzg.js
 https://annadegismen.com/js/wyafhx.js
+https://annadegismen.com/js/whdsul.js
 https://annadegismen.com/js/fgejix.js
 https://annadegismen.com/js/oknpgb.js
 https://annadegismen.com/js/wsjkzd.js
@@ -7333,7 +7331,6 @@ https://annadegismen.com/js/qdkgmu.js
 https://annadegismen.com/js/edfcjh.js
 https://annadegismen.com/js/naryxl.js
 https://annadegismen.com/js/kdzjqg.js
-https://annadegismen.com/js/nfdjux.js
 https://annadegismen.com/js/zyuakm.js
 https://annadegismen.com/js/vjyzld.js
 https://annadegismen.com/js/dopvba.js
@@ -7384,6 +7381,7 @@ https://annadegismen.com/js/cjtvmy.js
 https://annadegismen.com/js/njrtbu.js
 https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
+https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
@@ -7446,7 +7444,6 @@ https://annadegismen.com/js/tlsoch.js
 https://annadegismen.com/js/wfrtcn.js
 https://annadegismen.com/js/fnezgm.js
 https://annadegismen.com/js/fgjzlp.js
-https://annadegismen.com/js/jpkibs.js
 https://annadegismen.com/js/awtjki.js
 https://annadegismen.com/js/tsqyuk.js
 https://annadegismen.com/js/tcgdqr.js
@@ -7463,6 +7460,7 @@ https://annadegismen.com/js/majqwv.js
 https://annadegismen.com/js/mwpjqs.js
 https://annadegismen.com/js/ktaxgd.js
 https://annadegismen.com/js/gqmosl.js
+https://annadegismen.com/js/gnkjqf.js
 http://annadegismen.com/js/ctiakn.js
 http://annadegismen.com/js/geruvw.js
 http://annadegismen.com/js/wueshi.js
@@ -7565,7 +7563,6 @@ http://annadegismen.com/js/jaieho.js
 http://annadegismen.com/js/yvsmlo.js
 http://annadegismen.com/js/jfoepi.js
 http://annadegismen.com/js/ljkacr.js
-http://annadegismen.com/js/zsjwbc.js
 http://annadegismen.com/js/gbfyoz.js
 http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
@@ -7897,6 +7894,7 @@ http://annadegismen.com/js/pnescq.js
 http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
+http://annadegismen.com/js/sbozjq.js
 http://annadegismen.com/js/ylherd.js
 http://annadegismen.com/js/hrdcou.js
 http://annadegismen.com/js/hexmvb.js
@@ -8852,7 +8850,6 @@ http://212.98.231.10:8888/DLLGIRIS.dll
 http://139.198.15.223:8080/ScanPort.exe
 http://112.124.28.233:5566/hid.dll
 http://112.124.28.233:5566/nc.exe
-http://39.105.31.193:1389/abc
 http://103.123.98.86/winbox/winbox.exe
 http://103.123.98.86:8082/winbox/winbox.exe
 http://43.240.65.55:81/pornhub_downloader.exe
@@ -9111,7 +9108,6 @@ http://47.98.177.117:8888/supershell/compile/download/1.exe
 http://47.98.177.117:8888/supershell/compile/download//1.exe
 http://111.231.145.137:8888/supershell/compile/download/1.exe
 http://101.35.228.105:8888/supershell/compile/download/tool
-http://47.98.177.117:8888/supershell/compile/download/123.exe
 http://8.218.138.77:8888/supershell/compile/download/win
 http://101.35.228.105:8888/supershell/compile/download/tool.exe
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Trojan/000.exe
@@ -9134,7 +9130,6 @@ http://89.197.154.116/lazagne.exe
 http://81.23.169.206:39697/.i
 http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
-http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
 http://122.179.136.112/Photo.scr
 http://78-20-115-5.access.telenet.be/Photo.scr
@@ -9756,6 +9751,7 @@ http://178.34.182.186:34662/.i
 http://45.224.100.254:4139/.i
 http://181.129.106.146:38440/.i
 http://64.140.105.9:44920/.i
+http://82.212.109.51:47861/.i
 http://146.196.120.194:45995/.i
 http://49.156.46.134:31244/.i
 http://87.197.107.203:52364/.i
@@ -9771,7 +9767,6 @@ http://178.34.183.162:34512/.i
 http://218.86.123.43:52183/.i
 http://117.240.163.19:9656/.i
 http://109.171.30.19:33609/.i
-http://186.154.93.81:8125/.i
 http://150.129.202.197:1316/.i
 http://36.94.29.82:23591/.i
 http://43.245.131.27:1203/.i
