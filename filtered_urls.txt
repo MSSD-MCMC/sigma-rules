@@ -483,6 +483,7 @@ http://196.251.66.9/010100110101010/fghe3tj.sh4
 http://196.251.66.9/010100110101010/fghe3tj.mips
 http://196.251.66.9/010100110101010/fghe3tj.i686
 http://196.251.66.9/010100110101010/debug
+http://196.251.66.9/010100110101010/fghe3tj.m68k
 http://196.251.116.9/multi
 http://196.251.116.9/fb
 http://109.248.151.247/RMBvZM89.bin
@@ -556,6 +557,7 @@ http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm7
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.x86
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.mpsl
+http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.x86
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.m68k
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm7
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm7
@@ -588,7 +590,6 @@ http://176.65.138.141/mig
 http://176.65.138.21/mig
 http://179.43.191.98/mips
 http://176.65.137.55/mig
-http://196.251.115.207/t
 http://185.156.72.2/files/7908530566/zSPuKEx.exe
 http://1.94.184.17:8000/sun32.exe
 http://195.82.147.93/adm005/med/modisref34.dat
@@ -1105,6 +1106,7 @@ http://154.73.64.16:41921/i
 http://88.23.60.141/sshd
 http://88.23.60.141:8080/sshd
 http://31.8.127.57:23238/i
+http://153.158.214.125/sshd
 http://195.26.97.59/sshd
 http://37.80.53.179/sshd
 http://185.63.103.143:8081/sshd
@@ -1243,7 +1245,6 @@ https://sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1Framework.t
 https://sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1tronvbs.txt
 http://195.82.147.93/adm005/052925-sg/ittechnical.exe
 http://195.82.147.93/adm005/med/articleeffectively.exe
-http://195.82.147.93/adm005/052625-ti/lawlead.hta
 http://proarte.rs/loHqJvbkkExooJyGpRH244.bin
 https://kristalzemin.com/Junglefebrene.deploy
 https://kristalzemin.com/IStNlGVNz127.bin
@@ -1532,6 +1533,7 @@ http://github.com/Herodiw/julus/raw/refs/heads/main/Discord.exe
 http://github.com/Noxytheguy/imcrazy/raw/refs/heads/main/System.exe
 http://github.com/onixlauncherbypass/onix/raw/refs/heads/main/Client-built.exe
 http://151.242.41.114/CvWizard/CvWizardV2.exe
+https://theipgenerators.com/uploads/onedriverservs.jpg
 http://barrysploitbucket.s3.us-west-2.amazonaws.com/test2.bin
 https://github.com/upsnorwayjs/dmx/releases/download/ttu3535/rtx.bat
 http://194.102.104.25:8443/02.08.2022.exe
@@ -1734,7 +1736,6 @@ http://94.26.90.251/x86
 http://94.26.90.251/mpsl
 http://94.26.90.251/ppc
 http://94.26.90.251/arm5
-http://94.26.90.251/sh4
 http://94.26.90.251/arm7
 http://94.26.90.251/spc
 http://94.26.90.251/m68k
@@ -1764,11 +1765,9 @@ http://212.80.9.172/mips
 http://212.80.9.172/mipsel
 http://212.80.9.172/i686
 http://212.80.9.172/aarch64
-http://212.80.9.172/arm
 http://212.80.9.172/m68k
 http://212.80.9.172/x86_64
 http://89.42.88.163/main_arm7
-http://89.42.88.163/main_x86_64
 http://119.28.116.34/02.08.2022.exe
 http://190.95.22.93:34088/i
 http://94.28.95.35:60431/i
@@ -1834,7 +1833,6 @@ https://hdgreen.org/Gamma_installer_144.dmg
 https://hdgreen.org/ayin.v0.1.0.exe
 https://hdgreen.org/Gamma_app_stable_vers_107_2_setup_proVer%20(8).exe
 https://hdgreen.org/Soft_Mine_app_stable_vers_113_2_setup_proVer.exe
-https://hdgreen.org/PhilipPatrol.exe
 https://hdgreen.org/Alli_AI_stable_latest_release_ver_801_Setup_win.exe
 https://hdgreen.org/BrowserSetup.exe
 http://traxanhc2.duckdns.org/1.sh
@@ -1934,6 +1932,7 @@ http://78.153.140.66/vb.sh
 http://78.153.140.66/hb.sh
 http://78.153.140.66/scg.sh
 http://78.153.140.66/ge.sh
+http://78.153.140.66/pg2.sh
 http://78.153.140.66/ae.sh
 http://78.153.140.66/unk.sh
 http://78.153.140.66/ap.sh
@@ -1944,6 +1943,7 @@ http://78.153.140.66/tr.sh
 http://78.153.140.66/al.sh
 http://78.153.140.66/an.sh
 http://78.153.140.66/s.sh
+http://78.153.140.66/j.sh
 http://78.153.140.66/mo.sh
 http://78.153.140.66/mi.sh
 http://78.153.140.66/bg.sh
@@ -2023,6 +2023,7 @@ http://201.94.181.7:8016/sshd
 http://177.23.139.230:37773/sshd
 http://157.157.252.29/sshd
 http://201.94.181.7:8010/sshd
+http://201.94.181.7:8013/sshd
 https://107.150.0.234/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.231/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.229/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -2148,6 +2149,7 @@ http://112.168.60.136:31252/i
 http://37.148.13.85:50843/i
 http://191.7.47.222:21234/i
 http://157.255.22.42:34323/i
+http://81.23.169.191:36881/i
 http://101.58.146.184:9454/i
 http://71.15.96.217:65214/i
 http://125.139.206.224:20369/i
@@ -2388,6 +2390,7 @@ http://116.198.229.197:9999/02.08.2022.exe
 http://36.41.71.241:2086/02.08.2022.exe
 http://47.254.74.170:13561/02.08.2022.exe
 http://80.110.37.104:48784/i
+http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
 http://47.242.235.106:60116/linux
 http://183.109.132.188:35716/.i
@@ -4366,6 +4369,7 @@ https://drive.google.com/uc?export=download&id=1KZBXe0sXH2nEkDwfbbrVYZg6vSu-Nmci
 https://github.com/dalsaniyacoomercio/Hydrogen-Executor/releases/download/v1.0/Application.zip
 https://drive.google.com/uc?export=download&id=1EK4th7UCqD9_h2yf9orHzhUALLukeO0n
 https://github.com/neymitoBR/Zorara-Executor/releases/download/v1.0.1/Release-x64.zip
+https://github.com/neymitoBR/Zorara-Executor/releases/download/v1.0.2/Release-x64.zip
 https://github.com/Sporty18000/MOBILedit-Forensic-Express-Pro-Free/releases/download/v1.0/Software.zip
 https://github.com/FilipXVZ/Roblox-Synapse/releases/download/v1.6.2/Roblox.Synapse.v1.6.2.zip
 https://github.com/msaad453/Nexus-Roblox/releases/download/v1.0/Application.zip
@@ -4469,6 +4473,7 @@ https://www.support-data.com/Bear/2020/Goldarnedest.aca
 https://sharegolem.com/storage/de373d0df/f0eee999
 http://94.159.113.64/b.jpg
 https://raw.githubusercontent.com/numonehittaboy/cdn/refs/heads/main/cvf.exe
+http://202.5.51.45:41025/i
 http://103.79.114.29:17429/i
 http://185.103.130.250:14052/i
 http://221.159.106.187:49933/i
@@ -4569,7 +4574,6 @@ https://web.qxfhelp.top/bin/support.client.exe
 https://onyxfortitech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://jdsfrw-11.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://acc.wtshelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://ubftr3.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcyberapex.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsafenova.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://m.anphelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -6098,6 +6102,7 @@ http://101.126.11.168/xsh/xsh.exe
 http://ny.lshdw.cc/SigmaPlus/4.exe
 https://raw.githubusercontent.com/TylerMT99/ZZZaaa/refs/heads/main/Built.exe
 http://141.147.43.219:3000/ftp/EmmetPROD.exe
+http://181.206.158.190/Update.vbs
 http://47.109.159.25:7080/98.exe
 http://117.72.36.133/Invoke-Mimikatz.ps1
 http://14.224.174.212/xmrig-v6.21.0-ubuntu20.04-linux
@@ -6395,6 +6400,7 @@ http://185.136.193.107:11053/i
 http://27.159.154.179:44041/i
 http://41.190.68.13:37199/i
 http://103.164.191.74:12576/i
+http://196.2.14.197:36682/i
 http://182.160.109.98:29602/i
 http://47.181.114.185:35261/i
 http://78.153.52.58:19219/i
@@ -6535,7 +6541,6 @@ https://a11xxx1.oss-cn-hongkong.aliyuncs.com/libcef.dll
 https://a16eea1.oss-cn-hongkong.aliyuncs.com/xm.ocx
 https://a15aaa1.oss-cn-hongkong.aliyuncs.com/xm.ocx
 https://a11xxx1.oss-cn-hongkong.aliyuncs.com/xm.ocx
-https://a18qqq1.oss-cn-hongkong.aliyuncs.com/xm.ocx
 https://a11xxx1.oss-cn-hongkong.aliyuncs.com/svchost.exe
 https://a17rrr1.oss-cn-hongkong.aliyuncs.com/svchost.exe
 https://a26bbb1.oss-cn-hongkong.aliyuncs.com/svchost.exe
@@ -7425,6 +7430,7 @@ https://annadegismen.com/js/tukayh.js
 https://annadegismen.com/js/nlzrch.js
 https://annadegismen.com/js/balqsd.js
 https://annadegismen.com/js/nlotfm.js
+https://annadegismen.com/js/eznirm.js
 https://annadegismen.com/js/sgtvuz.js
 https://annadegismen.com/js/mgurty.js
 https://annadegismen.com/js/zjkhuf.js
@@ -7967,6 +7973,7 @@ http://annadegismen.com/js/nwqtuo.js
 http://annadegismen.com/js/oknpgb.js
 http://annadegismen.com/js/sxvnkf.js
 http://annadegismen.com/js/lmaknf.js
+http://annadegismen.com/js/bazyuq.js
 http://annadegismen.com/js/hoygvf.js
 http://annadegismen.com/js/jnfica.js
 http://annadegismen.com/js/hcfbpe.js
@@ -8683,7 +8690,6 @@ http://134.249.141.119:22752/Mozi.m
 http://110.74.207.194:3585/Mozi.m
 http://178.188.30.171:14759/Mozi.m
 http://213.222.45.158:45801/Mozi.m
-http://93.118.104.33:41338/Mozi.m
 http://64.140.100.201:44920/Mozi.m
 http://181.143.114.106:61394/Mozi.m
 http://211.186.82.229:13753/Mozi.m
@@ -8788,7 +8794,6 @@ http://45.224.100.254:4139/Mozi.m
 http://181.143.124.58:2854/Mozi.m
 http://27.147.132.114:38521/Mozi.m
 http://190.4.44.202:14124/Mozi.m
-http://103.71.46.122:7747/Mozi.m
 http://203.160.56.67:12929/Mozi.m
 http://36.66.139.36:53736/Mozi.m
 http://31.210.217.24:64046/Mozi.m
@@ -9252,6 +9257,7 @@ http://softbank126023203236.bbtec.net/Photo.scr
 http://host-195-103-203-106.business.telecomitalia.it/Photo.scr
 http://host-95-255-114-11.business.telecomitalia.it/Photo.scr
 http://89.184.185.198:4443/tftp
+http://185.224.107.4:8580/tftp
 http://170.210.81.101/tftp
 http://12.196.184.34/tftp
 http://211.192.113.232/tftp
@@ -9365,6 +9371,7 @@ http://132.255.192.122:9001/sshd
 http://39.175.56.249:9005/sshd
 http://81.42.247.62:8084/sshd
 http://87.26.194.197:8884/sshd
+http://178.183.208.134:8080/sshd
 http://80.24.87.77:8057/sshd
 http://81.42.247.62:8087/sshd
 http://178.84.167.164:8080/sshd
@@ -10145,7 +10152,6 @@ http://188.237.250.100:1189/i
 http://194.208.56.60:14184/i
 http://150.129.202.193:1316/i
 http://188.68.95.174:13872/i
-http://186.42.98.2:28072/i
 http://178.134.42.162:18520/i
 http://202.5.52.110:37085/i
 http://202.5.52.110:37085/bin.sh
@@ -10306,7 +10312,6 @@ http://190.70.237.191:34538/i
 http://141.105.87.18:55468/i
 http://31.28.11.111:15120/i
 http://193.228.135.75:26033/i
-http://195.181.38.152:49091/i
 http://185.61.246.225:11088/i
 http://212.154.131.153:16122/i
 http://185.237.157.98:41619/i
@@ -10576,6 +10581,7 @@ http://43.249.172.195:888/112s
 https://encurtador.com.br/crDLT
 http://43.249.172.195:888/112
 http://103.82.211.164:45793/.i
+https://tanscarattorneys.co.tz/rter/
 http://115.94.9.181:44048/.i
 http://113.214.56.228:41018/.i
 http://89.135.142.235:11226/.i
@@ -10741,6 +10747,7 @@ https://forms.saurashtrauniversity.edu/belt.php
 http://fulltai.top/wp-includes/oKXYj/
 http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 https://eruditewef.org/caisson.php
+https://eruditewef.org/toddies.php
 https://chaparral.es/sphygmus.php
 https://chaparral.es/reactron.php
 https://eruditewef.org/rhododendron.php
