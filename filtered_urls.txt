@@ -379,7 +379,6 @@ http://196.251.116.9/linksys
 http://196.251.116.9/mag
 http://196.251.116.9/z/fb
 http://196.251.116.9/z/multi
-http://196.251.116.9/lll
 http://196.251.116.9/z/89/mips
 http://196.251.116.9/z/89/arm6
 http://196.251.116.9/z/89/mpsl
@@ -396,6 +395,7 @@ http://192.252.181.93:6635/103.199.100.37.dll
 http://196.251.116.9/adb
 http://196.251.116.9/w.sh
 http://196.251.116.9/c.sh
+http://196.251.116.9/b
 http://103.149.252.178/curl.sh
 http://103.149.252.178/wget.sh
 http://176.65.138.21/nvi
@@ -562,6 +562,7 @@ http://207.174.22.171/arm7
 http://207.174.22.171/g.sh
 http://butbot.ddns.net/sh4
 http://butbot.ddns.net/x86
+http://butbot.ddns.net/x86_64
 http://butbot.ddns.net/spc
 http://butbot.ddns.net/debug.dbg
 http://185.208.158.206/xm/xmrig-6.22.2/xmrig
@@ -569,6 +570,7 @@ http://185.208.158.206/get.sh
 http://185.208.158.206/xm/gbpader
 http://185.208.158.206/xm/xmrig-6.22.2-focal-x64.tar.gz
 http://103.149.252.251/arm5
+http://103.149.252.251/spc
 http://103.149.252.251/arm7
 http://213.209.143.44/g
 http://213.209.143.44/p.sh
@@ -916,7 +918,6 @@ http://196.251.114.8/hiddenbin/boatnet.arm7
 http://196.251.114.8/hiddenbin/boatnet.arm
 http://196.251.114.8/hiddenbin/boatnet.ppc
 http://196.251.114.8/hiddenbin/boatnet.x86
-http://196.251.114.8/hiddenbin/boatnet.mpsl
 http://156.238.233.147/02.08.2022.exe
 http://47.102.209.177/02.08.2022.exe
 http://27.25.158.13:8088/02.08.2022.exe
@@ -1727,7 +1728,6 @@ http://185.156.72.2/newdef/random.exe
 http://185.156.72.2/testmine/random.exe
 http://185.156.72.2/files/fate/random.exe
 http://213.209.150.18/obicrypttwo.exe
-https://onfiltre.com.tr/wp-content/giphy.gif
 https://theipgenerators.com/uploads/onlineboss.txt
 http://update.aegis.aliyun.com/download/uninstall.sh
 http://update.aegis.aliyun.com/download/quartz_uninstall.sh
@@ -1753,7 +1753,6 @@ http://88.8.17.128:1044/sshd
 https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_linux_amd64_v2.8.0.tar.gz
 http://13.71.2.244/.x/pax.txt
 http://176.39.83.89:41465/i
-http://62.56.207.27:55229/i
 http://glamandglow.com.sg/slo.bin
 https://www.surethinks.com/xostes.zip
 https://jaagnet.com/ksps.zip
@@ -2605,7 +2604,6 @@ http://github.com/Niggedddx/Dependenciuesfeife/raw/refs/heads/main/BruterV3.1.ex
 http://github.com/arduino1209/archive-client/raw/refs/heads/main/payload1.exe
 https://www.nywl7.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.vpld4.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://acc.trjsp41.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://24x7support.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://screensconnct.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -7122,7 +7120,6 @@ https://annadegismen.com/js/ofbnkh.js
 https://annadegismen.com/js/qefpth.js
 https://annadegismen.com/js/dhzwae.js
 https://annadegismen.com/js/ljkacr.js
-https://annadegismen.com/js/dwjupc.js
 https://annadegismen.com/js/mxciwn.js
 https://annadegismen.com/js/fdkrnb.js
 https://annadegismen.com/js/xplisb.js
@@ -7211,7 +7208,6 @@ https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
-https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
 https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
@@ -7269,6 +7265,7 @@ https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
 https://annadegismen.com/js/ldrqxi.js
 https://annadegismen.com/js/nhtybe.js
+https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
 https://annadegismen.com/js/eyfbaq.js
@@ -9262,6 +9259,7 @@ http://203.2.65.29:8087/help.scr
 http://112.27.189.32:8090/help.scr
 http://203.2.65.29:8081/help.scr
 http://203.2.65.29:8086/help.scr
+http://203.2.65.29:8085/help.scr
 http://124.67.254.109:61234/help.scr
 http://139.159.155.204:88/help.scr
 http://139.159.155.204:81/help.scr
