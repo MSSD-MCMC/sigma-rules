@@ -1,3 +1,20 @@
+http://45.156.87.142/spc
+http://45.156.87.142/sh4
+http://176.96.131.92/sh4
+http://176.96.131.92/m68k
+http://45.156.87.142/mpsl
+http://176.96.131.92/x86
+http://45.156.87.142/arm6
+http://45.156.87.142/m68k
+http://45.156.87.142/ppc
+http://176.96.131.92/mips
+http://45.156.87.142/x86
+http://45.156.87.142/arm
+http://45.156.87.142/mips
+http://45.156.87.142/arm7
+http://176.65.149.178/hiddenbin/boatnet.mpsl
+http://45.156.87.142/arm5
+http://176.96.131.92/arm5
 http://185.156.72.2/files/2053760472/f5R8SNm.exe
 http://185.156.72.2/files/5373782173/gWqpj49.exe
 http://185.156.72.2/files/7700188128/RYNH1rZ.exe
@@ -140,7 +157,6 @@ http://103.245.237.243/d/akido.mpsl
 http://103.245.237.243/d/w.sh
 http://103.245.237.243/d/akido.mips
 http://103.245.237.243/d/akido.m68k
-http://196.251.88.165/nk/x86_64nk
 http://196.251.88.165/nk/arm7nk
 http://196.251.88.165/nk/arm6nk
 http://196.251.88.165/nk/x86_64Dnk
@@ -1930,7 +1946,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/05%2005%20
 https://151.28.240.35:8443/sda1/GRAFICA/Video.lnk
 http://27.154.215.134:887/lost%2Bfound/Photo.scr
 http://27.154.215.134:887/lost%2Bfound/Video.scr
-http://27.154.215.134:887/ftp/Video.scr
 http://27.154.215.134:887/ftp/Photo.scr
 http://27.154.215.134:887/software/AV.scr
 https://151.28.240.35:8443/sda1/GRAFICA/Video.scr
@@ -2979,7 +2994,6 @@ http://209.54.103.187/SfQpppVlfuuMVohC15.bin
 http://213.209.150.18/linkinggg55%205.exe
 http://213.209.150.18/linkingg66%206.exe
 http://213.209.150.18/obii55%205.exe
-http://196.251.84.41/powerpc.nn
 http://196.251.84.41/m68k.nn
 http://196.251.84.41/mipsel.nn
 http://196.251.84.41/arm.nn
@@ -2992,6 +3006,7 @@ http://185.156.72.61/inc/cron123213321.exe
 http://185.156.72.2/files/6629342726/rZBRvVk.exe
 http://156.238.233.147/02.08.2022.exe
 http://47.102.209.177/02.08.2022.exe
+http://27.25.158.13:8088/02.08.2022.exe
 http://8.130.190.155:9999/02.08.2022.exe
 http://196.251.88.165/mips
 http://196.251.88.165/arm
@@ -9299,7 +9314,6 @@ https://annadegismen.com/js/xfsnmk.js
 https://annadegismen.com/js/bazyuq.js
 https://annadegismen.com/js/lyqtmc.js
 https://annadegismen.com/js/syabui.js
-https://annadegismen.com/js/majqwv.js
 https://annadegismen.com/js/mwpjqs.js
 https://annadegismen.com/js/ktaxgd.js
 https://annadegismen.com/js/gqmosl.js
@@ -9934,6 +9948,7 @@ https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/OGFN%20Up
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/pclient.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/kdmapper_Release.exe
 https://github.com/caonim2le/yournigas/raw/main/arm7/
+http://ftp.ywxww.net:820/vc17x64.exe
 http://ftp.ywxww.net:820/PCHunter64.exe
 http://ftp.ywxww.net:820/RemotelyAnywhere11.exe
 http://ftp.ywxww.net:820/pm3100.exe
@@ -9946,7 +9961,6 @@ http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
 http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
-http://ftp.ywxww.net:820/hdtune.exe
 http://123.ywxww.net:820/wblog.exe
 http://ftp.ywxww.net:820/steam.txt
 http://123.ywxww.net:820/svchost.exe
@@ -12158,6 +12172,7 @@ http://91.216.28.112:20531/i
 http://43.249.54.246:17771/i
 http://103.221.254.140:6459/i
 http://36.91.171.37:4488/i
+http://91.195.100.69:31718/i
 http://47.50.169.82:55508/i
 http://90.182.214.197:50162/i
 http://43.230.158.26:5393/i
