@@ -184,6 +184,7 @@ http://115.238.252.51:8989/02.08.2022.exe
 http://123.249.3.92:8080/02.08.2022.exe
 http://175.178.100.95:8980/02.08.2022.exe
 http://153.37.228.4:50775/i
+http://31.15.185.99:47471/i
 http://79.164.57.180:62557/i
 http://46.24.47.224:65372/i
 http://171.247.210.117:1082/sshd
@@ -577,7 +578,6 @@ http://182.124.208.66:8001/Docker/run/AV.scr
 http://182.124.208.66:8001/Docker/lib/image/Video.lnk
 http://182.124.208.66:8001/Docker/lib/containers/info.zip
 http://182.124.208.66:8001/Docker/lib/volumes/AV.scr
-http://182.124.208.66:8001/Docker/lib/buildkit/Video.lnk
 http://182.124.208.66:8001/Docker/lib/network/info.zip
 http://182.124.208.66:8001/Docker/lib/containerd/daemon/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/builder/Video.lnk
@@ -2196,7 +2196,6 @@ http://183.81.20.58/sshd
 http://176.79.34.92:8080/sshd
 http://14.180.206.169/sshd
 http://31.104.231.116:81/sshd
-http://115.238.252.51:9000/02.08.2022.exe
 http://46.6.0.149:57610/i
 http://114.155.22.246:5139/i
 http://47.97.102.95:8080/02.08.2022.exe
@@ -2377,6 +2376,7 @@ http://192.140.225.33/phpMyAdmin/Ganja113.exe
 http://192.140.225.33/moarte.exe
 http://192.140.225.33/caine.exe
 http://185.216.214.180/blender_checker_x86.msi
+http://185.216.214.180/df48528eda5ec32d4518cb458a11fd28.jpg.zip
 http://185.216.214.180/runtimebroker.exe
 http://185.216.214.180/blender_checker_x64.msi
 http://185.216.214.180/WindowsUpdateLauncher.exe
@@ -2493,7 +2493,6 @@ http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.spc
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.sh4
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.spc
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm5
-http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.spc
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.mips
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.sh4
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.mpsl
@@ -2624,6 +2623,7 @@ http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.mips
 http://14.103.145.202/rondo.armv6l
 http://14.103.145.202/rondo.i686
+http://14.103.145.202/rondo.x86_64
 http://14.103.145.202/rondo.sh4
 http://14.103.145.202/rondo.armv7l
 http://14.103.145.202/rondo.powerpc
@@ -2709,13 +2709,11 @@ http://89.23.107.148/Documents/Mutual_Confidentiality_Agreement_Advertising.pdf.
 http://121.73.168.107:8082/sshd
 http://217.84.190.48/sshd
 http://41.144.132.250:8082/sshd
-http://86.54.42.125/sh4.nn
 http://86.54.42.125/x86_32.nn
 http://86.54.42.125/x86_64.nn
 http://86.54.42.125/powerpc.nn
 http://86.54.42.125/mips.nn
 http://86.54.42.125/arm6.nn
-https://perpetualleadsformula.com/oifomjbxd.txt
 http://185.156.72.2/soft/index.exe
 http://162.240.231.156/hiddenbin/boatnet.arm6
 http://162.240.231.156/hiddenbin/boatnet.mips
@@ -3069,7 +3067,6 @@ http://8.209.252.153:60109/linux
 http://185.156.72.61/test/amnew.exe
 https://kristalzemin.com/fkunzU191.bin
 https://kristalzemin.com/Diosmose.pfb
-http://proarte.rs/loHqJvbkkExooJyGpRH244.bin
 https://kristalzemin.com/Junglefebrene.deploy
 https://kristalzemin.com/IStNlGVNz127.bin
 http://proarte.rs/Fonetikers.aca
@@ -3296,7 +3293,6 @@ http://213.209.150.18/obihh3.exe
 http://47.242.66.123:60124/linux
 http://112.87.155.113:21858/.i
 http://46.6.15.103:16726/.i
-http://124.71.110.163:7450/02.08.2022.exe
 http://79.164.59.35:57916/i
 http://84.15.250.81:23916/i
 http://60.43.126.239/sshd
@@ -4300,7 +4296,6 @@ http://47.93.28.103:33333/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
-https://120.27.235.78:8443/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 http://118.31.114.149:8081/02.08.2022.exe
@@ -6309,7 +6304,6 @@ https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software
 http://66.187.4.77/arm7
 http://185.148.3.216/Ujkflzer45sc0
 https://adityahotel.com/eula.zip
-https://www.neoarchiinc.com/update.zip
 https://kusal.com/nskbfltr.zip
 https://kusal.com/panmap.zip
 https://thetileboutique.in/wiatrace.zip
@@ -9751,7 +9745,6 @@ https://raw.githubusercontent.com/Erez-Goldberg/Rust-reverse-shell/main/shellcod
 http://103.247.218.186:49052/i
 http://103.162.59.217:38340/i
 http://armanayegh.com/readme/glued.hta
-http://armanayegh.com/readme/bin.exe
 http://101.133.156.69:7777/frpc.exe
 http://101.133.156.69:7777/mysql.bat
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
@@ -10369,7 +10362,6 @@ http://182.253.205.235:8600/Mozi.m
 http://83.147.93.226:16660/Mozi.m
 http://49.156.46.134:31244/Mozi.m
 http://154.0.129.114:10702/Mozi.m
-http://182.160.102.188:16079/Mozi.m
 http://119.40.91.22:1544/Mozi.m
 http://116.58.83.76:39359/Mozi.m
 http://194.208.56.60:14184/Mozi.m
@@ -10834,6 +10826,7 @@ http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
 http://122.179.136.112/Photo.scr
+http://130.185.193.208:8080/Photo.scr
 http://78-20-115-5.access.telenet.be/Photo.scr
 http://195.103.203.106/Photo.scr
 http://78.20.115.5/Photo.scr
@@ -11539,7 +11532,6 @@ http://79.111.14.68:25041/.i
 http://149.255.10.46:32625/.i
 http://89.140.176.228:40352/.i
 http://193.106.58.174:32789/.i
-http://216.155.93.238:33194/.i
 http://93.189.222.80:1669/.i
 http://37.157.212.138:58474/.i
 http://37.252.69.92:15274/.i
