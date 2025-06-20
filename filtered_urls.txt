@@ -1912,7 +1912,6 @@ http://58.22.95.207:6868/info.zip
 https://151.28.240.35:8443/sda1/Video.scr
 https://151.28.240.35:8443/sda1/Video.lnk
 https://151.28.240.35:8443/sda1/AV.scr
-http://118.76.180.202:85/haoyou.exe
 http://118.76.180.202:85/tongy.exe
 http://118.76.180.202:85/DWcdok.exe
 http://118.76.180.202:85/%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%B7%A5%E5%85%B7.exe
@@ -2223,7 +2222,6 @@ https://raw.githubusercontent.com/zusyaku/malware-collection-part-2/refs/heads/m
 http://92.127.156.174:8880/wp.bat
 http://14.224.174.212:1433/Microsoft%20Toolkit%202.73%20_%201.rar
 http://185.216.214.180/loader.exe
-https://www.modernitgen.com/Platinum.mp4
 http://14.103.145.211/rondo.sh
 http://213.209.150.18/jtEmt5nxbRnq5jC.exe
 http://172.245.123.11/new/tesssssssssttt.txt
@@ -3098,6 +3096,7 @@ http://5.67.194.232:40214/i
 http://31.154.187.24:34995/i
 http://176.254.84.45:22854/i
 http://185.156.72.2/defkiller/release_file.exe
+http://185.156.72.2/files/tmsint/random.exe
 http://4.233.216.36:8000/t_vnc.exe
 http://4.233.216.36:8000/macreverse
 http://4.233.216.36:8000/winxclient.exe
@@ -3365,6 +3364,7 @@ http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://106.14.68.26/Server.exe
 http://106.14.68.26/Server1.exe
 http://106.14.68.26/svchost.exe
+http://47.102.209.177:22211/02.08.2022.exe
 http://117.72.206.39:443/02.08.2022.exe
 http://81.71.64.78/02.08.2022.exe
 http://123.60.219.97:8089/02.08.2022.exe
@@ -8496,6 +8496,7 @@ http://121.121.71.114:31863/.i
 http://94.158.158.67:40783/.i
 http://78.153.52.58:19219/.i
 https://39.106.152.236:11443/02.08.2022.exe
+https://154.92.14.41:2998/02.08.2022.exe
 https://43.153.222.28:4545/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
 https://raw.githubusercontent.com/L0veNxn22/EulenModMenu/main/Loader.exe
@@ -8887,6 +8888,7 @@ https://annadegismen.com/js/qrwujv.js
 https://annadegismen.com/js/kpqgja.js
 https://annadegismen.com/js/npjovg.js
 https://annadegismen.com/js/hdpabv.js
+https://annadegismen.com/js/xjkpez.js
 https://annadegismen.com/js/hcflvo.js
 https://annadegismen.com/js/bvnqhc.js
 https://annadegismen.com/js/mpwhqf.js
@@ -9332,6 +9334,7 @@ http://annadegismen.com/js/kljdsp.js
 http://annadegismen.com/js/qyblsk.js
 http://annadegismen.com/js/pdemzv.js
 http://annadegismen.com/js/mgurty.js
+http://annadegismen.com/js/vsbace.js
 http://annadegismen.com/js/komysw.js
 http://annadegismen.com/js/mpkgyo.js
 http://annadegismen.com/js/itxrfk.js
@@ -9490,6 +9493,7 @@ http://annadegismen.com/js/glyphn.js
 http://annadegismen.com/js/naryxl.js
 http://annadegismen.com/js/bfkovw.js
 http://annadegismen.com/js/swejgo.js
+http://annadegismen.com/js/oemktg.js
 http://annadegismen.com/js/nucksg.js
 http://annadegismen.com/js/sejktf.js
 http://annadegismen.com/js/cnvlhd.js
@@ -10237,6 +10241,7 @@ http://202.5.50.108:15808/Mozi.m
 http://182.253.115.156:59323/Mozi.m
 http://120.29.152.106:25958/Mozi.m
 http://36.93.219.59:20564/Mozi.m
+http://36.64.160.162:27216/Mozi.m
 http://113.214.56.235:7880/Mozi.m
 http://36.94.29.82:23591/Mozi.m
 http://190.145.123.18:3553/Mozi.m
@@ -10836,6 +10841,7 @@ http://88.28.218.163/Photo.scr
 http://102.53.15.18/Photo.scr
 http://126.23.203.236/Photo.scr
 http://110.143.54.213/Photo.scr
+http://85.22.139.189/Photo.scr
 http://95.255.114.11/Photo.scr
 http://181.36.153.151/Photo.scr
 http://102.53.15.17/Photo.scr
@@ -10901,6 +10907,7 @@ http://3.109.239.113:8406/sshd
 http://117.216.139.218:2002/sshd
 http://117.216.139.132:2008/sshd
 http://88.247.206.153:21475/.i
+http://119.13.179.133:8081/sshd
 http://221.10.233.217:8618/sshd
 http://61.88.50.73:8000/sshd
 http://178.183.85.67:10083/sshd
