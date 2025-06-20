@@ -144,6 +144,7 @@ http://196.251.70.245/test.sh
 http://196.251.70.245/z/li
 http://196.251.70.245/ipc
 http://196.251.70.245/z/lll
+http://196.251.70.245/vc
 http://196.251.70.245/z/vc
 http://196.251.70.245/fb
 http://196.251.70.245/lll
@@ -164,6 +165,7 @@ http://196.251.70.245/z/asd
 http://196.251.70.245/5
 http://196.251.70.245/z/89/x86_64
 http://196.251.70.245/z/89/mips
+http://45.141.233.66:8080/02.08.2022.exe
 http://101.42.239.131:8880/02.08.2022.exe
 http://81.69.42.184/02.08.2022.exe
 http://204.44.121.143:8081/02.08.2022.exe
@@ -2035,7 +2037,6 @@ http://15.235.134.131:8080/dcap9.msi
 http://68.183.190.74:8000/report.ps1
 http://160.30.44.120/o.xml
 http://160.30.44.120/debug.x86_64
-http://172.187.170.10/02.08.2022.exe
 http://94.159.99.169/Documents/testlnk1.lnk
 http://92.24.132.237:41652/i
 http://103.120.133.144:35714/i
@@ -2118,6 +2119,7 @@ http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:9999/02.08.2022.exe
 http://124.71.110.163:12150/02.08.2022.exe
+http://47.109.48.57/02.08.2022.exe
 http://43.138.193.228:9090/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
 http://39.106.72.191/02.08.2022.exe
@@ -2540,7 +2542,6 @@ http://207.174.22.171/gmips
 http://207.174.22.171/x86
 http://207.174.22.171/arm6
 http://207.174.22.171/gmpsl
-http://207.174.22.171/arm4
 http://207.174.22.171/mpsl
 http://207.174.22.171/arm5
 http://207.174.22.171/ppc
@@ -2739,6 +2740,7 @@ http://97.184.9.141:34734/i
 http://94.26.90.251/payload1.sh
 http://198.55.98.29/host/jaybin.txt
 http://198.55.98.29/host/jayy.ps1
+http://sterlingpropertygroup.com.au/SAMSIHLWJm150.bin
 http://sterlingpropertygroup.com.au/Deboistness.java
 https://www-telegram.ing/assets/download/tsetup-x64.zip
 http://156.225.31.188:808/linux_mipsel
@@ -3210,6 +3212,7 @@ http://118.14.235.213/sshd
 http://61.112.239.29/sshd
 http://188.231.3.177/sshd
 http://81.151.51.236:65002/sshd
+https://solsniper.eu/downloads/solsniper.exe
 http://194.50.16.151/arm5
 http://194.50.16.151/m68k
 http://46.23.108.133/sparc
@@ -3805,7 +3808,6 @@ http://117.25.137.34:19538/.i
 http://101.58.146.184:9454/.i
 http://125.139.206.224:20369/.i
 http://47.252.11.60:60126/linux
-http://122.97.155.135:11608/.i
 http://71.15.96.217:65214/.i
 http://111.70.30.158:17848/.i
 http://46.227.184.211:34345/Mozi.m
@@ -4043,7 +4045,6 @@ https://52575815-38-20200406120634.webstarterz.com/eric.exe
 http://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
 https://60aaf9c6.salamanderprocessing.pages.dev/download/static/files/BootstrapperNew.exe
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Map_Free.dll
-https://dangtienluc.com/snake/BYPASSLDPLAYER.exe
 http://ny.lshdw.cc/FB/sm.exe
 http://43.226.39.44:5988/TestMemTest38.exe
 https://mogimall.com/pds/mogimall/giftorder/giftorder.exe
@@ -8411,6 +8412,7 @@ https://raw.githubusercontent.com/Xacker-Volk/JustMyRat/main/stub.exe
 https://raw.githubusercontent.com/nikolaevich23/make-pkg-bat/master/setup.exe
 https://raw.githubusercontent.com/Eirxne/Valorant-AxePrime/main/axeprime.dll
 https://raw.githubusercontent.com/stephenfewer/reflectivedllinjection/refs/heads/master/bin/reflective_dll.dll
+https://dangtienluc.com/snake/hack.dll
 https://raw.githubusercontent.com/ANESSDEV/talha/main/TALHA.dll
 https://codeload.github.com/sqrtZeroKnowledge/XWorm-Trojan/zip/refs/heads/main
 https://raw.githubusercontent.com/barrigudinha157/barrigudinha/master/Rage.dll
@@ -8607,6 +8609,7 @@ https://annadegismen.com/js/qduize.js
 https://annadegismen.com/js/fdrqhv.js
 https://annadegismen.com/js/qgpckt.js
 https://annadegismen.com/js/pveubn.js
+https://annadegismen.com/js/rtbivg.js
 https://annadegismen.com/js/njbcql.js
 https://annadegismen.com/js/uegkma.js
 https://annadegismen.com/js/ahyfgb.js
@@ -8757,7 +8760,6 @@ https://annadegismen.com/js/slqmjg.js
 https://annadegismen.com/js/kaqpov.js
 https://annadegismen.com/js/cdqpkj.js
 https://annadegismen.com/js/wltkns.js
-https://annadegismen.com/js/hexmvb.js
 https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
@@ -9255,6 +9257,7 @@ http://annadegismen.com/js/wsjkzd.js
 http://annadegismen.com/js/nlizmc.js
 http://annadegismen.com/js/sgcmrl.js
 http://annadegismen.com/js/fdrqhv.js
+http://annadegismen.com/js/nlzrch.js
 http://annadegismen.com/js/phafqz.js
 http://annadegismen.com/js/ahyfgb.js
 http://annadegismen.com/js/lyqtmc.js
@@ -9291,6 +9294,7 @@ http://annadegismen.com/js/unxvws.js
 http://annadegismen.com/js/gseatn.js
 http://annadegismen.com/js/kawjhl.js
 http://annadegismen.com/js/xljwek.js
+http://annadegismen.com/js/mqpbho.js
 http://annadegismen.com/js/pamvwr.js
 http://annadegismen.com/js/fnaxby.js
 http://annadegismen.com/js/laurhk.js
@@ -9333,6 +9337,7 @@ http://annadegismen.com/js/jvrept.js
 http://annadegismen.com/js/tlcpaw.js
 http://annadegismen.com/js/xuaqjo.js
 http://annadegismen.com/js/kaqpov.js
+http://annadegismen.com/js/pwxzmg.js
 http://annadegismen.com/js/qivbdo.js
 http://annadegismen.com/js/xdtmpf.js
 http://annadegismen.com/js/tukayh.js
@@ -9439,6 +9444,7 @@ http://annadegismen.com/js/ecpjkf.js
 http://annadegismen.com/js/ihznpm.js
 http://annadegismen.com/js/mwpjqs.js
 http://annadegismen.com/js/owvzhd.js
+http://annadegismen.com/js/oknpgb.js
 http://annadegismen.com/js/lmaknf.js
 http://annadegismen.com/js/bazyuq.js
 http://annadegismen.com/js/hoygvf.js
@@ -9679,6 +9685,7 @@ https://github.com/caonim2le/yournigas/raw/main/arm7/
 http://ftp.ywxww.net:820/vc17x64.exe
 http://ftp.ywxww.net:820/PCHunter64.exe
 http://ftp.ywxww.net:820/RemotelyAnywhere11.exe
+http://ftp.ywxww.net:820/pm3100.exe
 http://ftp.ywxww.net:820/qwsrv3.3.exe
 http://ftp.ywxww.net:820/x210.exe
 http://ftp.ywxww.net:820/smb.exe
@@ -10502,7 +10509,6 @@ http://46.16.102.32:44773/Mozi.a
 https://raw.githubusercontent.com/hackirby/discord-injection/main/injection.js
 http://8.219.134.35:8000/JNDIExploit-0x727-1.3-SNAPSHOT.jar
 http://8.219.134.35:8000/fastjson.class
-http://47.76.30.15/02.08.2022.exe
 https://raw.githubusercontent.com/SOSINCHIK/asd/main/zoom.py
 https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh
 https://raw.githubusercontent.com/20Matrix77/dsfuwqu/main/zombie
@@ -10520,7 +10526,6 @@ https://temirtau-adm.ru/media/mod_junewsultra/js/bootstrap/js/bootstrap.min.js
 https://raw.githubusercontent.com/Yuta1111x/selfbot/04ecdf46e8db9fce689d93905d759334b475c825/Aquarius.exe
 https://20.243.255.185/CVE-2021-3156.zip
 http://20.243.255.185/CVE-2021-3156.zip
-https://jahez.me/wp/Caricatured.emz
 https://jahez.me/wp/aZdBZliddkT187.bin
 https://ldcdn.ldmnq.com/download/ru/downloader.exe
 http://190.104.213.45:6004/tftp
@@ -12495,7 +12500,6 @@ http://cdn-10049480.file.myqcloud.com/qcoin/qcoin141.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd127.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd145.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin140.exe
-http://cdn-10049480.file.myqcloud.com/jd/jd144.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd136.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd137.exe
