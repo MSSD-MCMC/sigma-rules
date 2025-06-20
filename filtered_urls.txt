@@ -35,6 +35,7 @@ http://196.251.70.245/multi
 http://196.251.70.245/f5
 http://196.251.70.245/z/fdgsfg
 http://196.251.70.245/k.sh
+http://196.251.70.245/z/z.sh
 http://196.251.70.245/rtz
 http://196.251.70.245/jaws
 http://196.251.70.245/z/vc
@@ -56,6 +57,7 @@ http://196.251.70.245/z/weed
 http://196.251.70.245/z/89/arm7
 http://196.251.70.245/z/89/mips
 http://45.141.233.66:8080/02.08.2022.exe
+http://101.42.239.131:8880/02.08.2022.exe
 http://47.116.197.65/02.08.2022.exe
 http://204.44.121.143:8081/02.08.2022.exe
 http://116.58.52.84:14591/i
@@ -556,7 +558,6 @@ http://182.124.208.66:8001/Docker/lib/plugins/storage/AV.scr
 http://182.124.208.66:8001/Docker/lib/builder/AV.scr
 http://182.124.208.66:8001/AV.scr
 http://182.124.208.66:8001/Docker/lib/network/Video.scr
-http://182.124.208.66:8001/Docker/lib/swarm/AV.scr
 https://14.216.247.71:999/Photo.lnk
 http://182.124.208.66:8001/Docker/run/swarm/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/Photo.lnk
@@ -629,7 +630,6 @@ http://182.124.208.66:8001/Docker/lib/image/AV.lnk
 https://14.216.247.71:999/Video.lnk
 http://182.124.208.66:8001/Docker/run/containerd/daemon/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/swarm/Video.lnk
-http://182.124.208.66:8001/Docker/run/info.zip
 http://182.124.208.66:8001/Docker/run/containerd/AV.lnk
 http://182.124.208.66:8001/Docker/lib/plugins/storage/info.zip
 http://182.124.208.66:8001/Docker/lib/containers/Photo.lnk
@@ -656,7 +656,6 @@ http://182.124.208.66:8001/Docker/Video.lnk
 http://182.124.208.66:8001/Docker/run/Video.lnk
 http://182.124.208.66:8001/Docker/lib/overlay2/AV.lnk
 http://182.124.208.66:8001/Docker/lib/image/Photo.lnk
-http://182.124.208.66:8001/Docker/lib/plugins/AV.lnk
 http://182.124.208.66:8001/Docker/lib/buildkit/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/containerd/daemon/AV.lnk
 http://182.124.208.66:8001/Docker/lib/containers/AV.lnk
@@ -2170,7 +2169,6 @@ http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://124.71.110.163:12150/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
-http://47.109.48.57/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
 http://39.106.72.191/02.08.2022.exe
 http://87.14.233.75:34779/i
@@ -2613,6 +2611,7 @@ http://185.208.158.206/xm/xmrig-6.22.2/xmrig
 http://185.208.158.206/get.sh
 http://185.208.158.206/xm/gbpader
 http://185.208.158.206/xm/xmrig-6.22.2-focal-x64.tar.gz
+http://14.103.145.202/rondo.fbsdi386
 http://14.103.145.202/rondo.fbsdpowerpc
 http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.mips
@@ -2626,7 +2625,6 @@ http://14.103.145.202/rondo.sh
 http://14.103.145.202/rondo.i586
 http://14.103.145.202/rondo.powerpc-440fp
 http://213.209.143.44/g
-http://213.209.143.44/p.sh
 http://recursing-villani.213-209-143-44.plesk.page/sh4
 http://78.153.140.66/kij.sh
 http://recursing-villani.213-209-143-44.plesk.page/mipsel
@@ -2909,7 +2907,6 @@ http://196.251.84.41/mipsel.nn
 http://196.251.84.41/arm.nn
 http://196.251.84.41/sparc.nn
 http://196.251.84.41/mips.nn
-http://196.251.84.41/x86_64.nn
 http://196.251.84.41/arm6.nn
 http://185.156.72.61/inc/cron123213321.exe
 http://185.156.72.2/files/6629342726/rZBRvVk.exe
@@ -8482,6 +8479,7 @@ http://94.158.158.67:40783/.i
 http://78.153.52.58:19219/.i
 https://39.106.152.236:11443/02.08.2022.exe
 https://154.92.14.41:2998/02.08.2022.exe
+https://8.137.114.210:4433/02.08.2022.exe
 https://43.153.222.28:4545/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
 https://raw.githubusercontent.com/L0veNxn22/EulenModMenu/main/Loader.exe
@@ -8950,6 +8948,7 @@ https://annadegismen.com/js/lqmbvz.js
 https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
+https://annadegismen.com/js/eyfbaq.js
 https://annadegismen.com/js/fxvwgp.js
 https://annadegismen.com/js/fcvdqi.js
 https://annadegismen.com/js/xkhlro.js
@@ -10554,6 +10553,7 @@ http://103.123.98.86/winbox/winbox.exe
 http://103.123.98.86:8082/winbox/winbox.exe
 http://43.240.65.55:81/pornhub_downloader.exe
 http://123.57.250.154:3226/fx8
+http://119.167.70.110:13332/ChromeSetup.exe
 http://39.103.217.92/%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE.exe
 http://58.137.135.190:8080/ExSync.exe
 http://218.22.21.248:58080/AAct.exe
