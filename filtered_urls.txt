@@ -36,6 +36,7 @@ http://196.251.70.245/f5
 http://196.251.70.245/z/fdgsfg
 http://196.251.70.245/k.sh
 http://196.251.70.245/rtz
+http://196.251.70.245/jaws
 http://196.251.70.245/z/vc
 http://196.251.70.245/fb
 http://196.251.70.245/linksys
@@ -546,7 +547,6 @@ http://182.124.208.66:8001/Docker/run/swarm/Photo.scr
 http://182.124.208.66:8001/Docker/lib/trust/AV.scr
 http://182.124.208.66:8001/Docker/lib/Video.lnk
 http://182.124.208.66:8001/Docker/lib/swarm/Video.scr
-http://182.124.208.66:8001/Docker/lib/network/Photo.scr
 http://182.124.208.66:8001/lost%2Bfound/AV.scr
 http://182.124.208.66:8001/Docker/lib/overlay2/AV.scr
 http://182.124.208.66:8001/Docker/lib/builder/Photo.lnk
@@ -608,7 +608,6 @@ http://182.124.208.66:8001/Docker/lib/overlay2/Video.scr
 http://182.124.208.66:8001/Docker/lib/trust/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/overlay2/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/image/Photo.scr
-http://182.124.208.66:8001/Docker/Photo.scr
 http://182.124.208.66:8001/Docker/run/containerd/Video.scr
 http://182.124.208.66:8001/Docker/lib/containerd/daemon/Photo.scr
 http://182.124.208.66:8001/Video.scr
@@ -628,7 +627,6 @@ http://182.124.208.66:8001/Docker/lib/plugins/storage/Photo.scr
 http://182.124.208.66:8001/Docker/lib/swarm/Photo.scr
 http://182.124.208.66:8001/Docker/lib/image/AV.lnk
 https://14.216.247.71:999/Video.lnk
-http://182.124.208.66:8001/Photo.scr
 http://182.124.208.66:8001/Docker/run/containerd/daemon/Photo.lnk
 http://182.124.208.66:8001/Docker/lib/swarm/Video.lnk
 http://182.124.208.66:8001/Docker/run/info.zip
@@ -645,7 +643,6 @@ http://182.124.208.66:8001/Docker/info.zip
 http://182.124.208.66:8001/Docker/lib/plugins/info.zip
 http://182.124.208.66:8001/Docker/lib/image/Video.scr
 https://14.216.247.71:999/AV.scr
-http://182.124.208.66:8001/Docker/lib/buildkit/info.zip
 http://182.124.208.66:8001/Docker/lib/volumes/Photo.scr
 http://182.124.208.66:8001/Docker/lib/overlay2/info.zip
 http://182.124.208.66:8001/Docker/lib/network/AV.scr
@@ -928,7 +925,6 @@ http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/base/utils/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/gbrwrite/dao/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/sysparam/dao/info.zip
-http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/photosetting/service/impl/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/spotckeck/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/photosetting/entity/info.zip
 http://116.171.106.3:3435/hengsheng/info.zip
@@ -998,7 +994,6 @@ http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/pub/
 http://116.171.106.3:3435/tomcat8/temp/poifiles/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/report/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/pub/dao/info.zip
-http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/visitwss/dto/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/cksy/servacpt/entity/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/action/info.zip
@@ -2637,7 +2632,6 @@ http://78.153.140.66/kij.sh
 http://recursing-villani.213-209-143-44.plesk.page/mipsel
 http://recursing-villani.213-209-143-44.plesk.page/arm7
 http://upbeat-williams.213-209-143-44.plesk.page/arm7
-http://recursing-villani.213-209-143-44.plesk.page/mips
 http://recursing-villani.213-209-143-44.plesk.page/x86
 http://upbeat-williams.213-209-143-44.plesk.page/mipsel
 http://upbeat-williams.213-209-143-44.plesk.page/sh4
@@ -3183,7 +3177,6 @@ http://171.252.114.83:2360/sshd
 http://182.239.78.134/sshd
 http://2.125.59.57:10085/sshd
 http://192.240.55.219:3940/i
-https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
 https://celebratingseniors.net/oste.zip
 http://194.61.232.180:53361/i
@@ -6096,6 +6089,7 @@ http://164.126.142.45:1083/sshd
 https://raw.githubusercontent.com/AlishaZara/api/refs/heads/master/rh_s.txt
 http://chillyhiss.update-checker-status.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://chillyhiss.update-checker-status.cc/1337/TORRENTOLD-1.exe
+http://chillyhiss.update-checker-status.cc/update/TPB-1.exe
 http://fox-news-checker.cc/update/TPB-1.exe
 http://fox-news-checker.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
 http://win-network-checker.cc/TPBActivetor/TPB-ACTIVATOR-1.exe
@@ -7416,7 +7410,6 @@ https://img1.wsimg.com/blobby/go/aabc5eee-c1de-4817-92b9-f9e17352a5c7/downloads/
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/glassman_high_voltage_series_eq_manual.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/57653563602.pdf
 https://img1.wsimg.com/blobby/go/343166b6-b38d-45a3-a768-806295759a1d/downloads/vatemunubiserotogurozem.pdf
-https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/simamutozudolejezeze.pdf
 https://img1.wsimg.com/blobby/go/a8a7b266-73df-492a-af50-f7d9f90e0e6d/downloads/salesforce_community_developer_guide.pdf
 https://img1.wsimg.com/blobby/go/047c717c-7bd8-4cec-b09f-8a9648ff740c/downloads/zepojekowokevi.pdf
 https://img1.wsimg.com/blobby/go/2cd8ef37-3f02-4d83-b132-5400b0b21173/downloads/can_sins_be_forgiven_in_hinduism.pdf
@@ -7609,7 +7602,6 @@ http://168.138.162.78/output/client/cabalmain.exe
 http://123.56.43.176:8000/Exploit.class
 http://195.211.101.219:22533/build.apk
 http://103.146.202.41:22533/build.apk
-http://47.89.173.214:8888/xxxx
 http://47.89.173.214:8888/ffff
 http://47.89.173.214:8888/asdf
 http://47.89.173.214:8888/libmod_hellocpp_42.so
@@ -8475,7 +8467,6 @@ http://93.87.31.84:40955/.i
 http://103.236.135.177:21414/.i
 http://173.178.94.224:1364/.i
 http://207.113.208.58:2544/.i
-http://103.245.78.68:10257/.i
 http://121.121.71.112:31863/.i
 http://103.121.195.3:3985/.i
 http://103.43.6.114:7055/.i
@@ -8546,6 +8537,7 @@ https://dangtienluc.com/snake/hack.dll
 https://raw.githubusercontent.com/ANESSDEV/talha/main/TALHA.dll
 https://codeload.github.com/sqrtZeroKnowledge/XWorm-Trojan/zip/refs/heads/main
 https://raw.githubusercontent.com/barrigudinha157/barrigudinha/master/Rage.dll
+https://jobcity.com/img/RM0XpX/
 http://195.101.213.209/PHM/BRIVE/RECEPISSE/202403/10/DOC2LGPU2JWFETS.TIF
 http://195.101.213.209/PHM/DISTRIMOBILE/RECEPISSE/202407/30/FUSS983_20240725_150732.TIF
 http://211.204.100.20:1234/InfectSocks32_SQL_AntiVirus.vmp.dll
@@ -8687,10 +8679,10 @@ http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip64.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/cred64.dll
 https://66.63.187.231/xampp/noc/seemefasterthanbeforewithhisbestthingsinonlineforgetreadyfor.hta
+http://8.137.114.210:4455/02.08.2022.exe
 http://113.44.144.145/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://39.102.210.162:8080/shell.elf
-http://39.102.210.162:8080/g.exe
 http://39.102.210.162:8080/anquangou.exe
 http://39.102.210.162:8080/notepad++.exe
 http://162.219.216.183:40370/Mozi.a
@@ -8853,6 +8845,7 @@ https://annadegismen.com/js/ulhqcw.js
 https://annadegismen.com/js/zsjwbc.js
 https://annadegismen.com/js/yoaxpt.js
 https://annadegismen.com/js/mspldv.js
+https://annadegismen.com/js/tlbqkr.js
 https://annadegismen.com/js/ocjbrm.js
 https://annadegismen.com/js/tzokax.js
 https://annadegismen.com/js/hmdjou.js
@@ -9388,6 +9381,7 @@ http://annadegismen.com/js/obinaf.js
 http://annadegismen.com/js/ogytzk.js
 http://annadegismen.com/js/zoafhp.js
 http://annadegismen.com/js/euhzjt.js
+http://annadegismen.com/js/pvhmaj.js
 http://annadegismen.com/js/duvijc.js
 http://annadegismen.com/js/lzjxve.js
 http://annadegismen.com/js/wgusdm.js
@@ -12208,7 +12202,6 @@ http://cnom.sante.gov.ml/12
 http://fromthetrenchesworldreport.com/analytics/ZY5ntk/
 https://www.dropbox.com/s/dl/wpoxoxqe2in4fju/Doc7november00065.js
 https://radiosolutions.com.hr/wp-includes/js/tinymce/plugins/directionality/AkMO4L5j.php
-http://tengfeidn.com/down/fw/fw.exe
 http://116.72.19.113:4229/.i
 https://fullstacknir.com/wp-includes/block-supports/5.png
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Vfrixuukosr
