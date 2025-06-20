@@ -1,3 +1,20 @@
+http://176.96.131.92/kill.sh
+http://176.96.131.92/tplink.sh
+http://176.96.131.92/bins.sh
+http://104.167.221.114/faith.sh
+http://176.96.131.92/mipsel
+http://176.96.131.92/arm6l
+http://176.96.131.92/x64
+http://176.96.131.92/i686
+http://176.96.131.92/x86_64
+http://176.96.131.92/arm4
+http://176.96.131.92/powerpc
+http://176.96.131.92/sparc
+http://66.63.187.193/arm7
+http://66.63.187.193/clean
+http://66.63.187.193/i686
+http://66.63.187.193/aarch64
+http://66.63.187.193/x86_64
 http://66.63.187.192/bins/686i
 http://207.174.22.171/giga
 http://207.174.22.171/xmips
@@ -169,7 +186,6 @@ https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
 http://160.187.246.30/hiddenbin/boatnet.arm7
 http://91.92.46.53:8083/publish.zip
 http://196.251.70.245/z/89/arm
-http://160.187.246.30/hiddenbin/boatnet.mpsl
 https://fomeisa.com/a/OehxNhkQ34.bin
 https://fomeisa.com/a/Duodecimfid.chm
 http://107.150.0.18/ppc
@@ -1798,7 +1814,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/05%2005%20
 https://151.28.240.35:8443/sda1/GRAFICA/Video.lnk
 https://151.28.240.35:8443/sda1/GRAFICA/Video.scr
 https://151.28.240.35:8443/sda1/GRAFICA/AV.scr
-https://151.28.240.35:8443/sda1/GRAFICA/Photo.scr
 https://151.28.240.35:8443/sda1/GRAFICA/Photo.lnk
 http://202.107.235.202:8008/iis/dist/fonts/info.zip
 http://202.107.235.202:8008/iis/conn/IMG001.exe
@@ -2001,7 +2016,6 @@ http://123.19.7.187/sshd
 http://83.224.169.76/sshd
 http://66.63.187.192/scan.sh
 http://66.63.187.192/.shell
-http://66.63.187.192/bins/spim
 http://66.63.187.192/bins/k86m
 http://66.63.187.192/l7vmra
 http://66.63.187.192/bins/lespim
@@ -2132,7 +2146,6 @@ http://14.103.145.211/rondo.powerpc
 http://14.103.145.211/rondo.i686
 http://14.103.145.211/rondo.m68k
 http://14.103.145.211/rondo.fbsdamd64
-http://14.103.145.211/rondo.powerpc-440fp
 http://14.103.145.211/rondo.mipsel
 http://14.103.145.211/rondo.fbsdarm64
 http://14.103.145.211/rondo.sh4
@@ -2543,11 +2556,9 @@ http://recursing-villani.213-209-143-44.plesk.page/arm5
 http://upbeat-williams.213-209-143-44.plesk.page/arc
 http://upbeat-williams.213-209-143-44.plesk.page/mpsl
 http://upbeat-williams.213-209-143-44.plesk.page/x86
-http://upbeat-williams.213-209-143-44.plesk.page/mips
 http://recursing-villani.213-209-143-44.plesk.page/mpsl
 http://recursing-villani.213-209-143-44.plesk.page/arc
 http://upbeat-williams.213-209-143-44.plesk.page/ppc
-http://upbeat-williams.213-209-143-44.plesk.page/arm
 http://upbeat-williams.213-209-143-44.plesk.page/arm5
 http://recursing-villani.213-209-143-44.plesk.page/arm
 http://recursing-villani.213-209-143-44.plesk.page/ppc
@@ -3086,7 +3097,6 @@ http://2.125.59.57:10085/sshd
 http://192.240.55.219:3940/i
 https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
-http://194.61.232.180:53361/i
 http://195.164.139.34:8685/i
 http://82.64.2.200:50332/i
 http://195.95.253.86:44754/i
@@ -4192,6 +4202,7 @@ https://120.79.64.164:58232/02.08.2022.exe
 https://103.19.190.184:4436/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
+https://84.21.172.89:57843/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
 https://43.143.114.43/02.08.2022.exe
 http://47.93.28.103:33333/02.08.2022.exe
@@ -8741,7 +8752,6 @@ https://annadegismen.com/js/qyblsk.js
 https://annadegismen.com/js/bvafux.js
 https://annadegismen.com/js/zvwift.js
 https://annadegismen.com/js/itxrfk.js
-https://annadegismen.com/js/lhkrya.js
 https://annadegismen.com/js/nmsgoz.js
 https://annadegismen.com/js/uxsfql.js
 https://annadegismen.com/js/stwzbl.js
@@ -9325,11 +9335,11 @@ http://annadegismen.com/js/lyqtmc.js
 http://annadegismen.com/js/awtjki.js
 http://annadegismen.com/js/uhoqtj.js
 http://annadegismen.com/js/oyhixg.js
-http://annadegismen.com/js/bzykis.js
 http://annadegismen.com/js/wxpfmy.js
 http://annadegismen.com/js/ckhvft.js
 http://annadegismen.com/js/mbfnwq.js
 http://annadegismen.com/js/gvtuqd.js
+http://annadegismen.com/js/vjyzld.js
 http://annadegismen.com/js/wegpvo.js
 http://annadegismen.com/js/lqmbvz.js
 http://annadegismen.com/js/nhsylg.js
@@ -9454,7 +9464,6 @@ http://annadegismen.com/js/tlsoch.js
 http://annadegismen.com/js/wlnoku.js
 http://annadegismen.com/js/lqbutd.js
 http://annadegismen.com/js/mwsknf.js
-http://annadegismen.com/js/kdmgzy.js
 http://annadegismen.com/js/kqpyei.js
 http://annadegismen.com/js/tlbqkr.js
 http://annadegismen.com/js/gaxwco.js
@@ -10067,6 +10076,7 @@ http://92.203.169.39/sshd
 http://102.66.108.146:33484/sshd
 http://194.144.250.22/sshd
 http://185.191.89.122:1591/sshd
+http://62.221.155.5:8080/sshd
 http://89.35.233.220:8080/sshd
 http://86.106.155.155:8081/sshd
 http://87.97.161.106:8084/sshd
@@ -10469,6 +10479,7 @@ http://27.147.132.114:38521/i
 http://31.223.60.33:38054/i
 http://210.114.11.173:806/02.08.2022.exe
 http://43.153.222.28:4646/02.08.2022.exe
+http://47.254.74.170:13560/02.08.2022.exe
 http://111.229.123.235:4444/02.08.2022.exe
 http://106.15.224.147:36500/02.08.2022.exe
 https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip
@@ -10615,7 +10626,6 @@ https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/R
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/unrootkit.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/PasswordStealer.dll
 http://file.blackint3.com:88/openark/version.txt
-http://file.blackint3.com:88/openark/OpenArk64.exe
 http://file.blackint3.com:88/openark/OpenArk32.exe
 http://124.220.235.28/tool/Extreme%20Injector%20v3.exe
 http://web.archive.org/web/20240808120646if_/http:/154.216.19.139/bins/mirai.armv4l
@@ -12469,7 +12479,6 @@ http://fakers.co.jp/25072019_0963.xls
 http://download.pdf00.cn/pdfreader/news/v1.0.7.01/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.01/mini_01.exe
 https://files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da19.pdf
-http://data.kaoyany.top/2018/06/201806065969_1243.doc
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
 http://asq.r77vh0.pw/win/checking.hta
 http://razorcrypter.com/rapidtables.txt
@@ -12506,7 +12515,6 @@ http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
-http://flyingmutts.com/secure.myacc.resourses.com/
 http://programandojuntos.us.tempcloudsite.com/I203611254B019514581.zip
 http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
 http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
