@@ -146,12 +146,12 @@ http://196.251.70.245/z/b
 http://196.251.70.245/fdgsfg
 http://196.251.70.245/w.sh
 http://196.251.70.245/z/test.sh
+http://196.251.70.245/mag
 http://196.251.70.245/g
 http://196.251.70.245/z/ipc
 http://196.251.70.245/z/sdt
 http://196.251.70.245/b
 http://196.251.70.245/xaxa
-http://196.251.70.245/irz
 http://196.251.70.245/z/asd
 http://196.251.70.245/z/89/x86_64
 http://47.116.197.65/02.08.2022.exe
@@ -2026,6 +2026,7 @@ http://130.61.242.29/evil.apk
 http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
+http://43.138.30.109:9999/02.08.2022.exe
 http://124.71.110.163:12150/02.08.2022.exe
 http://43.138.30.109:8888/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
@@ -2041,7 +2042,6 @@ http://37.205.91.20:27222/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
 http://112.124.39.205:18099/02.08.2022.exe
-http://54.254.193.199/02.08.2022.exe
 http://191.33.171.242:55443/i
 http://89.25.226.70:5300/i
 http://2.83.229.165:29558/i
@@ -2114,7 +2114,6 @@ http://124.131.164.9:8888/Photo.lnk
 http://66.63.187.164/v999f8.exe
 http://103.149.252.178/busybox.sh
 http://185.156.72.2/download.php
-http://185.156.72.2/defkiller/build.zip
 http://185.156.72.196/setup?name=mixfive
 http://185.156.72.39/32.exe
 http://185.156.72.39/64.exe
@@ -2762,7 +2761,6 @@ http://195.26.97.59/sshd
 http://37.80.53.179/sshd
 http://185.63.103.143:8081/sshd
 http://222.149.6.17/sshd
-http://185.156.72.8/ffdf.exe
 http://192.252.181.93:6635/120.89.71.182.dll
 http://192.252.181.93:6635/192.238.176.82.dll
 http://192.252.181.93:6635/45.119.98.151.dll
@@ -3835,7 +3833,6 @@ http://183.100.12.86:2663/.i
 http://173.54.182.169:43168/.i
 http://2.126.54.218:3647/.i
 http://81.23.169.237:18694/.i
-http://8.148.20.113/02.08.2022.exe
 http://80.110.37.104:48784/i
 http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
@@ -4091,7 +4088,6 @@ https://45.81.23.54/bin//support.client.exe?i=&e=Support&y=Guest&r=
 http://201.191.156.103:6913/i
 http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
-https://113.44.67.52:9443/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
@@ -4108,7 +4104,6 @@ https://20.74.209.192:8081/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
-http://118.31.114.149:8081/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
 https://20.74.209.192:8080/02.08.2022.exe
 https://8.141.166.236/02.08.2022.exe
@@ -8758,7 +8753,6 @@ https://annadegismen.com/js/ahpftx.js
 https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
 https://annadegismen.com/js/ldrqxi.js
-https://annadegismen.com/js/nhtybe.js
 https://annadegismen.com/js/lqmbvz.js
 https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
@@ -9267,6 +9261,7 @@ http://annadegismen.com/js/mpwhqf.js
 http://annadegismen.com/js/phmvbs.js
 http://annadegismen.com/js/rfsduy.js
 http://annadegismen.com/js/idmclj.js
+http://annadegismen.com/js/vyiagt.js
 http://annadegismen.com/js/ngvihl.js
 http://annadegismen.com/js/ftrzvp.js
 http://annadegismen.com/js/hvnpwq.js
@@ -10445,7 +10440,6 @@ http://down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
 http://down.fwqlt.com/DXL_Win_Tool_v9.4.iso
 http://104.243.129.2/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
 http://104.243.129.2/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
-http://down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
 http://104.243.129.2/DXL_Win_Tool_v9.4.iso
 http://104.243.129.2/1_DXL_WindowsPort.zip
 http://104.243.129.2/DXL_Win_Tool_V9.6.iso
@@ -12300,7 +12294,6 @@ http://102.39.242.53:50000/
 http://191.33.171.242:55443/.i
 http://191.100.27.91:9864/.i
 http://102.39.242.53:50000/.i
-https://practifruver.com/web/templates/shaper_helix3/html/com_content/oE48rlC1AVgTsI9.php
 https://dl.packetstormsecurity.net/DoS/nemesy13.zip
 https://spaceframe.mobi.space-frame.co.za/agha25.tar
 http://buscascolegios.diit.cl/txs9e9.zip
@@ -12319,7 +12312,6 @@ https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
-http://94.43.139.153:52169/Mozi.x
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://wpbkw.com/0.0bfgdsf/sites/z7auke80107789y3kex53rm00fw4x1/
 http://reifenquick.de/Scripts/statement/ul397wfyb/
@@ -12571,3 +12563,4 @@ http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
 http://tirtasentosa.com/give/obi001.exe
 http://tirtasentosa.com/give/jon001.exe
+http://tirtasentosa.com/give/was001.exe
