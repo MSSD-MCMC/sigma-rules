@@ -141,7 +141,6 @@ http://196.251.70.245/w.sh
 http://196.251.70.245/z/test.sh
 http://196.251.70.245/z/sdt
 http://196.251.70.245/z/ruck
-http://196.251.70.245/wget.sh
 http://196.251.70.245/irz
 http://196.251.70.245/create.py
 http://196.251.70.245/z/f5
@@ -165,7 +164,6 @@ http://89.117.67.57/main_m68k
 http://89.117.67.57/main_mpsl
 http://46.72.198.190:24779/i
 http://31.132.152.126:39656/i
-http://113.164.211.90/sshd
 http://113.184.133.203:8081/sshd
 http://171.120.64.178:8000/sshd
 http://171.247.210.117:1083/sshd
@@ -234,7 +232,6 @@ http://196.251.88.165/nk/x86_64Dnk
 http://196.251.88.165/nk/i586nk
 http://196.251.88.165/nk/mipselnk
 http://196.251.88.165/nk/armnk
-http://196.251.88.165/nk/mipsnk
 http://196.251.88.165/x86_64D
 https://dn721404.ca.archive.org/0/items/wp4096799-lost-in-space-wallpapers_20250610/wp4096799-lost-in-space-wallpapers.jpg
 https://ia600706.us.archive.org/22/items/wp4096799-lost-in-space-wallpapers_20250610/wp4096799-lost-in-space-wallpapers.jpg
@@ -1195,7 +1192,6 @@ http://81.42.249.132:1080/R-02-RADIOLE/09%2002%202025/info.zip
 http://58.22.95.207:6868/20231208_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/AV.scr
 http://81.42.249.132:1080/SER%20Costa%20Luz/04%2004%202025/Photo.scr
 http://81.42.249.132:1080/R-02-RADIOLE/12%2004%202025/info.zip
-http://58.22.95.207:6868/20231215_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/AV.scr
 http://58.22.95.207:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/%E7%85%A7%E6%98%8E%E4%BA%8C%E7%8F%AD/Photo.lnk
 http://81.42.249.132:1080/R-02-RADIOLE/02%2001%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
@@ -1283,7 +1279,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/05%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/AV.scr
 http://81.42.249.132:1080/SER%20Costa%20Luz/17%2004%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/19%2002%202025/info.zip
-http://58.22.95.207:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD/119%E9%A9%AC%E9%9B%AF%E5%A9%B7-%E6%97%A0/Photo.lnk
 http://58.22.95.207:6868/20231222%E5%BD%B1%E6%8A%80/Video.scr
 http://81.42.249.132:1080/R-02-RADIOLE/22%2003%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/14%2003%202025/info.zip
@@ -2811,6 +2806,7 @@ http://209.54.103.187/sxfZOt101.bin
 http://62.60.226.166/cc.exe
 http://62.60.226.166/svc.exe
 http://101.42.13.105:8866/02.08.2022.exe
+http://47.95.31.143:6666/02.08.2022.exe
 http://8.138.47.245/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://197.89.38.171:8034/sshd
@@ -3046,7 +3042,6 @@ http://31.202.153.12:13264/.i
 https://github.com/nutstreetking/CrackFtp/releases/download/v1.4.1-beta.1/CrackFtp.v1.4.1-beta.1.zip
 http://146.103.25.100/zeros6x.sh
 https://bvu.oss-ap-southeast-6.aliyuncs.com/dimen
-http://45.136.15.39:10000/02.08.2022.exe
 https://bvu.oss-ap-southeast-6.aliyuncs.com/Dimension.exe
 http://190.214.55.142:23120/i
 http://181.199.86.79:32837/i
@@ -3690,6 +3685,7 @@ http://81.23.169.191:36881/i
 http://101.58.146.184:9454/i
 http://71.15.96.217:65214/i
 http://125.139.206.224:20369/i
+http://79.9.119.65:2138/i
 http://95.18.204.158:62383/i
 http://85.95.186.231:31952/i
 http://183.171.8.81/sshd
@@ -7299,7 +7295,6 @@ https://riverview-pools.com/verify/index.html
 https://blessdayservices.org/up/
 https://jessespridecharters.com/v/
 https://mail.lucprofessional.com.br/
-https://mail.finocci.com/
 https://admin.gestroom.it/
 https://test.peperoncinochepassione.it/
 https://first-security-verden.de/
@@ -7599,6 +7594,7 @@ https://github.com/Babskai/vir-s/raw/refs/heads/main/AsyncClient.exe
 https://github.com/user-attachments/files/17793058/lg246drE.txt
 http://144.48.171.68:39884/i
 http://194.160.223.169:30596/i
+http://85.141.98.243:33537/Mozi.m
 http://14.224.174.212/1.exe
 http://194.38.23.2/sys.exe
 http://www.newkey.co.kr/cab/LauncherLoader.exe
@@ -7803,7 +7799,6 @@ http://101.255.40.18:56061/i
 http://45.116.68.12:15607/i
 http://103.50.4.173:28917/i
 http://119.252.167.172:45777/i
-http://103.50.4.171:28917/i
 http://112.166.18.116:54152/i
 http://84.1.110.226:13619/i
 http://190.108.227.250:63274/i
@@ -8460,6 +8455,7 @@ http://103.163.119.220/Aqua.mips
 http://103.163.119.220/Aqua.arm6
 http://github.com/user-attachments/files/17793058/lg246drE.txt
 http://103.163.119.220/Aqua.arm5
+https://xn--yh4bx88a.com/storage/files/9/%E2%98%85%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%98%85.zip
 https://xn--yh4bx88a.com/storage/files/9/%E2%AB%B8%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%AB%B7.zip
 http://github.com/AhmedK97/Xwqd21WaDdqwdv/releases/download/1.0/Server.exe
 http://github.com/rviance/ubiquitous-fortnight/releases/download/toolwin/toolwin.exe
@@ -8638,7 +8634,6 @@ https://annadegismen.com/js/pamvwr.js
 https://annadegismen.com/js/heqigs.js
 https://annadegismen.com/js/lzjxve.js
 https://annadegismen.com/js/xcvepk.js
-https://annadegismen.com/js/yduphe.js
 https://annadegismen.com/js/iodhgt.js
 https://annadegismen.com/js/ofbnkh.js
 https://annadegismen.com/js/qefpth.js
@@ -8948,6 +8943,7 @@ https://annadegismen.com/js/gcbepw.js
 https://annadegismen.com/js/zsdpvi.js
 https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/dumbnq.js
+https://annadegismen.com/js/dplaun.js
 https://annadegismen.com/js/zxmbpv.js
 https://annadegismen.com/js/wdupyk.js
 https://annadegismen.com/js/mskbyg.js
@@ -9307,6 +9303,7 @@ http://annadegismen.com/js/chmuob.js
 http://annadegismen.com/js/poclxy.js
 http://annadegismen.com/js/afyles.js
 http://annadegismen.com/js/tjsqpz.js
+http://annadegismen.com/js/xpdlwg.js
 http://annadegismen.com/js/glyphn.js
 http://annadegismen.com/js/naryxl.js
 http://annadegismen.com/js/bfkovw.js
@@ -9427,7 +9424,6 @@ http://annadegismen.com/js/amlyko.js
 http://annadegismen.com/js/hmarws.js
 http://annadegismen.com/js/nwbgvc.js
 http://annadegismen.com/js/nemuxy.js
-http://annadegismen.com/js/kegqza.js
 http://annadegismen.com/js/nscgoi.js
 http://annadegismen.com/js/fhqvas.js
 http://annadegismen.com/js/nfzacd.js
@@ -9436,6 +9432,7 @@ http://annadegismen.com/js/qaglhn.js
 http://annadegismen.com/js/syabui.js
 http://annadegismen.com/js/vmjorn.js
 http://annadegismen.com/js/dybexn.js
+http://annadegismen.com/js/ueqyip.js
 http://annadegismen.com/js/vdrwog.js
 http://annadegismen.com/js/yvhuwf.js
 http://annadegismen.com/js/vromjb.js
@@ -10051,6 +10048,7 @@ http://12.148.208.86:42009/Mozi.m
 http://181.94.245.254:3028/Mozi.m
 http://103.209.184.118:9257/Mozi.m
 http://185.56.172.234:9362/Mozi.m
+http://216.155.93.238:33194/Mozi.m
 http://62.162.113.34:21172/Mozi.m
 http://41.190.70.217:20050/Mozi.m
 http://92.241.77.214:20631/Mozi.m
@@ -10478,6 +10476,7 @@ http://144.172.71.105:1338/nova_flow/patcher.exe
 http://down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 http://43.249.193.54:81/tjqdq.exe
 http://www.medises.co.kr/AsMedises/PXray_Cast_Sort.exe
+https://temirtau-adm.ru/media/mod_junewsultra/js/bootstrap/js/bootstrap.min.js
 https://raw.githubusercontent.com/Yuta1111x/selfbot/04ecdf46e8db9fce689d93905d759334b475c825/Aquarius.exe
 https://20.243.255.185/CVE-2021-3156.zip
 http://20.243.255.185/CVE-2021-3156.zip
@@ -12097,6 +12096,7 @@ http://update.cg100iii.com/cgmb/BenzMonster.exe
 http://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 https://palharesinformatica.com.br/down/newsales/adm_atu.exe
 http://jobcity.com/img/RM0XpX/
+http://www.ideaplusjal.in/softwares/jewel.sfx.exe
 https://pns.org.pk/crt/xe
 https://www.ingonherbal.com/application/PhEbceg4Tx/
 http://download.studymathlive.com/normal/airbnb.exe
