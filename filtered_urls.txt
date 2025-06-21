@@ -1,3 +1,18 @@
+http://vagner.sytes.net/main_mips
+http://vagner.sytes.net/c.sh
+http://vagner.sytes.net/main_x86
+http://vagner.sytes.net/main_ppc
+http://vagner.sytes.net/main_sh4
+http://vagner.sytes.net/main_arm5
+http://vagner.sytes.net/main_x86_64
+http://vagner.sytes.net/main_arm7
+http://vagner.sytes.net/main_m68k
+http://vagner.sytes.net/w.sh
+http://vagner.sytes.net/main_mpsl
+http://vagner.sytes.net/main_arm
+http://vagner.sytes.net/main_arm6
+http://41.216.188.159/w.sh
+http://vagner.sytes.net/main.sh
 http://104.152.49.102/xmr.sh
 http://104.152.49.102/xmrig/bin/WinRing0/WinRing0x64.sys
 http://mdnsucchim.ddns.net/w.sh
@@ -164,7 +179,6 @@ http://213.232.235.144/bins/sora.mips
 http://213.232.235.144/bins/sora.arm
 http://94.26.90.251/bins/arm6
 http://94.26.90.251/bins/arm5
-http://94.26.90.251/bins/mips
 http://94.26.90.251/bins/mpsl
 http://94.26.90.251/bins/ppc
 http://94.26.90.251/bins/sh4
@@ -328,7 +342,6 @@ http://179.61.132.203/bins/miraint.spc
 http://179.61.132.203/bins/miraint.sh4
 http://179.61.132.203/bins/mirai.arm7
 http://179.61.132.203/bins/miraint.arm
-http://179.61.132.203/bins/mirai.ppc
 http://179.61.132.203/bins/miraint.m68k
 http://179.61.132.203/bins/mirai.m68k
 http://179.61.132.203/bins/bins.sh
@@ -2082,7 +2095,6 @@ http://123.19.7.187/sshd
 http://83.224.169.76/sshd
 http://41.216.188.159/main_mips
 http://41.216.188.159/main_x86
-http://41.216.188.159/main_arm6
 http://41.216.188.159/main_m68k
 http://41.216.188.159/main_ppc
 http://41.216.188.159/main_arm5
@@ -2418,6 +2430,7 @@ http://192.252.181.93:6635/881.dll
 http://192.252.181.93:6635/103.199.100.37.dll
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.mpsl
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.spc
+http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.sh4
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.spc
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm5
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.spc
@@ -2682,6 +2695,7 @@ http://185.156.72.8/6.exe
 http://89.23.107.148.sslip.io/Documents/Mutual_Confidentiality_Agreement_Advertising.pdf.lnk
 http://8.137.60.154:3333/02.08.2022.exe
 http://43.230.158.68:39132/i
+http://121.144.52.106:50962/i
 http://58.8.185.90:48025/i
 http://46.124.120.26/sshd
 http://116.105.143.3/sshd
@@ -2794,6 +2808,7 @@ http://209.54.103.187/SfQpppVlfuuMVohC15.bin
 http://213.209.150.18/linkinggg55%205.exe
 http://213.209.150.18/linkingg66%206.exe
 http://213.209.150.18/obii55%205.exe
+http://196.251.84.41/sh4.nn
 http://196.251.84.41/x86_32.nn
 http://196.251.84.41/m68k.nn
 http://196.251.84.41/sparc.nn
@@ -2825,7 +2840,6 @@ http://192.252.181.93:6635/192.238.176.82.dll
 http://192.252.181.93:6635/45.119.98.151.dll
 http://192.252.181.93:6635/192.238.178.202.dll
 http://192.252.181.93:6635/120.89.71.178.dll
-http://192.252.181.93:6635/38.46.13.90.dll
 http://192.252.181.93:6635/156.234.0.124.dat
 http://192.252.181.93:6635/112.213.116.134.dat
 http://192.252.181.93:6635/206.119.165.155.dat
@@ -3000,6 +3014,7 @@ https://pastebin.com/raw/PCsGZEzd
 https://pastebin.com/raw/D75Qx2kp
 https://pastebin.com/raw/2UYcZ0Gj
 http://39.107.85.83:50050/02.08.2022.exe
+http://1.92.135.168:8074/02.08.2022.exe
 http://154.204.178.10/02.08.2022.exe
 http://118.200.131.244:12186/i
 http://31.202.153.12:13264/i
@@ -3425,11 +3440,9 @@ http://185.156.72.2/files/6336929412/Q1yLGzl.exe
 http://185.156.72.2/luma/random.exe
 http://185.156.72.2/well/random.exe
 http://185.156.72.2/files/7453936223/08IyOOF.exe
-http://185.156.72.2/testmine/random.exe
 http://185.156.72.2/files/fate/random.exe
 http://213.209.150.18/obicrypttwo.exe
 https://onfiltre.com.tr/wp-content/giphy.gif
-https://theipgenerators.com/uploads/onlineboss.txt
 http://37.235.164.101:58964/i
 http://update.aegis.aliyun.com/download/uninstall.sh
 http://update.aegis.aliyun.com/download/quartz_uninstall.sh
@@ -3746,6 +3759,7 @@ https://4393eb8c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.e
 http://72.29.46.195:33411/i
 http://72.29.46.195:33411/bin.sh
 http://49.232.56.252:443/02.08.2022.exe
+http://8.153.97.202:443/02.08.2022.exe
 http://118.70.214.169:28311/i
 http://191.100.27.91:9864/i
 http://5.166.231.35:23971/i
@@ -7678,7 +7692,6 @@ https://raw.githubusercontent.com/sleepysnz/skibidi/refs/heads/main/CondoGenerat
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
-http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
@@ -8092,6 +8105,7 @@ http://103.187.146.29/xnn/Injek3.mentah
 http://103.187.146.29/vvipejy/InjekSimple3.mentah
 http://103.187.146.29/samarinda/InjekSimple3.mentah
 http://e4l4.com/chromedriver.exe
+http://e4l4.com/libccc.zip.tar
 http://e4l4.com/zddtxxyxb.zip
 http://e4l4.com/xc.zip
 http://e4l4.com/vmpwn.7z
@@ -8099,6 +8113,7 @@ http://e4l4.com/without_hook.zip
 http://e4l4.com/TinyNote.zip
 http://e4l4.com/ez_kiwi.zip
 http://e4l4.com/eznoted2b1405e.zip
+http://e4l4.com/pig.zip
 http://e4l4.com/husk.zip
 https://167.250.49.155/bin/billi_e58d74e455634dc695ed8a7b8b320325.exe
 http://92.127.156.174:8880/master.exe
@@ -8914,6 +8929,7 @@ https://annadegismen.com/js/qnzymd.js
 https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
+https://annadegismen.com/js/ljvfth.js
 https://annadegismen.com/js/mpkgyo.js
 https://annadegismen.com/js/bqfgev.js
 https://annadegismen.com/js/dqwzvu.js
@@ -9075,6 +9091,7 @@ http://annadegismen.com/js/ivrfja.js
 http://annadegismen.com/js/ypufma.js
 http://annadegismen.com/js/chztsf.js
 http://annadegismen.com/js/ehyjku.js
+http://annadegismen.com/js/mspldv.js
 http://annadegismen.com/js/slqmjg.js
 http://annadegismen.com/js/ilgesm.js
 http://annadegismen.com/js/njrtbu.js
@@ -9084,7 +9101,6 @@ http://annadegismen.com/js/kluhib.js
 http://annadegismen.com/js/ldrqxi.js
 http://annadegismen.com/js/iylbjk.js
 http://annadegismen.com/js/hnwkmj.js
-http://annadegismen.com/js/bvafux.js
 http://annadegismen.com/js/qpltad.js
 http://annadegismen.com/js/mlxsgh.js
 http://annadegismen.com/js/vjtbmk.js
@@ -9368,6 +9384,7 @@ http://annadegismen.com/js/qduize.js
 http://annadegismen.com/js/jxufsd.js
 http://annadegismen.com/js/qgkljo.js
 http://annadegismen.com/js/qrwujv.js
+http://annadegismen.com/js/zfyaqp.js
 http://annadegismen.com/js/xfsnmk.js
 http://annadegismen.com/js/xfnjgo.js
 http://annadegismen.com/js/nhtybe.js
@@ -9522,7 +9539,6 @@ https://github.com/rouki555/lnk/raw/refs/heads/main/u.xls
 https://firebasestorage.googleapis.com/v0/b/nube-f5f04.appspot.com/o/ansy.txt?alt=media&token=703d87ea-0284-408f-b949-21b01138d2a5
 https://api.ewfiles.net/api/files/X8KuhJGO6
 https://api.ewfiles.net/api/files/y2NeIbvZn
-http://81.174.150.253:46497/.i
 http://178.160.216.103:49752/.i
 http://www.zhikey.com/crm/exe/update.exe
 http://101.200.220.118:8090/ledshow.exe
@@ -10582,7 +10598,6 @@ http://37.9.35.70/latest.exe
 https://210.114.11.173/02.08.2022.exe
 http://47.243.175.24:8444/02.08.2022.exe
 http://101.43.2.116/02.08.2022.exe
-http://47.120.61.164/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
 http://dld.jxwan.com/d2/CDClient.dll
@@ -10611,6 +10626,7 @@ https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_E
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
 http://eoufaoeuhoauengi.su/1.exe
 http://eoufaoeuhoauengi.su/m.exe
+http://eoufaoeuhoauengi.su/r.exe
 http://eoufaoeuhoauengi.su/11.exe
 http://twizt.net/11.exe
 http://twizt.net/r.exe
@@ -12120,6 +12136,7 @@ https://storage.googleapis.com/kjl51nnbkg8f.appspot.com/w/I3HMeWO60GWvUmx.html?b
 https://storage.googleapis.com/c08hrgew4vlk.appspot.com/w/j28WVEcoAgAouGq.html?w=036663603374497270
 http://95.38.24.186:2127/.i
 http://49.204.235.203:1899/.i
+https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://178.173.39.201:56059/.i
 http://1717.1000uc.com/Updates1/up.exe
 https://mersped.mycpanel.rs/ema_KvcEBm137.bin
@@ -12316,7 +12333,6 @@ http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://jkshaonv.com/wp-admin/eTrac/qqlOX3LVJH/
-https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://jkshaonv.com/wp-admin/FILE/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
