@@ -1,3 +1,15 @@
+http://213.232.235.144/bins/sora.m68k
+http://213.232.235.144/bins/sora.ppc
+http://213.232.235.144/bins/sora.arm7
+http://213.232.235.144/bins/sora.arm5
+http://213.232.235.144/bins/sora.spc
+http://176.96.131.92/arm
+http://213.232.235.144/bins/sora.mpsl
+http://213.232.235.144/bins/sora.sh4
+http://213.232.235.144/bins/sora.x86
+http://213.232.235.144/bins/sora.arm6
+http://213.232.235.144/bins/sora.mips
+http://213.232.235.144/bins/sora.arm
 http://94.26.90.251/bins/arm6
 http://94.26.90.251/bins/arm5
 http://94.26.90.251/bins/mips
@@ -2389,6 +2401,7 @@ http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.mpsl
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm5
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.sh4
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm
+http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.x86
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.m68k
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm7
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm7
@@ -3249,7 +3262,6 @@ http://115.23.70.129:42260/i
 http://95.221.241.92:57121/i
 http://88.8.22.161:10010/sshd
 http://88.18.186.5:91/sshd
-http://213.209.143.44/d.sh
 http://213.209.143.44/dvr
 http://213.209.143.44/c
 http://213.209.143.44/ah
@@ -3600,6 +3612,7 @@ http://1.94.41.160/02.08.2022.exe
 http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
 http://82.102.157.161:802/sshd
+http://211.229.88.50:32107/.i
 http://42.200.207.90/386
 http://42.200.207.90/arm
 http://68.193.233.41:36378/.i
@@ -3863,7 +3876,6 @@ http://46.39.251.94:1238/.i
 http://85.95.183.178:23157/.i
 http://85.95.186.231:31952/.i
 http://47.76.211.88:60131/linux
-http://101.126.16.216:60137/linux
 http://8.217.21.175:60109/linux
 http://8.218.125.202:60147/linux
 http://123.57.166.174:60118/linux
@@ -4013,7 +4025,6 @@ http://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
 https://60aaf9c6.salamanderprocessing.pages.dev/download/static/files/BootstrapperNew.exe
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Map_Free.dll
 https://dangtienluc.com/snake/BYPASSLDPLAYER.exe
-http://ny.lshdw.cc/FB/sm.exe
 http://43.226.39.44:5988/TestMemTest38.exe
 https://mogimall.com/pds/mogimall/giftorder/giftorder.exe
 http://43.226.39.44:5988/Test9.exe
@@ -4177,6 +4188,7 @@ https://vidrioyaluminio.mx/Tibia.pfm
 https://pastebin.com/raw/XAfmb6xp
 http://103.130.157.22:24107/i
 http://8.210.78.137:81/02.08.2022.exe
+http://101.43.91.156:18081/02.08.2022.exe
 http://31.170.22.205/dl16
 http://66.187.4.77/fish.arm6
 http://66.187.4.77/fish.arm7
@@ -5761,7 +5773,6 @@ https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/relea
 https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v1.0/Software.zip
 https://github.com/Ydpox/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild/releases/download/v1.0/Software.zip
 https://github.com/kareemdaher772/weather-app/releases/download/v2.0/Software.zip
-https://github.com/M2IQ1/SendFakeBtc/releases/download/v1.0/Software.zip
 https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip
 https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip
 https://github.com/kareemdaher772/weather-app/releases/download/v1.0/Software.zip
@@ -5779,6 +5790,7 @@ http://193.32.162.27/bins/pspc
 http://193.32.162.27/bins/pmips
 http://193.32.162.27/bins/pppc
 http://193.32.162.27/bins/pmpsl
+http://78.38.17.127:47220/i
 https://web.opendrive.com/api/v1/download/file.json/NTFfNDY2MDU4Mzhf?temp_key=%A6%29%D0FL%0E%3DEX%3D%B5%F5%B8%A7&inline=0
 https://github.com/earth789dadadad/Roblox-Scriptify/releases/download/v1.0.1/Release-x64.zip
 https://github.com/wer812/bhh666666666666/raw/refs/heads/main/Service.exe
@@ -6024,6 +6036,7 @@ https://onyxsecuregate.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://m.qxfhelp.top/bin/support.client.exe
 https://web.qxfhelp.top/bin/support.client.exe
 https://onyxfortitech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://acc.wtshelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcyberapex.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsafenova.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip
@@ -7376,7 +7389,6 @@ http://8.217.202.103/bash
 http://193.32.162.27/w.sh
 http://193.32.162.27/c.sh
 http://114.55.100.165:19998/02.08.2022.exe
-http://196.251.80.174/cet/aduna
 http://95.62.202.150:10071/sshd
 https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
 http://expay.ru/bins/whisper.x64
@@ -7532,7 +7544,6 @@ http://81.70.85.113/backdoor/ex86
 http://96.18.93.160:21220/i
 http://94.156.177.155/ukr/client2.exe
 http://94.156.177.155/ukraine/svc1.exe
-https://www.seventools.de/Selvtillidens.smi
 http://116.72.2.83:3950/i
 http://attachment.vnecdn.net/document/2019/12/05/13/x21-1575525820.txt
 http://175.100.115.43:50106/i
@@ -7611,6 +7622,7 @@ http://209.141.35.180/co
 http://209.141.35.180/ppc
 http://209.141.35.180/dss
 http://87.197.160.196:6324/.i
+http://222.165.237.62:37379/i
 http://46.236.65.235:38436/i
 http://103.187.31.50:23626/i
 http://43.226.39.44:5988/LoginAntiCheat.dll
@@ -7676,7 +7688,6 @@ https://107.180.89.159/wp-content/uploads/wpr-addons/forms/code1.png
 http://vbccorretoradeseguros.com.br/Receipt5290.html
 http://178.160.240.83:3487/.i
 http://192.140.225.33/phpmyadmin/!HELP_SOS.hta
-http://124.221.5.207:1444/02.08.2022.exe
 http://43.143.123.40:11111/02.08.2022.exe
 https://raw.githubusercontent.com/20Matrix77/scanner/refs/heads/main/x86
 https://raw.githubusercontent.com/20Matrix77/scanner/refs/heads/main/dlr.x86
@@ -8084,6 +8095,7 @@ http://e4l4.com/xc.zip
 http://e4l4.com/vmpwn.7z
 http://e4l4.com/without_hook.zip
 http://e4l4.com/TinyNote.zip
+http://e4l4.com/ez_kiwi.zip
 http://e4l4.com/musl-dbgsym_1.2.2-1_amd64.ddeb
 http://e4l4.com/eznoted2b1405e.zip
 http://e4l4.com/pig.zip
@@ -8319,7 +8331,6 @@ http://190.117.240.144:6603/.i
 http://200.72.199.204:1542/.i
 http://181.233.95.25:40000/.i
 http://186.125.133.244:53948/.i
-http://212.85.166.12:22448/.i
 http://212.154.209.206:16122/.i
 http://121.121.71.115:31863/.i
 http://121.121.71.114:31863/.i
@@ -8523,7 +8534,7 @@ http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/cred64.dll
 https://66.63.187.231/xampp/noc/seemefasterthanbeforewithhisbestthingsinonlineforgetreadyfor.hta
 http://8.137.114.210:4455/02.08.2022.exe
 http://113.44.144.145/02.08.2022.exe
-http://8.154.18.17:15679/02.08.2022.exe
+http://124.222.129.148:10000/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://39.102.210.162:8080/shell.elf
 http://39.102.210.162:8080/g.exe
@@ -8835,6 +8846,7 @@ https://annadegismen.com/js/wyqmpl.js
 https://annadegismen.com/js/fqwgbd.js
 https://annadegismen.com/js/onqyfe.js
 https://annadegismen.com/js/wyafhx.js
+https://annadegismen.com/js/whdsul.js
 https://annadegismen.com/js/fgejix.js
 https://annadegismen.com/js/oknpgb.js
 https://annadegismen.com/js/wsjkzd.js
@@ -9288,7 +9300,6 @@ http://annadegismen.com/js/xonsry.js
 http://annadegismen.com/js/mbpjue.js
 http://annadegismen.com/js/fqihjy.js
 http://annadegismen.com/js/rpbgfz.js
-http://annadegismen.com/js/eznirm.js
 http://annadegismen.com/js/jvrept.js
 http://annadegismen.com/js/tlcpaw.js
 http://annadegismen.com/js/xuaqjo.js
@@ -10032,6 +10043,7 @@ http://193.106.58.174:32789/Mozi.m
 http://36.88.180.115:20043/Mozi.m
 http://118.71.250.6:28411/Mozi.m
 http://202.78.201.3:62330/Mozi.m
+http://181.49.47.190:46516/Mozi.m
 http://151.237.4.20:46151/Mozi.m
 http://62.73.121.49:29111/Mozi.m
 http://159.224.143.43:60566/Mozi.m
@@ -12351,7 +12363,6 @@ http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
 http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
 http://download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
-http://download.pdf00.cn/pdfreader/news/v1.0.7.01/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.01/mini_01.exe
 https://files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da19.pdf
 http://data.kaoyany.top/2018/06/201806065969_1243.doc
