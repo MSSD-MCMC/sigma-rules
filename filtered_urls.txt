@@ -1,3 +1,33 @@
+http://43.139.228.20:800/02.08.2022.exe
+http://47.101.187.219:81/02.08.2022.exe
+http://101.35.95.220:8081/02.08.2022.exe
+http://192.140.188.178/02.08.2022.exe
+http://124.222.253.61:8087/02.08.2022.exe
+http://43.139.185.214/02.08.2022.exe
+http://121.36.62.154:8082/02.08.2022.exe
+http://113.45.29.125:8888/02.08.2022.exe
+http://8.137.98.198:8080/02.08.2022.exe
+http://83.224.148.63/sshd
+http://121.73.169.43:8082/sshd
+http://178.160.44.73:8081/sshd
+http://64.126.174.207:13107/i
+http://194.54.160.182:5953/i
+http://5.137.70.180:30672/i
+http://83.224.152.43/sshd
+http://5.237.225.154:49532/i
+http://46.236.65.11:45811/i
+http://95.251.130.219:63938/i
+http://77.12.203.111:8080/sshd
+http://79.31.106.59:23452/i
+http://181.200.26.17:8080/sshd
+http://59.88.238.146:2003/sshd
+http://163.53.83.110:23275/i
+http://37.10.214.84:9000/sshd
+http://91.80.128.145/sshd
+http://78.157.28.30:8497/i
+http://91.80.145.41/sshd
+http://183.53.109.35:38481/i
+http://59.88.35.94:2000/sshd
 http://89.42.88.254/main_mips
 http://89.42.88.254/main_arm5
 http://89.42.88.254/main_mpsl
@@ -155,6 +185,7 @@ http://196.251.70.245/z/k.sh
 http://196.251.70.245/aaa
 http://196.251.70.245/av.sh
 http://196.251.70.245/z/multi
+http://196.251.70.245/zz
 http://196.251.70.245/z/g
 http://196.251.70.245/z/fdgsfg
 http://196.251.70.245/z/linksys
@@ -2115,7 +2146,6 @@ http://198.55.98.231/host/VZSCSDF.zip
 http://198.55.98.231/host/MARCUSS.exe
 http://185.142.53.233/gmips
 http://p404041-mobac01.osaka.ocn.ne.jp/sshd
-http://14.103.145.202/rondo.armv4l
 https://103.116.190.93/live.lnk
 https://103.116.190.93/uat.lnk
 http://124.131.164.9:8888/AV.scr
@@ -2329,8 +2359,8 @@ http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.sh4
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.mpsl
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.x86
-http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm5
+http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.sh4
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm7
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm7
@@ -2343,8 +2373,6 @@ http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm7
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm6
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.mips
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm6
-http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.spc
-http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.m68k
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.ppc
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.ppc
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.m68k
@@ -2994,7 +3022,6 @@ http://71.207.64.66:49554/bin.sh
 https://pom.ie/wp-admns/Casualty.fla
 http://119.23.60.60:60126/linux
 http://8.210.122.125:60149/linux
-http://43.161.216.41:7000/02.08.2022.exe
 http://180.92.228.34:2461/i
 http://stattcheck-intuiit.com/barren.exe
 http://2.55.125.165:801/sshd
@@ -4554,6 +4581,7 @@ https://github.com/voslol/hack-crypto-wallet/releases/download/croupous/hack-cry
 https://github.com/hakimil/hack-crypto-wallet/releases/download/v2.7.7-beta.4/hack-crypto-wallet-v2.7.7-beta.4.zip
 https://github.com/AussieONZaza/assets/raw/refs/heads/master/Launcher.zip
 http://8.141.166.236:8888/02.08.2022.exe
+http://101.133.156.69:18888/02.08.2022.exe
 http://185.142.53.233/zz
 http://185.142.53.233/linksys
 http://76.221.136.53:5504/i
@@ -8203,7 +8231,6 @@ http://89.165.170.74:18999/.i
 http://203.115.101.242:32242/.i
 http://196.2.14.197:36682/.i
 http://103.236.133.81:21414/.i
-http://47.49.114.179:27254/.i
 http://190.110.204.150:34857/.i
 http://41.57.125.226:1037/.i
 http://37.220.123.125:45497/.i
@@ -8732,7 +8759,6 @@ https://annadegismen.com/js/ecalyt.js
 https://annadegismen.com/js/ojuwkc.js
 https://annadegismen.com/js/eyanol.js
 https://annadegismen.com/js/hrdcou.js
-https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/hnwkmj.js
 https://annadegismen.com/js/nlizmc.js
 https://annadegismen.com/js/rsbhal.js
@@ -8867,7 +8893,6 @@ https://annadegismen.com/js/pxobar.js
 https://annadegismen.com/js/dspvek.js
 https://annadegismen.com/js/nozmuk.js
 https://annadegismen.com/js/vrxbsi.js
-https://annadegismen.com/js/nqcgyb.js
 https://annadegismen.com/js/xtobjn.js
 https://annadegismen.com/js/hcwxve.js
 https://annadegismen.com/js/tfnkvy.js
@@ -8935,6 +8960,7 @@ http://annadegismen.com/js/wueshi.js
 http://annadegismen.com/js/gabjzd.js
 http://annadegismen.com/js/nhoiwl.js
 http://annadegismen.com/js/lisyxb.js
+http://annadegismen.com/js/hjiosv.js
 http://annadegismen.com/js/xejvig.js
 http://annadegismen.com/js/nmphwx.js
 http://annadegismen.com/js/dumbnq.js
@@ -8982,7 +9008,6 @@ http://annadegismen.com/js/chztsf.js
 http://annadegismen.com/js/ehyjku.js
 http://annadegismen.com/js/slqmjg.js
 http://annadegismen.com/js/ilgesm.js
-http://annadegismen.com/js/zamdkx.js
 http://annadegismen.com/js/njrtbu.js
 http://annadegismen.com/js/gkevtl.js
 http://annadegismen.com/js/wmxrlh.js
@@ -9567,6 +9592,7 @@ http://ftp.ywxww.net:820/svchost.exe
 http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
+http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
 http://ftp.ywxww.net:820/hdtune.exe
 http://123.ywxww.net:820/wblog.exe
 http://ftp.ywxww.net:820/steam.txt
@@ -10422,7 +10448,6 @@ https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/R
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/rootkit.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/unrootkit.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/PasswordStealer.dll
-http://file.blackint3.com:88/openark/version.txt
 http://file.blackint3.com:88/openark/OpenArk64.exe
 http://124.220.235.28/tool/Extreme%20Injector%20v3.exe
 http://web.archive.org/web/20240808120646if_/http:/154.216.19.139/bins/mirai.armv4l
@@ -12065,7 +12090,6 @@ https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
 https://www.crazywickedaddiction.com/comply.php
 https://continentalgroup.net.in/squalid.php
-https://www.crazywickedaddiction.com/development/public/uploads/images/categories/beirut.php
 https://forms.saurashtrauniversity.edu/belt.php
 http://84.22.136.158:32729/.i
 http://fulltai.top/wp-includes/oKXYj/
@@ -12264,7 +12288,6 @@ https://raw.githubusercontent.com/fuzzbunch/fuzzbunch/master/payloads/Doublepuls
 https://raw.githubusercontent.com/BeRo1985/berotinypascal/e34bd4164f4b7c27e7cf667dffd9274d33d6dfbe/bin/btpc.exe
 http://vincentdemiero.com/fta.exe
 http://vincentdemiero.com/fvs.zip
-http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://sabinoplacas.com.br/logs/OCT/
@@ -12301,7 +12324,6 @@ http://plomberie-energie34.fr/templates/beez_20/images/nature/1c.jpg
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.01/fmt_01.exe
 http://src1.minibai.com/uploads/thirdupload/5d3e8177e87cc.exe
 http://src1.minibai.com/uploads/thirdupload/5c8b08b37a426.exe
-http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_02.exe
 http://konsor.ru/keygen.exe
 http://download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_01.exe
@@ -12338,7 +12360,6 @@ https://itcomsrv.kz/wp-content/DOC/g1gc04s1woz64tp6ugkcifwtu7pk0_l0pue-989869263
 http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
 http://dance-holic.com/2shot/ODJF-GWd94pNQpGx2OGn_nZwJuQBvv-qz/
 http://dl.1003b.56a.com/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe
-http://xiaoma-10021647.file.myqcloud.com/qrtb.exe
 http://redlk.com/tqpjo/Scan/UftRuaEmi2h/
 http://faubourg-70.fr/1/80.exe
 http://faubourg-70.fr/1/9006.exe
