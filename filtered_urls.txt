@@ -126,6 +126,7 @@ http://196.251.70.245/f5
 http://196.251.70.245/z/linksys
 http://196.251.70.245/k.sh
 http://196.251.70.245/z/z.sh
+http://196.251.70.245/z/gocl
 http://196.251.70.245/test.sh
 http://196.251.70.245/z/li
 http://196.251.70.245/z/irz
@@ -144,7 +145,6 @@ http://196.251.70.245/wget.sh
 http://196.251.70.245/irz
 http://196.251.70.245/create.py
 http://196.251.70.245/z/f5
-http://196.251.70.245/z/weed
 http://196.251.70.245/z/asd
 http://196.251.70.245/bx
 http://196.251.70.245/5
@@ -289,6 +289,7 @@ http://103.130.213.161/bins/sora.m68k
 http://124.222.114.76/02.08.2022.exe
 http://101.226.8.163:8066/02.08.2022.exe
 http://115.238.252.51:8989/02.08.2022.exe
+http://175.178.100.95:8980/02.08.2022.exe
 http://119.8.124.29:9999/02.08.2022.exe
 http://153.37.228.4:50775/i
 http://31.15.185.99:47471/i
@@ -299,7 +300,6 @@ http://14.165.173.29/sshd
 http://178.55.23.214/sshd
 http://94.231.117.196:31096/i
 https://mundocarnes.cl/xl.txt
-https://fidesrely.com.mx/iqpkwEEsigURNtpwNnpNfy127.bin
 https://zhigalovanatasha.ru/?u=file
 https://zenithprojectsnsw.com.au/?u=file
 https://zdoorovaya-kozha.ru/?u=file
@@ -317,7 +317,6 @@ https://yumeimise.net/?u=file
 https://zonalatina103.net/?u=file
 https://ywcanevada.org/?u=file
 https://zammler.com.kz/?u=file
-https://zosnow.com/?u=file
 https://zivalife.com.br/?u=file
 https://zaydacortez.com/?u=file
 https://zion-wealth.com/?u=file
@@ -1056,7 +1055,6 @@ http://81.42.249.132:1080/R-02-RADIOLE/12%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/16%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/29%2004%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/30%2001%202025/info.zip
-http://58.22.95.207:6868/20231208_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/Photo.lnk
 http://81.42.249.132:1080/SER%20Costa%20Luz/23%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/17%2005%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/28%2001%202025/info.zip
@@ -1249,7 +1247,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/24%2003%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/25%2005%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/13%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
-http://58.22.95.207:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD/Video.lnk
 http://81.42.249.132:1080/SER%20Costa%20Luz/21%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/31%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/23%2002%202025/info.zip
@@ -2111,7 +2108,6 @@ http://31.104.231.116:81/sshd
 http://115.238.252.51:9000/02.08.2022.exe
 http://46.6.0.149:57610/i
 http://114.155.22.246:5139/i
-http://8.218.77.224:8432/02.08.2022.exe
 http://119.8.97.13/02.08.2022.exe
 http://185.46.17.62:39710/i
 http://176.215.77.139:31621/i
@@ -2443,12 +2439,10 @@ http://1.94.184.17:8000/sun32.exe
 http://1.94.184.17:8000/zbsm.zip
 https://acert.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://csis.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://ar-bn.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://bacre.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crow.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://help.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://m-sec.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://reezo.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://para.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://gense7en.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://alert.costariga.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -2800,7 +2794,6 @@ http://196.251.84.41/x86_32.nn
 http://196.251.84.41/powerpc.nn
 http://196.251.84.41/sparc.nn
 http://196.251.84.41/x86_64.nn
-http://196.251.84.41/arm6.nn
 http://185.156.72.61/inc/cron123213321.exe
 http://185.156.72.2/files/6629342726/rZBRvVk.exe
 http://156.238.233.147/02.08.2022.exe
@@ -3084,7 +3077,6 @@ https://kristalzemin.com/Selvskrevet254.mdp
 https://maidforyou1985.com/bufs.zip
 https://medthermography.com/raxs.zip
 https://windomstatetheater.com/mits.zip
-https://medthermography.com/fsxs.zip
 https://jakestrack.com/fste.zip
 https://medthermography.com/lebu.zip
 https://jakestrack.com/fsps.zip
@@ -3332,7 +3324,6 @@ http://94.26.90.251/arm5
 http://94.26.90.251/sh4
 http://94.26.90.251/arm7
 http://94.26.90.251/spc
-http://94.26.90.251/m68k
 http://94.26.90.251/mips
 http://112.87.155.113:21858/i
 http://103.161.230.107:20650/i
@@ -4742,7 +4733,6 @@ https://raw.githubusercontent.com/tacocat2222/materia-fivem/refs/heads/main/load
 http://31.170.22.205/dl18
 http://175.112.170.177/js/x.exe
 http://175.112.170.177/js/x.rar
-http://175.112.170.177/js/config.json
 https://talentrecruitments.com/ConvertedFile.txt
 https://github.com/theus12324/Roblox-AppleWare/releases/download/v1.0/Software.zip
 https://github.com/aldenpogznet22/Hamster-Bot/releases/download/v1.0/Software.zip
@@ -7947,7 +7937,6 @@ http://github.com/NullSpectre/WhyAreYouHere-/raw/4bed170d797d5d2077bfc312d8badcd
 http://93.87.31.84:40955/i
 http://121.121.71.115:31863/i
 http://121.121.71.112:31863/i
-http://212.73.75.82:33920/i
 http://103.220.214.246:13139/i
 http://37.220.123.125:45497/i
 http://188.150.21.103:60199/Mozi.m
@@ -8932,6 +8921,7 @@ https://annadegismen.com/js/bqfgev.js
 https://annadegismen.com/js/dqwzvu.js
 https://annadegismen.com/js/kluhib.js
 https://annadegismen.com/js/ihqwvu.js
+https://annadegismen.com/js/syzghb.js
 https://annadegismen.com/js/erxfoa.js
 https://annadegismen.com/js/scowgh.js
 https://annadegismen.com/js/bigevt.js
@@ -9044,7 +9034,6 @@ http://annadegismen.com/js/dumbnq.js
 http://annadegismen.com/js/qlegvd.js
 http://annadegismen.com/js/awnrzg.js
 http://annadegismen.com/js/bvnqhc.js
-http://annadegismen.com/js/rsmupb.js
 http://annadegismen.com/js/qkrbco.js
 http://annadegismen.com/js/kyhmov.js
 http://annadegismen.com/js/ebavlw.js
@@ -9198,7 +9187,6 @@ http://annadegismen.com/js/zsdpvi.js
 http://annadegismen.com/js/wyafhx.js
 http://annadegismen.com/js/wijbyn.js
 http://annadegismen.com/js/njbcql.js
-http://annadegismen.com/js/nrqhmt.js
 http://annadegismen.com/js/jiurtg.js
 http://annadegismen.com/js/bmstep.js
 http://annadegismen.com/js/dwjupc.js
@@ -9233,7 +9221,6 @@ http://annadegismen.com/js/duvijc.js
 http://annadegismen.com/js/lzjxve.js
 http://annadegismen.com/js/wgusdm.js
 http://annadegismen.com/js/wsjkzd.js
-http://annadegismen.com/js/nlizmc.js
 http://annadegismen.com/js/sgcmrl.js
 http://annadegismen.com/js/fdrqhv.js
 http://annadegismen.com/js/nlzrch.js
@@ -9326,6 +9313,7 @@ http://annadegismen.com/js/bfkovw.js
 http://annadegismen.com/js/swejgo.js
 http://annadegismen.com/js/oemktg.js
 http://annadegismen.com/js/nucksg.js
+http://annadegismen.com/js/sejktf.js
 http://annadegismen.com/js/cnvlhd.js
 http://annadegismen.com/js/xplisb.js
 http://annadegismen.com/js/dhzwae.js
@@ -9360,7 +9348,6 @@ http://annadegismen.com/js/zyuakm.js
 http://annadegismen.com/js/dqwzvu.js
 http://annadegismen.com/js/qnrbse.js
 http://annadegismen.com/js/gecixy.js
-http://annadegismen.com/js/wbpusy.js
 http://annadegismen.com/js/xijzwd.js
 http://annadegismen.com/js/aukifc.js
 http://annadegismen.com/js/wpctlk.js
@@ -10491,7 +10478,6 @@ http://144.172.71.105:1338/nova_flow/patcher.exe
 http://down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 http://43.249.193.54:81/tjqdq.exe
 http://www.medises.co.kr/AsMedises/PXray_Cast_Sort.exe
-https://temirtau-adm.ru/media/mod_junewsultra/js/bootstrap/js/bootstrap.min.js
 https://raw.githubusercontent.com/Yuta1111x/selfbot/04ecdf46e8db9fce689d93905d759334b475c825/Aquarius.exe
 https://20.243.255.185/CVE-2021-3156.zip
 http://20.243.255.185/CVE-2021-3156.zip
@@ -10581,6 +10567,7 @@ http://101.43.2.116/02.08.2022.exe
 http://47.120.61.164/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
+http://dld.jxwan.com/d2/CDClient.dll
 http://dld.jxwan.com/d2/x64.dll
 http://tengfeidn.com/down/tb/tb.exe
 http://tengfeidn.com/down/jf/jf.exe
@@ -10606,12 +10593,12 @@ https://github.com/TRevSglAss/MornA/raw/main/Ref_BA0929399122_pdf.zip
 https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
 http://eoufaoeuhoauengi.su/1.exe
+http://eoufaoeuhoauengi.su/m.exe
 http://eoufaoeuhoauengi.su/11.exe
 http://eoufaoeuhoauengi.su/newtpp.exe
 http://twizt.net/11.exe
 http://twizt.net/o.exe
 http://twizt.net/m.exe
-http://twizt.net/r.exe
 http://43.240.65.55:81/info.zip
 http://220.248.47.54:76/info.zip
 http://167.250.49.155/bin/mimikatz.exe
@@ -10658,7 +10645,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
-http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
@@ -12108,6 +12094,7 @@ https://mersped.mycpanel.rs/ema_KvcEBm137.bin
 https://www.usaayurveda.com/js/prototype/form.js
 http://update.cg100iii.com/cg100/CG100.exe
 http://update.cg100iii.com/cgmb/BenzMonster.exe
+http://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 https://palharesinformatica.com.br/down/newsales/adm_atu.exe
 http://jobcity.com/img/RM0XpX/
 https://pns.org.pk/crt/xe
@@ -12400,6 +12387,7 @@ http://sk-comtel.com/templates/theme261/html/com_contact/category/hp.gf
 http://brightworks.cz/file/support/trust/En/042019/
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
+http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
 http://flyingmutts.com/secure.myacc.resourses.com/
