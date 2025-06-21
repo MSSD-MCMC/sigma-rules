@@ -143,6 +143,7 @@ http://196.251.70.245/test.sh
 http://196.251.70.245/z/li
 http://196.251.70.245/z/irz
 http://196.251.70.245/z/zz
+http://196.251.70.245/fb
 http://196.251.70.245/linksys
 http://196.251.70.245/z/wget.sh
 http://196.251.70.245/z.sh
@@ -993,7 +994,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/15%2003%202025/info.zip
 http://117.50.95.62:9880/AIHelper/info.zip
 http://117.50.95.62:9880/Ateam/info.zip
 http://117.50.95.62:9880/AIHelper2/info.zip
-http://58.22.95.207:6868/20231222%E5%BD%B1%E6%8A%80/Photo.scr
 http://58.22.95.207:6868/0108_stone_lut1.zip
 http://58.22.95.207:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/Video.scr
 http://58.22.95.207:6868/20231208_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/Photo.scr
@@ -2103,6 +2103,7 @@ http://46.232.167.99:41855/i
 http://37.205.91.20:27222/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
+http://112.124.39.205:18099/02.08.2022.exe
 http://54.254.193.199/02.08.2022.exe
 http://191.33.171.242:55443/i
 http://89.25.226.70:5300/i
@@ -2515,7 +2516,6 @@ http://14.103.145.202/rondo.powerpc
 http://14.103.145.202/rondo.sh
 http://14.103.145.202/rondo.i486
 http://14.103.145.202/rondo.i586
-http://14.103.145.202/rondo.powerpc-440fp
 http://213.209.143.44/g
 http://213.209.143.44/p.sh
 http://recursing-villani.213-209-143-44.plesk.page/sh4
@@ -2596,6 +2596,7 @@ http://217.84.190.48/sshd
 http://121.167.154.98:36966/i
 http://41.144.132.250:8082/sshd
 http://86.54.42.125/mipsel.nn
+http://86.54.42.125/sh4.nn
 http://86.54.42.125/arm7.nn
 http://86.54.42.125/arm5.nn
 http://86.54.42.125/arm6.nn
@@ -3827,7 +3828,6 @@ http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://github.com/00094/String-Remover/raw/refs/heads/main/rah.exe
 http://107.150.0.56:3000/ah.zip
-http://8.138.119.70:5003/bea.bin
 http://47.109.159.25:7080/29524.txt
 http://111.46.219.240:14593/.i
 http://85.95.183.178:23157/i
@@ -4159,7 +4159,6 @@ http://47.120.13.85:8889/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
 https://43.143.114.43/02.08.2022.exe
-http://47.93.28.103:33333/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
@@ -7511,7 +7510,6 @@ https://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://200.14.250.72/BLJYSVHW/info.zip
 http://200.14.250.72/BLJYSVHW/IMG001.exe
 http://47.109.201.173:8888/02.08.2022.exe
-http://8.130.132.210:7777/02.08.2022.exe
 http://118.41.168.132:32573/i
 http://102.132.214.18:9166/i
 http://2.55.94.61:802/sshd
@@ -9063,6 +9061,7 @@ http://annadegismen.com/js/ahpftx.js
 http://annadegismen.com/js/zsabth.js
 http://annadegismen.com/js/auwgir.js
 http://annadegismen.com/js/acdkqh.js
+http://annadegismen.com/js/natsgp.js
 http://annadegismen.com/js/qzmcax.js
 http://annadegismen.com/js/dspvek.js
 http://annadegismen.com/js/kwxdtb.js
@@ -11310,6 +11309,7 @@ http://118.179.41.46:28219/.i
 http://190.104.195.210:65110/.i
 http://187.95.124.125:58300/.i
 http://213.5.19.220:13079/.i
+http://62.249.140.222:7543/.i
 http://103.71.46.122:7747/.i
 http://124.41.225.49:61677/.i
 http://181.143.124.58:2854/.i
@@ -12153,6 +12153,7 @@ https://eruditewef.org/wp-content/plugins/updraftplus/vendor/aws/quarrelled.php
 https://eruditewef.org/photographer.php
 https://eruditewef.org/steadied.php
 https://chaparral.es/mausoleum.php
+https://eruditewef.org/wp-content/plugins/updraftplus/vendor/aws/fetid.php
 https://chaparral.es/wp-content/themes/porto/less/js_composer/sneerly.php
 https://eruditewef.org/sutural.php
 https://chaparral.es/unbaked.php
@@ -12375,7 +12376,6 @@ http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
 http://www.cc9.ne.jp/~golgo13ex/C964732.xls
 http://www.hseda.com/download/qt51crk.exe
 http://hseda.com/download/qt51crk.exe
-http://www.starcountry.net/screenmate/cute/sm1302.zip
 http://farmax.far.br/download/FarmaxRefresher.exe
 http://dl.dzqzd.com/wj1bsetup.exe
 http://www.caravella.com.br/arquivos/nfe.sfx.exe
@@ -12492,6 +12492,7 @@ http://p6.zbjimg.com/task/2010-12/03/519808/4cf8bc6362f34.rar
 http://p6.zbjimg.com/task/2010-12/12/pub/4d043cebf1e0b.rar
 http://p6.zbjimg.com/task/2011-10/22/1164339/4ea2a4c43df54.rar
 http://flyingmutts.com/076360TAD/oamo/Business/
+http://p3.zbjimg.com/task/2009-06/29/106045/rc1veeex.rar
 http://users.atw.hu/tekiwanatain/installer.rar
 http://p3.zbjimg.com/task/2009-06/29/106045/5fg9yjwr.rar
 http://p3.zbjimg.com/task/2009-06/29/106045/a9to40e7.rar
