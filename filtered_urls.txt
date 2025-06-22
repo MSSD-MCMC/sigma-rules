@@ -332,7 +332,6 @@ http://101.42.239.131/02.08.2022.exe
 http://103.130.213.161/pay
 http://103.130.213.161/sora.sh
 http://103.130.213.161/bins/sora.arm
-http://103.130.213.161/yarn
 http://103.130.213.161/bins/sora.arm6
 http://103.130.213.161/bins/sora.x86
 http://103.130.213.161/bin
@@ -2033,6 +2032,7 @@ http://41.216.188.159/main_ppc
 http://41.216.188.159/main_arm5
 http://41.216.188.159/main_x86_64
 http://41.216.188.159/main_mpsl
+http://41.216.188.159/main_sh4
 http://41.216.188.159/main_arm
 http://41.216.188.159/main_arm7
 http://185.156.72.2/files/7677226784/EG11t89.exe
@@ -3033,7 +3033,6 @@ http://45.95.169.113/hiddenbin/boatnet.m68k
 http://45.95.169.113/hiddenbin/boatnet.arc
 http://45.95.169.113/hiddenbin/boatnet.arm5
 http://45.95.169.113/hiddenbin/boatnet.mips
-http://45.95.169.113/hiddenbin/boatnet.mpsl
 http://81.226.201.46:54352/i
 http://46.6.15.103:16726/i
 http://183.81.156.123:12929/i
@@ -3672,7 +3671,6 @@ http://94.26.90.217/vv/armv6l
 http://94.26.90.217/vv/sparc
 http://94.26.90.217/vv/armv4eb
 http://94.26.90.217/vv/armv4l
-http://180.76.244.133/02.08.2022.exe
 http://123.231.92.17:41609/i
 http://188.12.100.131:30261/i
 http://88.8.22.161:10004/sshd
@@ -4101,7 +4099,6 @@ https://113.44.67.52:9443/02.08.2022.exe
 https://189.1.220.101:28443/02.08.2022.exe
 https://182.255.45.244:64898/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
-https://139.196.237.171:63577/02.08.2022.exe
 https://43.140.215.17/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
@@ -7266,7 +7263,6 @@ https://bmdcompany.com/
 https://lucprofessional.grupomoltz.com.br/
 https://www.thesignaturemag.salviatech.com/
 https://www.test.peperoncinochepassione.it/
-https://my.salviatech.com/
 https://82.146.62.232/
 http://82.146.62.232/
 http://31.170.22.205/bins/whisper.mips64n32
@@ -7347,7 +7343,6 @@ http://31.170.22.205/bins/whisper.i586
 http://31.170.22.205/bins/whisper.arm8x64_be
 http://31.170.22.205/bins/whisper.arm7
 http://31.170.22.205/bins/whisper.arm8x64
-http://31.170.22.205/bins/whisper.mipsle
 http://31.170.22.205/bins/whisper.mips
 http://31.170.22.205/bins/whisper.mips64
 http://31.170.22.205/bins/whisper.x64
@@ -7381,7 +7376,6 @@ http://205.185.115.242/a-r.m-6.Sakura
 http://205.185.115.242/m-p.s-l.Sakura
 http://205.185.115.242/x-3.2-.Sakura
 http://205.185.115.242/p-p.c-.Sakura
-http://205.185.115.242/m-6.8-k.Sakura
 http://205.185.115.242/Sakura.sh
 https://raw.githubusercontent.com/leinchchanceleinch/jik/refs/heads/main/d.msi
 http://45.115.236.152:37232/02.08.2022.exe
@@ -7673,7 +7667,6 @@ http://103.240.163.205:61549/i
 http://111.46.219.240:14593/i
 https://test.aionclassic.pro/launcher/upload/TEST.exe
 http://moonloaderupdate.ru/test.exe
-http://41.32.249.165:57203/.i
 http://39.104.73.194/dred
 http://121.202.211.2/sshd
 http://86.228.133.175:82/sshd
@@ -7784,6 +7777,7 @@ http://196.2.14.197:36682/i
 http://185.181.51.73:4529/i
 http://182.160.109.98:29602/i
 http://47.181.114.185:35261/i
+http://103.43.128.123:59758/i
 http://78.153.52.58:19219/i
 http://103.236.135.177:21414/i
 http://195.34.205.242:27023/i
@@ -8198,7 +8192,6 @@ http://176.122.27.90:9999/tmp5.elf
 http://176.122.27.90:9999/reverse.elf
 http://176.122.27.90:9999/tmp1.elf
 http://176.122.27.90:9999/tmp4.elf
-http://176.122.27.90:9999/tmp.exe
 http://101.37.34.164:9000/3.exe
 http://windriversfiles.imeitools.com/component/vc2005sp1redist_x86.exe
 https://raw.githubusercontent.com/whoafg/problemonfmech/refs/heads/main/client.exe
@@ -8411,7 +8404,6 @@ http://103.163.119.220/Aqua.arm6
 http://github.com/user-attachments/files/17793058/lg246drE.txt
 http://103.163.119.220/Aqua.arm5
 http://103.163.119.220/Aqua.ppc
-https://xn--yh4bx88a.com/storage/files/9/%E2%98%85%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%98%85.zip
 https://xn--yh4bx88a.com/storage/files/9/%E2%AB%B8%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%AB%B7.zip
 http://github.com/AhmedK97/Xwqd21WaDdqwdv/releases/download/1.0/Server.exe
 http://github.com/rviance/ubiquitous-fortnight/releases/download/toolwin/toolwin.exe
@@ -8770,7 +8762,6 @@ https://annadegismen.com/js/ufeigv.js
 https://annadegismen.com/js/owajis.js
 https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
-https://annadegismen.com/js/hmarws.js
 https://annadegismen.com/js/htbgwa.js
 https://annadegismen.com/js/ucxlfi.js
 https://annadegismen.com/js/uovxcl.js
@@ -9335,6 +9326,7 @@ http://annadegismen.com/js/tpwqro.js
 http://annadegismen.com/js/wjnalk.js
 http://annadegismen.com/js/ukitdj.js
 http://annadegismen.com/js/udjzbl.js
+http://annadegismen.com/js/bemzuh.js
 http://annadegismen.com/js/qduize.js
 http://annadegismen.com/js/jxufsd.js
 http://annadegismen.com/js/qgkljo.js
@@ -10101,7 +10093,6 @@ http://64.140.100.201:44920/Mozi.m
 http://181.143.114.106:61394/Mozi.m
 http://211.186.82.229:13753/Mozi.m
 http://118.179.203.50:40889/Mozi.m
-http://70.166.89.181:26293/Mozi.m
 http://203.115.103.19:43652/Mozi.m
 http://109.160.87.2:31378/Mozi.m
 http://37.34.209.216:59068/Mozi.m
@@ -10288,7 +10279,6 @@ http://185.151.108.232:29113/i
 http://185.56.172.234:9362/i
 http://201.184.179.195:30450/i
 http://95.170.112.61:14898/i
-http://95.70.238.134:55591/i
 http://176.221.111.222:2282/i
 http://88.119.193.17:10462/i
 http://27.156.224.11:43529/i
@@ -10663,6 +10653,7 @@ http://211.192.113.231/tftp
 http://202.57.39.2:19001/tftp
 http://14.142.209.198/tftp
 http://170.210.81.104/tftp
+https://karoonpc.com/Deccastationers.msi
 http://karoonpc.com/Deccastationers.msi
 http://116.206.151.203:478/install_python3.sh
 http://203.232.37.151/av_downloader.exe
