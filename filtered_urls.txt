@@ -1,3 +1,22 @@
+http://jmanga.co/systemcl/arc
+http://jmanga.co/wget.sh
+http://jmanga.co/w.sh
+http://jmanga.co/c.sh
+http://jmanga.co/test.sh
+http://65.21.56.214/test.sh
+http://jmanga.co/systemcl/arm7
+http://jmanga.co/systemcl/arm6
+http://jmanga.co/systemcl/mips
+http://jmanga.co/systemcl/arm5
+http://jmanga.co/systemcl/ppc
+http://jmanga.co/systemcl/spc
+http://jmanga.co/systemcl/arm
+http://jmanga.co/systemcl/x86
+http://jmanga.co/systemcl/sh4
+http://65.21.56.214/systemcl/arc
+http://jmanga.co/systemcl/mpsl
+http://jmanga.co/systemcl/x86_64
+http://jmanga.co/systemcl/m68k
 http://vagner.sytes.net/main_mips
 http://vagner.sytes.net/c.sh
 http://vagner.sytes.net/main_x86
@@ -229,7 +248,6 @@ http://196.251.70.245/ipc
 http://196.251.70.245/vc
 http://196.251.70.245/z/89/mpsl
 http://196.251.70.245/ruck
-http://196.251.70.245/toto
 http://196.251.70.245/fdgsfg
 http://196.251.70.245/z.sh
 http://196.251.70.245/z/jaws
@@ -240,7 +258,6 @@ http://196.251.70.245/z/ruck
 http://196.251.70.245/gocl
 http://196.251.70.245/xaxa
 http://196.251.70.245/z/f5
-http://196.251.70.245/z/asd
 http://196.251.70.245/bx
 http://196.251.70.245/5
 http://196.251.70.245/z/89/x86_64
@@ -2446,7 +2463,6 @@ http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.arc700
 http://14.103.145.202/rondo.x86_64
 http://14.103.145.202/rondo.armv7l
-http://14.103.145.202/rondo.powerpc
 http://14.103.145.202/rondo.i486
 http://14.103.145.202/rondo.i586
 http://213.209.143.44/g
@@ -4111,7 +4127,6 @@ http://123.200.12.186:1418/i
 http://27.147.155.130:1418/i
 https://vidrioyaluminio.mx/Tibia.pfm
 https://pastebin.com/raw/XAfmb6xp
-https://www.khavar.com/GHDsdCBN124.bin
 http://103.130.157.22:24107/i
 http://8.210.78.137:81/02.08.2022.exe
 http://101.43.91.156:18081/02.08.2022.exe
@@ -10756,7 +10771,6 @@ http://178.183.208.134:8080/sshd
 http://80.24.87.77:8057/sshd
 http://81.42.247.62:8087/sshd
 http://178.84.167.164:8080/sshd
-http://95.47.248.146/sshd
 http://202.22.143.159:9021/sshd
 http://76.53.38.126:8082/sshd
 http://14stirling.dyndns.org:8082/sshd
