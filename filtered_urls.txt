@@ -225,6 +225,7 @@ http://185.156.72.2/files/7700188128/RYNH1rZ.exe
 http://196.251.70.245/z/w.sh
 http://196.251.70.245/z/av.sh
 http://196.251.70.245/z/c.sh
+http://196.251.70.245/z/fb
 http://196.251.70.245/z/aaa
 http://196.251.70.245/adb
 http://196.251.70.245/z/toto
@@ -1944,7 +1945,6 @@ http://49.233.178.5:8888/WxWorkApis.dll
 http://49.233.189.252:8888/WxWorkApis.dll
 http://43.139.88.161:8888/WxWorkApis.dll
 http://43.138.242.32:8888/WxWorkApis.dll
-http://106.55.134.240:8888/WxWorkApis.dll
 http://43.136.28.89:8888/WxWorkApis.dll
 http://43.138.163.108:8888/WxWorkApis.dll
 http://124.223.73.186:8888/WxWorkApis.dll
@@ -3238,7 +3238,6 @@ http://84.236.147.129/sshd
 http://94.26.90.251/bins/Aqua.dbg
 http://94.26.90.251/bins/Aqua.ppc
 http://94.26.90.251/bins/Aqua.mpsl
-http://94.26.90.251/bins/Aqua.x86_64
 http://94.26.90.251/bins/Aqua.arm7
 http://94.26.90.251/bins/Aqua.arm4
 http://94.26.90.251/bins/Aqua.m68k
@@ -3765,6 +3764,7 @@ http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://github.com/00094/String-Remover/raw/refs/heads/main/rah.exe
 http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/bea.bin
+http://8.138.119.70:5003/beacon.bin
 http://111.46.219.240:14593/.i
 http://111.173.104.176:8888/02.08.2022.exe
 http://85.95.183.178:23157/i
@@ -7481,7 +7481,6 @@ http://81.70.85.113/backdoor/ex86
 http://96.18.93.160:21220/i
 http://94.156.177.155/ukr/client2.exe
 http://94.156.177.155/ukraine/svc1.exe
-https://www.seventools.de/Selvtillidens.smi
 http://116.72.2.83:3950/i
 http://attachment.vnecdn.net/document/2019/12/05/13/x21-1575525820.txt
 http://175.100.115.43:50106/i
@@ -8567,6 +8566,7 @@ https://annadegismen.com/js/jhoxtn.js
 https://annadegismen.com/js/ylienp.js
 https://annadegismen.com/js/afyles.js
 https://annadegismen.com/js/ropalb.js
+https://annadegismen.com/js/evfolp.js
 https://annadegismen.com/js/bivasm.js
 https://annadegismen.com/js/xpdlwg.js
 https://annadegismen.com/js/kawjhl.js
@@ -8698,7 +8698,6 @@ https://annadegismen.com/js/cktlar.js
 https://annadegismen.com/js/mkvuip.js
 https://annadegismen.com/js/pdemzv.js
 https://annadegismen.com/js/acnqoe.js
-https://annadegismen.com/js/igbavd.js
 https://annadegismen.com/js/jvrept.js
 https://annadegismen.com/js/hpkynl.js
 https://annadegismen.com/js/geruvw.js
@@ -9336,7 +9335,6 @@ http://annadegismen.com/js/qgkljo.js
 http://annadegismen.com/js/qrwujv.js
 http://annadegismen.com/js/zfyaqp.js
 http://annadegismen.com/js/xfsnmk.js
-http://annadegismen.com/js/xfnjgo.js
 http://annadegismen.com/js/nhtybe.js
 http://annadegismen.com/js/kdzjqg.js
 http://annadegismen.com/js/dplaun.js
@@ -9600,6 +9598,7 @@ https://raw.githubusercontent.com/DONW2023/ae/main/ready.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/BB.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/ready.apk
 https://telegramcn.co/download/Telegram.apk
+http://101.133.156.69:7777/Lee.exe
 https://github.com/Marcin2123/jjsploit/raw/refs/heads/main/JJSploit_8.10.7_x64-setup.exe
 https://github.com/ordogos2/g575/releases/download/Download/setup.7.0.zip
 https://raw.githubusercontent.com/Marcin2123/jjsploit/refs/heads/main/JJSploit_8.10.7_x64-setup.exe
