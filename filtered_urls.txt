@@ -269,6 +269,7 @@ http://196.251.70.245/z/k.sh
 http://196.251.70.245/z/fb
 http://196.251.70.245/z/aaa
 http://196.251.70.245/adb
+http://196.251.70.245/zz
 http://196.251.70.245/f5
 http://196.251.70.245/z/fdgsfg
 http://196.251.70.245/z/bx
@@ -2561,7 +2562,6 @@ http://recursing-villani.213-209-143-44.plesk.page/ppc
 http://traxanhc2.duckdns.org/neon.m68k
 http://traxanhc2.duckdns.org/neon.mips
 http://traxanhc2.duckdns.org/neon.sh4
-http://traxanhc2.duckdns.org/neon.i686
 http://traxanhc2.duckdns.org/neon.arc
 http://traxanhc2.duckdns.org/neon.x86_64
 http://14.103.234.180/xmrig.tar.gz
@@ -2809,6 +2809,7 @@ http://213.209.150.18/obii55%205.exe
 http://196.251.84.41/sh4.nn
 http://196.251.84.41/m68k.nn
 http://196.251.84.41/sparc.nn
+http://196.251.84.41/mips.nn
 http://196.251.84.41/arm6.nn
 http://185.156.72.61/inc/cron123213321.exe
 http://185.156.72.2/files/6629342726/rZBRvVk.exe
@@ -3708,7 +3709,6 @@ http://213.209.143.44/mipsel
 http://213.209.143.44/mips
 http://213.209.143.44/arm5
 http://31.170.22.205/dl200
-http://43.155.132.55:18324/02.08.2022.exe
 http://93.21.252.43:47572/i
 http://220.81.58.40:31249/i
 http://203.203.88.151:16670/i
@@ -7712,7 +7712,6 @@ https://raw.githubusercontent.com/sleepysnz/skibidi/refs/heads/main/CondoGenerat
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
-http://101.35.235.124:4444/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
@@ -7800,7 +7799,6 @@ http://43.240.65.55:81/IMG001.exe
 http://1.181.70.42:17003/info.zip
 https://safefiles2.oss-cn-beijing.aliyuncs.com/auda
 http://81.42.249.132:1080/info.zip
-http://112.173.146.107:13282/i
 http://2.54.83.78:802/sshd
 http://2.54.89.165:804/sshd
 http://93.117.75.7:8080/sshd
@@ -7944,7 +7942,6 @@ http://117.240.155.245:30480/sshd
 http://117.240.155.245:30270/sshd
 http://46.141.62.238:10000/sshd
 http://117.216.139.142:2011/sshd
-http://117.240.155.245:30410/sshd
 http://117.216.139.143:2014/sshd
 http://117.247.101.63:2000/sshd
 http://114.247.47.52:9081/sshd
@@ -8095,7 +8092,6 @@ http://8.138.96.41:10050/dlc_update.data
 https://raw.githubusercontent.com/Babskai/vir-s/refs/heads/main/AsyncClient.exe
 http://103.187.146.29/tacvip/File3.mentah
 http://103.187.146.29/sumatra/File3.mentah
-http://103.187.146.29/senju/Senju_Simple_VP.rar
 http://103.187.146.29/fvc/Injek3.mentah
 http://103.187.146.29/samarinda/Simple3.mentah
 http://103.187.146.29/egn/File3.mentah
@@ -8723,7 +8719,6 @@ https://annadegismen.com/js/rodsap.js
 https://annadegismen.com/js/ulhqcw.js
 https://annadegismen.com/js/vyiagt.js
 https://annadegismen.com/js/zsjwbc.js
-https://annadegismen.com/js/yoaxpt.js
 https://annadegismen.com/js/mspldv.js
 https://annadegismen.com/js/tlbqkr.js
 https://annadegismen.com/js/ocjbrm.js
@@ -8946,7 +8941,6 @@ https://annadegismen.com/js/lrgkaj.js
 https://annadegismen.com/js/qudsxr.js
 https://annadegismen.com/js/brgdto.js
 https://annadegismen.com/js/jstepv.js
-https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/rplkdt.js
 https://annadegismen.com/js/ljvfth.js
@@ -10182,6 +10176,7 @@ http://121.101.130.152:49784/Mozi.m
 http://36.64.210.218:25588/Mozi.m
 http://41.77.74.90:10702/Mozi.m
 http://87.197.107.203:52364/Mozi.m
+http://190.217.148.227:4886/Mozi.m
 http://78.29.19.18:3200/Mozi.m
 http://185.57.69.125:16138/Mozi.m
 http://110.34.7.5:48764/Mozi.m
