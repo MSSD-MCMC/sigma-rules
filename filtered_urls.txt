@@ -396,6 +396,7 @@ http://196.251.70.245/z/g
 http://196.251.70.245/z/bx
 http://196.251.70.245/jaws
 http://196.251.70.245/ipc
+http://196.251.70.245/z/irz
 http://196.251.70.245/fb
 http://196.251.70.245/z/wget.sh
 http://196.251.70.245/asd
@@ -546,7 +547,6 @@ http://177.70.102.232:8090/TmpFTP/TD00000000000000172165/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000170520/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171726/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000165200/info.zip
-http://177.70.102.232:8090/TmpFTP/TD00000000000000165826/info.zip
 http://124.131.164.9:8888/%E8%A3%85%E6%9C%BA%E7%9B%B8%E5%85%B3/AV.lnk
 http://124.131.164.9:8888/%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6/Photo.scr
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171308/info.zip
@@ -2172,7 +2172,6 @@ http://154.217.245.237:8000/evil.jar
 http://15.235.134.131:8080/dcap9.msi
 http://68.183.190.74:8000/report.ps1
 http://89.187.28.238/1.sh
-http://117.72.102.110:6666/02.08.2022.exe
 http://94.159.99.169/Documents/testlnk1.lnk
 http://103.120.133.144:35714/i
 http://78.85.83.10:45304/i
@@ -2249,6 +2248,7 @@ http://129.204.146.115:50080/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://37.205.91.20:27222/i
 http://60.43.127.245/sshd
+http://118.195.156.76:2443/02.08.2022.exe
 http://112.124.39.205:18099/02.08.2022.exe
 http://191.33.171.242:55443/i
 http://89.25.226.70:5300/i
@@ -2640,7 +2640,6 @@ http://upbeat-williams.213-209-143-44.plesk.page/arm
 http://upbeat-williams.213-209-143-44.plesk.page/arm5
 http://recursing-villani.213-209-143-44.plesk.page/arm
 http://recursing-villani.213-209-143-44.plesk.page/ppc
-http://traxanhc2.duckdns.org/neon.arc
 http://14.103.234.180/xmrig.tar.gz
 http://14.103.234.180/setup_c3pool_miner.sh
 http://185.156.72.2/files/6383224650/Cp1N8fC.exe
@@ -2724,7 +2723,6 @@ http://205.185.124.206/i686
 http://205.185.124.206/x86
 http://205.185.124.206/ppc
 http://205.185.124.206/co
-http://traxanhc2.duckdns.org/dwrioej/neon.mipsel
 http://160.30.44.120/dwrioej/neon.armv4l
 http://185.196.8.166/AtomicMailVerifie.exe
 http://185.196.8.166/nginx.exe
@@ -2750,7 +2748,6 @@ http://121.144.52.106:50962/i
 http://46.124.120.26/sshd
 http://116.105.143.3/sshd
 http://41.246.164.238:8081/sshd
-http://94.26.90.251/payload1.sh
 http://198.55.98.29/host/jaybin.txt
 http://198.55.98.29/host/jayy.ps1
 http://sterlingpropertygroup.com.au/SAMSIHLWJm150.bin
@@ -3287,7 +3284,6 @@ http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://106.14.68.26/Server.exe
 http://106.14.68.26/Server1.exe
 http://106.14.68.26/svchost.exe
-http://117.72.206.39:443/02.08.2022.exe
 http://186.87.82.140:31414/i
 http://2.54.83.155:802/sshd
 https://raw.githubusercontent.com/caonim2le/yournigas/main/arm
@@ -3653,6 +3649,7 @@ http://81.22.42.232:8201/sshd
 https://bitbucket.org/dfffrf/dfdf/downloads/Notificaci%C3%B3n_demanda_virtual_juzgado_09_de_circuito_de_Bogot%C3%A1.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
+http://152.136.44.13:8001/02.08.2022.exe
 http://1.94.41.160/02.08.2022.exe
 http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
@@ -4228,7 +4225,6 @@ https://43.155.195.102:8888/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://39.75.154.200:53269/i
-http://47.113.217.92:8000/02.08.2022.exe
 http://41.160.19.82:6667/i
 http://156.19.57.50:24183/i
 http://181.129.85.10:36918/i
@@ -4888,7 +4884,6 @@ https://github.com/rohitandey/intro1.html/releases/download/v2.0/Software.zip
 https://github.com/mehedihasanfarabi10/newlaravel/releases/download/v1.0/Software.zip
 https://github.com/rohitandey/list.html/releases/download/v1.0/Software.zip
 https://github.com/f60n/L.github.io/releases/download/v1.0/Application.zip
-https://github.com/samueltonao/frontendmentor/releases/download/v1.0/Application.zip
 https://github.com/samueltonao/frontendmentor/releases/download/v2.0/Software.zip
 https://github.com/f60n/L.github.io/releases/download/v2.0/Software.zip
 https://github.com/mehedihasanfarabi10/ui-package-email-verify/releases/download/v1.0/Software.zip
@@ -7832,6 +7827,7 @@ https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
 http://47.90.142.15/02.08.2022.exe
+http://182.252.66.22:16263/i
 http://103.50.4.174:28917/i
 http://24.115.40.227:28810/i
 http://101.255.40.18:56061/i
@@ -10424,7 +10420,6 @@ https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
 http://192.176.50.190:33952/i
 http://192.176.50.190:33952/bin.sh
 http://download.suxiazai.com/for_down/2013/new/dlls/rse/rsreport.exe
-https://crystalpvp.ru/slinky/slinkycrack.zip
 https://storage.soowim.co.kr/ITplan.exe
 http://storage.soowim.co.kr/ITplan.exe
 https://storage.soowim.co.kr/IT_plan_cifs.exe
@@ -10580,6 +10575,7 @@ https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/networks_profile
 https://raw.githubusercontent.com/s3q/blackdoor/main/backdoor.exe
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_move.bat
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_virus.bat
+http://194.122.165.159/Photo.scr
 http://194.122.165.170/Photo.scr
 http://64.234.95.70/Photo.scr
 http://170.55.7.234/Photo.scr
@@ -10648,7 +10644,6 @@ https://raw.githubusercontent.com/TRevSglAss/MornA/main/Ref_BA0929399122_pdf.zip
 https://github.com/TRevSglAss/MornA/raw/main/Ref_BA0929399122_pdf.zip
 https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
-http://eoufaoeuhoauengi.su/1.exe
 http://eoufaoeuhoauengi.su/m.exe
 http://eoufaoeuhoauengi.su/r.exe
 http://eoufaoeuhoauengi.su/o.exe
@@ -11170,6 +11165,7 @@ http://109.245.220.229:44759/.i
 http://172.85.143.74:47929/.i
 http://190.110.206.134:50463/.i
 http://190.145.205.178:6360/.i
+http://36.66.151.7:59841/.i
 http://116.58.51.90:1162/.i
 http://212.107.232.167:21838/.i
 http://123.231.247.114:20671/.i
@@ -12064,6 +12060,7 @@ https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
 https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
+https://gabyagozetim.com/scarica/
 https://gabyagozetim.com/agenzia/
 http://29sbt.ru/lib/rl2xse0Do/
 https://nusatoyota.co.id/teev/teev.js
@@ -12177,6 +12174,7 @@ https://forms.saurashtrauniversity.edu/belt.php
 http://84.22.136.158:32729/.i
 http://fulltai.top/wp-includes/oKXYj/
 https://kylintech.in/0UMR6G/fuck_niggers_46.hta
+https://kylintech.in/S0I/fuck_niggers_7.hta
 https://kylintech.in/F18V/fuck_niggers_44.hta
 http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 https://eruditewef.org/caisson.php
