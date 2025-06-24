@@ -363,6 +363,7 @@ http://162.215.218.82/install.tgz
 http://158.180.72.194/02.08.2022.exe
 http://47.101.187.219:81/02.08.2022.exe
 http://101.35.95.220:8081/02.08.2022.exe
+http://192.140.188.178/02.08.2022.exe
 http://124.222.253.61:8087/02.08.2022.exe
 http://43.139.185.214/02.08.2022.exe
 http://121.73.169.43:8082/sshd
@@ -413,7 +414,6 @@ http://211.226.243.108:1535/i
 http://31.130.248.85:25600/i
 http://89.42.88.254/bins/sora.arm7
 http://89.42.88.254/bins/sora.arm
-http://89.42.88.254/bins/sora.arm6
 http://89.42.88.254/bins/sora.arm5
 http://89.42.88.254/bins/sora.spc
 http://89.42.88.254/bins/sora.x86
@@ -492,7 +492,6 @@ http://196.251.70.245/irz
 http://196.251.70.245/z/89/arm6
 http://196.251.70.245/bx
 http://196.251.70.245/5
-http://196.251.70.245/z/89/x86_64
 http://196.251.70.245/z/89/arm7
 http://47.116.197.65/02.08.2022.exe
 http://89.117.67.57/main_ppc
@@ -549,18 +548,17 @@ https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
 http://91.92.46.53:8083/publish.zip
 https://fomeisa.com/a/OehxNhkQ34.bin
 https://fomeisa.com/a/Duodecimfid.chm
-http://107.150.0.18/ppc
 http://107.150.0.18/sh4
 http://196.251.70.245/z/89/arm5
 http://107.150.0.18/arm7
 http://103.149.252.178/bot.x86
 http://107.150.0.18/arm
-http://107.150.0.18/mpsl
 http://107.150.0.18/mips
 http://107.150.0.18/arm5
 http://107.150.0.18/arc
 http://107.150.0.18/mipsel
 http://107.150.0.18/x86
+http://103.149.252.178/bot.x86_64
 http://107.150.0.18/ssh.sh
 http://185.156.72.2/files/935629868/b7VRzCg.exe
 http://101.42.239.131/02.08.2022.exe
@@ -2696,6 +2694,7 @@ http://213.209.143.44/g
 http://213.209.143.44/p.sh
 http://recursing-villani.213-209-143-44.plesk.page/sh4
 http://78.153.140.66/kij.sh
+http://recursing-villani.213-209-143-44.plesk.page/mipsel
 http://recursing-villani.213-209-143-44.plesk.page/arm7
 http://upbeat-williams.213-209-143-44.plesk.page/arm7
 http://recursing-villani.213-209-143-44.plesk.page/mips
@@ -3258,6 +3257,7 @@ https://raw.githubusercontent.com/waf/dracula-cmd/master/dist/ColorTool.zip
 https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrounds.zip
 http://github.com/anonimusman00-2/xmr/raw/refs/heads/main/Silent%20Miner.zip
 http://github.com/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip
+http://139.159.157.238:55555/02.08.2022.exe
 http://109.92.232.94:60396/i
 http://176.121.58.98:6353/i
 http://78.30.244.228:14416/i
@@ -3781,7 +3781,6 @@ http://213.209.143.44/w.sh
 https://2024.sci-hub.se/2294/7a43bb4cf6c57229b02a9604a1f4614e/skidmore1966.pdf
 http://213.209.143.44/arm7
 http://213.209.143.44/x86
-http://213.209.143.44/mipsel
 http://213.209.143.44/mips
 http://213.209.143.44/arm5
 http://31.170.22.205/dl200
@@ -7371,7 +7370,6 @@ http://31.170.22.205/bins/whisper.aarch64
 http://31.170.22.205/bins/whisper.riscv64
 http://31.170.22.205/bins/whisper.sparc
 http://31.170.22.205/bins/whisper.armv4
-http://31.170.22.205/bins/whisper.powerpc64e6500
 http://31.170.22.205/bins/whisper.aarch64be
 http://31.170.22.205/bins/whisper.mips64len32
 http://31.170.22.205/bins/whisper.m68k
@@ -8319,7 +8317,6 @@ http://190.96.1.233:53106/.i
 http://195.34.205.242:27023/.i
 http://159.148.48.50:55174/.i
 http://203.115.101.242:32242/.i
-http://196.2.14.197:36682/.i
 http://103.236.133.81:21414/.i
 http://190.110.204.150:34857/.i
 http://41.57.125.226:1037/.i
@@ -8350,6 +8347,7 @@ http://94.158.158.67:40783/.i
 http://78.153.52.58:19219/.i
 https://39.106.152.236:11443/02.08.2022.exe
 https://154.92.14.41:2998/02.08.2022.exe
+https://api.co-operativefinance.com/02.08.2022.exe
 https://8.137.114.210:4433/02.08.2022.exe
 https://43.153.222.28:4545/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
@@ -8639,6 +8637,7 @@ https://annadegismen.com/js/jhoxtn.js
 https://annadegismen.com/js/ylienp.js
 https://annadegismen.com/js/afyles.js
 https://annadegismen.com/js/ropalb.js
+https://annadegismen.com/js/evfolp.js
 https://annadegismen.com/js/bivasm.js
 https://annadegismen.com/js/xpdlwg.js
 https://annadegismen.com/js/kawjhl.js
@@ -8713,7 +8712,6 @@ https://annadegismen.com/js/tzokax.js
 https://annadegismen.com/js/hmdjou.js
 https://annadegismen.com/js/zvwjks.js
 https://annadegismen.com/js/hxysdw.js
-https://annadegismen.com/js/euhzjt.js
 https://annadegismen.com/js/cigfds.js
 https://annadegismen.com/js/rkvabp.js
 https://annadegismen.com/js/otpgcj.js
@@ -8838,7 +8836,6 @@ https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
 https://annadegismen.com/js/hmarws.js
 https://annadegismen.com/js/htbgwa.js
-https://annadegismen.com/js/ucxlfi.js
 https://annadegismen.com/js/uovxcl.js
 https://annadegismen.com/js/htfvnw.js
 https://annadegismen.com/js/yvsmlo.js
@@ -8855,7 +8852,6 @@ https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/nlizmc.js
-https://annadegismen.com/js/rsbhal.js
 https://annadegismen.com/js/mbfnwq.js
 https://annadegismen.com/js/laurhk.js
 https://annadegismen.com/js/wyqmpl.js
@@ -9022,6 +9018,7 @@ https://annadegismen.com/js/xqbgec.js
 https://annadegismen.com/js/vromjb.js
 https://annadegismen.com/js/sbozjq.js
 https://annadegismen.com/js/vfakmu.js
+https://annadegismen.com/js/wfevmh.js
 https://annadegismen.com/js/bemzuh.js
 https://annadegismen.com/js/tlsoch.js
 https://annadegismen.com/js/wfrtcn.js
@@ -9651,7 +9648,6 @@ https://raw.githubusercontent.com/DONW2023/ae/main/ready.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/BB.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/ready.apk
 https://telegramcn.co/download/Telegram.apk
-http://skynetx.com.br/turitarefa.htm
 http://skynetx.com.br/tarefa.html
 http://101.133.156.69:7777/Lee.exe
 https://github.com/Marcin2123/jjsploit/raw/refs/heads/main/JJSploit_8.10.7_x64-setup.exe
@@ -9849,7 +9845,6 @@ http://alien-training.com/award.pdf.exe
 http://qiniuyunxz.yxflzs.com/msf.exe
 https://raw.githubusercontent.com/C5Hackr/Phantom/main/Phantom/Resources/donut.exe
 http://156.255.2.100/ffmpeg.jpg
-http://101.133.156.69:7001/02.08.2022.exe
 http://43.130.107.126:8001/02.08.2022.exe
 http://140.192.101.212:4343/.DS_Store
 http://152.136.140.85:40389/key.pem
@@ -9938,6 +9933,7 @@ http://data.yhydl.com:20006/file/YHY_Setup.exe
 http://elisans.novayonetim.com/Products/4001/Updates/eFatura/EFatura.exe
 http://file.edunet.ac/ipscan.exe
 http://147.50.240.62/1SkillLauncher/1SkillLauncher.exe
+http://hnjgdl.geps.glodon.com:8888/Services/Identification/Server/GtpToolsDownLoadHandler.ashx?filename=GTP_6_BrowserPlugin_Setup.exe
 http://dl.natgo.cn:888/natgo.exe
 http://pid.fly160.com/download/etermproxy.exe
 http://49.234.48.162/pdd_biaoge/soft/down.exe
@@ -10615,6 +10611,7 @@ http://eoufaoeuhoauengi.su/1.exe
 http://eoufaoeuhoauengi.su/m.exe
 http://eoufaoeuhoauengi.su/r.exe
 http://eoufaoeuhoauengi.su/o.exe
+http://eoufaoeuhoauengi.su/t.exe
 http://eoufaoeuhoauengi.su/newtpp.exe
 http://twizt.net/11.exe
 http://twizt.net/1.exe
@@ -11532,7 +11529,6 @@ http://154.0.129.134:10702/i
 http://196.41.63.178:12132/i
 http://181.193.62.225:39941/i
 http://197.159.1.58:25983/i
-http://197.159.8.222:34891/i
 http://190.185.119.13:53572/i
 http://213.147.120.145:41331/i
 http://188.175.134.62:4496/i
@@ -12044,6 +12040,7 @@ http://79.121.103.84:45544/.i
 http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
+https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
 https://gabyagozetim.com/connect/
