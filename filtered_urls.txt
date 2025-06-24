@@ -445,7 +445,6 @@ http://196.251.70.245/z/89/mpsl
 http://196.251.70.245/ruck
 http://196.251.70.245/asd
 http://196.251.70.245/z/b
-http://196.251.70.245/toto
 http://196.251.70.245/z/xaxa
 http://196.251.70.245/mag
 http://196.251.70.245/g
@@ -462,7 +461,6 @@ http://196.251.70.245/5
 http://196.251.70.245/z/89/mips
 http://45.141.233.66:8080/02.08.2022.exe
 http://101.42.239.131:8880/02.08.2022.exe
-http://47.116.197.65/02.08.2022.exe
 http://89.117.67.57/main_ppc
 http://89.117.67.57/main_mips
 http://89.117.67.57/main_arm6
@@ -3549,6 +3547,7 @@ http://185.156.72.2/files/unique2/random.exe
 http://185.156.72.2/files/6336929412/Q1yLGzl.exe
 http://185.156.72.2/luma/random.exe
 http://185.156.72.2/test/exe/random.exe
+http://185.156.72.2/well/random.exe
 http://185.156.72.2/files/7453936223/08IyOOF.exe
 http://185.156.72.2/newdef/random.exe
 http://185.156.72.2/testmine/random.exe
@@ -7845,7 +7844,6 @@ http://93.117.75.7:8080/sshd
 http://2.54.89.174:802/sshd
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
-http://8.140.239.162/02.08.2022.exe
 http://121.121.71.113:31863/i
 http://190.220.229.49:12646/i
 http://31.185.103.48:54941/i
@@ -9647,6 +9645,7 @@ http://118.44.144.198:4403/i
 http://113.98.201.248:81/pro2.jpg
 https://raw.githubusercontent.com/R00tS3c/DDOS-RootSec/refs/heads/master/DDOS%20Scripts/L4/UDP/10gbpsUDP.py
 http://45.250.231.30:1336/i
+http://41.190.57.114:8141/i
 http://62.12.77.90:31317/i
 http://43.255.216.26:25260/i
 http://46.236.65.253:37696/i
@@ -10049,7 +10048,6 @@ http://117.72.70.169/xl_ext_chrome.crx
 http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
-https://39.98.174.154:52683/02.08.2022.exe
 https://139.196.237.171:12345/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
