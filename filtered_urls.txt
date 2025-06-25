@@ -205,7 +205,6 @@ http://147.124.212.84/host/devil.ps1
 http://185.156.72.61/inc/main.bat
 http://94.26.90.79:8080/bins/main_arm6
 http://94.26.90.79:8080/bins/main_sh4
-http://94.26.90.79:8080/bins/main_arm
 https://github.com/gxbhl/api/raw/refs/heads/master/Software.zip
 https://raw.githubusercontent.com/sbu-bot/cli/refs/heads/master/Software.zip
 https://github.com/elnatass/blog/raw/refs/heads/master/Software.zip
@@ -2217,6 +2216,7 @@ http://43.136.51.89:8888/WxWorkMultiOpen.exe
 http://123.207.73.161:8888/WxWorkMultiOpen.exe
 http://175.178.251.212:8888/WxWorkMultiOpen.exe
 http://119.29.37.236:8888/WxWorkMultiOpen.exe
+http://124.220.78.172:8888/WxWorkMultiOpen.exe
 http://101.33.243.139:8888/WxWorkMultiOpen.exe
 http://42.193.115.114:8888/WxWorkMultiOpen.exe
 http://82.157.148.8:8888/WxWorkMultiOpen.exe
@@ -2928,6 +2928,7 @@ http://209.54.103.187/aOvfUYF161.bin
 http://209.54.103.187/zCutQARsmAmjWfOTogPUfkf170.bin
 http://185.156.72.8/6.exe
 http://89.23.107.148.sslip.io/Documents/Mutual_Confidentiality_Agreement_Advertising.pdf.lnk
+http://43.230.158.68:39132/i
 http://121.144.52.106:50962/i
 http://109.248.58.238:50004/i
 http://46.124.120.26/sshd
@@ -3801,7 +3802,6 @@ http://81.22.42.232:8201/sshd
 https://bitbucket.org/dfffrf/dfdf/downloads/Notificaci%C3%B3n_demanda_virtual_juzgado_09_de_circuito_de_Bogot%C3%A1.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
-http://152.136.44.13:8001/02.08.2022.exe
 http://123.56.226.71:44444/02.08.2022.exe
 http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
@@ -3898,6 +3898,7 @@ http://121.40.202.70/163.exe
 http://121.40.202.70/sc.bin
 http://121.40.202.70/budiao.exe
 http://1.234.66.181:15788/zal.exe
+http://1.234.66.181:15788/XPT.exe
 http://94.26.90.217/k
 http://94.26.90.217/r
 http://94.26.90.217/g
@@ -3963,7 +3964,6 @@ http://81.23.169.191:36881/.i
 http://221.159.190.196:8868/.i
 http://80.76.101.102:22010/.i
 http://220.81.58.40:31249/.i
-http://121.167.154.98:36966/.i
 http://117.25.137.34:19538/.i
 http://101.58.146.184:9454/.i
 http://2.180.24.129:12643/.i
@@ -7422,7 +7422,6 @@ http://190.52.36.129:40486/i
 https://blessdayservices.org/up/
 https://jessespridecharters.com/v/
 https://mail.lucprofessional.com.br/
-https://mail.finocci.com/
 https://cambodiatouristservice.com/
 https://admin.gestroom.it/
 https://test.peperoncinochepassione.it/
@@ -7436,7 +7435,6 @@ https://www.lucprofessional.grupomoltz.com.br/
 https://thesignaturemag.salviatech.com/
 https://www.bratusferramentas.grupomoltz.com.br/
 https://website.mypetapp.co.za/
-https://horno-rafelet.es/
 https://bmdcompany.com/
 https://lucprofessional.grupomoltz.com.br/
 https://www.test.peperoncinochepassione.it/
@@ -7965,7 +7963,6 @@ http://212.85.166.12:22448/i
 http://27.156.154.3:58633/i
 http://103.43.6.114:7055/i
 http://207.113.208.58:2544/i
-http://139.255.97.116:6983/i
 http://190.110.204.150:34857/i
 http://181.129.177.162:26290/i
 http://80.23.51.236:60454/i
@@ -8688,6 +8685,7 @@ https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/wmxrlh.js
 https://annadegismen.com/js/jiurtg.js
 https://annadegismen.com/js/oyhixg.js
+https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/tmvhgx.js
 https://annadegismen.com/js/qugkmx.js
 https://annadegismen.com/js/wxpfmy.js
@@ -9309,7 +9307,6 @@ http://annadegismen.com/js/jstepv.js
 http://annadegismen.com/js/bcflxs.js
 http://annadegismen.com/js/obinaf.js
 http://annadegismen.com/js/ogytzk.js
-http://annadegismen.com/js/zoafhp.js
 http://annadegismen.com/js/euhzjt.js
 http://annadegismen.com/js/pvhmaj.js
 http://annadegismen.com/js/duvijc.js
@@ -9482,7 +9479,6 @@ http://annadegismen.com/js/bqfgev.js
 http://annadegismen.com/js/jowhkb.js
 http://annadegismen.com/js/stwzbl.js
 http://annadegismen.com/js/ofbnkh.js
-http://annadegismen.com/js/gdqxnm.js
 http://annadegismen.com/js/jtcqge.js
 http://annadegismen.com/js/uvlpmk.js
 http://annadegismen.com/js/lrgkaj.js
@@ -9679,7 +9675,6 @@ https://raw.githubusercontent.com/Erez-Goldberg/Rust-reverse-shell/main/shellcod
 http://103.247.218.186:49052/i
 http://103.162.59.217:38340/i
 http://5.89.112.21:23105/.i
-http://armanayegh.com/readme/glued.hta
 http://armanayegh.com/readme/bin.exe
 http://101.133.156.69:7777/mysql.bat
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
@@ -10403,6 +10398,7 @@ http://82.67.13.197/Photo.scr
 http://123.117.136.97:9000/Photo.scr
 http://68.225.217.95:85/Photo.scr
 http://113.106.6.106:14319/help.scr
+http://14.42.14.216:8602/Photo.scr
 http://43.132.13.252:9000/Photo.scr
 http://181.36.153.151:81/Photo.scr
 http://77.240.97.71:81/Photo.scr
@@ -10620,7 +10616,6 @@ http://200.29.120.130:8002/tftp
 http://93.182.76.169:82/tftp
 http://93.182.76.169:81/tftp
 http://89.121.250.206:8080/tftp
-http://43.153.222.28:433/02.08.2022.exe
 https://uyul.oss-cn-beijing.aliyuncs.com/in/2041.bin
 https://uyul.oss-cn-beijing.aliyuncs.com/in/204.bin
 https://uyul.oss-cn-beijing.aliyuncs.com/in/d204.dll
