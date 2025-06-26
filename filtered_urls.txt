@@ -368,7 +368,6 @@ http://traxanhc2.duckdns.org/o.xml
 http://traxanhc2.duckdns.org/neon.armv6l
 http://traxanhc2.duckdns.org/neon.mipsel
 http://traxanhc2.duckdns.org/neon.powerpc
-http://jbvpshosti.com/00101010101001/morte.mips
 http://93.123.118.21/cARM-arm64
 http://93.123.118.21/cARM-mipsle-softfloat
 http://jbvpshosti.com/00101010101001/morte.i686
@@ -585,11 +584,11 @@ http://196.251.70.245/z/linksys
 http://196.251.70.245/k.sh
 http://196.251.70.245/z/z.sh
 http://196.251.70.245/z/gocl
+http://196.251.70.245/z/li
 http://196.251.70.245/z/lll
 http://196.251.70.245/fb
 http://196.251.70.245/lll
 http://196.251.70.245/linksys
-http://196.251.70.245/z.sh
 http://196.251.70.245/z/test.sh
 http://196.251.70.245/mag
 http://196.251.70.245/z/ipc
@@ -3590,12 +3589,12 @@ https://connection.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Gues
 https://sconnect-05.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://216.131.90.19:54138/bin.sh
 https://github.com/popa339/nef5/raw/refs/heads/main/Slasher.exe
+http://8.134.80.60:12345/02.08.2022.exe
 http://103.10.228.28:37952/i
 http://2.54.239.97:802/sshd
 http://2.54.239.98:802/sshd
 http://2.54.83.40:802/sshd
 http://85.204.105.97:30802/.i
-http://115.159.71.204:801/02.08.2022.exe
 http://124.221.32.87:9001/02.08.2022.exe
 http://109.229.224.26:63333/i
 http://100.1.53.24:24178/i
@@ -4336,6 +4335,7 @@ https://43.140.215.17/02.08.2022.exe
 https://103.19.190.184:4436/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
+https://43.143.114.43/02.08.2022.exe
 http://47.93.28.103:33333/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
@@ -7452,6 +7452,7 @@ http://82.146.62.232/
 http://31.170.22.205/bins/whisper.mips64n32
 http://31.170.22.205/bins/whisper.powerpce500mc
 http://31.170.22.205/bins/whisper.i686
+http://31.170.22.205/bins/whisper.arcle750d
 http://31.170.22.205/bins/whisper.powerpc64e5500
 http://31.170.22.205/bins/whisper.armv7
 http://31.170.22.205/bins/whisper.riscv32
@@ -7662,6 +7663,7 @@ http://attachment.vnecdn.net/document/2019/12/05/13/x21-1575525820.txt
 http://175.100.115.43:50106/i
 http://122.168.123.76:57500/i
 http://27.147.196.138:22320/i
+http://46.175.139.20:11074/i
 http://101.126.11.168/xsh/xsh.exe
 http://ny.lshdw.cc/SigmaPlus/4.exe
 https://raw.githubusercontent.com/TylerMT99/ZZZaaa/refs/heads/main/Built.exe
@@ -7721,6 +7723,7 @@ http://14.224.174.212/1.exe
 http://194.38.23.2/sys.exe
 http://www.newkey.co.kr/cab/LauncherLoader.exe
 http://202.141.166.71:30117/i
+http://182.109.0.22:18888/sshd
 http://87.197.160.196:6324/.i
 http://222.165.237.62:37379/i
 http://46.236.65.235:38436/i
@@ -9310,7 +9313,6 @@ http://annadegismen.com/js/trgebo.js
 http://annadegismen.com/js/rfwelc.js
 http://annadegismen.com/js/heqigs.js
 http://annadegismen.com/js/pkacbg.js
-http://annadegismen.com/js/njhxsu.js
 http://annadegismen.com/js/vswybn.js
 http://annadegismen.com/js/wachij.js
 http://annadegismen.com/js/ljvfth.js
@@ -9662,6 +9664,7 @@ http://46.236.65.253:37696/i
 http://46.97.36.202:48031/i
 http://70.39.20.176:57116/i
 http://36.89.21.251:33122/i
+http://200.58.80.108:65362/i
 http://209.42.55.161:7160/i
 http://213.6.64.86:6853/i
 http://181.233.95.24:40000/i
@@ -12398,7 +12401,6 @@ http://yongtai.cn/wp-includes/closed-disk/guarded-space/0870725-rAaDiviu/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
 http://yongtai.cn/wp-includes/VctIE/
 http://www.reifenquick.de/Scripts/closed_957176_mxqSdoJ6a4IZ/close_warehouse/ql55hnq09iyn6lm_334stxvw03wyv/
-http://reifenquick.de/Scripts/hl8-8w4cs-6325/
 http://dweixin.cn/gttu/xOfSL/
 https://dweixin.cn/gttu/xOfSL/
 https://dweixin.cn/gttu/Overview/sw94b26/
@@ -12647,3 +12649,4 @@ http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
 http://tirtasentosa.com/give/obi001.exe
 http://tirtasentosa.com/give/jon001.exe
+http://tirtasentosa.com/give/was001.exe
