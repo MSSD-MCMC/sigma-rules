@@ -525,7 +525,6 @@ http://106.52.6.128:801/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
 http://154.85.54.80:8989/02.08.2022.exe
 http://47.96.106.127:8890/02.08.2022.exe
-http://1.94.243.114/02.08.2022.exe
 http://222.149.76.83/sshd
 http://221.113.193.128/sshd
 http://14.254.163.155:8080/sshd
@@ -1587,6 +1586,7 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/27%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/13%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/28%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/29%2001%202025/info.zip
+http://81.42.249.132:1080/R-02-RADIOLE/24%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/25%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/29%2004%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/03%2003%202025/info.zip
@@ -2545,6 +2545,7 @@ http://154.91.254.95/rondo.sh
 http://154.91.254.95/rondo.armv4l
 http://154.91.254.95/rondo.i486
 http://154.91.254.95/rondo.x86_64
+http://154.91.254.95/rondo.armv6l
 http://154.91.254.95/rondo.armv7l
 http://154.91.254.95/rondo.i686
 http://154.91.254.95/rondo.armv5l
@@ -4401,7 +4402,6 @@ https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a843
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
 http://111.229.108.128:12233/02.08.2022.exe
-http://47.108.39.159:4446/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
 https://bestieslos.com/MAKEEWYK.msi
@@ -7503,6 +7503,7 @@ http://193.32.162.27/c.sh
 http://93.118.180.141:9529/i
 http://114.55.100.165:19998/02.08.2022.exe
 http://47.122.1.243/02.08.2022.exe
+http://196.251.80.174/cet/aduna
 http://95.62.202.150:10071/sshd
 https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
 http://expay.ru/bins/whisper.x64
@@ -7732,7 +7733,6 @@ http://222.165.237.59:37379/i
 http://43.226.39.44:5988/LoginAntiCheat.dll
 http://43.226.39.44:5988/LoginAntiCheat4.dll
 http://43.226.39.44:5988/GMEX.dll
-http://185.136.195.193:60963/i
 https://raw.githubusercontent.com/Matrix2077v2/dsiasif/refs/heads/main/main_mpsl
 http://222.165.237.58:37379/i
 https://raw.githubusercontent.com/BenitoCamelas2025/datos/refs/heads/main/CONEXIONVB.txt
@@ -8178,6 +8178,7 @@ https://167.250.49.155/bin/billi_e58d74e455634dc695ed8a7b8b320325.exe.upx.exe
 https://167.250.49.155/bin/Win32/mimikatz.exe
 https://167.250.49.155/bin/Win32/mimilib.dll
 http://176.122.27.90:9999/sup.exe
+http://e4l4.com/ez_kiwi
 http://176.122.27.90:9999/sys.exe
 http://85.25.72.70//ChromeSetup.exe
 http://103.187.146.29/e991/Injek3.mentah
@@ -10228,6 +10229,7 @@ http://36.92.207.29:60948/Mozi.m
 http://36.66.151.7:59841/Mozi.m
 http://213.147.120.145:41331/Mozi.m
 http://46.151.56.42:28186/Mozi.m
+http://88.119.193.17:10462/Mozi.m
 http://212.85.176.23:45741/Mozi.m
 http://178.151.143.2:21623/Mozi.m
 http://181.129.106.146:38440/Mozi.m
@@ -11231,6 +11233,7 @@ http://172.85.143.74:47929/i
 http://159.224.143.43:60566/i
 http://81.16.249.96:46703/i
 http://212.107.232.167:21838/i
+http://190.145.205.178:6360/i
 https://dl.aginjector.com/AG_Injector_Latest.apk
 http://103.146.202.41:22533/build.s.apk
 http://195.211.101.219:22533/build.s.apk
@@ -11640,7 +11643,6 @@ http://188.68.95.174:13872/i
 http://186.42.98.2:28072/i
 http://146.196.120.91:34646/i
 http://178.134.42.162:18520/i
-http://2.184.54.225:35287/i
 http://195.66.105.122:49517/i
 http://202.5.52.110:37085/i
 http://202.5.52.110:37085/bin.sh
