@@ -1,3 +1,19 @@
+http://193.233.203.9/c.sh
+http://193.233.203.9/w.sh
+http://193.233.203.9/wget.sh
+http://193.233.203.9/boatnet.m68k
+http://193.233.203.9/boatnet.ppc
+http://193.233.203.9/boatnet.sh4
+http://193.233.203.9/boatnet.mpsl
+http://193.233.203.9/boatnet.arm5
+http://193.233.203.9/boatnet.x86
+http://193.233.203.9/boatnet.spc
+http://193.233.203.9/boatnet.arm7
+http://193.233.203.9/boatnet.arm
+http://193.233.203.9/android
+http://193.233.203.9/boatnet.mips
+http://193.233.203.9/boatnet.arc
+http://193.233.203.9/boatnet.arm6
 https://eddereklam.com/smqw.zip
 https://eddereklam.com/smzi.zip
 https://eddereklam.com/tuqw.zip
@@ -105,7 +121,6 @@ https://3f092954af9a481e9f8ad58611d29620.loophole.site/quz1.zip
 https://3f092954af9a481e9f8ad58611d29620.loophole.site/abb1.zip
 https://3f092954af9a481e9f8ad58611d29620.loophole.site/FTSP.zip
 https://3f092954af9a481e9f8ad58611d29620.loophole.site/x86_abb1.zip
-https://3f092954af9a481e9f8ad58611d29620.loophole.site/x86_quz1.zip
 https://3f092954af9a481e9f8ad58611d29620.loophole.site/x86_t0t1.zip
 https://d5178df0c23f308cd3b5b88a7a3d7666.loophole.site/RECEIPT026/Re_0094304852339.pdf.lnk
 https://0be7953b6183453bc6ba182bf6b8ba79.loophole.site/DOC24/RE_003860944821.pdf.lnk
@@ -182,6 +197,7 @@ http://196.251.117.162/bins/parm
 http://196.251.117.162/bins/parm5
 http://196.251.117.162/bins/pmpsl
 http://196.251.117.166/bins/parm7
+http://196.251.69.75/hiddenbin/boatnet.arm
 http://196.251.69.75/hiddenbin/boatnet.spc
 http://23.160.193.251/bins/violetmips
 http://23.160.193.251/bins/violetarm
@@ -320,7 +336,6 @@ http://106.248.251.189:22970/mipsel
 http://106.248.251.189:22970/csky
 http://106.248.251.189:22970/armv6l
 http://106.248.251.189:22970/powerpc
-http://106.248.251.189:22970/i486
 http://106.248.251.189:22970/m68k
 http://106.248.251.189:22970/arc
 http://106.248.251.189:22970/aarch64
@@ -698,7 +713,6 @@ http://94.26.90.251/bins/nshmpsl
 http://94.26.90.251/bins/nshkarm6
 http://94.26.90.251/bins/hmips
 http://94.26.90.251/bins/nshkarm5
-http://94.26.90.251/bins/nshppc
 http://94.26.90.251/bins/nshkmpsl
 http://185.156.72.61/inc/cron123123213.exe
 http://94.26.90.251/bins/arm6
@@ -3699,7 +3713,6 @@ http://212.80.9.172/arm
 http://212.80.9.172/m68k
 http://212.80.9.172/sparc
 http://212.80.9.172/x86_64
-http://119.28.116.34/02.08.2022.exe
 http://190.95.22.93:34088/i
 http://91.247.124.188:8937/i
 http://94.28.95.35:60431/i
@@ -4017,10 +4030,12 @@ http://213.209.143.44/t
 http://213.209.143.44/tftp.sh
 http://213.209.143.44/c.sh
 http://213.209.143.44/wget.sh
+http://213.209.143.44/curl.sh
 https://2024.sci-hub.se/2294/7a43bb4cf6c57229b02a9604a1f4614e/skidmore1966.pdf
 http://213.209.143.44/arm7
 http://213.209.143.44/x86
 http://213.209.143.44/mipsel
+http://213.209.143.44/mips
 http://213.209.143.44/arm5
 http://31.170.22.205/dl200
 http://43.155.132.55:18324/02.08.2022.exe
@@ -4060,7 +4075,6 @@ http://94.26.90.217/k
 http://94.26.90.217/r
 http://94.26.90.217/g
 http://94.26.90.217/v
-http://94.26.90.217/c
 http://94.26.90.217/n
 http://94.26.90.217/f
 http://94.26.90.217/l
@@ -4164,7 +4178,6 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
-http://8.138.119.70:5003/bea.bin
 http://111.46.219.240:14593/.i
 http://121.171.162.63:17945/i
 http://211.114.7.238:12227/i
@@ -6194,7 +6207,6 @@ https://drive.google.com/uc?export=download&id=1hau14yEj_4AvFJUHYm_bmE4iCvx1NQGQ
 https://drive.google.com/uc?export=download&id=1cl-nvHrRue_Wg2ZKPuxmVK40tk3knacb
 https://drive.google.com/uc?export=download&id=1wUuhGyP5h960nq0lYtu0zAXIALB78BYb
 https://drive.google.com/uc?export=download&id=10yN0gknsK0Hopi5eYv9VXKxXVMwI9k4U
-https://gian.com.ar/kms_activator.exe
 https://github.com/alfroy/Roblox-Incognito/releases/download/v2.0/Software.zip
 https://github.com/iampoo31331/Hydrogen-Executor/releases/download/v1.0/Executor.zip
 https://github.com/SoloDeveloperop/Roexec-Executor/releases/download/v2.0/Program.zip
@@ -9065,6 +9077,7 @@ https://annadegismen.com/js/fqihjy.js
 https://annadegismen.com/js/atckub.js
 https://annadegismen.com/js/ftrzvp.js
 https://annadegismen.com/js/bklhyd.js
+https://annadegismen.com/js/xejvig.js
 https://annadegismen.com/js/ndzbiy.js
 https://annadegismen.com/js/duvijc.js
 https://annadegismen.com/js/amlyko.js
@@ -10841,10 +10854,10 @@ https://www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
 http://80.210.27.206:65461/.i
 https://www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
 http://88.248.194.163:4437/Mozi.m
-http://88.248.194.163:4437/i
 https://vodomer-service.ru/bitrix/cache/js/s1/kolibri_corppro/kernel_main/kernel_main_v1.js
 http://88.247.206.153:21475/i
 https://raw.githubusercontent.com/jijilovedada/jijilovedada/main/tools/cc/AdaptorOvernight.exe
+http://2.183.9.88:43156/.i
 http://47.98.177.117:8888/supershell/compile/download/1.exe
 http://47.98.177.117:8888/supershell/compile/download//1.exe
 http://111.231.145.137:8888/supershell/compile/download/1.exe
@@ -11116,6 +11129,7 @@ http://165.73.108.6:8022//sshd
 http://212.3.211.157:50080//sshd
 http://91.164.39.142:50004//sshd
 http://84.29.231.9:8080//sshd
+http://178.182.253.59:8081//sshd
 http://174.71.237.86:1103//sshd
 http://99.71.130.109:8028//sshd
 http://77.237.29.219:2027//sshd
@@ -11263,9 +11277,11 @@ http://24.234.159.5:1112/sshd
 http://223.108.58.13:37782/sshd
 http://165.73.108.6:8021/sshd
 http://165.73.108.6:8023/sshd
+http://178.182.253.59:8085/sshd
 http://80.14.38.66:1081/sshd
 http://119.13.179.180:8081/sshd
 http://77.237.29.219:2027/sshd
+http://178.182.253.59:8082/sshd
 http://193.251.62.153:65003/sshd
 http://202.22.143.159:9020/sshd
 http://46.250.54.75:84/sshd
@@ -11329,6 +11345,7 @@ http://37.205.81.56:29406/.i
 http://178.151.34.26:9354/.i
 http://71.42.105.54:7158/.i
 http://190.4.51.242:58806/.i
+http://5.239.240.58:38280/.i
 http://103.235.66.238:31442/.i
 http://109.245.220.229:44759/.i
 http://190.109.205.237:64797/.i
@@ -12037,7 +12054,6 @@ http://203.80.244.154:46151/i
 http://91.92.82.180:17789/i
 http://80.23.51.235:60454/i
 http://41.190.69.6:26285/i
-http://109.73.242.146:49426/i
 http://103.7.27.90:17260/i
 http://31.186.54.203:19238/i
 http://93.189.222.80:1669/i
@@ -12683,6 +12699,7 @@ http://aulist.com/GvHr-MMJ5U8ZN2kc5aoq_NkxhpRvvh-t9/
 http://advustech.com/l5EcamTDy/
 http://www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
+http://veryboys.com/game/download/zip/waigua/shiqi/2003/06/20030620.exe
 http://veryboys.com/game/download/zip/waigua/mir2/2003/05/200305252.exe
 http://veryboys.com/game/download/zip/waigua/mu/2003/07/20030721.exe
 http://www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
