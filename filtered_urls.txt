@@ -1,3 +1,4 @@
+http://87.251.221.59:58373/Mozi.a
 http://193.233.203.9/c.sh
 http://193.233.203.9/w.sh
 http://193.233.203.9/wget.sh
@@ -164,7 +165,6 @@ http://196.251.116.241/00101010101001/morte.x86
 http://196.251.116.241/1.sh
 http://196.251.116.241/00101010101001/morte.m68k
 http://196.251.116.241/00101010101001/morte.ppc
-http://izumisv1.cc/1.sh
 http://196.251.116.241/00101010101001/morte.mips
 http://196.251.116.241/00101010101001/morte.arm7
 http://196.251.116.241/00101010101001/morte.mpsl
@@ -241,7 +241,6 @@ http://wavecarried.vietnamddns.com/arm6
 http://wavecarried.vietnamddns.com/w.sh
 http://wavecarried.vietnamddns.com/spc
 http://wavecarried.vietnamddns.com/c.sh
-http://wavecarried.vietnamddns.com/m68k
 http://wavecarried.vietnamddns.com/x86_64
 http://103.69.96.221/debug.dbg
 http://160.187.0.95/c.sh
@@ -306,7 +305,6 @@ http://8.138.23.192/02.08.2022.exe
 http://47.96.255.66/02.08.2022.exe
 http://124.222.74.146:6666/02.08.2022.exe
 http://47.96.255.66:81/02.08.2022.exe
-http://124.220.56.139:8000/02.08.2022.exe
 http://103.159.72.227:42939/i
 http://168.227.148.21:5900/i
 http://189.39.207.232:9042/i
@@ -617,6 +615,7 @@ http://198.144.189.78/phanes.spc
 http://198.144.189.78/phanes.m68k
 http://198.144.189.78/phanes.ppc
 http://198.144.189.78/phanes.mips
+http://154.222.31.14:8808/02.08.2022.exe
 http://59.110.92.49:5555/02.08.2022.exe
 http://117.239.218.92:29034/i
 http://153.37.252.51:8555/i
@@ -841,7 +840,6 @@ http://103.149.252.178/bot.arm5
 http://103.149.252.178/bot.sh4
 http://103.149.252.178/bot.x86_64
 http://107.150.0.18/ssh.sh
-http://124.222.114.76/02.08.2022.exe
 http://47.92.144.57:443/02.08.2022.exe
 http://101.226.8.163:8066/02.08.2022.exe
 http://153.37.228.4:50775/i
@@ -2360,7 +2358,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/01%2005%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/21%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/12%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/05%2005%202025/info.zip
-http://202.107.235.202:8008/iis/dist/fonts/info.zip
 http://202.107.235.202:8008/iis/conn/IMG001.exe
 http://202.107.235.202:8008/iis/IMG001.exe
 http://202.107.235.202:8008/iis/dist/IMG001.exe
@@ -2371,7 +2368,6 @@ http://202.107.235.202:8008/iis/css/info.zip
 http://202.107.235.202:8008/iis/dist/fonts/IMG001.exe
 http://202.107.235.202:8008/iis/dist/css/IMG001.exe
 http://202.107.235.202:8008/AspJpeg_setup%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86%E7%BB%84%E4%BB%B6/IMG001.exe
-http://202.107.235.202:8008/iis/css/IMG001.exe
 http://49.232.179.56:8000/0102AxisPayApks.zip
 http://43.201.174.89/ngrok.exe
 http://152.67.84.123:8080/agent.exe
@@ -2676,6 +2672,7 @@ http://103.130.215.162/hiddenbin/boatnet.arm5
 http://103.130.215.162/hiddenbin/boatnet.arm
 http://103.130.215.162/hiddenbin/boatnet.sh4
 http://109.248.144.233/xampp/cv/wp4096799-lost-in-space-wallpapers.jpg
+https://fomeisa.com/a/Pizzaer.aca
 http://185.156.72.61/inc/cryptedcron121221.exe
 http://185.156.72.61/inc/vjVPnDfx.exe
 http://185.156.72.61/inc/ScreenConnect.ClientSetup.exe
@@ -3606,6 +3603,7 @@ http://jakestrack.com/fsps.zip
 https://viralmarketingsuite.com/tera.zip
 https://viralmarketingsuite.com/mimi.zip
 https://upgradegc.com/rsrs.zip
+http://60.204.169.16:22222/02.08.2022.exe
 http://37.191.78.5:59248/i
 http://115.23.70.129:42260/i
 http://95.221.241.92:57121/i
@@ -3649,12 +3647,12 @@ http://213.209.150.107/hiddenbin/boatnet.sh4
 http://213.209.150.107/hiddenbin/boatnet.mpsl
 http://213.209.150.107/hiddenbin/boatnet.arm
 http://213.209.150.107/hiddenbin/boatnet.m68k
+http://101.133.229.117:443/02.08.2022.exe
 http://208.89.168.93:35246/i
 http://2.54.84.143:802/sshd
 http://201.98.176.195:8022/sshd
 http://180.211.137.9:60102/linux
 http://91.212.166.206/dropper.apk
-http://120.27.20.98:10086/02.08.2022.exe
 http://183.91.77.253:19833/i
 http://87.119.108.21:40462/i
 http://84.236.147.129/sshd
@@ -3970,6 +3968,7 @@ http://81.22.42.232:8201/sshd
 https://bitbucket.org/dfffrf/dfdf/downloads/Notificaci%C3%B3n_demanda_virtual_juzgado_09_de_circuito_de_Bogot%C3%A1.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
+http://47.109.82.220:8088/02.08.2022.exe
 http://123.56.226.71:44444/02.08.2022.exe
 http://1.94.41.160/02.08.2022.exe
 http://68.193.233.41:36378/i
@@ -4489,10 +4488,8 @@ https://43.140.215.17/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
-https://43.143.114.43/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
-https://8.141.166.236/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://39.75.154.200:53269/i
@@ -6096,7 +6093,6 @@ http://190.196.99.168:64040/i
 http://89.231.18.9:62605/i
 http://161.81.123.64/sshd
 http://114.159.30.59:50005/sshd
-http://161.81.123.63/sshd
 http://97.81.149.91:57190/i
 http://97.81.149.91:57190/bin.sh
 https://raw.githubusercontent.com/ilganrat342/dgasgxc/refs/heads/main/setup.exe
@@ -8038,7 +8034,6 @@ https://github.com/fericarr/newky/raw/refs/heads/main/prueba.exe
 https://github.com/yusuf216/sshport/raw/refs/heads/main/evetbeta.exe
 https://github.com/yusuf216/sshport/raw/refs/heads/main/benpolatalemdar.exe
 https://github.com/mariolalo/myrec/raw/refs/heads/main/NOTallowedtocrypt.exe
-https://github.com/tiraUnderCode/rev/raw/main/Client-built.exe
 https://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 https://github.com/NullSpectre/WhyAreYouHere-/raw/4bed170d797d5d2077bfc312d8badcd3c1dbaa74/Test2.exe
 https://github.com/Waynesson/Rocitizens/raw/refs/heads/main/Client-built.exe
@@ -8994,7 +8989,6 @@ https://annadegismen.com/js/ogytzk.js
 https://annadegismen.com/js/glyphn.js
 https://annadegismen.com/js/xfnjgo.js
 https://annadegismen.com/js/uvlpmk.js
-https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/wkmpis.js
 https://annadegismen.com/js/tjsqpz.js
 https://annadegismen.com/js/lzgmnf.js
@@ -9065,6 +9059,7 @@ https://annadegismen.com/js/wyafhx.js
 https://annadegismen.com/js/whdsul.js
 https://annadegismen.com/js/fgejix.js
 https://annadegismen.com/js/wsjkzd.js
+https://annadegismen.com/js/pexogi.js
 https://annadegismen.com/js/dnuwsr.js
 https://annadegismen.com/js/jvoihp.js
 https://annadegismen.com/js/wgusdm.js
@@ -9332,7 +9327,6 @@ http://annadegismen.com/js/vfakmu.js
 http://annadegismen.com/js/zmrbvx.js
 http://annadegismen.com/js/nqcgyb.js
 http://annadegismen.com/js/ecalyt.js
-http://annadegismen.com/js/jezqcu.js
 http://annadegismen.com/js/ygwqnm.js
 http://annadegismen.com/js/ylienp.js
 http://annadegismen.com/js/shlebq.js
@@ -9640,6 +9634,7 @@ http://annadegismen.com/js/djihng.js
 http://annadegismen.com/js/yuesrp.js
 http://annadegismen.com/js/lhkrya.js
 http://annadegismen.com/js/ecpjkf.js
+http://annadegismen.com/js/ihznpm.js
 http://annadegismen.com/js/mwpjqs.js
 http://annadegismen.com/js/owvzhd.js
 http://annadegismen.com/js/nwqtuo.js
@@ -9773,6 +9768,7 @@ http://118.44.144.198:4403/i
 http://113.98.201.248:81/pro2.jpg
 https://raw.githubusercontent.com/R00tS3c/DDOS-RootSec/refs/heads/master/DDOS%20Scripts/L4/UDP/10gbpsUDP.py
 http://45.250.231.30:1336/i
+http://41.190.57.114:8141/i
 http://62.12.77.90:31317/i
 http://43.255.216.26:25260/i
 http://46.236.65.253:37696/i
@@ -10540,6 +10536,7 @@ http://110.74.207.194:3585/i
 http://182.160.124.186:5529/i
 http://27.147.225.2:29392/i
 http://203.160.56.67:12929/i
+http://185.57.69.125:16138/i
 http://84.36.25.50:64488/i
 http://182.253.205.235:8600/i
 http://212.85.176.23:45741/i
@@ -10606,6 +10603,7 @@ http://192.176.50.190:33952/bin.sh
 http://download.suxiazai.com/for_down/2013/new/dlls/rse/rsreport.exe
 https://crystalpvp.ru/slinky/slinkycrack.zip
 https://storage.soowim.co.kr/ITplan.exe
+http://storage.soowim.co.kr/ITplan.exe
 https://storage.soowim.co.kr/IT_plan_cifs.exe
 http://storage.soowim.co.kr/IT_plan_cifs.exe
 http://113.50.0.109:8083/Host.out
@@ -11330,6 +11328,7 @@ http://46.231.32.135:81/xmrig-6.18.0-linux-x64.tar.gz
 http://14.224.174.212/xmrig0.zip
 http://14.224.174.212:1433/xmrig0.zip
 http://59.59.6.86:3339/990_OTA.apk
+https://zenglobalenerji.com/assets/css/setup.msi
 http://43.240.65.55:81/av_downloader.exe
 http://43.240.65.55:81/install_python3.sh
 https://static.zongheng.com/app/filesrc/android/apk/2023/zonghengXSAndroid_7.5.6.63_zh-zhh5.apk
@@ -11660,7 +11659,6 @@ http://212.18.223.229:40464/.i
 http://188.44.110.215:60566/.i
 http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
-http://150.107.205.29:54598/.i
 http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
 http://203.17.23.194:20834/.i
@@ -12207,7 +12205,6 @@ https://drive.google.com/uc?export=download&id=10lygPYJu_Dlg3x6R9OSlzGBlsHakSTl-
 https://drive.google.com/uc?export=download&id=1sqvM1XSORanfNVqst_KkDmN8yHgulm4k
 https://codeload.github.com/drakeo03/rbxfpsunlocker-x64-hotfix1/zip/refs/heads/main
 https://drive.google.com/uc?export=download&id=1GFn3lqD1rVybuT4ha-ldl92wT8ysRZfc
-http://ircftp.net/image.png
 http://91.92.122.87:27744/.i
 http://203.204.186.225:13718/.i
 https://drive.google.com/uc?export=download&id=1sAtMEXZN3QpVqzfxNc-5Dtnnn8lIHDXH
@@ -12524,6 +12521,7 @@ http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
+http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://wpbkw.com/0.0bfgdsf/sites/z7auke80107789y3kex53rm00fw4x1/
@@ -12593,6 +12591,7 @@ http://konsor.ru/keygen.exe
 http://download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_01.exe
 http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
+http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
 http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
 http://download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
 http://fakers.co.jp/25072019_0963.xls
