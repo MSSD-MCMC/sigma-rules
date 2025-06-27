@@ -29,23 +29,9 @@ http://120.157.235.7:86/sshd
 http://41.146.74.37:8081/sshd
 http://91.80.151.173/sshd
 http://77.12.41.92:8080/sshd
-http://45.90.116.250/spc
-http://45.90.116.250/i686
-http://45.90.116.250/sh4
-http://45.90.116.250/mips
-http://45.90.116.250/arm4
-http://45.90.116.250/arm5
-http://45.90.116.250/arm6
 http://196.251.66.201/x86_64
-http://45.90.116.250/arm7
-http://45.90.116.250/ppc
-http://45.90.116.250/m68k
-http://45.90.116.250/x86_64
-http://45.90.116.250/i486
 http://196.251.66.201/m68k
-http://45.90.116.250/x86
 http://196.251.66.201/arm
-http://45.90.116.250/mpsl
 http://196.251.66.201/aarch64
 http://196.251.66.201/mips
 http://185.29.10.206/OeHNxRoveFug198.bin
@@ -124,7 +110,6 @@ http://196.251.116.241/00101010101001/morte.x86_64
 http://izumisv1.cc/00101010101001/morte.sh4
 http://izumisv1.cc/00101010101001/morte.ppc
 http://izumisv1.cc/00101010101001/debug
-http://izumisv1.cc/00101010101001/morte.arm7
 http://izumisv1.cc/00101010101001/morte.x86_64
 http://196.251.116.241/00101010101001/morte.x86
 http://196.251.116.241/00101010101001/morte.m68k
@@ -559,6 +544,7 @@ http://103.20.102.84/w.sh
 http://103.20.102.84/x86_64
 http://162.215.218.82/aminer.gz
 http://162.215.218.82/install.tgz
+http://47.101.187.219:81/02.08.2022.exe
 http://101.35.95.220:8081/02.08.2022.exe
 http://121.73.169.43:8082/sshd
 http://46.236.65.11:45811/i
@@ -599,7 +585,6 @@ http://47.108.162.213/02.08.2022.exe
 http://154.85.54.80:8989/02.08.2022.exe
 http://47.96.106.127:8890/02.08.2022.exe
 http://1.94.243.114/02.08.2022.exe
-http://45.141.233.66:2096/02.08.2022.exe
 http://222.149.76.83/sshd
 http://221.113.193.128/sshd
 http://14.254.163.155:8080/sshd
@@ -2850,7 +2835,6 @@ http://www.r-tt.com/downloads/rod_en_1.exe
 http://www.r-tt.com/downloads/rmd_en_1.exe
 http://vikingsrl.it/defendr.exe
 http://www.r-tt.com/downloads/rxd_en_1.exe
-http://www.techgeeks.org/wp-content/plugins/bunglers/Build.exe
 http://160.30.44.120/neon.sh4
 http://160.30.44.120/neon.arc
 http://160.30.44.120/neon.m68k
@@ -2869,7 +2853,6 @@ http://89.23.107.148/Documents/Mutual_Confidentiality_Agreement_Advertising.pdf.
 http://217.84.190.48/sshd
 http://86.54.42.125/mipsel.nn
 http://86.54.42.125/m68k.nn
-http://86.54.42.125/powerpc.nn
 https://perpetualleadsformula.com/oifomjbxd.txt
 http://185.156.72.2/soft/index.exe
 http://162.240.231.156/hiddenbin/boatnet.arm6
@@ -3803,6 +3786,7 @@ https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_v
 http://152.136.44.13:8001/02.08.2022.exe
 http://47.109.82.220:8088/02.08.2022.exe
 http://123.56.226.71:44444/02.08.2022.exe
+http://1.94.41.160/02.08.2022.exe
 http://47.109.82.220/02.08.2022.exe
 http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
@@ -8994,7 +8978,6 @@ https://annadegismen.com/js/fhqvas.js
 https://annadegismen.com/js/obinaf.js
 https://annadegismen.com/js/pwxzmg.js
 https://annadegismen.com/js/lisyxb.js
-https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
 https://annadegismen.com/js/njrtbu.js
 https://annadegismen.com/js/xvtwbp.js
@@ -9198,7 +9181,6 @@ http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
 http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
-http://annadegismen.com/js/kewbaz.js
 http://annadegismen.com/js/abovez.js
 http://annadegismen.com/js/syzghb.js
 http://annadegismen.com/js/tfnkvy.js
@@ -9298,7 +9280,6 @@ http://annadegismen.com/js/oyhixg.js
 http://annadegismen.com/js/bzykis.js
 http://annadegismen.com/js/wxpfmy.js
 http://annadegismen.com/js/ckhvft.js
-http://annadegismen.com/js/mbfnwq.js
 http://annadegismen.com/js/gvtuqd.js
 http://annadegismen.com/js/vjyzld.js
 http://annadegismen.com/js/wegpvo.js
@@ -10137,7 +10118,6 @@ http://91.92.94.138:15350/Mozi.m
 http://180.250.160.26:37143/Mozi.m
 http://59.153.80.90:4581/Mozi.m
 http://37.255.217.87:32902/Mozi.m
-http://216.155.92.204:2876/Mozi.m
 http://195.34.91.22:61437/Mozi.m
 http://115.245.112.26:20671/Mozi.m
 http://37.57.33.51:49049/Mozi.m
@@ -10739,7 +10719,6 @@ http://130.185.193.208:8080/Photo.scr
 http://78-20-115-5.access.telenet.be/Photo.scr
 http://195.103.203.106/Photo.scr
 http://78.20.115.5/Photo.scr
-http://88.28.218.163/Photo.scr
 http://102.53.15.18/Photo.scr
 http://126.23.203.236/Photo.scr
 http://85.22.139.189/Photo.scr
@@ -11321,6 +11300,7 @@ http://110.34.7.5:48764/.i
 http://201.245.165.67:16287/.i
 http://91.244.112.102:7861/.i
 http://93.175.223.140:5544/.i
+http://103.1.157.126:20748/.i
 http://103.42.201.36:38107/.i
 http://89.28.58.132:37382/.i
 http://185.21.223.166:60622/.i
@@ -11743,6 +11723,7 @@ http://31.210.217.24:64046/i
 http://77.89.245.118:44811/i
 http://36.91.144.195:2274/i
 http://46.100.50.137:56504/i
+http://5.198.242.56:13277/i
 http://62.249.140.222:7543/i
 http://89.216.100.166:30359/i
 http://91.92.188.72:64496/i
@@ -12044,7 +12025,6 @@ https://github.com/ssslllap1/asdasd/raw/main/crypted.exe
 https://drive.google.com/uc?export=download&id=1IFVZUB1BlHMwSIRShBE2Wu5b1TUs3LS-
 https://drive.google.com/uc?export=download&id=1YyDIodTW09bAnoU13RO8IELf9rCMljXy
 https://drive.google.com/uc?export=download&id=11cByKY_wEGQJut6afR8jAnNW7VUB-xXf
-http://185.16.38.38:555/24/b.jpg
 http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 http://112.5.6.69:56073/.i
@@ -12393,7 +12373,6 @@ https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://wpbkw.com/0.0bfgdsf/sites/z7auke80107789y3kex53rm00fw4x1/
 http://reifenquick.de/Scripts/statement/ul397wfyb/
 http://file.elecfans.com/web1/M00/8F/36/o4YBAFy-2m2AARFZAAhkAIik5pI122.exe
-http://www.reifenquick.de/Scripts/FILE/21mnqlvi/oz88535657v7rbazasyth9x8i/
 http://jkshaonv.com/wp-admin/maint/Documentation/
 http://yongtai.cn/wp-includes/closed-disk/guarded-space/0870725-rAaDiviu/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
@@ -12412,12 +12391,10 @@ http://hitstation.nl/css/parts_service/ly944myw/
 http://roelke.nl/stats/balance/
 https://raw.githubusercontent.com/d35ha/ProcessHide/master/bins/ProcessHide32.exe
 http://support.viewpoint.fr/viewpoint_support.exe
-https://softcatalog.ru/builds/offers/12.exe
 http://cfs5.tistory.com/upload_control/download.blog?fhandle=YmxvZzcxMzYyQGZzNS50aXN0b3J5LmNvbTovYXR0YWNoLzAvMTQwMDAwMDAwMDAwLmV4ZQ%3D%3D&filename=crack-pro20.exe
 https://raw.githubusercontent.com/fuzzbunch/fuzzbunch/master/payloads/Doublepulsar-1.3.1.exe
 https://raw.githubusercontent.com/BeRo1985/berotinypascal/e34bd4164f4b7c27e7cf667dffd9274d33d6dfbe/bin/btpc.exe
 http://vincentdemiero.com/fta.exe
-http://vincentdemiero.com/documeynt9897.zip
 http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
