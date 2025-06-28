@@ -314,7 +314,6 @@ http://23.137.255.50/hiddenbin/boatnet.ppc
 http://23.137.255.50/hiddenbin/boatnet.m68k
 http://23.137.255.50/hiddenbin/boatnet.spc
 http://23.137.255.50/hiddenbin/boatnet.arm7
-http://23.137.255.50/hiddenbin/boatnet.arm6
 http://23.137.255.50/hiddenbin/boatnet.mpsl
 http://23.137.255.50/hiddenbin/boatnet.x86
 http://23.137.255.50/hiddenbin/boatnet.arm
@@ -1797,7 +1796,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/15%2012%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/15%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/07%2006%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/04%2004%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/09%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/28%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/22%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/21%2005%202025/info.zip
@@ -2890,7 +2888,6 @@ https://181.206.158.190/Update.vbs
 http://182.92.113.13:8000/work/svchost.exe
 http://182.92.113.13:8000/work/svchost.elf
 http://210.2.96.247:8010/shell.exe
-http://39.105.31.193:1389/SchTask.exe
 http://182.92.113.13:8000/work/svchost.apk
 http://205.185.124.206/586
 http://205.185.124.206/mips
@@ -3203,6 +3200,7 @@ http://78.132.82.98/sshd
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
 https://xai830k.com/plugin4.plg
+https://xai830k.com/plugin1.plg
 http://94.26.90.80/VivadoLD.exe
 http://185.156.72.2/files/unique3/random.exe
 http://39.107.85.83:50050/02.08.2022.exe
@@ -3484,7 +3482,6 @@ http://178.208.187.90/ohshit.sh
 http://178.208.187.90/hiddenbin/boatnet.x86
 http://178.208.187.90/hiddenbin/boatnet.arm5
 http://178.208.187.90/hiddenbin/boatnet.m68k
-http://178.208.187.90/hiddenbin/boatnet.mpsl
 http://178.208.187.90/hiddenbin/boatnet.spc
 http://178.208.187.90/hiddenbin/boatnet.arc
 http://178.208.187.90/hiddenbin/boatnet.arm7
@@ -3494,6 +3491,7 @@ http://178.208.187.90/hiddenbin/boatnet.ppc
 http://178.208.187.90/hiddenbin/boatnet.sh4
 http://178.208.187.90/hiddenbin/boatnet.mips
 http://212.80.9.172/armhf
+http://212.80.9.172/powerpc64
 http://212.80.9.172/mips
 http://212.80.9.172/mipsel
 http://212.80.9.172/i686
@@ -3540,7 +3538,6 @@ http://2.54.239.97:802/sshd
 http://2.54.239.98:802/sshd
 http://2.54.83.40:802/sshd
 http://85.204.105.97:30802/.i
-http://47.122.20.70:9090/02.08.2022.exe
 http://124.221.32.87:9001/02.08.2022.exe
 http://109.229.224.26:63333/i
 http://100.1.53.24:24178/i
@@ -4098,7 +4095,6 @@ https://107.150.0.173/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.168/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.253/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.205/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://45.81.23.54////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.243/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.200/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.253/////bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -4132,7 +4128,6 @@ http://43.226.39.44:5988/TestMemTest12.exe
 http://43.226.39.44:5988/Test4.exe
 https://cdn.glitch.global/982c7448-1ad7-4095-83b6-e629e3bc0060/ProtecXds.dll?v=1738043025857
 https://www.namuvpn.com/install/namu832.exe
-https://windatem.com/MainWindow.dll
 http://jxhuyhoang.com/autoupdate/AutoUpdate.exe
 https://dangtienluc.com/snake/hack3.6.dll
 https://openaigrok.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
@@ -4272,9 +4267,9 @@ https://43.139.207.11/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://43.140.215.17/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
+https://120.79.64.164:58232/02.08.2022.exe
 https://103.19.190.184:4436/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
-https://47.96.13.97:8443/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
@@ -7869,7 +7864,6 @@ http://90.45.15.114/sshd
 http://90.45.15.114:8080/sshd
 http://218.108.181.2:83/sshd
 http://27.159.154.179:44041/i
-http://190.96.1.233:53106/i
 http://41.190.68.13:37199/i
 http://103.84.39.181:19439/i
 http://89.149.71.22:23582/i
@@ -7912,7 +7906,6 @@ http://139.255.97.116:6983/i
 http://190.110.204.150:34857/i
 http://181.129.177.162:26290/i
 http://80.23.51.236:60454/i
-http://2.180.23.84:7356/i
 http://27.147.222.15:16042/i
 http://203.223.44.74:38359/i
 http://173.178.94.224:1364/i
@@ -8565,7 +8558,6 @@ https://annadegismen.com/js/avicfl.js
 https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
-https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
 https://annadegismen.com/js/ygwqnm.js
 https://annadegismen.com/js/zhlkqy.js
@@ -8788,7 +8780,6 @@ https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/tkwlbg.js
-https://annadegismen.com/js/fqtdxe.js
 https://annadegismen.com/js/oemktg.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/qzmcax.js
@@ -9100,7 +9091,6 @@ http://annadegismen.com/js/dnmzaq.js
 http://annadegismen.com/js/ptjfnz.js
 http://annadegismen.com/js/wltkns.js
 http://annadegismen.com/js/nfdjux.js
-http://annadegismen.com/js/pexogi.js
 http://annadegismen.com/js/tfzmiy.js
 http://annadegismen.com/js/meciyz.js
 http://annadegismen.com/js/uzrhnf.js
@@ -9115,6 +9105,7 @@ http://annadegismen.com/js/hcwxve.js
 http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
 http://annadegismen.com/js/ybkela.js
+http://annadegismen.com/js/ldfnaq.js
 http://annadegismen.com/js/kewbaz.js
 http://annadegismen.com/js/abovez.js
 http://annadegismen.com/js/syzghb.js
@@ -9342,7 +9333,6 @@ http://annadegismen.com/js/kqpyei.js
 http://annadegismen.com/js/tlbqkr.js
 http://annadegismen.com/js/gaxwco.js
 http://annadegismen.com/js/znuyhv.js
-http://annadegismen.com/js/tpwqro.js
 http://annadegismen.com/js/wjnalk.js
 http://annadegismen.com/js/ukitdj.js
 http://annadegismen.com/js/udjzbl.js
@@ -9548,7 +9538,6 @@ http://103.247.218.186:49052/i
 http://103.162.59.217:38340/i
 http://5.89.112.21:23105/.i
 http://armanayegh.com/readme/bin.exe
-http://101.133.156.69:7777/frpc.exe
 http://101.133.156.69:7777/mysql.bat
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
 http://103.174.191.145:88/maxz/update/Client/Client.exe.zip
@@ -10555,6 +10544,7 @@ http://111.231.145.137:8888/supershell/compile/download/%D1%83%D1%81%D0%B5%D1%80
 http://111.231.145.137:8888/supershell/compile/download/%E7%8B%99%E5%87%BB%E6%89%8B_%E5%B9%BD%E7%81%B5%E6%88%98%E5%A3%AB2%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.exe
 http://111.231.145.137:8888/supershell/compile/download/3=====.exe
 http://111.231.145.137:8888/supershell/compile/download/3.exe
+http://8.218.138.77:8888/supershell/compile/download/%5Bwin
 https://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 http://27.147.132.114:38521/.i
 http://120.77.253.240/Photo.scr
@@ -11091,6 +11081,7 @@ http://109.245.220.229:44759/.i
 http://190.109.205.237:64797/.i
 http://172.85.143.74:47929/.i
 http://190.145.205.178:6360/.i
+http://36.66.151.7:59841/.i
 http://116.58.51.90:1162/.i
 http://212.107.232.167:21838/.i
 http://123.231.247.114:20671/.i
@@ -11699,7 +11690,6 @@ http://116.58.83.76:39359/i
 http://120.50.10.30:27726/i
 http://113.214.56.234:44138/i
 http://188.43.201.109:63202/i
-http://213.155.192.139:14175/i
 http://121.200.63.162:27123/i
 http://94.251.5.51:31559/i
 http://5.200.72.26:30860/i
@@ -11863,7 +11853,6 @@ http://46.229.139.93:55850/bin.sh
 http://43.224.0.5:1316/Aqua.arm6
 http://36.67.66.178:23987/Aqua.arm6
 http://109.171.30.19:33609/Aqua.arm4
-http://109.171.30.19:33609/Aqua.arm6
 http://36.67.66.178:23987/Aqua.arm4
 http://67.78.106.21:55731/o
 http://78.11.94.32:60741/bin.sh
@@ -11994,7 +11983,6 @@ http://217.114.43.149/arm
 http://217.114.43.149/arm5
 http://217.114.43.149/ppc
 http://217.114.43.149/sh4
-http://194.38.23.2/ldr.sh
 http://46.100.5.56:45003/.i
 http://178.34.177.78:34414/.i
 http://194.208.56.60:14184/.i
