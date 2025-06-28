@@ -2382,6 +2382,7 @@ http://14.180.206.169/sshd
 http://31.104.231.116:81/sshd
 http://115.238.252.51:9000/02.08.2022.exe
 http://46.6.0.149:57610/i
+http://8.218.77.224:8432/02.08.2022.exe
 http://185.46.17.62:39710/i
 http://176.215.77.139:31621/i
 http://31.104.231.116:82/sshd
@@ -2749,6 +2750,7 @@ http://14.103.145.202/rondo.fbsdpowerpc
 http://14.103.145.202/rondo.fbsdarm64
 http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.arc700
+http://14.103.145.202/rondo.armv6l
 http://14.103.145.202/rondo.armv5l
 http://14.103.145.202/rondo.i686
 http://14.103.145.202/rondo.x86_64
@@ -4075,7 +4077,6 @@ https://107.150.0.200/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.253/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.251/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.205/////bin/support.client.exe?i=&e=Support&y=Guest&r=
-http://62.105.59.51:55671/bin.sh
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 http://77.226.241.197:5003/tftp
 http://202.57.43.234:19001/tftp
@@ -4236,7 +4237,6 @@ http://47.120.13.85:8889/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
-https://20.74.209.192:8081/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 http://118.31.114.149:8081/02.08.2022.exe
@@ -7463,7 +7463,6 @@ http://103.18.28.106:10757/i
 http://85.206.188.166:8582/sshd
 https://github.com/leinchchanceleinch/jik/raw/refs/heads/main/d.msi
 http://185.148.3.216/Okfgjrg5d8gt
-https://hkuu.oss-cn-hongkong.aliyuncs.com/hkuu/down.exe
 https://hkuu.oss-cn-hongkong.aliyuncs.com/hkuu/TASLoginBase.dll
 http://179.248.3.202.ll.sta.mana.pf/sshd
 http://178.248.3.202.ll.sta.mana.pf/sshd
@@ -7716,7 +7715,6 @@ http://2.180.18.98:58173/i
 https://staplebrokenmetaliyro.blogspot.com/
 http://203.115.101.242:32242/i
 http://197.254.71.110:4533/i
-http://211.197.121.81:57354/i
 https://github.com/ArvendraChhonkar/todo/releases/download/macosandwindows/install_setup_v1.2.0.dmg
 https://github.com/trismagi/daemon/raw/main/watchdog
 http://202.139.20.15:1126/sshd
@@ -7842,6 +7840,7 @@ http://182.160.109.98:29602/i
 http://47.181.114.185:35261/i
 http://103.43.128.123:59758/i
 http://78.153.52.58:19219/i
+http://103.236.135.177:21414/i
 http://195.34.205.242:27023/i
 http://185.162.140.242:18411/i
 http://186.125.133.242:53948/i
@@ -8013,6 +8012,7 @@ http://github.com/JZMVIP/JZMFREETOOL/raw/main/shell.exe
 http://8.138.96.41:10050/dlc_update.data
 https://raw.githubusercontent.com/Babskai/vir-s/refs/heads/main/AsyncClient.exe
 http://103.187.146.29/tacvip/File3.mentah
+http://103.187.146.29/sumatra/File3.mentah
 http://103.187.146.29/senju/Senju_Simple_VP.rar
 http://103.187.146.29/fvc/Injek3.mentah
 http://103.187.146.29/samarinda/Simple3.mentah
@@ -8276,7 +8276,6 @@ http://94.158.158.67:40783/.i
 http://78.153.52.58:19219/.i
 https://39.106.152.236:11443/02.08.2022.exe
 https://154.92.14.41:2998/02.08.2022.exe
-https://api.co-operativefinance.com/02.08.2022.exe
 https://8.137.114.210:4433/02.08.2022.exe
 https://43.246.208.199:8443/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
@@ -8317,7 +8316,6 @@ https://raw.githubusercontent.com/HAa15/driver-shitty/main/kdmapper_Release.exe
 http://github.com/v0lt/VirtualDub2/releases/download/2.1.3/VirtualDub2_v2.1.3.667_win32.7z
 http://update.cg100iii.com/cgmb/Update.exe
 http://quanly.jxmienphi.net/uploadvltt/Autokeoxe.exe
-http://lsks.volamngayxua.net/AutoUpdate.exe
 http://github.com/SkibidiXElaina/wuselaina/raw/refs/heads/main/build.exe
 https://raw.githubusercontent.com/keygroup777-ransomware/downloader/refs/heads/main/taskmoder.exe
 http://github.com/Z-beam/MovaFlag/releases/download/1.0.2/Mova.exe
@@ -8695,7 +8693,6 @@ https://annadegismen.com/js/rfsduy.js
 https://annadegismen.com/js/mdnujx.js
 https://annadegismen.com/js/gchrsz.js
 https://annadegismen.com/js/lnpmqd.js
-https://annadegismen.com/js/vswybn.js
 https://annadegismen.com/js/mbpjue.js
 https://annadegismen.com/js/kspntc.js
 https://annadegismen.com/js/meciyz.js
@@ -8887,6 +8884,7 @@ https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/ndesbu.js
 https://annadegismen.com/js/dumbnq.js
 https://annadegismen.com/js/zxmbpv.js
+https://annadegismen.com/js/upefdg.js
 https://annadegismen.com/js/wdupyk.js
 https://annadegismen.com/js/mskbyg.js
 https://annadegismen.com/js/qaglhn.js
@@ -8994,7 +8992,6 @@ http://annadegismen.com/js/zsabth.js
 http://annadegismen.com/js/auwgir.js
 http://annadegismen.com/js/acdkqh.js
 http://annadegismen.com/js/natsgp.js
-http://annadegismen.com/js/qzmcax.js
 http://annadegismen.com/js/dspvek.js
 http://annadegismen.com/js/kwxdtb.js
 http://annadegismen.com/js/hudrnc.js
@@ -9079,6 +9076,7 @@ http://annadegismen.com/js/fnezgm.js
 http://annadegismen.com/js/pxobar.js
 http://annadegismen.com/js/vqpfdh.js
 http://annadegismen.com/js/nsjypd.js
+http://annadegismen.com/js/kyrdlt.js
 http://annadegismen.com/js/mnyrdf.js
 http://annadegismen.com/js/yduphe.js
 http://annadegismen.com/js/tmvhgx.js
@@ -9343,6 +9341,7 @@ http://annadegismen.com/js/bfigvd.js
 http://annadegismen.com/js/djihng.js
 http://annadegismen.com/js/yuesrp.js
 http://annadegismen.com/js/lhkrya.js
+http://annadegismen.com/js/ecpjkf.js
 http://annadegismen.com/js/ihznpm.js
 http://annadegismen.com/js/mwpjqs.js
 http://annadegismen.com/js/owvzhd.js
@@ -10170,7 +10169,6 @@ http://45.224.100.254:4139/Mozi.m
 http://2.36.68.156:54788/Mozi.m
 http://181.143.124.58:2854/Mozi.m
 http://81.16.247.116:2957/Mozi.m
-http://103.62.233.206:62130/Mozi.m
 http://27.147.132.114:38521/Mozi.m
 http://190.4.44.202:14124/Mozi.m
 http://103.71.46.122:7747/Mozi.m
@@ -10601,7 +10599,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
-http://down.ftp21.cc/wmi.jpg
 http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
@@ -11360,6 +11357,7 @@ http://197.155.64.126:47085/.i
 http://84.17.248.14:35299/.i
 http://46.214.31.179:25098/.i
 http://202.5.52.110:37085/.i
+http://190.217.148.227:4886/.i
 http://178.34.157.178:34820/.i
 http://91.244.169.56:48300/.i
 http://31.186.54.203:19238/.i
@@ -12072,7 +12070,6 @@ https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://203.145.165.14:61828/.i
 http://2.181.0.61:64572/.i
 http://178.173.39.201:56059/.i
-http://1717.1000uc.com/Updates1/up.exe
 https://mersped.mycpanel.rs/ema_KvcEBm137.bin
 https://www.usaayurveda.com/js/prototype/form.js
 http://update.cg100iii.com/cg100/CG100.exe
