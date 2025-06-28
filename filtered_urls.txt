@@ -1,3 +1,16 @@
+http://45.156.87.201/1.sh
+http://185.94.29.17/arm
+http://185.94.29.17/i686
+http://185.94.29.17/powerpc
+http://185.94.29.17/x86_64
+http://185.94.29.17/m68k
+http://185.94.29.17/armv6
+http://185.94.29.17/mipsel
+http://185.94.29.17/armv7l
+http://185.94.29.17/aarch64
+http://185.94.29.17/mips
+http://185.94.29.17/sex.sh
+http://185.94.29.17/sh4
 http://103.149.252.178/killer
 http://103.149.252.178/h2
 https://94c37e2e72eeb7f939672573653dee49.loophole.site/DOC27/RE_0074837583821.pdf.lnk
@@ -198,7 +211,6 @@ http://206.123.145.38/m68k.nn
 http://206.123.145.38/powerpc.nn
 http://206.123.145.38/sparc.nn
 http://206.123.145.38/mips.nn
-http://206.123.145.38/sh4.nn
 https://cdn.southsideblackancestry.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://206.123.145.38/arm.nn
 http://206.123.145.38/arm5.nn
@@ -215,7 +227,6 @@ http://206.123.145.38/arm6.nn
 https://d5178df0c23f308cd3b5b88a7a3d7666.loophole.site/RECEIPT026/Re_0094304852339.pdf.lnk
 http://45.74.10.192/dwrioej/neon.mips
 http://45.74.10.192/dwrioej/neon.ppc
-http://45.74.10.192/dwrioej/debug
 http://45.74.10.192/dwrioej/neon.arm6
 http://45.74.10.192/dwrioej/neon.spc
 http://45.74.10.192/dwrioej/neon.i686
@@ -238,6 +249,7 @@ http://196.251.116.241/00101010101001/morte.arc
 http://izumisv1.cc/00101010101001/morte.arm5
 http://196.251.116.241/00101010101001/morte.spc
 http://izumisv1.cc/00101010101001/morte.arc
+http://izumisv1.cc/00101010101001/morte.mpsl
 http://izumisv1.cc/00101010101001/morte.arm
 http://izumisv1.cc/00101010101001/morte.arm6
 http://196.251.116.241/00101010101001/morte.x86_64
@@ -797,6 +809,7 @@ http://103.149.252.178/bot.arm5
 http://103.149.252.178/bot.sh4
 http://103.149.252.178/bot.x86_64
 http://47.92.144.57:443/02.08.2022.exe
+http://101.226.8.163:8066/02.08.2022.exe
 http://115.238.252.51:8989/02.08.2022.exe
 http://119.8.124.29:9999/02.08.2022.exe
 http://153.37.228.4:50775/i
@@ -2512,7 +2525,6 @@ http://43.138.30.109:8888/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://43.138.193.228:9090/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
-http://101.226.8.163:1521/02.08.2022.exe
 http://129.204.146.115:50080/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://37.205.91.20:27222/i
@@ -2550,6 +2562,7 @@ http://155.94.155.52/startud.exe
 https://raw.githubusercontent.com/zusyaku/malware-collection-part-2/refs/heads/main/666/666.exe
 http://92.127.156.174:8880/wp.bat
 http://14.224.174.212:1433/Microsoft%20Toolkit%202.73%20_%201.rar
+http://185.216.214.180/loader.exe
 https://www.modernitgen.com/Platinum.mp4
 http://213.209.150.18/jtEmt5nxbRnq5jC.exe
 http://172.245.123.11/new/tesssssssssttt.txt
@@ -2756,6 +2769,7 @@ http://120.77.253.240/%e5%a4%a7%e6%bc%a0/%e5%85%b3%e9%97%adWIN10%e8%87%aa%e5%b8%
 http://120.77.253.240/yp/Photo.scr
 http://120.77.253.240/python/Photo.scr
 http://120.77.253.240/aso12/Photo.scr
+http://120.77.253.240/xueke/Photo.scr
 http://120.77.253.240/%e5%a4%a7%e6%bc%a0/Photo.scr
 http://120.77.253.240/deb/Photo.scr
 http://120.77.253.240/test/Photo.scr
@@ -2822,7 +2836,9 @@ http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.x86
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm6
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.m68k
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.ppc
+http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.m68k
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm5
+http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm5
 http://162.240.159.67/hiddenbin/boatnet.x86
 http://162.240.159.67/hiddenbin/boatnet.mips
 http://162.240.159.67/hiddenbin/boatnet.spc
@@ -2913,6 +2929,7 @@ http://14.103.234.180/xmrig.tar.gz
 http://14.103.234.180/setup_c3pool_miner.sh
 http://89.23.107.148/server.zip
 http://vip.3a9.net:2024/Setup/Terminal.exe
+http://xemhang.vn/Website1/Hue2/View.exe
 http://ftp.ywxww.net:820/yc.exe
 https://raw.githubusercontent.com/annym1/start/main/dnd.exe
 https://raw.githubusercontent.com/Da2dalus/The-MALWARE-Repo/master/Ransomware/Annabelle.exe
@@ -3656,6 +3673,7 @@ http://185.156.72.2/files/unique2/random.exe
 http://185.156.72.2/luma/random.exe
 http://185.156.72.2/well/random.exe
 http://185.156.72.2/files/7453936223/08IyOOF.exe
+http://185.156.72.2/newdef/random.exe
 http://185.156.72.2/testmine/random.exe
 http://185.156.72.2/files/fate/random.exe
 http://213.209.150.18/obicrypttwo.exe
@@ -4056,6 +4074,7 @@ http://102.31.165.227:34724/i
 http://95.165.71.247:14513/i
 http://85.57.30.25:7580/sshd
 http://185.76.252.53:88/sshd
+http://175.107.6.68:40505/i
 http://47.239.49.137:60136/linux
 http://102.31.165.227:34724/.i
 https://msoftdatastore.z22.web.core.windows.net/verify-sec
@@ -4193,7 +4212,6 @@ http://60.53.126.54:27102/tftp
 http://103.156.141.240:90/tftp
 http://2.136.63.232:92/tftp
 http://93.182.77.20:86/tftp
-http://85.185.185.193:50500/i
 http://43.229.20.42:2874/i
 http://112.50.168.3:39717/i
 http://124.131.90.91:12457/i
@@ -8374,6 +8392,7 @@ http://94.158.158.67:40783/.i
 http://78.153.52.58:19219/.i
 https://39.106.152.236:11443/02.08.2022.exe
 https://154.92.14.41:2998/02.08.2022.exe
+https://api.co-operativefinance.com/02.08.2022.exe
 https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
 https://raw.githubusercontent.com/L0veNxn22/EulenModMenu/main/Loader.exe
 http://update.volam2005pk.com/hostfile/taptin/game.exe
@@ -10008,7 +10027,6 @@ http://178.183.205.197:86/sshd
 http://85.130.160.219:37783/sshd
 http://89.35.233.220:8082/sshd
 http://92.203.169.39/sshd
-http://102.66.108.146:33484/sshd
 http://194.144.250.22/sshd
 http://185.191.89.122:1591/sshd
 http://62.221.155.5:8080/sshd
@@ -11484,6 +11502,7 @@ http://217.66.195.187:55445/.i
 http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
 http://150.107.205.29:54598/.i
+http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
 http://203.17.23.194:20834/.i
 http://121.200.63.165:27123/.i
@@ -12362,7 +12381,6 @@ https://dweixin.cn/gttu/invoice/ujn3me8cye/
 http://www.reifenquick.de/Scripts/open-0627720493640-azQ24PfFjRm/guarded-space/gxkx9t42ra6yf-6x7uyx330389w/
 http://schenckel.com.br/covid19/statement/
 http://lindnerelektroanlagen.de/INVOICE/AOG-3515110/
-http://hitstation.nl/css/parts_service/ly944myw/
 http://roelke.nl/stats/balance/
 https://raw.githubusercontent.com/d35ha/ProcessHide/master/bins/ProcessHide32.exe
 http://support.viewpoint.fr/viewpoint_support.exe
