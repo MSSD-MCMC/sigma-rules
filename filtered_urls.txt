@@ -1,4 +1,3 @@
-http://45.156.87.201/1.sh
 http://185.94.29.17/arm
 http://185.94.29.17/i686
 http://185.94.29.17/powerpc
@@ -2815,6 +2814,7 @@ http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.
 http://amzsecure5sklp.duckdns.org/hiddenbin/boatnet.sh4
 http://mail.amzsecure5sklp.duckdns.org/hiddenbin/boatnet.arm5
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.spc
+http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.mips
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.sh4
 http://activity-cha53sp.duckdns.org/hiddenbin/boatnet.arm
 http://www.secure-chase07awebactivity098392039023.duckdns.org/hiddenbin/boatnet.arm7
@@ -3838,7 +3838,6 @@ http://121.202.210.5/sshd
 http://121.202.208.107/sshd
 http://122.21.133.121/sshd
 http://60.43.126.86/sshd
-http://188.162.88.253/sshd
 http://157.157.22.65/sshd
 http://193.109.44.220/sshd
 http://glamandglow.com.sg/poli.bin
@@ -4368,6 +4367,7 @@ http://47.120.13.85:8889/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
+https://8.137.98.198/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
 https://8.141.166.236/02.08.2022.exe
@@ -7457,6 +7457,7 @@ https://website.mypetapp.co.za/
 https://horno-rafelet.es/
 https://bmdcompany.com/
 https://www.thesignaturemag.salviatech.com/
+https://www.test.peperoncinochepassione.it/
 https://mail.cambodiatouristservice.com/
 https://my.salviatech.com/
 https://82.146.62.232/
@@ -7688,6 +7689,7 @@ http://175.100.115.43:50106/i
 http://122.168.123.76:57500/i
 http://117.50.178.197:57982/02.08.2022.exe
 http://46.175.139.20:11074/i
+http://59.19.149.140:49370/i
 http://81.174.150.253:46497/i
 http://101.126.11.168/xsh/xsh.exe
 https://raw.githubusercontent.com/TylerMT99/ZZZaaa/refs/heads/main/Built.exe
@@ -8195,7 +8197,6 @@ http://e4l4.com/2022%E7%BD%91%E9%BC%8E%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B.7z
 http://e4l4.com/%E5%89%AF%E6%9C%AC21.3%E8%93%9D%E9%98%9F%E6%8A%A4%E7%BD%91%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99210303.xlsx
 https://raw.githubusercontent.com/cqHack/DDoS-Script/refs/heads/master/cqHack.pl
 http://185.16.38.38:555/ver/d.jpg
-http://185.16.38.38:555/api/t.jpg
 http://43.153.222.28:4646/c9uL
 https://182.92.99.95/kaijiorder/cert/2a.hta
 https://raw.githubusercontent.com/comitheicon/VOLATUS0.5/refs/heads/main/VOLATUS0.5.exe
@@ -8921,6 +8922,7 @@ https://annadegismen.com/js/yijwpl.js
 https://annadegismen.com/js/nfzacd.js
 https://annadegismen.com/js/fqihjy.js
 https://annadegismen.com/js/atckub.js
+https://annadegismen.com/js/ftrzvp.js
 https://annadegismen.com/js/bklhyd.js
 https://annadegismen.com/js/xejvig.js
 https://annadegismen.com/js/ndzbiy.js
@@ -10249,7 +10251,6 @@ http://89.28.58.132:37382/Mozi.m
 http://103.82.211.164:45793/Mozi.m
 http://188.137.36.53:44689/Mozi.m
 http://63.78.214.18:33536/Mozi.m
-http://188.72.6.218:43597/Mozi.m
 http://185.236.46.120:45209/Mozi.m
 http://82.193.118.99:63838/Mozi.m
 http://46.100.50.137:56504/Mozi.m
@@ -10571,7 +10572,6 @@ https://uyul.oss-cn-beijing.aliyuncs.com/in/2041.bin
 https://uyul.oss-cn-beijing.aliyuncs.com/in/204.bin
 https://uyul.oss-cn-beijing.aliyuncs.com/in/d204.dll
 http://twizt.net/1
-http://twizt.net/2
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/Webcam.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/Token%20grabber.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/rootkit.dll
