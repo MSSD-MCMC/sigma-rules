@@ -540,7 +540,6 @@ http://93.123.118.21/cARM-mips64
 http://93.123.118.21/cARM-mipsle
 http://93.123.118.21/cARM-mips
 http://93.123.118.21/cARM-amd64
-http://jbvpshosti.com/00101010101001/morte.m68k
 http://198.144.189.78/phanes.arm7
 http://198.144.189.78/phanes.i686
 http://198.144.189.78/phanes.arm5
@@ -2423,6 +2422,7 @@ http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://124.71.110.163:12150/02.08.2022.exe
 http://101.226.8.163:1521/02.08.2022.exe
+http://129.204.146.115:50080/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://37.205.91.20:27222/i
 http://60.43.127.245/sshd
@@ -2790,7 +2790,6 @@ http://185.208.158.206/xm/xmrig-6.22.2/xmrig
 http://185.208.158.206/get.sh
 http://185.208.158.206/xm/gbpader
 http://185.208.158.206/xm/xmrig-6.22.2-focal-x64.tar.gz
-http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.mips
 http://14.103.145.202/rondo.mipsel
 http://14.103.145.202/rondo.x86_64
@@ -3791,7 +3790,6 @@ http://213.209.143.44/arm
 http://111.70.24.154:53016/i
 http://111.70.24.154:53016/bin.sh
 http://2.249.142.165:48793/Mozi.m
-http://1.94.236.193:9998/02.08.2022.exe
 http://120.28.169.169:54784/i
 http://120.28.169.169:54784/bin.sh
 http://122.97.155.100:40792/i
@@ -4046,6 +4044,7 @@ http://183.109.132.188:35716/.i
 http://113.214.56.238:3269/.i
 http://47.83.203.183:60138/linux
 http://8.210.50.65:60126/linux
+http://85.185.185.193:50500/.i
 http://78.38.49.93:20065/.i
 https://github.com/vaxilu/x-ui/releases/latest/download/x-ui-linux-amd64.tar.gz
 http://195.158.88.156:13509/.i
@@ -4283,7 +4282,6 @@ http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://39.75.154.200:53269/i
 http://47.113.217.92:8001/02.08.2022.exe
-http://120.27.235.78/02.08.2022.exe
 http://41.160.19.82:6667/i
 http://156.19.57.50:24183/i
 http://178.131.19.202:11712/i
@@ -7847,6 +7845,8 @@ http://185.148.3.216/5fr5gthkjdg71
 https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
+http://47.90.142.15/02.08.2022.exe
+http://182.252.66.22:16263/i
 http://103.50.4.174:28917/i
 http://185.136.193.46:8261/i
 http://101.255.40.18:56061/i
@@ -8329,7 +8329,6 @@ https://github.com/rimase12/urika/raw/refs/heads/main/BerekeGift.apk
 https://raw.githubusercontent.com/L0veNxn22/EulenModMenu/main/Loader.exe
 http://update.volam2005pk.com/hostfile/taptin/game.exe
 https://raw.githubusercontent.com/20Matrix77/2FTS3/main/mpsl
-https://loader.hxsoftwares.com/loader.exe
 https://raw.githubusercontent.com/caonim2le/yournigas/main/sh4
 http://github.com/rimase12/urika/raw/refs/heads/main/zeropersca.exe
 https://update.volam2005pk.com/hostfile/taptin/AutoUpdate.exe
@@ -8564,7 +8563,6 @@ https://annadegismen.com/js/pnescq.js
 https://annadegismen.com/js/hoygvf.js
 https://annadegismen.com/js/qduize.js
 https://annadegismen.com/js/fdrqhv.js
-https://annadegismen.com/js/qgpckt.js
 https://annadegismen.com/js/pveubn.js
 https://annadegismen.com/js/trgebo.js
 https://annadegismen.com/js/rtbivg.js
@@ -8623,7 +8621,6 @@ https://annadegismen.com/js/flutce.js
 https://annadegismen.com/js/bzykis.js
 https://annadegismen.com/js/vxoiba.js
 https://annadegismen.com/js/fnaxby.js
-https://annadegismen.com/js/kyrdlt.js
 https://annadegismen.com/js/phmvbs.js
 https://annadegismen.com/js/cbaxsl.js
 https://annadegismen.com/js/lmaknf.js
@@ -8698,7 +8695,6 @@ https://annadegismen.com/js/mnyrdf.js
 https://annadegismen.com/js/vqpfdh.js
 https://annadegismen.com/js/dsqvlp.js
 https://annadegismen.com/js/xonsry.js
-https://annadegismen.com/js/atodpl.js
 https://annadegismen.com/js/ybkela.js
 https://annadegismen.com/js/tenlqx.js
 https://annadegismen.com/js/ipdaco.js
@@ -8726,6 +8722,7 @@ https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
+https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
 https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
@@ -8796,7 +8793,6 @@ https://annadegismen.com/js/xdtmpf.js
 https://annadegismen.com/js/kewbaz.js
 https://annadegismen.com/js/ftdyqb.js
 https://annadegismen.com/js/dnmzaq.js
-https://annadegismen.com/js/jtocel.js
 https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
@@ -8950,6 +8946,7 @@ https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/ndesbu.js
 https://annadegismen.com/js/dumbnq.js
 https://annadegismen.com/js/dplaun.js
+https://annadegismen.com/js/zxmbpv.js
 https://annadegismen.com/js/upefdg.js
 https://annadegismen.com/js/wdupyk.js
 https://annadegismen.com/js/mskbyg.js
@@ -10654,7 +10651,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
-http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
 http://116.58.62.74/Photo.scr
 http://122.179.136.112/Photo.scr
@@ -11190,6 +11186,7 @@ https://imtoken8.cc/imToken.apk
 http://117.50.194.20/Y-steamworks.exe
 http://85.89.188.97:31433/.i
 http://103.30.85.58:9332/.i
+http://197.159.1.58:25983/.i
 http://89.28.58.81:24363/.i
 http://37.252.66.188:12165/.i
 http://212.18.223.226:26541/.i
