@@ -1,3 +1,34 @@
+http://185.241.208.128/hiddenbin/boatnet.m68k
+http://85.208.9.171/bins/x86
+http://85.208.9.171/bins/m68k
+http://185.241.208.184/hiddenbin/boatnet.mpsl
+http://185.241.208.184/hiddenbin/boatnet.arc
+http://185.241.208.184/hiddenbin/boatnet.arm5
+http://85.208.9.171/bins/spc
+http://185.241.208.128/hiddenbin/boatnet.arm7
+http://185.241.208.184/hiddenbin/boatnet.spc
+http://85.208.9.171/bins/ppc
+http://185.241.208.128/hiddenbin/boatnet.arm
+http://185.241.208.128/hiddenbin/boatnet.arm5
+http://185.241.208.184/hiddenbin/boatnet.x86
+http://185.241.208.184/hiddenbin/boatnet.mips
+http://185.241.208.184/hiddenbin/boatnet.ppc
+http://185.241.208.184/hiddenbin/boatnet.arm7
+http://185.241.208.128/hiddenbin/boatnet.sh4
+http://185.241.208.128/hiddenbin/boatnet.spc
+http://185.241.208.128/hiddenbin/boatnet.ppc
+http://185.241.208.128/hiddenbin/boatnet.x86
+http://185.241.208.128/hiddenbin/boatnet.mpsl
+http://185.241.208.128/hiddenbin/boatnet.arc
+http://185.241.208.128/hiddenbin/boatnet.mips
+http://185.241.208.128/hiddenbin/boatnet.arm6
+http://85.208.9.171/bins/mpsl
+http://185.241.208.184/hiddenbin/boatnet.sh4
+http://85.208.9.171/bins/arm6
+http://185.241.208.184/hiddenbin/boatnet.arm6
+http://185.241.208.184/hiddenbin/boatnet.m68k
+http://185.241.208.184/hiddenbin/boatnet.arm
+http://85.208.9.171/bins/sh4
 https://ce06346ab546e95714b24383642e7e33.loophole.site/FTSP.zip
 https://ce06346ab546e95714b24383642e7e33.loophole.site/cam.zip
 https://ce06346ab546e95714b24383642e7e33.loophole.site/bab.zip
@@ -2402,6 +2433,7 @@ http://41.216.188.159/main_arm
 http://41.216.188.159/main_arm7
 http://66.63.187.192/scan.sh
 http://185.156.72.2/files/7677226784/EG11t89.exe
+http://66.63.187.192/.shell
 http://66.63.187.192/bins.sh
 http://94.26.90.251/dvr.sh
 https://155.94.155.52/startud.exe
@@ -2806,6 +2838,7 @@ http://14.103.145.202/rondo.powerpc
 http://14.103.145.202/rondo.sh
 http://14.103.145.202/rondo.i486
 http://14.103.145.202/rondo.i586
+http://14.103.145.202/rondo.powerpc-440fp
 http://78.153.140.66/kij.sh
 http://traxanhc2.duckdns.org/neon.m68k
 http://traxanhc2.duckdns.org/neon.mips
@@ -3925,7 +3958,6 @@ http://27.159.161.211:56329/i
 http://78.38.90.177:16513/i
 http://78.36.11.185:1080/sshd
 http://102.31.165.227:34724/i
-http://95.165.71.247:14513/i
 http://85.57.30.25:7580/sshd
 http://185.76.252.53:88/sshd
 http://175.107.6.68:40505/i
@@ -4219,6 +4251,7 @@ http://47.120.13.85:8889/02.08.2022.exe
 http://47.93.28.103:33333/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://129.204.254.108/02.08.2022.exe
+https://20.74.209.192:8081/02.08.2022.exe
 https://8.137.98.198/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
@@ -4678,7 +4711,6 @@ https://github.com/hakimil/hack-crypto-wallet/releases/download/v2.7.7-beta.4/ha
 https://github.com/AussieONZaza/assets/raw/refs/heads/master/Launcher.zip
 http://121.37.134.174:8080/02.08.2022.exe
 http://101.133.156.69:18888/02.08.2022.exe
-http://120.24.64.74:63211/02.08.2022.exe
 http://185.142.53.233/zz
 http://185.142.53.233/linksys
 http://185.142.53.233/bx
@@ -9595,6 +9627,7 @@ http://ftp.ywxww.net:820/svchost.exe
 http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
+http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
 http://ftp.ywxww.net:820/hdtune.exe
 http://123.ywxww.net:820/wblog.exe
 http://ftp.ywxww.net:820/steam.txt
@@ -11049,6 +11082,7 @@ http://110.93.196.173:58392/.i
 http://151.236.247.230:19193/.i
 http://80.65.80.230:40083/.i
 http://81.16.249.96:46703/.i
+http://121.101.191.106:24912/.i
 http://103.209.184.118:9257/.i
 http://103.209.184.121:9257/.i
 http://195.9.14.86:44780/.i
@@ -11430,6 +11464,7 @@ http://188.0.131.200:15427/i
 http://176.195.191.123:54140/i
 http://154.0.129.134:10702/i
 http://196.41.63.178:12132/i
+http://181.193.62.225:39941/i
 http://197.159.1.58:25983/i
 http://197.159.8.222:34891/i
 http://190.185.119.13:53572/i
@@ -11459,6 +11494,7 @@ http://149.255.10.46:32625/i
 http://154.126.178.16:30629/i
 http://217.66.195.187:55445/i
 http://181.117.210.108:5315/i
+http://103.173.173.98:58982/i
 http://186.159.0.129:52617/i
 http://202.5.50.108:15808/i
 http://193.106.58.174:32789/i
@@ -11796,6 +11832,7 @@ http://85.72.39.196:39497/i
 http://103.125.163.10:7080/i
 http://98.103.171.36:19021/i
 http://95.170.114.70:19301/i
+http://2.181.0.61:64572/i
 http://46.229.139.93:55850/o
 http://78.11.94.32:60741/o
 http://78.11.94.32:60741/Mozi.a
