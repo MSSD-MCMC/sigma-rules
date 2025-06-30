@@ -795,7 +795,6 @@ http://94.26.90.251/bins/mpsl
 http://94.26.90.251/bins/ppc
 http://94.26.90.251/bins/sh4
 http://94.26.90.251/bins/arm
-http://106.52.6.128:801/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
 http://222.149.76.83/sshd
@@ -2832,6 +2831,7 @@ http://14.103.145.202/rondo.armv5l
 http://14.103.145.202/rondo.i686
 http://14.103.145.202/rondo.sh4
 http://14.103.145.202/rondo.powerpc
+http://14.103.145.202/rondo.sh
 http://14.103.145.202/rondo.i486
 http://14.103.145.202/rondo.powerpc-440fp
 http://78.153.140.66/kij.sh
@@ -4010,6 +4010,7 @@ http://185.22.155.193/sh4
 http://185.22.155.193/arm6
 http://185.22.155.193/x86
 http://185.22.155.193/mips
+http://rse.pwirn.cc/arm7
 http://rse.pwirn.cc/arm6
 http://185.22.155.193/m68k
 https://github.com/vaxilu/x-ui/releases/latest/download/x-ui-linux-amd64.tar.gz
@@ -4069,7 +4070,6 @@ https://107.150.0.205/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://112.243.69.230:42236/i
 http://39.75.154.200:53269/bin.sh
 http://112.243.69.230:42236/Mozi.m
-http://2.55.73.103:802/sshd
 http://62.105.59.51:55671/bin.sh
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 http://77.226.241.197:5003/tftp
@@ -7610,7 +7610,6 @@ http://103.207.4.245:12890/i
 http://121.167.209.164:40197/i
 http://203.204.186.225:13718/i
 http://hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
-http://hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 https://dacemirror.sci-hub.se/journal-article/30343922aca0fb8e53340406c2d9339d/sora2012.pdf
 http://202.141.166.71:30117/.i
 http://14.29.160.181:10080/02.08.2022.exe
@@ -8756,7 +8755,6 @@ https://annadegismen.com/js/sgtvuz.js
 https://annadegismen.com/js/zjkhuf.js
 https://annadegismen.com/js/xljwek.js
 https://annadegismen.com/js/chztsf.js
-https://annadegismen.com/js/jezqcu.js
 https://annadegismen.com/js/pmgyrd.js
 https://annadegismen.com/js/sxvnkf.js
 https://annadegismen.com/js/gdufvy.js
@@ -8958,7 +8956,6 @@ http://annadegismen.com/js/mspldv.js
 http://annadegismen.com/js/slqmjg.js
 http://annadegismen.com/js/ilgesm.js
 http://annadegismen.com/js/zamdkx.js
-http://annadegismen.com/js/njrtbu.js
 http://annadegismen.com/js/gkevtl.js
 http://annadegismen.com/js/wmxrlh.js
 http://annadegismen.com/js/kluhib.js
@@ -8976,7 +8973,6 @@ http://annadegismen.com/js/iodhgt.js
 http://annadegismen.com/js/kvrxln.js
 http://annadegismen.com/js/vrxbsi.js
 http://annadegismen.com/js/xtgcul.js
-http://annadegismen.com/js/lrabiq.js
 http://annadegismen.com/js/wfevmh.js
 http://annadegismen.com/js/tenlqx.js
 http://annadegismen.com/js/rnejox.js
@@ -9821,7 +9817,6 @@ http://coach.028csc.com:81/libcurl.dll
 https://raw.githubusercontent.com/Babskai/vir-s/main/AsyncClient.exe
 https://raw.githubusercontent.com/petikvx/LockBit-Black-Builder/main/LockBit30/builder.exe
 https://raw.githubusercontent.com/tennessene/lockbit/refs/heads/main/builder.exe
-http://coach.028csc.com:81/CrazyCoach.exe
 http://117.72.70.169/right_distribution.zip
 http://117.72.70.169/distribution.zip
 http://117.72.70.169/xl_ext_chrome.crx
@@ -11754,7 +11749,6 @@ http://103.50.7.123:3689/i
 http://37.34.209.216:59068/i
 http://89.140.176.228:40352/i
 http://109.171.80.104:12522/i
-http://41.205.90.51:24235/i
 http://91.244.112.102:7861/i
 http://66.198.193.249:3451/i
 http://46.229.139.93:55850/i
@@ -11762,6 +11756,7 @@ http://91.185.49.15:16202/i
 http://89.28.58.81:24363/i
 http://85.187.82.120:41465/i
 http://67.78.106.21:55731/i
+http://79.111.119.241:38922/i
 http://36.67.251.197:26598/i
 http://37.139.249.103:3039/i
 http://103.90.207.234:55903/i
@@ -11813,7 +11808,6 @@ http://36.67.66.178:23987/o
 http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
-http://36.67.66.178:23987/bin.sh
 http://43.224.0.5:1316/o
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
@@ -12304,7 +12298,6 @@ http://download.pdf00.cn/pdfreader/mini/v1.0.7.01/mini_01.exe
 https://files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da19.pdf
 http://data.kaoyany.top/2018/06/201806065969_1243.doc
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
-http://asq.r77vh0.pw/win/checking.hta
 http://razorcrypter.com/rapidtables.txt
 http://fakers.co.jp/20.06.2019_130.22.doc
 http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
@@ -12426,7 +12419,6 @@ http://p6.zbjimg.com/task/2010-12/03/519808/4cf8bc6362f34.rar
 http://p6.zbjimg.com/task/2010-12/12/pub/4d043cebf1e0b.rar
 http://flyingmutts.com/076360TAD/oamo/Business/
 http://flyingmutts.com/076360TAD/oamo/Business
-http://p3.zbjimg.com/task/2009-06/29/106045/rc1veeex.rar
 http://users.atw.hu/tekiwanatain/installer.rar
 http://p3.zbjimg.com/task/2009-06/29/106045/a9to40e7.rar
 http://p3.zbjimg.com/task/2009-07/28/117228/4wtjdjio.rar
