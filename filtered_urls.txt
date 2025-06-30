@@ -312,7 +312,6 @@ http://izumisv1.cc/00101010101001/debug
 http://izumisv1.cc/00101010101001/morte.arm7
 http://izumisv1.cc/00101010101001/morte.x86_64
 http://196.251.116.241/00101010101001/morte.x86
-http://196.251.116.241/1.sh
 http://196.251.116.241/00101010101001/morte.m68k
 http://196.251.116.241/00101010101001/morte.ppc
 http://izumisv1.cc/1.sh
@@ -356,6 +355,7 @@ http://185.208.158.140/wget1.sh
 http://185.208.158.140/ppc
 http://185.208.158.140/i686
 http://58.22.95.120:6868/Video.scr
+http://185.208.158.140/mipsel
 http://185.156.72.2/files/6299414420/sFFG7Wg.exe
 http://185.156.72.2/files/7715417619/kI81c4U.exe
 http://185.156.72.61/inc/game3.exe
@@ -836,6 +836,7 @@ http://107.150.0.18/arc
 http://107.150.0.18/mipsel
 http://107.150.0.18/x86
 http://107.150.0.18/ssh.sh
+http://175.178.100.95:8980/02.08.2022.exe
 http://119.8.124.29:9999/02.08.2022.exe
 http://153.37.228.4:50775/i
 http://31.15.185.99:47471/i
@@ -2481,6 +2482,7 @@ http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://43.138.30.109:9999/02.08.2022.exe
+http://43.138.30.109:7524/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://43.138.193.228:9090/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
@@ -3073,7 +3075,6 @@ http://209.54.103.187/sxfZOt101.bin
 http://62.60.226.166/cc.exe
 http://62.60.226.166/svc.exe
 http://101.42.13.105:8866/02.08.2022.exe
-http://47.95.31.143:6666/02.08.2022.exe
 http://115.190.27.23:36580/02.08.2022.exe
 http://8.138.47.245/02.08.2022.exe
 http://2.54.83.37:803/sshd
@@ -3776,7 +3777,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
 http://152.136.44.13:8001/02.08.2022.exe
 http://47.109.82.220:8088/02.08.2022.exe
-http://1.94.41.160/02.08.2022.exe
 http://47.109.82.220/02.08.2022.exe
 http://68.193.233.41:36378/i
 http://181.177.143.51:64994/i
@@ -3945,6 +3945,7 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
+http://107.150.0.56:3000/ah.zip
 http://111.46.219.240:14593/.i
 http://85.95.183.178:23157/i
 http://121.171.162.63:17945/i
@@ -4014,7 +4015,6 @@ http://173.54.182.169:43168/.i
 http://2.126.54.218:3647/.i
 http://81.23.169.237:18694/.i
 http://81.16.117.191:38494/.i
-http://43.133.41.106/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
 http://8.148.20.113/02.08.2022.exe
 http://80.110.37.104:48784/i
@@ -7497,7 +7497,6 @@ https://raw.githubusercontent.com/iluxa94/-3-/refs/heads/main/%D0%A4%D0%BE%D1%80
 https://github.com/Neo23x0/signature-base/archive/master.zip
 http://101.32.40.22/
 http://85.204.104.159:17159/i
-http://202.141.244.42:16801/i
 http://195.158.88.156:13509/i
 http://66.96.251.234:59957/i
 http://41.211.107.208:64749/i
@@ -8532,7 +8531,6 @@ https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/rqdgsp.js
 https://annadegismen.com/js/wmxrlh.js
 https://annadegismen.com/js/jiurtg.js
-https://annadegismen.com/js/oyhixg.js
 https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/qugkmx.js
 https://annadegismen.com/js/wxpfmy.js
@@ -8989,7 +8987,6 @@ http://annadegismen.com/js/kyhmov.js
 http://annadegismen.com/js/ebavlw.js
 http://annadegismen.com/js/jvlhib.js
 http://annadegismen.com/js/ylmtcr.js
-http://annadegismen.com/js/lusrqf.js
 http://annadegismen.com/js/ocjbrm.js
 http://annadegismen.com/js/atckub.js
 http://annadegismen.com/js/zhlkqy.js
@@ -9101,7 +9098,6 @@ http://annadegismen.com/js/pveubn.js
 http://annadegismen.com/js/xnzoum.js
 http://annadegismen.com/js/wkmpis.js
 http://annadegismen.com/js/eyanol.js
-http://annadegismen.com/js/rplkdt.js
 http://annadegismen.com/js/kljdsp.js
 http://annadegismen.com/js/qyblsk.js
 http://annadegismen.com/js/rznscf.js
@@ -9146,7 +9142,6 @@ http://annadegismen.com/js/dwjupc.js
 http://annadegismen.com/js/xyphbf.js
 http://annadegismen.com/js/yoaxpt.js
 http://annadegismen.com/js/mxciwn.js
-http://annadegismen.com/js/mkvuip.js
 http://annadegismen.com/js/zjkhuf.js
 http://annadegismen.com/js/trgebo.js
 http://annadegismen.com/js/rfwelc.js
@@ -10529,7 +10524,6 @@ http://web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mi
 http://37.9.35.70/latest.exe
 https://43.153.222.28/02.08.2022.exe
 http://47.243.175.24:8444/02.08.2022.exe
-http://47.120.61.164/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
 http://tengfeidn.com/down/tb/tb.exe
@@ -10621,6 +10615,7 @@ http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
 http://122.179.136.112/Photo.scr
+http://130.185.193.208:8080/Photo.scr
 http://78-20-115-5.access.telenet.be/Photo.scr
 http://195.103.203.106/Photo.scr
 http://78.20.115.5/Photo.scr
@@ -11549,7 +11544,6 @@ http://37.252.69.92:15274/i
 http://90.182.214.225:50162/i
 http://103.137.36.6:22483/i
 http://92.241.77.214:20631/i
-http://103.90.207.58:41059/i
 http://117.240.163.19:9656/i
 http://124.41.225.49:61677/i
 http://79.120.54.194:15151/i
@@ -12353,6 +12347,7 @@ http://brightworks.cz/file/support/trust/En/042019/
 http://solutelco.com/cgi-bin/eWbnM-h00hVr2pTu3KYyR_YAVLSNiUf-a0u/
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
+http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
 http://flyingmutts.com/secure.myacc.resourses.com/
