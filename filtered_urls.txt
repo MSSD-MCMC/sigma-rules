@@ -1,3 +1,26 @@
+http://119.179.251.149:54032/bin.sh
+http://59.93.129.245:36762/bin.sh
+http://112.248.254.197:56460/bin.sh
+http://42.235.186.5:44423/bin.sh
+http://117.199.39.210:36245/i
+http://27.215.127.251:41189/bin.sh
+http://182.119.95.176:50747/i
+http://110.183.48.223:33959/i
+http://119.179.255.73:46343/i
+http://42.224.252.80:59498/bin.sh
+http://42.229.162.15:47032/i
+http://123.188.199.89:39062/bin.sh
+http://175.151.66.191:49497/i
+http://117.206.26.71:56264/bin.sh
+http://61.53.4.160:59968/i
+http://95.72.153.16:46070/i
+http://42.227.236.28:60227/bin.sh
+http://119.179.255.73:46343/bin.sh
+http://110.183.48.223:33959/bin.sh
+http://123.11.222.227:44346/i
+http://42.229.162.15:47032/bin.sh
+http://117.198.10.121:46886/bin.sh
+http://117.209.87.131:54658/i
 http://175.151.66.191:49497/bin.sh
 http://200.59.86.78:48168/bin.sh
 http://182.113.42.134:57708/i
@@ -641,12 +664,13 @@ http://185.156.72.61/inc/setup.exe
 http://185.156.72.2/files/5298241443/Z8MTEkS.exe
 http://185.156.72.61/inc/crypted12312.exe
 http://89.144.60.7/cat.exe
-http://196.251.87.244/morte.mips
 http://196.251.69.112/z/89/mpsl
+http://196.251.69.112/z/89/x86
 http://196.251.87.244/morte.arm
 http://196.251.87.244/morte.arm7
 http://196.251.69.112/z/89/m68k
 http://196.251.69.112/z/89/mips
+http://196.251.69.112/z/89/ppc
 http://196.251.87.244/morte.sh4
 https://idk.1f2e18bbde8ecc30ee3307a4.net/api//builds/b052482e-a0c8-481b-bba5-156058b1780a.msi
 https://camplively.com/2/up.php?49
@@ -937,7 +961,6 @@ http://113.229.189.208:56509/i
 http://221.202.18.2:33008/i
 http://182.119.181.212:59648/bin.sh
 http://175.148.84.213:45384/i
-http://222.138.179.77:53243/bin.sh
 http://42.58.170.28:53054/bin.sh
 http://138.204.196.136:39621/i
 http://45.90.80.192:50868/bin.sh
@@ -1079,7 +1102,6 @@ http://119.179.239.163:58558/i
 http://27.207.45.227:59616/bin.sh
 http://200.59.84.179:37324/i
 http://24.88.242.6:41406/i
-http://36.163.57.174:59451/i
 http://113.239.251.132:41188/i
 http://61.137.199.119:42944/bin.sh
 http://218.91.153.60:44200/i
@@ -1152,7 +1174,6 @@ http://denisa.shop/o.xml
 http://denisa.shop/00101010101001/o.xml
 http://denisadental.duckdns.org/w.sh
 http://denisadental.duckdns.org/1.sh
-http://service-orange-pro.com/00101010101001/morte.mpsl
 http://service-orange-pro.com/00101010101001/morte.arm
 http://service-orange-pro.com/00101010101001/morte.spc
 http://denisa.shop/00101010101001/morte.spc
@@ -1161,7 +1182,6 @@ http://denisadental.duckdns.org/00101010101001/morte.sh4
 http://denisadental.duckdns.org/00101010101001/morte.i686
 http://denisadental.duckdns.org/00101010101001/morte.arm5
 http://denisa.shop/00101010101001/morte.x86
-http://denisa.shop/00101010101001/morte.x86_64
 http://denisa.shop/00101010101001/morte.mpsl
 http://denisa.shop/00101010101001/morte.arm5
 http://service-orange-pro.com/00101010101001/morte.i686
@@ -1175,6 +1195,7 @@ http://196.251.87.244/00101010101001/morte.i686
 https://paste.ee/d/cJsyCLIR/0
 https://paste.ee/d/bSLNC0cE/0
 https://i.ibb.co/0RkNrw2J/JRU8j.png
+http://196.251.87.244/00101010101001/morte.mips
 http://196.251.87.244/w.sh
 http://196.251.87.244/00101010101001/morte.arm6
 http://196.251.87.244/c.sh
@@ -1319,6 +1340,7 @@ http://77.90.153.137/vv/armv5l
 http://77.90.153.137/vv/armv6l
 http://77.90.153.137/vv/armv4l
 http://185.156.72.61/inc/swagggg.exe
+http://196.251.69.112/z/89/arm5
 http://185.156.72.61/inc/ceooo.exe
 http://185.156.72.61/inc/GhostWhite-6b999_Install.exe
 http://185.156.72.61/inc/crimkm.exe
@@ -1372,7 +1394,6 @@ http://181.215.45.62/miraint.arm5n
 http://181.215.45.62/mirai.arm5n
 http://82.53.150.202/ss
 http://82.53.150.202/xmrig
-http://89.42.88.239/mips
 http://89.42.88.239/arm
 http://89.42.88.239/arm5
 http://89.42.88.239/x86
@@ -3499,7 +3520,6 @@ http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.193.228:9090/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
 http://101.226.8.163:1521/02.08.2022.exe
-http://129.204.146.115:50080/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://112.124.39.205:18099/02.08.2022.exe
@@ -3604,6 +3624,7 @@ https://161.132.50.128:8443/mlwr/MLAV-MS-Excel.xls
 https://161.132.50.128:8443/mlwr/mlav.zip
 https://161.132.50.128:8443/mlwr/MLAV-MS-Exe.exe.000
 http://6f841a9a-243d-4072-8e01-b07a63e328cd.random.tbtt.duckdns.org/CopilotDriver.vbs
+http://6f841a9a-243d-4072-8e01-b07a63e328cd.random.tbtt.duckdns.org/WMIEventLog.vbs
 http://14.224.174.212:1433/Ransomware.WannaCry_Plus.zip
 http://14.224.174.212:1433/client_rat.1921992.xyz-p7000.rar
 http://14.224.174.212:1433/xmrig-v6.21.0-ubuntu20.04-linux
@@ -3698,6 +3719,7 @@ http://14.103.145.202/rondo.fbsdarm64
 http://14.103.145.202/rondo.m68k
 http://14.103.145.202/rondo.armv6l
 http://14.103.145.202/rondo.armv5l
+http://14.103.145.202/rondo.i686
 http://14.103.145.202/rondo.armv7l
 http://14.103.145.202/rondo.sh
 http://213.209.143.44/g
@@ -4872,7 +4894,6 @@ http://81.16.117.191:38494/.i
 http://43.133.41.106/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
 http://8.148.20.113/02.08.2022.exe
-http://36.41.71.241:2086/02.08.2022.exe
 http://80.110.37.104:48784/i
 http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
@@ -4890,6 +4911,7 @@ http://185.22.155.193/mips
 http://185.22.155.193/spc
 http://185.22.155.193/arm7
 http://185.22.155.193/ppc
+http://rse.pwirn.cc/ppc
 http://rse.pwirn.cc/spc
 http://rse.pwirn.cc/arm7
 http://rse.pwirn.cc/x86_64
@@ -8557,6 +8579,7 @@ https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
 http://101.35.235.124:4444/02.08.2022.exe
+http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
@@ -9653,7 +9676,6 @@ https://annadegismen.com/js/skcoju.js
 https://annadegismen.com/js/giutma.js
 https://annadegismen.com/js/ecalyt.js
 https://annadegismen.com/js/ojuwkc.js
-https://annadegismen.com/js/eyanol.js
 https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
@@ -10265,7 +10287,6 @@ http://annadegismen.com/js/nemuxy.js
 http://annadegismen.com/js/kegqza.js
 http://annadegismen.com/js/nscgoi.js
 http://annadegismen.com/js/fhqvas.js
-http://annadegismen.com/js/nfzacd.js
 http://annadegismen.com/js/ufxcid.js
 http://annadegismen.com/js/acnqoe.js
 http://annadegismen.com/js/qaglhn.js
@@ -10412,7 +10433,6 @@ https://github.com/barrigudinha157/barrigudinha/raw/master/Rage.dll
 https://raw.githubusercontent.com/caonim2le/yournigas/main/arm7
 https://github.com/FiIes/StormFN-Launcher/raw/refs/heads/main/StormFN-Launcher.zip
 http://github.com/Xavieprowel/crispy-palm-tree/releases/download/1/3e3ev3.exe
-http://disk.accord1key.cn/txdown_disk/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/%E7%BC%BA%E5%A4%B1%E4%B8%8B%E8%BD%BD/plugin.dll
 https://raw.githubusercontent.com/FelikzIG/WDT/refs/heads/main/CollosalLoader.exe
 https://raw.githubusercontent.com/bonsko216/1/refs/heads/main/RuntimeBroker.exe
 https://raw.githubusercontent.com/CipherSHLD/Ms-P-1A/master/Setup%20Ms%20P-1A.EXE
@@ -11317,7 +11337,6 @@ https://raw.githubusercontent.com/Yuta1111x/selfbot/04ecdf46e8db9fce689d93905d75
 https://20.243.255.185/CVE-2021-3156.zip
 http://20.243.255.185/CVE-2021-3156.zip
 https://jahez.me/wp/Caricatured.emz
-https://jahez.me/wp/aZdBZliddkT187.bin
 https://ldcdn.ldmnq.com/download/ru/downloader.exe
 http://190.104.213.45:6004/tftp
 http://200.29.120.130:8002/tftp
@@ -11937,7 +11956,6 @@ http://103.235.66.238:31442/.i
 http://109.245.220.229:44759/.i
 http://190.109.205.237:64797/.i
 http://172.85.143.74:47929/.i
-http://190.145.205.178:6360/.i
 http://36.66.151.7:59841/.i
 http://116.58.51.90:1162/.i
 http://212.107.232.167:21838/.i
@@ -11951,6 +11969,7 @@ http://80.65.80.230:40083/.i
 http://81.16.249.96:46703/.i
 http://121.101.191.106:24912/.i
 http://103.209.184.118:9257/.i
+http://103.209.184.121:9257/.i
 http://195.9.14.86:44780/.i
 http://38.137.250.91:1473/.i
 http://182.253.115.155:59323/.i
@@ -12522,6 +12541,7 @@ http://202.4.124.58:12137/i
 http://62.122.96.124:48858/i
 http://109.202.63.7:5181/i
 http://176.62.237.79:62202/i
+http://185.71.69.198:34190/i
 http://85.89.188.97:31433/i
 http://221.126.238.71:7537/i
 http://82.114.109.66:60555/i
@@ -12788,6 +12808,7 @@ http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 http://112.5.6.69:56073/.i
 http://2.184.54.225:35287/.i
+https://gvvdsqyq.page.link/CYn2FvSwokTg3fjS9
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
 http://31.184.194.114/404
 https://test.uniformmarkets.com/server/reliase0_9.rar
