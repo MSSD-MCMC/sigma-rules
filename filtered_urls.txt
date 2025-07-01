@@ -1,3 +1,32 @@
+http://175.107.16.92:39316/bin.sh
+http://222.141.116.114:45932/i
+http://115.49.75.9:38379/bin.sh
+http://191.241.143.19:55130/i
+http://42.5.192.105:46346/bin.sh
+http://106.40.240.222:40809/i
+http://117.209.122.7:33686/bin.sh
+http://42.53.17.85:45803/bin.sh
+http://117.200.114.5:42358/i
+http://72.255.29.60:54275/bin.sh
+http://117.209.20.24:47467/bin.sh
+http://94.244.36.34:37081/i
+http://123.154.21.248:44181/i
+http://37.76.141.14:44174/bin.sh
+http://42.234.217.240:40895/i
+http://42.56.182.181:35751/bin.sh
+http://89.67.72.198:49805/i
+http://106.40.240.222:40809/bin.sh
+https://apiordrg.icu/apic/kfhaw/fjwaafh
+https://apiordrg.icu/apia/kfhaw/siwsuia
+https://apiordrg.icu/apia/gplmx/bsxubwui
+http://116.139.54.81:36503/i
+http://42.55.231.170:40734/i
+http://182.112.210.207:39348/i
+http://94.244.36.34:37081/bin.sh
+http://119.117.94.108:33174/bin.sh
+http://112.248.104.168:39730/i
+http://123.7.223.217:53456/i
+http://117.200.114.5:42358/bin.sh
 http://182.121.133.48:38855/i
 http://222.141.116.114:45932/bin.sh
 http://81.26.81.68:57147/i
@@ -144,7 +173,6 @@ http://42.228.126.195:45805/bin.sh
 http://196.251.86.61/morte.arm5
 http://196.251.86.61/c.sh
 http://196.251.86.61/00101010101001/morte.arm5
-http://196.251.86.169/00101010101001/morte.sh4
 http://196.251.86.169/morte.mips
 http://196.251.86.169/morte.ppc
 http://196.251.86.169/morte.arm5
@@ -464,7 +492,6 @@ http://196.251.69.112/rtz
 http://113.237.69.152:58606/bin.sh
 http://123.11.78.230:57934/i
 http://115.60.248.42:44354/i
-http://42.235.53.33:39142/i
 http://74.214.56.173:35384/i
 http://123.175.67.245:33313/bin.sh
 http://42.177.196.245:52563/bin.sh
@@ -588,6 +615,7 @@ http://196.251.87.244/morte.sh4
 https://idk.1f2e18bbde8ecc30ee3307a4.net/api//builds/b052482e-a0c8-481b-bba5-156058b1780a.msi
 https://camplively.com/2/up.php?49
 http://61.54.68.35:57862/i
+http://196.251.69.112/z/89/arm6
 http://196.251.87.244/debug
 http://115.52.237.238:57106/bin.sh
 http://14.153.206.166:53173/bin.sh
@@ -732,7 +760,6 @@ http://175.175.148.22:52062/bin.sh
 http://42.231.174.14:56799/i
 http://219.156.26.177:33784/i
 http://42.230.216.72:48082/i
-http://42.4.118.104:59378/bin.sh
 http://113.237.58.54:55815/bin.sh
 http://42.178.170.76:55976/bin.sh
 http://219.156.26.177:33784/bin.sh
@@ -1092,6 +1119,7 @@ http://denisadental.duckdns.org/w.sh
 http://denisadental.duckdns.org/1.sh
 http://service-orange-pro.com/00101010101001/morte.mpsl
 http://service-orange-pro.com/00101010101001/morte.arm
+http://service-orange-pro.com/00101010101001/morte.spc
 http://denisa.shop/00101010101001/morte.spc
 http://denisadental.duckdns.org/00101010101001/morte.m68k
 http://denisadental.duckdns.org/00101010101001/morte.sh4
@@ -3708,7 +3736,6 @@ http://86.54.42.125/mipsel.nn
 http://86.54.42.125/sparc.nn
 http://86.54.42.125/arm.nn
 http://86.54.42.125/arm5.nn
-http://86.54.42.125/x86_64.nn
 http://86.54.42.125/m68k.nn
 http://86.54.42.125/powerpc.nn
 http://86.54.42.125/mips.nn
@@ -3751,6 +3778,7 @@ http://205.185.124.206/ppc
 http://205.185.124.206/co
 http://traxanhc2.duckdns.org/dwrioej/neon.armv4l
 http://traxanhc2.duckdns.org/dwrioej/neon.i586
+http://traxanhc2.duckdns.org/dwrioej/neon.armv5l
 http://traxanhc2.duckdns.org/dwrioej/neon.mipsel
 http://traxanhc2.duckdns.org/dwrioej/neon.powerpc
 http://traxanhc2.duckdns.org/dwrioej/neon.armv6l
@@ -4543,6 +4571,7 @@ http://188.162.88.253/sshd
 http://157.157.22.65/sshd
 http://193.109.44.220/sshd
 http://glamandglow.com.sg/poli.bin
+http://2.179.184.17:55147/i
 http://176.39.83.89:41465/.i
 http://36.67.170.143:6580/i
 http://93.118.147.142:12019/i
@@ -5047,6 +5076,7 @@ http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
 https://113.44.67.52:9443/02.08.2022.exe
 https://182.255.45.244:64898/02.08.2022.exe
+https://43.139.207.11/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://43.140.215.17/02.08.2022.exe
 https://111.229.187.190:8443/02.08.2022.exe
@@ -9332,6 +9362,7 @@ https://annadegismen.com/js/ahyfgb.js
 https://annadegismen.com/js/unxvws.js
 https://annadegismen.com/js/avicfl.js
 https://annadegismen.com/js/vbiqhm.js
+https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
@@ -9703,7 +9734,6 @@ https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zndrwm.js
-https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
 https://annadegismen.com/js/gcbepw.js
 https://annadegismen.com/js/nsubfo.js
@@ -9803,6 +9833,7 @@ http://annadegismen.com/js/jvlhib.js
 http://annadegismen.com/js/ylmtcr.js
 http://annadegismen.com/js/lusrqf.js
 http://annadegismen.com/js/ocjbrm.js
+http://annadegismen.com/js/atckub.js
 http://annadegismen.com/js/zhlkqy.js
 http://annadegismen.com/js/unvsxa.js
 http://annadegismen.com/js/xtobjn.js
@@ -10398,6 +10429,7 @@ http://skynetx.com.br/microsoft.htm
 http://skynetx.com.br/tarefa.html
 http://skynetx.com.br/helper.html
 http://skynetx.com.br/microsoft.html
+http://101.133.156.69:7777/Lee.exe
 http://101.133.156.69:7777/we.exe
 https://github.com/Marcin2123/jjsploit/raw/refs/heads/main/JJSploit_8.10.7_x64-setup.exe
 https://github.com/ordogos2/g575/releases/download/Download/setup.7.0.zip
@@ -10689,6 +10721,7 @@ http://117.72.70.169/xl_ext_chrome.crx
 http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
+https://39.98.174.154:52683/02.08.2022.exe
 https://139.196.237.171:12345/02.08.2022.exe
 https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
@@ -11838,7 +11871,6 @@ http://119.13.179.84:8081/sshd
 http://113.160.185.79:37773/sshd
 http://82.65.37.116:38057/sshd
 http://174.71.238.93:1120/sshd
-http://178.182.253.59:8081/sshd
 http://31.223.60.33:38054/.i
 http://46.231.32.135:81/xmrig-6.18.0-linux-x64.tar.gz
 http://14.224.174.212/xmrig0.zip
@@ -12800,7 +12832,9 @@ https://ossbtvestaffcics.com/ias/ias.js
 http://29sbt.ru/lib/rl2xse0Do/
 https://nusatoyota.co.id/teev/teev.js
 https://spoar.org.in/gcn/gcn.js
+http://datapawa.com/niis/niis.js
 http://twizt.net/newtpp.exe
+http://trungtambaohanhmaylanh.com/connect/index.php
 https://nhatheptienchebinhduong.com/mise/Funzioni.zip
 https://nhatheptienchebinhduong.com/mise/Servizi.zip
 https://nhatheptienchebinhduong.com/mise/Disposizioni.zip
@@ -12823,6 +12857,7 @@ http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Jvtabqibosa
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Kuueqefqqhz
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Nzifvmlonlj
+http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Hsrdqwkmzlr
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Udndlytpwdl
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Irvwgjjfsyc
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Zjqyppwjmbp
