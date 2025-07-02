@@ -1,3 +1,27 @@
+http://200.59.80.82:45992/i
+http://182.126.84.235:53518/bin.sh
+http://123.14.117.238:50154/bin.sh
+http://42.239.142.93:47047/i
+http://42.228.193.98:51717/bin.sh
+http://222.133.113.140:41623/i
+http://42.239.254.45:39918/i
+http://108.168.64.136:52945/bin.sh
+http://42.226.64.87:59275/bin.sh
+http://200.59.80.82:45992/bin.sh
+http://61.163.198.201:44173/bin.sh
+http://117.199.77.27:45996/i
+http://27.215.177.222:46022/i
+http://113.236.129.88:54853/i
+http://42.85.235.185:54760/i
+http://42.237.118.235:46355/bin.sh
+http://42.234.219.77:51101/bin.sh
+http://110.178.42.79:34014/i
+http://59.101.92.122:43404/bin.sh
+http://112.198.135.190:43471/i
+http://175.151.65.166:43016/bin.sh
+http://185.156.72.2/files/1013240947/TlDiEq4.exe
+http://185.156.72.2/files/7418301290/zxw4QU5.exe
+http://42.239.254.45:39918/bin.sh
 http://113.236.129.88:54853/bin.sh
 http://42.85.235.185:54760/bin.sh
 http://115.63.13.27:45971/i
@@ -1171,6 +1195,7 @@ http://service-orange-pro.com/1.sh
 http://service-orange-pro.com/00101010101001/morte.mpsl
 http://service-orange-pro.com/00101010101001/morte.arm
 http://denisa.shop/00101010101001/morte.spc
+http://denisadental.duckdns.org/00101010101001/morte.spc
 http://denisadental.duckdns.org/00101010101001/morte.ppc
 http://denisadental.duckdns.org/00101010101001/morte.m68k
 http://service-orange-pro.com/00101010101001/morte.arm5
@@ -1204,7 +1229,6 @@ http://196.251.87.244/00101010101001/morte.arm
 http://196.251.87.244/00101010101001/morte.arm6
 http://196.251.87.244/c.sh
 http://196.251.87.244/00101010101001/morte.arm5
-http://196.251.87.244/00101010101001/morte.arm7
 http://196.251.92.12/Csigqkj.wav
 http://196.251.92.12/Perwzo.mp3
 http://196.251.92.12/Sonbmcuez.wav
@@ -3488,7 +3512,6 @@ http://213.209.150.18/80aK2YmFb6vbKeU.exe
 http://185.142.53.233/gmips
 https://103.116.190.93/live.lnk
 https://103.116.190.93/uat.lnk
-http://66.63.187.164/v999f8.exe
 http://185.156.72.2/defkiller/build.zip
 http://185.156.72.39/32.exe
 http://121.40.202.70/sexsdll.exe
@@ -4357,7 +4380,6 @@ http://66.63.187.190/work/addon2.exe
 http://185.156.72.2/files/unique1/random.exe
 http://89.10.239.29:46046/bin.sh
 http://185.156.72.2/files/unique2/random.exe
-http://185.156.72.2/files/6336929412/Q1yLGzl.exe
 http://185.156.72.2/luma/random.exe
 http://185.156.72.2/test/exe/random.exe
 http://185.156.72.2/well/random.exe
@@ -4553,6 +4575,7 @@ https://107.150.0.248/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.181/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.184/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.216/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://107.150.0.247/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://94.26.90.7/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://47.239.205.200:60112/linux
 http://81.5.66.44:8248/i
@@ -4806,7 +4829,9 @@ http://185.22.155.193/ppc
 http://rse.pwirn.cc/ppc
 http://rse.pwirn.cc/spc
 http://rse.pwirn.cc/arm7
+http://rse.pwirn.cc/arm
 http://rse.pwirn.cc/x86_64
+http://rse.pwirn.cc/arm5
 http://rse.pwirn.cc/arm6
 http://rse.pwirn.cc/m68k
 http://185.22.155.193/debug.dbg
@@ -4869,6 +4894,7 @@ https://107.150.0.205/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.243/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.200/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.205/////bin/support.client.exe?i=&e=Support&y=Guest&r=
+http://112.243.69.230:42236/i
 http://39.75.154.200:53269/bin.sh
 http://112.243.69.230:42236/Mozi.m
 http://2.55.73.103:802/sshd
@@ -5041,6 +5067,7 @@ https://120.27.235.78:8443/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 http://118.31.114.149:8081/02.08.2022.exe
+https://20.74.209.192:8080/02.08.2022.exe
 https://43.155.195.102:8888/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
@@ -8146,6 +8173,7 @@ https://github.com/Gwyiomi/Apex-Legends-External-Cheat-Hack-Trigger-Glow-Aimbot-
 http://5.236.93.129:43975/Mozi.m
 http://112.4.110.28:37780/sshd
 http://36.89.62.19:63814/i
+http://102.91.76.166:23552/i
 https://github.com/Kaidopack/Mod-Gta5/releases/download/v3.0/Software.zip
 https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip
 https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip
@@ -8575,6 +8603,7 @@ http://185.148.3.216/5fr5gthkjdg71
 https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
+http://47.90.142.15/02.08.2022.exe
 http://182.252.66.22:16263/i
 http://103.50.4.174:28917/i
 http://45.116.68.12:15607/i
@@ -9853,6 +9882,7 @@ http://annadegismen.com/js/ljkacr.js
 http://annadegismen.com/js/ybisjv.js
 http://annadegismen.com/js/zsjwbc.js
 http://annadegismen.com/js/hcwxve.js
+http://annadegismen.com/js/gbfyoz.js
 http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
 http://annadegismen.com/js/ybkela.js
@@ -11925,7 +11955,6 @@ http://37.252.66.188:12165/.i
 http://212.18.223.226:26541/.i
 http://212.154.131.153:16122/.i
 http://95.141.135.138:14131/.i
-http://41.76.195.60:52732/.i
 http://12.148.208.86:42009/.i
 http://89.254.173.147:44386/.i
 http://217.65.15.51:14278/.i
@@ -12172,6 +12201,7 @@ http://195.162.70.105:34207/.i
 http://103.70.204.50:30005/.i
 http://190.4.44.202:14124/.i
 http://41.203.218.38:45842/.i
+http://69.142.178.141:39145/.i
 http://78.26.180.129:37261/.i
 http://174.78.254.83:38585/.i
 http://103.221.254.140:6459/.i
@@ -12561,7 +12591,6 @@ http://45.87.5.2:11503/i
 http://89.28.58.131:24363/i
 http://103.50.7.123:3689/i
 http://37.34.209.216:59068/i
-http://80.191.218.136:60120/i
 http://89.140.176.228:40352/i
 http://109.171.80.104:12522/i
 http://41.205.90.51:24235/i
@@ -12666,6 +12695,7 @@ https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
 https://contentmentfairnesspesky.com/54/66/ea/5466ea04d7d3b8b726b1288f75403510.js
 https://computersupportexperts.com/css/down.exe
+https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
@@ -12685,6 +12715,7 @@ https://drive.google.com/uc?export=download&id=1Wuy2Y3vBxibDFQCs6-kx96NOcarZixfD
 https://adclick.g.doubleclick.net/pcs/click?adurl=//projetodegente.com
 http://118.26.174.163/app/view/ta.sh
 http://5.236.93.129:43975/.i
+https://adclick.g.doubleclick.net/pcs/click?adurl=//higreens.co.in
 https://adclick.g.doubleclick.net/pcs/click?adurl=//kavyasourcing.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://cliffg.me
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://redeamazoniaazul.org/
@@ -12695,6 +12726,8 @@ https://github.com/ssslllap1/asdasd/raw/main/crypted.exe
 https://drive.google.com/uc?export=download&id=1IFVZUB1BlHMwSIRShBE2Wu5b1TUs3LS-
 https://drive.google.com/uc?export=download&id=1YyDIodTW09bAnoU13RO8IELf9rCMljXy
 https://drive.google.com/uc?export=download&id=11cByKY_wEGQJut6afR8jAnNW7VUB-xXf
+https://adclick.g.doubleclick.net/pcs/click?adurl=//vaibhavtripathi.in
+https://adclick.g.doubleclick.net/pcs/click?adurl=//procuratio.nu/
 http://2.180.35.231:56242/.i
 http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
@@ -12780,6 +12813,7 @@ https://dezino.ir/smed/smed.js
 https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
+https://villanyzsolti.hu/connect/
 https://admin.byte.in.ua/agenzia/
 https://donkeytourscroatia.com/agenzia/
 https://gabyagozetim.com/connect/
@@ -12946,6 +12980,7 @@ https://www.saf-oil.ru/downloads/safmanager/safman_setup.exe
 https://chat-server.maverickpreviews.com/aggressive.php
 https://bridgeroad.maverickpreviews.com/belt.php
 https://chat-server.maverickpreviews.com/newborn.php
+https://www.cutting-edge.in/ruckus.php
 https://chat-server.maverickpreviews.com/unanswerable.php
 https://www.cutting-edge.in/harass.php
 http://103.164.200.170:7080/.i
@@ -13042,11 +13077,13 @@ http://davaorealproperty.com/blogs/i0jOsqdfOKxC2/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
+http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://wpbkw.com/0.0bfgdsf/sites/z7auke80107789y3kex53rm00fw4x1/
 http://reifenquick.de/Scripts/statement/ul397wfyb/
 http://file.elecfans.com/web1/M00/8F/36/o4YBAFy-2m2AARFZAAhkAIik5pI122.exe
+http://www.reifenquick.de/Scripts/FILE/21mnqlvi/oz88535657v7rbazasyth9x8i/
 http://yongtai.cn/wp-includes/closed-disk/guarded-space/0870725-rAaDiviu/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
 http://www.reifenquick.de/Scripts/closed_957176_mxqSdoJ6a4IZ/close_warehouse/ql55hnq09iyn6lm_334stxvw03wyv/
