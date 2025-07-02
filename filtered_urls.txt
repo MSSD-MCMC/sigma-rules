@@ -1,3 +1,69 @@
+http://112.245.254.48:56055/bin.sh
+http://202.83.163.47:45413/i
+http://182.117.167.171:42710/i
+http://42.6.216.163:48664/i
+http://117.205.165.112:57291/i
+http://42.53.17.85:45803/i
+http://117.211.211.189:37762/bin.sh
+http://61.53.118.159:44789/i
+http://175.165.239.29:56095/bin.sh
+http://61.3.29.76:37119/i
+http://117.213.80.14:50570/bin.sh
+http://117.205.165.112:57291/bin.sh
+http://202.83.163.47:45413/bin.sh
+http://123.5.147.220:58474/bin.sh
+http://182.117.167.171:42710/bin.sh
+http://117.215.61.4:43745/bin.sh
+http://61.53.236.4:54628/i
+http://219.157.63.155:42348/i
+http://219.137.230.17:47513/bin.sh
+http://42.227.185.32:41972/bin.sh
+http://123.173.76.117:40588/bin.sh
+http://115.50.230.81:48954/bin.sh
+http://88.252.134.155:40134/i
+http://27.215.127.188:34720/i
+http://123.11.2.161:40108/i
+http://45.85.249.192/a-r.m-5.Sakura
+http://45.85.249.192/i-5.8-6.Sakura
+http://45.85.249.192/i586
+http://45.85.249.192/m-p.s-l.Sakura
+http://154.205.133.58/skid.arm
+http://45.85.249.192/i686
+http://45.85.249.192/x-8.6-.Sakura
+http://45.85.249.192/x-3.2-.Sakura
+http://45.85.249.192/mipsel
+http://154.205.133.58/lol.mips
+http://45.85.249.192/m-6.8-k.Sakura
+http://45.85.249.192/m-i.p-s.Sakura
+http://45.85.249.192/a-r.m-6.Sakura
+http://45.85.249.192/a-r.m-4.Sakura
+http://45.85.249.192/a-r.m-7.Sakura
+http://154.205.133.58/skid.arm7
+http://45.85.249.192/armv5l
+http://45.142.122.235/bot.arm5
+http://154.205.133.58/lol.mpsl
+http://154.205.133.58/skid.mips
+http://154.205.133.58/lol.arm7
+http://154.205.133.58/skid.mpsl
+http://45.85.249.192/armv6l
+http://45.85.249.192/armv4l
+http://45.142.122.235/bot.sh4
+http://45.142.122.235/bot.mips
+http://45.142.122.235/bot.x86
+http://45.142.122.235/bot.arm7
+http://45.85.249.192/sparc
+http://45.142.122.235/bot.m68k
+http://45.85.249.192/x86
+http://45.142.122.235/bot.x86_64
+http://45.142.122.235/bot.ppc
+http://45.142.122.235/bot.arm6
+http://45.85.249.192/mips
+http://45.142.122.235/bot.arm
+http://45.142.122.235/bot.mpsl
+http://91.143.174.252:59155/i
+http://115.55.130.97:43095/bin.sh
+http://27.215.127.188:34720/bin.sh
+http://39.55.129.212:44459/bin.sh
 http://27.204.225.224:38082/bin.sh
 http://27.202.187.20:47351/bin.sh
 http://123.9.253.246:57090/i
@@ -750,7 +816,6 @@ http://196.251.69.112/z/89/ppc
 http://196.251.87.244/morte.arc
 https://idk.1f2e18bbde8ecc30ee3307a4.net/api//builds/b052482e-a0c8-481b-bba5-156058b1780a.msi
 http://196.251.69.112/z/e
-https://camplively.com/2/up.php?49
 https://jjf.life/OpenSSL/ZoomClientSetup.exe
 http://61.54.68.35:57862/i
 http://196.251.87.244/debug
@@ -1005,7 +1070,6 @@ http://42.178.81.9:37105/i
 http://118.232.137.101:60448/bin.sh
 http://182.114.50.214:43375/i
 http://42.180.38.32:37241/i
-http://222.140.195.4:57001/i
 http://120.28.212.217:51353/i
 http://123.5.170.37:57061/bin.sh
 http://182.114.50.214:43375/bin.sh
@@ -1178,6 +1242,7 @@ http://service-orange-pro.com/00101010101001/morte.x86
 http://denisadental.duckdns.org/00101010101001/debug
 http://service-orange-pro.com/00101010101001/morte.mips
 http://denisa.shop/00101010101001/morte.m68k
+http://denisa.shop/00101010101001/morte.arc
 http://denisa.shop/00101010101001/morte.x86_64
 http://denisa.shop/00101010101001/morte.arm5
 http://denisa.shop/00101010101001/debug
@@ -1324,7 +1389,6 @@ http://36.92.68.239:40800/i
 http://112.87.155.246:23393/i
 http://112.87.155.16:21858/i
 http://69.18.251.111:32132/i
-http://46.6.14.22:16726/i
 http://41.146.15.141:8082/sshd
 http://88.8.17.128:1071/sshd
 http://27.75.198.139:8081/sshd
@@ -3515,7 +3579,6 @@ https://www.modernitgen.com/Platinum.mp4
 http://213.209.150.18/jtEmt5nxbRnq5jC.exe
 http://213.209.150.18/80aK2YmFb6vbKeU.exe
 http://185.142.53.233/gmips
-http://14.103.145.202/rondo.armv4l
 https://103.116.190.93/live.lnk
 https://103.116.190.93/uat.lnk
 http://185.156.72.2/download.php
@@ -3556,6 +3619,8 @@ http://192.140.225.33/phpMyAdmin/m-minerd.exe
 http://192.140.225.33/phpMyAdmin/Ganja174.exe
 http://192.140.225.33/phpMyAdmin/Ganja36.exe
 http://192.140.225.33/phpMyAdmin/ganja2.exe
+http://192.140.225.33/phpMyAdmin/nheqminer.exe
+http://192.140.225.33/phpMyAdmin/Ganja132.exe
 http://185.216.214.180/blender_checker_x86.msi
 http://185.216.214.180/df48528eda5ec32d4518cb458a11fd28.jpg.zip
 http://185.216.214.180/f.exe
@@ -3617,7 +3682,6 @@ http://160.30.44.120/neon.armv7l
 http://160.30.44.120/neon.armv6l
 http://160.30.44.120/neon.i586
 http://162.240.231.156/hiddenbin/boatnet.mpsl
-http://160.30.44.120/neon.powerpc
 http://160.30.44.120/neon.armv5l
 http://160.30.44.120/neon.mipsel
 http://160.30.44.120/neon.powerpc-440fp
@@ -3724,7 +3788,6 @@ http://160.30.44.120/neon.mips
 http://160.30.44.120/neon.i686
 http://198.12.126.164/500/gbn/veryniceskillwhichgivenmebestthingsentiretime________veryniceskillwhichgivenmebestthingsentiretime________veryniceskillwhichgivenmebestthingsentiretime.doc
 http://209.141.49.113/sysload
-http://209.141.49.113/cloud
 http://209.141.49.113/dcloud.tar
 http://205.185.124.206/arm61
 http://209.141.49.113/v
@@ -4975,6 +5038,7 @@ http://213.16.62.185/all/Software/BMW/Software/Coding/BMW-FSC-NBT/tools/SWID_rea
 http://github.com/joshdied/files/raw/refs/heads/main/XtuService.exe
 http://162.215.218.82/ns3.jpg
 http://162.215.218.82/ns1.jpg
+http://8.134.156.248:10001/02.08.2022.exe
 http://139.159.157.238:5555/02.08.2022.exe
 http://185.208.158.206/7766.elf
 http://185.208.158.206/z.sh
@@ -8174,6 +8238,7 @@ http://174.138.179.43/panel/panel/uploads/Skaoryop.pdf
 http://174.138.179.43/panel/panel/uploads/Edlga.mp4
 http://200.72.199.206:1542/i
 http://93.118.180.141:9529/i
+http://114.55.100.165:19998/02.08.2022.exe
 http://95.62.202.150:10071/sshd
 https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
 http://expay.ru/bins/whisper.x64
@@ -8400,7 +8465,6 @@ http://43.226.39.44:5988/LoginAntiCheat.dll
 http://43.226.39.44:5988/LoginAntiCheat4.dll
 http://43.226.39.44:5988/GMEX.dll
 http://185.136.195.193:60963/i
-http://216.155.92.203:3956/i
 https://raw.githubusercontent.com/Matrix2077v2/dsiasif/refs/heads/main/main_mpsl
 http://222.165.237.58:37379/i
 https://raw.githubusercontent.com/BenitoCamelas2025/datos/refs/heads/main/CONEXIONVB.txt
@@ -8581,6 +8645,7 @@ http://45.116.68.12:15607/i
 http://103.50.4.173:28917/i
 http://119.252.167.172:45777/i
 http://103.50.4.171:28917/i
+http://112.166.18.116:54152/i
 http://84.1.110.226:13619/i
 http://190.108.227.250:63274/i
 http://159.148.48.50:55174/i
@@ -8642,6 +8707,7 @@ http://212.85.166.12:22448/i
 http://27.156.154.3:58633/i
 http://103.43.6.114:7055/i
 http://207.113.208.58:2544/i
+http://139.255.97.116:6983/i
 http://190.110.204.150:34857/i
 http://181.129.177.162:26290/i
 http://80.23.51.236:60454/i
@@ -9281,6 +9347,7 @@ https://annadegismen.com/js/xnzoum.js
 https://annadegismen.com/js/ibgeaz.js
 https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/fmxscl.js
+https://annadegismen.com/js/mqpbho.js
 https://annadegismen.com/js/rznscf.js
 https://annadegismen.com/js/qlzjfg.js
 https://annadegismen.com/js/pnescq.js
@@ -9378,6 +9445,7 @@ https://annadegismen.com/js/uxsfql.js
 https://annadegismen.com/js/stwzbl.js
 https://annadegismen.com/js/lkcwbp.js
 https://annadegismen.com/js/wpglyv.js
+https://annadegismen.com/js/ilgesm.js
 https://annadegismen.com/js/ynjsml.js
 https://annadegismen.com/js/ckhvft.js
 https://annadegismen.com/js/nwbgvc.js
@@ -9450,7 +9518,6 @@ https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
 https://annadegismen.com/js/gecixy.js
 https://annadegismen.com/js/qrxjgz.js
-https://annadegismen.com/js/owvzhd.js
 https://annadegismen.com/js/xoasqn.js
 https://annadegismen.com/js/cotbjd.js
 https://annadegismen.com/js/dybexn.js
@@ -9503,7 +9570,6 @@ https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
 https://annadegismen.com/js/eyfbaq.js
-https://annadegismen.com/js/fxvwgp.js
 https://annadegismen.com/js/fcvdqi.js
 https://annadegismen.com/js/qnrbse.js
 https://annadegismen.com/js/xkhlro.js
@@ -9888,6 +9954,7 @@ http://annadegismen.com/js/majqwv.js
 http://annadegismen.com/js/qrxjgz.js
 http://annadegismen.com/js/cfwbmd.js
 http://annadegismen.com/js/unpagw.js
+http://annadegismen.com/js/xzowjy.js
 http://annadegismen.com/js/zsdpvi.js
 http://annadegismen.com/js/wyafhx.js
 http://annadegismen.com/js/wijbyn.js
@@ -10015,7 +10082,6 @@ http://annadegismen.com/js/chmuob.js
 http://annadegismen.com/js/poclxy.js
 http://annadegismen.com/js/afyles.js
 http://annadegismen.com/js/tjsqpz.js
-http://annadegismen.com/js/xpdlwg.js
 http://annadegismen.com/js/glyphn.js
 http://annadegismen.com/js/swejgo.js
 http://annadegismen.com/js/oemktg.js
@@ -10329,6 +10395,7 @@ https://raw.githubusercontent.com/DONW2023/ad/main/BB.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/ready.apk
 http://skynetx.com.br/turitarefa.htm
 http://skynetx.com.br/tarefab.html
+http://skynetx.com.br/tarefa2022.html
 http://skynetx.com.br/booking.htm
 http://skynetx.com.br/microsoft.htm
 http://skynetx.com.br/tarefa.html
@@ -10976,7 +11043,6 @@ http://68.108.119.30:22420/Photo.scr
 http://94.76.156.101:280/Photo.scr
 http://203.17.23.194:20834/Mozi.m
 http://103.187.151.107:1500/Mozi.m
-http://212.200.106.94:47831/Mozi.m
 http://113.214.56.235:7880/i
 http://41.190.70.217:20050/i
 http://178.236.126.246:46143/i
@@ -11009,7 +11075,6 @@ http://95.170.203.178:46806/i
 http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://59.153.80.90:4581/i
-http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://88.135.26.83:32710/i
 http://88.119.151.142:10462/i
@@ -11337,6 +11402,7 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
 http://down.ftp21.cc/wmi.jpg
+http://ssl.ftp21.cc/TQ.jpg
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
@@ -11488,6 +11554,7 @@ http://76.53.38.126:8085/sshd
 http://218.108.181.2:87/sshd
 http://178.183.85.67:10081/sshd
 https://www.sendspace.com/pro/dl/dvbcvt
+https://www.sendspace.com/pro/dl/exw2o1
 http://174.71.253.35:1103//sshd
 http://66.49.95.131:8132//sshd
 http://118.69.157.212:9114//sshd
@@ -11635,7 +11702,6 @@ http://1.179.62.255:8081/sshd
 http://217.86.136.170:12212/sshd
 http://165.73.108.6:8022/sshd
 http://159.196.71.244:8083/sshd
-http://59.154.122.196:1125/sshd
 http://31.0.241.65:8081/sshd
 http://74.72.72.247:8000/sshd
 http://174.71.237.86:1110/sshd
@@ -11969,7 +12035,6 @@ http://181.143.124.58:2854/.i
 http://43.249.52.210:12166/.i
 http://181.49.0.178:51734/.i
 http://80.73.70.114:16828/.i
-http://91.92.82.180:17789/.i
 http://188.254.255.246:11862/.i
 http://202.53.164.214:17211/.i
 http://193.228.134.234:20043/.i
@@ -12168,6 +12233,7 @@ http://197.155.64.126:47085/i
 http://202.148.20.138:24291/i
 http://188.0.131.200:15427/i
 http://176.195.191.123:54140/i
+http://154.0.129.134:10702/i
 http://196.41.63.178:12132/i
 http://181.193.62.225:39941/i
 http://197.159.8.222:34891/i
@@ -12418,7 +12484,6 @@ http://193.169.146.186:61643/i
 http://217.64.96.209:13156/i
 http://109.171.30.19:33609/i
 http://181.48.119.70:40037/i
-http://202.5.61.33:62997/i
 http://103.16.75.50:61962/i
 http://178.34.177.42:41638/i
 http://46.52.164.170:29443/i
@@ -12700,8 +12765,8 @@ https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
 https://dezino.ir/smed/smed.js
 https://kitchenidea.me/stt/stt.js
-https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
+https://admin.byte.in.ua/agenzia/
 https://donkeytourscroatia.com/agenzia/
 https://gabyagozetim.com/connect/
 https://gabyagozetim.com/agenzia/
@@ -12815,7 +12880,6 @@ http://109.107.81.168:24443/.i
 http://212.231.226.35:27102/.i
 http://181.177.143.51:64994/.i
 https://rxquickpay.com/hksweep/vendor/font-awesome/svgs/brands/subtraction.php
-https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/retraction.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
 https://www.crazywickedaddiction.com/comply.php
@@ -13087,6 +13151,7 @@ http://allister.ee/wp-includes/sec.myaccount.docs.biz/
 http://flyingmutts.com/secure.myacc.resourses.com/
 http://programandojuntos.us.tempcloudsite.com/I203611254B019514581.zip
 http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
+http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
 http://softdl2.360tpcdn.com/tomatoleizhutizy/tomatoleizhutizy.exe
 http://p5.zbjimg.com/task/2011-03/27/pub/4d8ee54db371e.zip
 http://jeantetfamily.com/nbYKX-tuyPjfD9eJIDLdI_GSUQXuUwr-SJM/p0toi-wvvspg-pzauhekva/
