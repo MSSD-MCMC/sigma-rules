@@ -1,3 +1,35 @@
+http://59.94.67.55:56644/bin.sh
+http://27.37.88.97:44188/i
+http://182.122.213.158:38064/bin.sh
+http://117.209.81.207:56686/i
+http://182.126.81.175:39747/bin.sh
+http://120.57.216.65:51524/i
+http://182.113.72.161:50871/i
+http://42.225.222.148:44028/bin.sh
+http://200.59.85.179:49871/i
+http://123.188.65.101:47161/bin.sh
+http://45.90.80.118:33873/bin.sh
+http://42.5.67.34:60411/bin.sh
+http://117.204.164.159:35301/bin.sh
+http://27.37.88.97:44188/bin.sh
+http://117.209.81.207:56686/bin.sh
+http://42.239.177.3:43899/i
+http://200.59.85.179:49871/bin.sh
+http://1.70.15.150:37310/i
+http://42.239.190.82:59190/bin.sh
+http://120.57.216.65:51524/bin.sh
+http://175.165.118.188:55917/bin.sh
+http://115.55.22.34:48319/i
+http://182.113.72.161:50871/bin.sh
+http://1.70.14.107:50214/i
+http://117.213.84.12:39894/i
+http://42.234.233.183:53176/bin.sh
+http://78.70.203.243:56414/i
+http://61.53.85.146:45241/bin.sh
+http://61.1.225.13:54855/i
+http://125.45.8.240:59720/bin.sh
+http://182.114.254.137:49907/i
+http://221.15.230.159:50689/bin.sh
 http://182.121.189.75:57243/bin.sh
 http://221.15.95.182:46196/i
 http://1.70.15.150:37310/bin.sh
@@ -1131,7 +1163,6 @@ http://196.251.87.244/morte.mips
 http://196.251.87.244/morte.arm7
 http://196.251.69.112/z/89/mips
 http://196.251.69.112/z/89/ppc
-http://196.251.69.112/z/89/spc
 http://14.153.206.166:53173/bin.sh
 http://42.57.252.106:58034/bin.sh
 http://27.215.102.163:52479/bin.sh
@@ -1363,6 +1394,7 @@ http://service-orange-pro.com/00101010101001/morte.arm6
 http://service-orange-pro.com/00101010101001/morte.arm7
 http://service-orange-pro.com/00101010101001/morte.m68k
 http://denisadental.duckdns.org/00101010101001/morte.arm7
+http://denisadental.duckdns.org/00101010101001/morte.mpsl
 http://service-orange-pro.com/00101010101001/morte.arc
 http://service-orange-pro.com/00101010101001/morte.x86_64
 http://service-orange-pro.com/00101010101001/debug
@@ -1490,6 +1522,7 @@ http://209.74.81.212/hiddenbin/boatnet.arm6
 http://107.175.76.49:4433/02.08.2022.exe
 http://118.25.148.58/02.08.2022.exe
 http://47.122.1.243:8000/02.08.2022.exe
+http://52.193.249.66/02.08.2022.exe
 http://177.36.191.59:2761/i
 http://36.92.68.239:40800/i
 http://112.87.155.246:23393/i
@@ -2949,6 +2982,7 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/12%2003%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/30%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/10%2001%202025/info.zip
+http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/08%2004%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/08%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/30%2004%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/26%2004%202025/info.zip
@@ -3306,6 +3340,7 @@ http://43.136.94.178:8888/WxWorkApis.dll
 http://106.53.72.33:8888/WxWorkApis.dll
 http://43.136.51.89:8888/WxWorkApis.dll
 http://106.53.72.33:8888/WxWorkMultiOpen.exe
+http://175.178.251.212:8888/WxWorkApis.dll
 http://175.24.81.152:8888/WxWorkApis.dll
 http://124.220.78.172:8888/WxWorkApis.dll
 http://42.193.115.114:8888/WxWorkApis.dll
@@ -3752,6 +3787,7 @@ http://162.240.231.156/hiddenbin/boatnet.arm7
 https://181.206.158.190/Update.vbs
 http://182.92.113.13:8000/work/svchost.exe
 http://182.92.113.13:8000/work/svchost.elf
+http://39.105.31.193:1389/SchTask.exe
 http://182.92.113.13:8000/work/svchost.apk
 http://205.185.124.206/586
 http://205.185.124.206/mips
@@ -4022,6 +4058,7 @@ http://2.55.125.165:801/sshd
 http://76.125.11.14:18802/i
 http://70.79.175.75:27219/i
 http://196.251.115.189/t
+http://8.219.233.255:20066/02.08.2022.exe
 http://178.131.45.13:21618/i
 http://211.34.121.61:61380/i
 https://kristalzemin.com/QfSWjNayUTjETlwl122.bin
@@ -4971,6 +5008,7 @@ http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/
 http://39.75.154.200:53269/i
 http://47.113.217.92:8001/02.08.2022.exe
 http://120.27.235.78/02.08.2022.exe
+http://8.148.224.96:8888/02.08.2022.exe
 http://41.160.19.82:6667/i
 http://156.19.57.50:24183/i
 https://192.159.99.195/bin//support.client.exe?i=&e=Support&y=Guest&r=
@@ -5005,11 +5043,11 @@ http://github.com/Niggedddx/Dependenciuesfeife/raw/refs/heads/main/BruterV3.1.ex
 http://github.com/arduino1209/archive-client/raw/refs/heads/main/payload1.exe
 https://acc.trjsp41.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://24x7support.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://screensconnct.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://nnnpanel.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxprotectech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardwave.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://onyxshieldcore.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxarmorcrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardify.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.hdpw3.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -5731,6 +5769,7 @@ https://github.com/brahiim05/Indian_Migrating_Students_Analysis/releases/downloa
 https://github.com/BoOoDy123/manual-brick-breaker/releases/download/v2.0/Software.zip
 https://github.com/DankNuT/NovaOS/releases/download/v2.0/Software.zip
 https://github.com/Pedrinzx32/image-to-video-api/releases/download/v2.0/Software.zip
+https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v1.0/Program.zip
 https://github.com/emilio549/solindexllm/releases/download/v1.0/Application.zip
 https://github.com/Anthony166-cmyk/codify/releases/download/v2.0/Software.zip
 https://github.com/soilder931/djlint-snap/releases/download/v1.0/Application.zip
@@ -6290,6 +6329,7 @@ https://github.com/Jentao1234/guiaMestre.js/releases/download/v1.0/Software.zip
 https://github.com/Damaonly/android-worker/releases/download/v1.0/Software.zip
 https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip
 https://github.com/Jentao1234/guiaMestre.js/releases/download/v2.0/Software.zip
+https://cdn.glitch.global/3d2d2e33-0f37-484c-8992-98d5d40799e0/AotBst.dll
 https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip
 https://github.com/abhinavchetla/SeedGn/releases/download/v1.0/Software.zip
 https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip
@@ -6405,6 +6445,7 @@ https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip
 https://github.com/riusni/ZIPSHIP-Parcel-Management-client/releases/download/v2.0/Software.zip
 https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v2.0/Software.zip
 https://github.com/Miniskizo/GlassWire-Elite-Free/releases/download/v1.0/Software.zip
+https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v1.0/Software.zip
 https://github.com/Afjhr/iExplorer-Free/releases/download/v1.0/Software.zip
 https://github.com/ShadowMask0/remix-app/releases/download/v2.0/Software.zip
 https://github.com/raiokkj/AVS-Audio-Converter-Free/releases/download/v2.0/Software.zip
@@ -6710,6 +6751,7 @@ https://onyxstealthnet.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxaquarius.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://77.83.85.29/bins/sora.sh4
 http://77.83.85.29/bins/sora.mpsl
+http://77.83.85.29/bins/sora.ppc
 http://77.83.85.29/bins/sora.x86
 http://77.83.85.29/bins/sora.arm7
 http://77.83.85.29/bins/sora.spc
@@ -6838,6 +6880,7 @@ https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip
 https://github.com/Brevidade/fleet-pattern/releases/download/v1.0/Software.zip
 https://github.com/YOSIF9999/Hamster-Clicker/releases/download/v2.0/Software.zip
 https://github.com/youssefmasoud19999/Instagram-Auto-Liker/releases/download/v1.0/Software.zip
+https://github.com/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip
 http://66.187.4.77/arm7
 http://2.188.175.124:29307/i
 http://185.148.3.216/Ujkflzer45sc0
@@ -7539,6 +7582,7 @@ https://img1.wsimg.com/blobby/go/b2a026b5-555a-437c-867f-3969f62b48d7/downloads/
 https://img1.wsimg.com/blobby/go/3f5ecf8d-ba74-430f-ac11-9eb6ace92d02/downloads/womirojepu.pdf
 https://img1.wsimg.com/blobby/go/db112521-e536-400b-b453-631e78951ba0/downloads/lord_of_the_flies_script.pdf
 https://img1.wsimg.com/blobby/go/3d0a6e54-c95b-4e67-871e-882f39f9c203/downloads/38102271043.pdf
+https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/depo_provera_osteoporosis_guidelines.pdf
 https://img1.wsimg.com/blobby/go/397fbc33-145f-44ec-a774-e1fa1b866d82/downloads/fekesijurada.pdf
 https://img1.wsimg.com/blobby/go/1e222df8-d197-4254-b90b-be3d3b023ef4/downloads/78299826683.pdf
 https://img1.wsimg.com/blobby/go/bc2da57a-5cad-4b1e-b658-8efa7e30bee5/downloads/como_transferir_saldo_de_dados_unitel.pdf
@@ -8979,6 +9023,7 @@ https://dangtienluc.com/snake/hack.dll
 https://raw.githubusercontent.com/ANESSDEV/talha/main/TALHA.dll
 https://codeload.github.com/sqrtZeroKnowledge/XWorm-Trojan/zip/refs/heads/main
 https://raw.githubusercontent.com/barrigudinha157/barrigudinha/master/Rage.dll
+https://jobcity.com/img/RM0XpX/
 http://195.101.213.209/PHM/BRIVE/RECEPISSE/202403/10/DOC2LGPU2JWFETS.TIF
 http://195.101.213.209/PHM/DISTRIMOBILE/RECEPISSE/202407/30/FUSS983_20240725_150732.TIF
 http://211.204.100.20:1234/InfectSocks32_SQL_AntiVirus.vmp.dll
@@ -9382,6 +9427,7 @@ https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/fqtdxe.js
+https://annadegismen.com/js/oemktg.js
 https://annadegismen.com/js/xzpwsy.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
@@ -9405,6 +9451,7 @@ https://annadegismen.com/js/giutma.js
 https://annadegismen.com/js/ecalyt.js
 https://annadegismen.com/js/ojuwkc.js
 https://annadegismen.com/js/eyanol.js
+https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/hnwkmj.js
@@ -9476,6 +9523,7 @@ https://annadegismen.com/js/qkrbco.js
 https://annadegismen.com/js/ngtlmw.js
 https://annadegismen.com/js/qpaywg.js
 https://annadegismen.com/js/zamdkx.js
+https://annadegismen.com/js/nrqhmt.js
 https://annadegismen.com/js/idmclj.js
 https://annadegismen.com/js/hznwrv.js
 https://annadegismen.com/js/qpltad.js
@@ -9592,7 +9640,7 @@ https://annadegismen.com/js/kdmgzy.js
 https://annadegismen.com/js/nscgoi.js
 https://annadegismen.com/js/gvtuqd.js
 https://annadegismen.com/js/nwqtuo.js
-https://annadegismen.com/js/xfsnmk.js
+https://annadegismen.com/js/youwtb.js
 https://annadegismen.com/js/bazyuq.js
 https://annadegismen.com/js/lyqtmc.js
 https://annadegismen.com/js/syabui.js
@@ -9708,7 +9756,6 @@ http://annadegismen.com/js/ybisjv.js
 http://annadegismen.com/js/zsjwbc.js
 http://annadegismen.com/js/hcwxve.js
 http://annadegismen.com/js/gbfyoz.js
-http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
 http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
@@ -10686,6 +10733,7 @@ http://76.76.195.174:62922/Mozi.m
 http://178.151.34.26:9354/Mozi.m
 http://103.217.215.238:17645/Mozi.m
 http://146.196.120.21:36191/Mozi.m
+http://202.74.246.172:57366/Mozi.m
 http://27.147.225.2:29392/Mozi.m
 http://134.249.141.119:22752/Mozi.m
 http://110.74.207.194:3585/Mozi.m
@@ -11204,6 +11252,7 @@ http://down.ftp21.cc/445.jpg
 http://down.ftp21.cc/TQ.jpg
 http://down.ftp21.cc/wmi.jpg
 http://ssl.ftp21.cc/TQ.jpg
+http://85.207.44.106/Photo.scr
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
@@ -12449,6 +12498,7 @@ https://raw.githubusercontent.com/washywashy14/7zip-bin/master/win/er5thygfd.zip
 https://raw.githubusercontent.com/washywashy14/7zip-bin/master/win/Uemlxaw.zip
 https://raw.githubusercontent.com/zev3n/Ubuntu-Gnome-privilege-escalation/main/CVE-2020-1612%5B6_7%5D_exploit.sh
 https://www.blackhattoolz.com/licensing/deployment/Yellow%20Pages%20Scraper.exe
+https://www.blackhattoolz.com/licensing/updates/Tinder%20Bot.exe
 http://14.224.174.212/Ransomware.WannaCry_Plus.zip
 https://noithaticon.vn/DRIVEapplet.exe
 http://f24-zfcloud.zdn.vn/17c4755d1d45ed1bb454/8703634058188758823
@@ -12845,7 +12895,6 @@ https://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://download.caihong.com/gamewd/yhdl.exe
 https://abissnet.net/u0eukz.zip
 http://yzkzixun.com/v2x2vexx.jpg
-http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://jkshaonv.com/wp-admin/eTrac/qqlOX3LVJH/
