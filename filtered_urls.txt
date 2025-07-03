@@ -1,3 +1,43 @@
+http://115.61.52.124:40038/bin.sh
+http://89.67.29.164:49225/bin.sh
+http://45.135.194.90/arm5
+http://45.135.194.90/arm
+http://45.135.194.90/ppc
+http://45.135.194.90/spc
+http://45.135.194.90/mips
+http://45.135.194.90/x86
+http://45.135.194.90/x86_64
+http://45.135.194.90/arm6
+http://45.135.194.90/sh4
+http://156.238.225.44/hiddenbin/boatnet.arm
+http://156.238.225.44/hiddenbin/boatnet.mips
+http://156.238.225.44/hiddenbin/boatnet.sh4
+http://156.238.225.44/hiddenbin/boatnet.spc
+http://156.238.225.44/hiddenbin/boatnet.x86
+http://156.238.225.44/hiddenbin/boatnet.arm6
+http://156.238.225.44/hiddenbin/boatnet.mpsl
+http://156.238.225.44/hiddenbin/boatnet.arm5
+http://45.135.194.90/debug.dbg
+http://45.135.194.90/m68k
+http://156.238.225.44/hiddenbin/boatnet.m68k
+http://45.135.194.90/mpsl
+http://156.238.225.44/hiddenbin/boatnet.ppc
+http://156.238.225.44/hiddenbin/boatnet.arm7
+http://182.126.84.235:53518/i
+http://125.45.8.240:59720/i
+http://124.94.74.136:43788/i
+http://222.142.241.28:41124/i
+http://115.48.149.139:49099/i
+http://123.129.155.169:41227/bin.sh
+http://222.137.37.186:53494/bin.sh
+http://182.127.37.150:43857/i
+http://112.248.140.91:48827/i
+http://61.54.43.151:37997/bin.sh
+http://182.116.121.66:56668/i
+http://200.59.88.17:44956/i
+http://61.53.117.66:59979/i
+http://182.127.37.150:43857/bin.sh
+http://77.247.88.91:55924/i
 http://125.40.153.133:34393/bin.sh
 http://222.142.241.28:41124/bin.sh
 http://42.235.97.18:55334/i
@@ -1006,6 +1046,7 @@ http://123.188.199.89:39062/i
 http://110.183.20.5:42726/bin.sh
 http://60.25.198.165:47677/i
 http://119.179.251.149:54032/bin.sh
+http://59.93.129.245:36762/bin.sh
 http://112.248.254.197:56460/bin.sh
 http://42.235.186.5:44423/bin.sh
 http://110.183.48.223:33959/i
@@ -1080,7 +1121,6 @@ http://175.175.206.107:50371/bin.sh
 http://60.18.120.235:41596/bin.sh
 http://175.148.148.176:41287/bin.sh
 http://113.239.83.230:58939/bin.sh
-http://123.22.113.209:8081/main_arm
 http://196.251.86.61/morte.mips
 http://196.251.86.169/00101010101001/morte.mips
 http://196.251.86.61/morte.arm
@@ -1345,7 +1385,6 @@ http://196.251.69.112/z/89/mips
 http://196.251.69.112/z/89/ppc
 http://196.251.87.244/morte.arc
 http://196.251.69.112/z/89/spc
-http://196.251.87.244/morte.spc
 http://14.153.206.166:53173/bin.sh
 http://196.251.87.244/morte.ppc
 http://42.57.252.106:58034/bin.sh
@@ -1497,7 +1536,6 @@ http://42.6.94.149:52924/i
 http://218.24.27.81:52968/i
 http://200.59.84.179:37324/i
 http://24.88.242.6:41406/i
-http://113.239.251.132:41188/i
 http://218.91.153.60:44200/i
 http://113.236.250.136:56622/i
 http://71.207.64.66:49554/i
@@ -1538,7 +1576,6 @@ http://denisadental.duckdns.org/00101010101001/debug
 http://service-orange-pro.com/00101010101001/morte.mips
 http://service-orange-pro.com/00101010101001/morte.arm6
 http://service-orange-pro.com/00101010101001/morte.ppc
-http://service-orange-pro.com/00101010101001/morte.m68k
 http://denisadental.duckdns.org/00101010101001/morte.arm7
 http://denisadental.duckdns.org/00101010101001/morte.mpsl
 http://service-orange-pro.com/00101010101001/morte.arc
@@ -1797,7 +1834,6 @@ http://193.31.6.55/hiddenbin/boatnet.ppc
 http://193.31.6.55/hiddenbin/boatnet.mpsl
 http://193.31.6.55/hiddenbin/boatnet.arm6
 http://193.31.6.55/hiddenbin/boatnet.mips
-http://193.31.6.55/hiddenbin/boatnet.x86
 http://193.31.6.55/hiddenbin/boatnet.spc
 http://193.31.6.55/hiddenbin/boatnet.arc
 http://193.31.6.55/hiddenbin/boatnet.sh4
@@ -2020,7 +2056,6 @@ https://deputadacampagnolo.com.br/?u=script
 https://73puredesigns.com/?u=script
 https://a1alphaclean.com/?u=script
 https://aaffpublicitario.com/?u=script
-https://a3dvisualizacion.com/wp/?u=script
 https://abguzellik.com/?u=script
 https://deshawfamily.com/?u=script
 https://7cavaleiro.com/?u=script
@@ -2108,7 +2143,6 @@ http://66.63.187.193/clean
 http://66.63.187.193/i686
 http://66.63.187.193/aarch64
 http://66.63.187.193/x86_64
-http://220.158.232.99/x/adb
 http://220.158.232.99/x/tplink
 http://66.63.187.193/sh
 http://176.96.131.92/sh4
@@ -2194,6 +2228,7 @@ https://zivalife.com.br/?u=file
 https://yyyblog.flat.cn.ua/?u=file
 https://yumeenterprises.com/?u=file
 https://z-sercem.pl/?u=file
+https://younglovemommy.com/?u=file
 https://zacto.cl/?u=file
 https://za-business.com/?u=file
 https://yvetteaikenministries.com/?u=file
@@ -4261,7 +4296,6 @@ http://185.142.53.233/kmpsl
 http://47.239.251.9:8080/Photo.lnk
 https://raw.githubusercontent.com/Prokazn1k5583/l2/master/L2.exe
 http://bendahacokseviyorum.com/foncar.exe
-http://vps-1004003.neumachile.cl/~neumaticosnexen/your_app.exe
 http://213.209.150.18/nbin22.exe
 https://raw.githubusercontent.com/ducminh23/ccc/main/MHDDoS-main.zip
 https://github.com/Babskai/aa/raw/refs/heads/main/README.md
@@ -4981,6 +5015,7 @@ http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://107.150.0.56:3000/ah.zip
+http://8.138.119.70:5003/bea.bin
 http://111.46.219.240:14593/.i
 http://muriaspetin.es/wp-load/Rapidsvn.exe
 http://111.173.104.176:8888/02.08.2022.exe
@@ -5290,6 +5325,7 @@ http://47.93.28.103/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
 https://47.109.45.147:23071/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
+https://116.205.242.143/02.08.2022.exe
 https://20.74.209.192:8080/02.08.2022.exe
 https://8.141.166.236/02.08.2022.exe
 https://43.155.195.102:8888/02.08.2022.exe
@@ -9498,7 +9534,6 @@ http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip64.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/cred64.dll
 https://66.63.187.231/xampp/noc/seemefasterthanbeforewithhisbestthingsinonlineforgetreadyfor.hta
 http://124.222.129.148:10000/02.08.2022.exe
-http://8.154.18.17:15679/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://162.219.216.183:40370/Mozi.a
 http://165.154.184.75/SearchUII.exe
@@ -9561,6 +9596,7 @@ https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
 https://annadegismen.com/js/uhoqtj.js
 https://annadegismen.com/js/pkacbg.js
+https://annadegismen.com/js/lrabiq.js
 https://annadegismen.com/js/hjiosv.js
 https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/nhoiwl.js
@@ -9691,7 +9727,6 @@ https://annadegismen.com/js/kaqpov.js
 https://annadegismen.com/js/cdqpkj.js
 https://annadegismen.com/js/wltkns.js
 https://annadegismen.com/js/hexmvb.js
-https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
@@ -10632,6 +10667,7 @@ http://ftp.ywxww.net:820/RemotelyAnywhere11.exe
 http://ftp.ywxww.net:820/pm3100.exe
 http://ftp.ywxww.net:820/qwsrv3.3.exe
 http://ftp.ywxww.net:820/x210.exe
+http://ftp.ywxww.net:820/ydcx.exe
 http://ftp.ywxww.net:820/smb.exe
 http://ftp.ywxww.net:820/KB2808679x64.exe
 http://ftp.ywxww.net:820/svchost.exe
@@ -11162,7 +11198,6 @@ http://154.0.129.114:10702/Mozi.m
 http://116.58.83.76:39359/Mozi.m
 http://194.208.56.60:14184/Mozi.m
 http://81.16.247.81:17403/Mozi.m
-http://217.218.235.202:17134/Mozi.m
 http://150.129.202.197:1316/Mozi.m
 http://27.116.61.234:44306/Mozi.m
 http://46.100.49.235:63034/Mozi.m
@@ -11228,7 +11263,6 @@ http://91.92.82.180:17789/Mozi.m
 http://188.237.250.100:1189/Mozi.m
 http://212.231.226.35:27102/Mozi.m
 http://121.43.104.75:81/help.scr
-http://87.249.142.126:60800/Photo.scr
 http://87.227.140.66:9999/Photo.scr
 http://24.93.22.147:8081/Photo.scr
 http://194.122.191.15:90/Photo.scr
@@ -12271,6 +12305,7 @@ http://67.78.106.23:55731/.i
 http://178.214.241.150:28760/.i
 http://90.182.214.225:50162/.i
 http://82.114.109.66:60555/.i
+http://91.92.94.138:15350/.i
 http://185.71.69.198:34190/.i
 http://213.6.74.138:39286/.i
 http://212.43.34.226:57556/.i
@@ -12989,7 +13024,6 @@ https://donkeytourscroatia.com/agenzia/
 https://dutulongxuyen.com/agenzia/
 https://gabyagozetim.com/connect/
 https://gabyagozetim.com/agenzia/
-https://records.dennisign.se/agenzia/
 https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
 https://nhatheptienchebinhduong.com/scarica/
@@ -13009,7 +13043,6 @@ http://29sbt.ru/lib/rl2xse0Do/
 https://nusatoyota.co.id/teev/teev.js
 https://spoar.org.in/gcn/gcn.js
 https://nhatheptienchebinhduong.com/mise/Normativa.zip
-https://nhatheptienchebinhduong.com/mise/Funzioni.zip
 https://nhatheptienchebinhduong.com/mise/Servizi.zip
 https://nhatheptienchebinhduong.com/mise/Cliente.zip
 https://nhatheptienchebinhduong.com/mise/Contratto.zip
@@ -13287,8 +13320,8 @@ http://vincentdemiero.com/fta.exe
 http://vincentdemiero.com/documeynt9897.zip
 http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
-http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
+http://www.51az.com.cn/wp-admin/aF/
 http://www.51az.com.cn/wp-admin/protected_section/j16re_6dyseka91_rNX2ln_9v7SkWzf9/0487565882_m6acHjQiebuGGy/
 http://sabinoplacas.com.br/logs/OCT/
 http://www.51az.com.cn/wp-admin/VGnjzwsV/
@@ -13372,7 +13405,6 @@ http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
 http://flyingmutts.com/secure.myacc.resourses.com/
 http://programandojuntos.us.tempcloudsite.com/I203611254B019514581.zip
-http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
 http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
 http://softdl2.360tpcdn.com/tomatoleizhutizy/tomatoleizhutizy.exe
 http://p5.zbjimg.com/task/2011-03/27/pub/4d8ee54db371e.zip
