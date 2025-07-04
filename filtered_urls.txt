@@ -1,3 +1,34 @@
+http://116.169.243.145:43400/i
+http://113.236.150.190:44318/bin.sh
+http://123.144.182.13:60817/bin.sh
+http://42.232.230.52:46997/bin.sh
+http://27.215.54.14:45876/bin.sh
+http://182.119.1.57:36300/bin.sh
+http://115.51.109.70:54184/i
+http://117.196.187.148:56561/bin.sh
+http://45.185.94.64:37856/i
+http://59.93.190.236:34638/i
+http://182.118.242.64:50555/i
+http://219.155.22.100:39769/bin.sh
+http://115.52.20.195:53903/bin.sh
+http://182.118.242.64:50555/bin.sh
+http://42.85.102.125:41464/i
+http://115.55.8.233:53243/i
+http://119.186.207.244:55147/i
+http://198.55.98.107/main_ppc
+http://198.55.98.107/main_mips
+http://198.55.98.107/main_x86_64
+http://198.55.98.107/main_arm7
+http://198.55.98.107/main_x86
+http://198.55.98.107/main_mpsl
+http://198.55.98.107/main_arm6
+http://198.55.98.107/main_arm5
+http://198.55.98.107/main_sh4
+http://198.55.98.107/main_m68k
+http://198.55.98.107/main_arm
+http://124.29.225.50:34479/i
+http://120.57.212.82:33571/i
+http://182.126.87.84:52080/i
 http://42.85.102.125:41464/bin.sh
 http://182.126.87.84:52080/bin.sh
 http://115.55.8.233:53243/bin.sh
@@ -619,7 +650,6 @@ http://89.67.25.191:54149/i
 http://182.112.29.21:37918/i
 http://42.178.30.97:60939/bin.sh
 http://182.119.178.99:59648/bin.sh
-http://115.50.52.58:45824/i
 http://220.158.234.135/busybox-mips
 http://220.158.234.135/busybox-mipsel
 http://220.158.234.135/j/a5le0w
@@ -667,7 +697,6 @@ http://182.112.0.232:59371/bin.sh
 http://144.48.121.4:36652/i
 http://222.134.163.128:35092/bin.sh
 http://175.148.105.40:52353/i
-http://221.14.41.92:47151/i
 http://125.41.140.129:37296/i
 http://42.234.99.46:52632/i
 http://107.150.0.101/.puscarie/.main
@@ -676,7 +705,6 @@ http://175.148.105.40:52353/bin.sh
 http://61.53.94.81:56300/i
 http://144.48.121.4:36652/bin.sh
 http://125.44.59.228:35278/i
-http://125.41.140.129:37296/bin.sh
 http://200.59.88.109:56722/bin.sh
 http://42.234.99.46:52632/bin.sh
 http://182.116.77.99:51852/bin.sh
@@ -1280,6 +1308,8 @@ http://175.148.148.176:41287/bin.sh
 http://113.239.83.230:58939/bin.sh
 http://123.22.113.209:8081/main_mips
 http://123.22.113.209:8081/main_arm6
+http://196.251.86.169/00101010101001/morte.arc
+http://196.251.87.245/00101010101001/morte.sh4
 http://diicotsec.ru/bins/main_sh4
 http://diicotsec.ru/mexalz.sh
 http://diicotsec.ru/bins/main_arm5
@@ -1916,7 +1946,6 @@ http://89.42.88.254/main_arm
 http://89.42.88.254/main_sh4
 http://89.42.88.254/main_arm7
 http://89.42.88.254/main_ppc
-http://89.42.88.254/main_x86
 http://176.96.131.92/arm
 http://43.159.52.193/02.08.2022.exe
 http://222.149.76.83/sshd
@@ -3677,6 +3706,7 @@ http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
+http://124.71.110.163:12150/02.08.2022.exe
 http://43.138.193.228:9090/02.08.2022.exe
 http://121.36.27.251/02.08.2022.exe
 http://43.159.57.217:5555/02.08.2022.exe
@@ -8250,6 +8280,7 @@ http://expay.ru/bins/whisper.mips64
 http://expay.ru/bins/whisper.arm7
 http://expay.ru/bins/whisper.mips
 http://expay.ru/bins/whisper.arm8x64
+http://expay.ru/bins/whisper.arm8x64_be
 http://expay.ru/bins/whisper.mipsle
 http://expay.ru/bins/whisper.i586
 http://expay.ru/bins/whisper.mips64le
@@ -8536,6 +8567,7 @@ https://raw.githubusercontent.com/sleepysnz/skibidi/refs/heads/main/CondoGenerat
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
+http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
@@ -9073,6 +9105,7 @@ http://74.48.34.10/AB4g5/Josho.mpsl
 http://74.48.34.10/AB4g5/Josho.sh4
 http://74.48.34.10/AB4g5/Josho.m68k
 http://74.48.34.10/bins/hax.arm7
+http://74.48.34.10/bins/hax.x86
 http://74.48.34.10/bins/hax.mips
 http://74.48.34.10/bins/hax.arm6
 https://github.com/dis3j/wagnerhook/releases/download/Release/Loader.exe
@@ -9995,7 +10028,6 @@ http://annadegismen.com/js/bmstep.js
 http://annadegismen.com/js/dwjupc.js
 http://annadegismen.com/js/xyphbf.js
 http://annadegismen.com/js/yoaxpt.js
-http://annadegismen.com/js/mxciwn.js
 http://annadegismen.com/js/zxmbpv.js
 http://annadegismen.com/js/mkvuip.js
 http://annadegismen.com/js/trgebo.js
@@ -12360,7 +12392,6 @@ http://186.42.98.2:28072/i
 http://165.90.16.5:18437/i
 http://181.205.74.178:15726/i
 http://178.134.42.162:18520/i
-http://2.184.54.225:35287/i
 http://195.66.105.122:49517/i
 http://195.218.152.38:7093/bin.sh
 http://121.200.63.165:27123/i
@@ -12705,6 +12736,7 @@ http://78.11.94.32:60741/Mozi.m
 http://36.67.66.178:23987/Mozi.m
 http://43.224.0.5:1316/Mozi.m
 http://46.229.139.93:55850/Mozi.m
+http://81.16.123.55:41567/Mozi.a
 http://109.171.30.19:33609/Mozi.a
 http://109.171.30.19:33609/Mozi.m
 http://2.57.122.121/ping
@@ -13247,6 +13279,7 @@ http://sk-comtel.com/templates/theme261/css/msg.jpg
 http://sk-comtel.com/templates/theme261/html/com_contact/category/hp.gf
 http://brightworks.cz/file/support/trust/En/042019/
 http://solutelco.com/cgi-bin/eWbnM-h00hVr2pTu3KYyR_YAVLSNiUf-a0u/
+http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
@@ -13317,7 +13350,6 @@ http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 http://livetrack.in/EmployeeMasterImages/qace.jpg
 http://advustech.com/PvvWE-5ve_e-avu/InvoiceCodeChanges/US/Service-Invoice
 http://aulist.com/GvHr-MMJ5U8ZN2kc5aoq_NkxhpRvvh-t9/
-http://advustech.com/l5EcamTDy/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://veryboys.com/game/download/zip/waigua/shiqi/2003/06/20030620.exe
 http://veryboys.com/game/download/zip/waigua/mir2/2003/05/200305252.exe
