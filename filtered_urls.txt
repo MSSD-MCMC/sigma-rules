@@ -1,3 +1,21 @@
+http://115.52.235.115:60964/bin.sh
+http://182.112.218.88:42802/i
+http://42.230.36.152:56118/i
+http://113.231.79.184:51137/i
+http://202.169.232.194:53722/i
+http://182.115.241.26:35703/bin.sh
+http://123.11.243.173:39145/bin.sh
+http://117.209.80.120:52839/bin.sh
+http://182.112.31.3:42959/bin.sh
+http://112.248.82.200:46265/i
+http://222.141.40.147:33191/i
+http://113.231.79.184:51137/bin.sh
+http://42.230.36.152:56118/bin.sh
+http://42.239.73.170:43899/i
+http://117.209.90.58:51247/i
+http://202.169.232.194:53722/bin.sh
+http://39.79.84.37:35057/bin.sh
+http://119.187.243.150:59331/i
 http://59.96.141.110:57955/bin.sh
 http://42.224.149.84:41600/bin.sh
 http://61.163.13.138:47626/i
@@ -460,6 +478,7 @@ http://199.91.116.76:12582/bin.sh
 http://42.239.154.136:36059/i
 http://196.190.133.133:50773/bin.sh
 http://219.155.80.189:34414/i
+http://171.83.236.86:82/%E8%BF%87root.rar
 http://117.199.77.240:43323/i
 http://113.231.231.113:36424/bin.sh
 http://219.155.80.189:34414/bin.sh
@@ -533,12 +552,14 @@ http://175.149.76.5:57870/i
 http://61.53.124.164:54887/i
 http://115.48.148.108:49099/bin.sh
 http://125.46.242.239:35109/i
+http://171.83.236.86:82/%E8%99%9A%E6%8B%9F%E6%9C%BA.zip
 http://200.59.88.33:37196/i
 http://61.53.124.164:54887/bin.sh
 http://125.46.246.27:59671/bin.sh
 http://175.150.3.104:51542/i
 http://123.190.135.9:47520/i
 http://116.139.98.117:47129/i
+http://171.83.236.86:82/s9%E6%97%A5%E7%89%88%20root%20otg.rar
 http://123.190.135.9:47520/bin.sh
 http://42.230.54.197:36152/bin.sh
 http://139.167.130.138:46197/i
@@ -553,6 +574,7 @@ http://175.150.3.104:51542/bin.sh
 http://124.95.25.60:46391/i
 http://121.61.102.247:42623/bin.sh
 http://139.167.130.138:46197/bin.sh
+http://171.83.236.86:82/4399.apk
 http://124.95.25.60:46391/bin.sh
 http://61.0.109.168:34443/bin.sh
 http://123.154.27.58:49046/bin.sh
@@ -1461,6 +1483,7 @@ http://89.67.27.65:58727/bin.sh
 http://124.94.87.132:55348/i
 http://42.53.6.96:52639/i
 http://200.59.88.108:60853/i
+http://ecs-124-70-158-53.compute.hwclouds-dns.com/7030.txt
 http://ecs-124-70-158-53.compute.hwclouds-dns.com/1.exe
 http://223.105.78.182:42152/i
 http://124.94.87.132:55348/bin.sh
@@ -1752,6 +1775,7 @@ http://24.89.111.201:55195/bin.sh
 https://shop.aeroboutiquepanama.com/selectra_planilla/X/assets/images/g8.webp
 https://shop.aeroboutiquepanama.com/selectra_planilla/X/assets/images/g8p4.webp
 http://89.67.28.49:51493/bin.sh
+http://185.13.21.155:35209/i
 https://mercut.ro/cloudflare?cldwvrf=120ksdl
 http://191.241.143.17:40705/i
 http://216.244.203.24:56363/bin.sh
@@ -2102,7 +2126,6 @@ http://77.90.153.137/vv/sparc
 http://77.90.153.137/vv/i686
 http://77.90.153.137/vv/armv7l
 http://77.90.153.137/vv/armv5l
-http://77.90.153.137/vv/armv6l
 http://77.90.153.137/vv/armv4l
 http://196.251.69.112/z/89/arm5
 http://70.153.73.172/02.08.2022.exe
@@ -2562,7 +2585,6 @@ http://177.70.102.232:8090/TmpFTP/TD00000000000000160742/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171318/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000160982/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171438/info.zip
-http://201.16.194.227:2550/GdbFTP/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000167339/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171478/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000162652/info.zip
@@ -4715,6 +4737,7 @@ http://202.59.90.109:62207/i
 http://2.54.238.151:802/sshd
 http://88.8.17.128:1058/sshd
 http://47.242.161.80:60125/linux
+http://47.119.34.138:60135/linux
 http://47.239.192.16:60142/linux
 http://47.86.190.58:60135/linux
 http://84.15.250.81:23916/.i
@@ -5119,7 +5142,6 @@ http://93.21.252.43:47572/i
 http://220.81.58.40:31249/i
 http://203.203.88.151:16670/i
 http://203.203.90.22:14961/i
-http://122.97.155.135:11608/i
 http://112.168.60.136:31252/i
 http://37.148.13.85:50843/i
 http://191.7.47.222:21234/i
@@ -5264,6 +5286,7 @@ http://113.214.56.238:3269/i
 http://178.218.114.67:16059/i
 http://178.173.39.201:56059/i
 http://85.26.211.169/sshd
+http://85.26.222.124/sshd
 http://46.227.184.211:34345/i
 http://46.227.184.211:34345/bin.sh
 http://47.239.193.183:60113/linux
@@ -10051,7 +10074,6 @@ https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
 https://annadegismen.com/js/hmarws.js
 https://annadegismen.com/js/htbgwa.js
-https://annadegismen.com/js/ucxlfi.js
 https://annadegismen.com/js/uovxcl.js
 https://annadegismen.com/js/htfvnw.js
 https://annadegismen.com/js/gatled.js
@@ -10689,6 +10711,7 @@ http://annadegismen.com/js/vromjb.js
 http://annadegismen.com/js/acbsyg.js
 http://annadegismen.com/js/ndesbu.js
 http://annadegismen.com/js/ftdyqb.js
+http://annadegismen.com/js/cjtvmy.js
 http://annadegismen.com/js/bqivxc.js
 http://annadegismen.com/js/tqdwvp.js
 http://annadegismen.com/js/vwgohb.js
@@ -11884,6 +11907,7 @@ http://122.179.136.112/Photo.scr
 http://78-20-115-5.access.telenet.be/Photo.scr
 http://195.103.203.106/Photo.scr
 http://78.20.115.5/Photo.scr
+http://88.28.218.163/Photo.scr
 http://102.53.15.18/Photo.scr
 http://126.23.203.236/Photo.scr
 http://85.22.139.189/Photo.scr
@@ -13188,7 +13212,6 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=//procuratio.nu/
 http://2.180.35.231:56242/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://synergyconsulting.us
-https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.org/
 https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
 https://www.encurtador.com.br/twzQS
