@@ -1,3 +1,28 @@
+http://42.85.129.141:45611/i
+http://115.63.176.96:55005/i
+http://42.59.42.162:38769/bin.sh
+http://61.137.132.123:58305/bin.sh
+http://115.63.14.123:39315/bin.sh
+http://123.7.220.121:57611/i
+http://182.115.241.26:35703/i
+http://27.223.184.219:50103/i
+http://182.126.86.200:53547/bin.sh
+http://200.59.88.126:45387/bin.sh
+http://182.126.244.53:57788/i
+http://182.127.46.22:42669/i
+http://175.31.168.139:40588/bin.sh
+http://106.41.140.34:59393/i
+http://221.15.95.240:49547/bin.sh
+http://42.85.129.141:45611/bin.sh
+http://182.127.103.4:53903/i
+http://115.63.176.96:55005/bin.sh
+http://123.7.220.121:57611/bin.sh
+http://27.223.184.219:50103/bin.sh
+http://182.127.46.22:42669/bin.sh
+http://182.112.218.88:42802/bin.sh
+http://61.53.87.232:34047/i
+http://119.185.240.4:37770/i
+http://222.127.170.183:35531/i
 http://115.52.235.115:60964/bin.sh
 http://182.112.218.88:42802/i
 http://42.230.36.152:56118/i
@@ -4359,7 +4384,6 @@ http://217.84.190.48/sshd
 http://86.54.42.125/sparc.nn
 http://86.54.42.125/sh4.nn
 http://86.54.42.125/arm.nn
-http://86.54.42.125/arm7.nn
 http://86.54.42.125/x86_64.nn
 http://86.54.42.125/m68k.nn
 http://86.54.42.125/powerpc.nn
@@ -8743,7 +8767,6 @@ http://205.185.115.242/m-6.8-k.Sakura
 http://205.185.115.242/Sakura.sh
 https://raw.githubusercontent.com/leinchchanceleinch/jik/refs/heads/main/d.msi
 http://39.105.211.255:4445/02.08.2022.exe
-http://45.115.236.152:37232/02.08.2022.exe
 http://103.18.28.106:10757/i
 http://85.206.188.166:8582/sshd
 https://github.com/leinchchanceleinch/jik/raw/refs/heads/main/d.msi
@@ -9159,7 +9182,6 @@ http://190.110.204.150:34857/i
 http://181.129.177.162:26290/i
 http://80.23.51.236:60454/i
 http://27.147.222.15:16042/i
-http://203.223.44.74:38359/i
 http://173.178.94.224:1364/i
 http://81.12.157.98:29167/i
 http://186.125.133.244:53948/i
@@ -11825,6 +11847,7 @@ http://web.archive.org/web/20240808122936if_/http://154.216.19.139/bins/mirai.gn
 http://web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mips
 http://37.9.35.70/latest.exe
 http://47.243.175.24:8444/02.08.2022.exe
+http://101.43.2.116/02.08.2022.exe
 http://47.120.61.164/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
@@ -13106,7 +13129,6 @@ http://2.181.0.61:64572/i
 http://46.229.139.93:55850/o
 http://78.11.94.32:60741/o
 http://78.11.94.32:60741/Mozi.a
-http://81.16.123.55:41567/Aqua.x86
 http://79.120.54.194:15151/Mozi.a
 http://79.120.54.194:15151/Aqua.arm6
 http://46.229.139.93:55850/bin.sh
@@ -13171,6 +13193,7 @@ http://67.78.106.23:55731/i
 http://64.140.100.201:44920/i
 http://69.142.178.141:39145/i
 http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
+https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
 https://contentmentfairnesspesky.com/6bf6fb9def8a33f5a58067f1e72ea62e/invoke.js
 https://computersupportexperts.com/css/down.exe
@@ -13667,6 +13690,7 @@ http://data.kaoyany.top/2018/06/201806065969_1243.doc
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
 http://asq.r77vh0.pw/win/checking.hta
 http://razorcrypter.com/rapidtables.txt
+http://fakers.co.jp/20.06.2019_130.22.doc
 http://www.opolis.io/Opolis.exe
 http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
 http://www.cc9.ne.jp/~golgo13ex/C964732.xls
