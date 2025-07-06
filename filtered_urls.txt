@@ -1,3 +1,21 @@
+http://42.54.25.201:36718/bin.sh
+http://123.4.183.248:53971/i
+http://115.61.17.0:47657/bin.sh
+http://182.123.193.46:44637/bin.sh
+http://112.239.101.173:54551/bin.sh
+http://119.180.244.165:32854/i
+http://42.178.190.161:47047/i
+http://114.228.197.198:61640/.i
+http://182.127.152.93:56163/i
+http://123.4.183.248:53971/bin.sh
+http://61.53.157.182:47915/bin.sh
+http://183.108.45.84:46803/bin.sh
+http://175.148.153.59:37557/bin.sh
+http://125.46.246.211:36987/i
+http://175.173.87.138:49629/bin.sh
+http://59.95.89.122:41729/i
+http://182.127.152.93:56163/bin.sh
+http://115.48.148.39:53518/bin.sh
 http://219.157.34.79:34479/i
 http://125.46.246.211:36987/bin.sh
 http://59.183.101.124:55926/bin.sh
@@ -716,7 +734,6 @@ http://194.110.247.14/00101010101001/morte.arm6
 http://194.110.247.14/00101010101001/morte.i686
 http://194.110.247.14/00101010101001/morte.m68k
 http://194.110.247.14/00101010101001/morte.sh4
-http://194.110.247.14/00101010101001/morte.arm7
 http://194.110.247.14/00101010101001/morte.x86
 http://176.46.157.32/files/1015023563/ZwUnsXn.exe
 http://176.46.157.32/files/1015023563/cYnH9t8.exe
@@ -937,7 +954,6 @@ http://221.13.240.141:8001/Docker/lib/image/AV.scr
 http://221.13.240.141:8001/Docker/lib/AV.scr
 http://221.13.240.141:8001/Docker/lib/image/info.zip
 http://221.13.240.141:8001/Docker/lib/buildkit/Photo.lnk
-http://221.13.240.141:8001/Docker/lib/buildkit/Photo.scr
 http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/content/sha256/Video.scr
 http://221.13.240.141:8001/Docker/lib/builder/AV.scr
 http://221.13.240.141:8001/Docker/lib/network/Video.scr
@@ -957,7 +973,6 @@ http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/metadata/info.zip
 http://221.13.240.141:8001/Docker/lib/overlay2/AV.scr
 http://221.13.240.141:8001/Docker/run/swarm/Photo.scr
 http://221.13.240.141:8001/Docker/lib/builder/Video.scr
-http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/Photo.scr
 http://221.13.240.141:8001/Docker/lib/image/Photo.lnk
 http://221.13.240.141:8001/lost%2Bfound/info.zip
 http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/content/AV.scr
@@ -1025,7 +1040,6 @@ http://221.13.240.141:8001/Docker/lib/containers/AV.lnk
 http://221.13.240.141:8001/Docker/lib/plugins/storage/blobs/tmp/info.zip
 http://221.13.240.141:8001/Docker/lib/containers/info.zip
 http://221.13.240.141:8001/Docker/lib/image/overlay2/layerdb/AV.lnk
-http://221.13.240.141:8001/Docker/lib/builder/info.zip
 http://221.13.240.141:8001/Docker/lib/plugins/storage/blobs/tmp/AV.lnk
 http://221.13.240.141:8001/Docker/lib/containers/AV.scr
 http://221.13.240.141:8001/Docker/lib/image/overlay2/distribution/AV.scr
@@ -1033,7 +1047,6 @@ http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/metadata/Photo.lnk
 http://221.13.240.141:8001/Docker/run/AV.scr
 http://221.13.240.141:8001/Docker/lib/image/overlay2/layerdb/info.zip
 http://221.13.240.141:8001/Docker/lib/overlay2/l/AV.scr
-http://221.13.240.141:8001/Docker/Video.scr
 http://221.13.240.141:8001/Docker/run/info.zip
 http://221.13.240.141:8001/Docker/run/Photo.lnk
 http://221.13.240.141:8001/Docker/lib/buildkit/AV.scr
@@ -1699,7 +1712,6 @@ http://88.225.231.222:57674/i
 http://77.247.88.91:55924/bin.sh
 http://113.237.37.211:60453/bin.sh
 http://47.238.228.19/test/12h/12h.msi
-http://42.52.104.164:55005/i
 http://88.225.231.222:57674/bin.sh
 https://github.com/PurpleOrchid65/Testing/releases/download/Js/build.exe
 https://github.com/PurpleOrchid65/Testing/releases/download/Js/TJG4KvF5qz.exe
@@ -1971,6 +1983,7 @@ http://191.241.143.19:55130/bin.sh
 http://113.236.250.136:56622/bin.sh
 http://120.28.222.91:43225/i
 https://intelligentopennetworkingawards.com/ghostgera/
+http://185.156.73.52/02.08.2022.exe
 http://47.92.106.246:8443/02.08.2022.exe
 http://111.127.225.117:50828/i
 http://47.121.24.204/02.08.2022.exe
@@ -2014,11 +2027,9 @@ http://171.112.19.164:35337/bin.sh
 http://200.59.88.122:46389/bin.sh
 http://200.59.84.200:52380/bin.sh
 http://196.251.69.81/sh4
-http://196.251.69.81/x86
 http://196.251.69.81/armv5l
 http://196.251.69.81/sparc
 http://196.251.69.81/mipsel
-http://196.251.69.81/m68k
 http://196.251.69.81/mips
 http://196.251.69.81/armv4l
 http://191.241.143.8:42132/i
@@ -2468,7 +2479,6 @@ https://derrickvelasquez.com/?u=script
 https://defensapersonas.com/?u=script
 https://decal-global.com/?u=script
 https://aavishkaar-palampur.org/?u=script
-https://dehavenwerkers.nl/?u=script
 https://dentalcaredentist.in/?u=script
 https://deoriatimes.com/?u=script
 https://yorja.org/?u=script
@@ -2533,7 +2543,6 @@ http://ia800706.us.archive.org/22/items/wp4096799-lost-in-space-wallpapers_20250
 https://archive.org/download/privatenewfile/privatenewfile.jpg
 https://ia800706.us.archive.org/22/items/wp4096799-lost-in-space-wallpapers_20250610/wp4096799-lost-in-space-wallpapers.jpg
 https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
-http://91.92.46.53:8083/publish.zip
 http://107.150.0.18/ppc
 http://107.150.0.18/sh4
 http://107.150.0.18/arm7
@@ -4356,6 +4365,7 @@ http://162.240.159.67/hiddenbin/boatnet.spc
 http://162.240.159.67/hiddenbin/boatnet.arm6
 http://162.240.159.67/hiddenbin/boatnet.ppc
 http://162.240.159.67/hiddenbin/boatnet.arm
+http://162.240.159.67/hiddenbin/boatnet.arm5
 http://162.240.159.67/hiddenbin/boatnet.m68k
 http://162.240.159.67/hiddenbin/boatnet.arm7
 https://ucarecdn.com/b12c87cb-d08b-43f6-abbd-11e7f745c9c1/Orderlist.js
@@ -4711,6 +4721,7 @@ http://stattcheck-intuiit.com/barren.exe
 http://2.55.125.165:801/sshd
 http://76.125.11.14:18802/i
 http://70.79.175.75:27219/i
+http://196.251.115.189/t
 http://178.131.45.13:21618/i
 http://211.34.121.61:61380/i
 https://kristalzemin.com/QfSWjNayUTjETlwl122.bin
@@ -5111,7 +5122,6 @@ http://188.162.88.253/sshd
 http://157.157.22.65/sshd
 http://193.109.44.220/sshd
 http://glamandglow.com.sg/poli.bin
-http://102.141.182.53:30884/i
 http://176.39.83.89:41465/.i
 http://93.118.147.142:12019/i
 http://81.23.169.207:5135/i
@@ -5459,7 +5469,6 @@ http://60.53.126.54:27102/tftp
 http://103.156.141.240:90/tftp
 http://2.136.63.232:92/tftp
 http://93.182.77.20:86/tftp
-http://85.185.185.193:50500/i
 http://43.229.20.42:2874/i
 https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
@@ -8654,7 +8663,6 @@ https://thesignaturemag.salviatech.com/
 https://website.mypetapp.co.za/
 https://horno-rafelet.es/
 https://bmdcompany.com/
-https://www.thesignaturemag.salviatech.com/
 https://www.test.peperoncinochepassione.it/
 https://mail.cambodiatouristservice.com/
 https://82.146.62.232/
@@ -9959,6 +9967,7 @@ https://annadegismen.com/js/ctiakn.js
 https://annadegismen.com/js/stlhfw.js
 https://annadegismen.com/js/swejgo.js
 https://annadegismen.com/js/wijbyn.js
+https://annadegismen.com/js/ebavlw.js
 https://annadegismen.com/js/poclxy.js
 https://annadegismen.com/js/qldfwy.js
 https://annadegismen.com/js/zfyaqp.js
@@ -10125,7 +10134,6 @@ https://annadegismen.com/js/hnwkmj.js
 https://annadegismen.com/js/nlizmc.js
 https://annadegismen.com/js/rsbhal.js
 https://annadegismen.com/js/mbfnwq.js
-https://annadegismen.com/js/laurhk.js
 https://annadegismen.com/js/wyqmpl.js
 https://annadegismen.com/js/fqwgbd.js
 https://annadegismen.com/js/onqyfe.js
@@ -11613,7 +11621,6 @@ http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://182.160.102.188:16079/i
 http://59.153.80.90:4581/i
-http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://88.135.26.83:32710/i
 http://88.119.151.142:10462/i
@@ -11725,7 +11732,6 @@ http://83.149.17.194/repository/AA_v3.exe
 https://raw.githubusercontent.com/BlueSkyXN/ChangeSource/master/besttrace
 http://down.fwqlt.com/DXL_Win_Tool_V9.6.iso
 http://down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
-http://down.fwqlt.com/DXL_Win_Tool_v9.4.iso
 http://104.243.129.2/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
 http://104.243.129.2/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
 http://down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
@@ -11997,6 +12003,7 @@ https://reusable-flex.com/o.elf
 http://karoonpc.com/Walesboller.pcx
 http://93.118.112.68:58915/.i
 http://119.91.25.19:8888/WxWorkApis.dll
+http://119.91.25.19:8888/WxWorkMultiOpen.exe
 https://raw.githubusercontent.com/sheksweet/sheksweet1/main/RambledMime.exe
 http://221.143.49.222/A.I_1003H.exe
 https://raw.githubusercontent.com/ahmed45sh/Flutter-Movie/master/crypted_c360a5b7.exe
@@ -13304,6 +13311,7 @@ http://79.121.103.84:45544/.i
 http://46.100.49.235:63034/.i
 http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
+https://gaenterprises.in/sb/sb.js
 https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
@@ -13425,7 +13433,6 @@ https://zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/0011b9cd240249c3aeb520ea1205e
 https://github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz
 http://farschid.de/verkaufsberater_service/3CxMQ4uaxy/
 http://farschid.de/verkaufsberater_service/3CxMQ4uaxy/?i=1
-https://trtmyanmar.com/wp-content/plugins/yjmqxmidki/a/hyehwggs.ps1
 https://drive.google.com/uc?export=download&id=1GVnZexVVs3VPv0-ihFlWnmzMHIJ3qqlY
 http://195.158.95.85:40467/.i
 http://namthaibinh.net/images/vin1.jpg
@@ -13630,6 +13637,7 @@ http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
+http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://sabinoplacas.com.br/logs/OCT/
 https://quovadisholidays.testingdemo.net/quovadisholidays.com/docs/m-99675669-7561188-hrh8fb2zu-tk2irfuvp/
 http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
