@@ -1,3 +1,24 @@
+http://42.225.202.29:55962/bin.sh
+http://117.235.105.33:55677/bin.sh
+http://115.49.3.2:41491/i
+http://41.110.111.2:58496/bin.sh
+http://115.50.232.17:39774/i
+http://42.224.81.53:48134/bin.sh
+http://117.216.3.89:51191/bin.sh
+http://182.119.230.17:58183/bin.sh
+http://200.59.88.23:58377/bin.sh
+http://42.178.171.151:50077/i
+http://221.200.99.171:54801/bin.sh
+http://77.236.74.65:54940/bin.sh
+http://117.221.168.111:37758/i
+http://182.121.131.152:35977/bin.sh
+http://115.50.232.17:39774/bin.sh
+http://219.157.19.198:37348/i
+http://115.61.16.112:38173/i
+http://219.157.19.198:37348/bin.sh
+http://106.59.1.20:50639/bin.sh
+http://42.227.138.40:36819/bin.sh
+http://117.221.168.111:37758/bin.sh
 http://59.95.85.93:58480/bin.sh
 http://221.13.186.225:58241/i
 http://42.178.171.151:50077/bin.sh
@@ -1824,7 +1845,6 @@ http://123.22.113.209:8081/m.gz
 http://123.22.113.209:8081/main_mpsl
 http://123.22.113.209:8081/main_mips
 http://123.22.113.209:8081/paping
-http://123.22.113.209:8081/main_x86_64
 http://123.22.113.209:8081/main_arm6
 http://diicotsec.ru/xkobe.sh
 http://diicotsec.ru/bins/main_sh4
@@ -2379,7 +2399,6 @@ http://176.96.131.92/arm
 http://43.159.52.193/02.08.2022.exe
 http://106.52.6.128:801/02.08.2022.exe
 http://1.94.243.114/02.08.2022.exe
-http://45.141.233.66:443/02.08.2022.exe
 http://222.149.76.83/sshd
 http://221.113.193.128/sshd
 http://14.254.163.155:8080/sshd
@@ -4057,7 +4076,6 @@ http://106.52.183.145:8888/WxWorkMultiOpen.exe
 http://119.29.5.30:8888/WxWorkMultiOpen.exe
 http://175.178.112.226:8888/WxWorkMultiOpen.exe
 http://49.233.189.252:8888/WxWorkMultiOpen.exe
-http://49.232.134.200:8888/WxWorkMultiOpen.exe
 http://140.143.190.142:8888/WxWorkMultiOpen.exe
 http://118.89.84.133:8888/WxWorkMultiOpen.exe
 http://43.139.244.32:8888/WxWorkMultiOpen.exe
@@ -4312,6 +4330,7 @@ http://192.252.181.93:6635/103.199.100.37.dll
 http://162.240.159.67/hiddenbin/boatnet.x86
 http://162.240.159.67/hiddenbin/boatnet.mips
 http://162.240.159.67/hiddenbin/boatnet.spc
+http://162.240.159.67/hiddenbin/boatnet.arm6
 http://162.240.159.67/hiddenbin/boatnet.ppc
 http://162.240.159.67/hiddenbin/boatnet.arm
 http://162.240.159.67/hiddenbin/boatnet.arm5
@@ -4864,6 +4883,7 @@ http://8.218.192.224:60126/linux
 http://89.10.239.29:46046/i
 http://213.209.150.18/alphamm.exe
 https://screen.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://sconnect-01.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://sconnect-05.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://216.131.90.19:54138/bin.sh
 https://github.com/popa339/nef5/raw/refs/heads/main/Slasher.exe
@@ -10587,6 +10607,7 @@ http://annadegismen.com/js/wpctlk.js
 http://annadegismen.com/js/tlsoch.js
 http://annadegismen.com/js/wlnoku.js
 http://annadegismen.com/js/lqbutd.js
+http://annadegismen.com/js/mwsknf.js
 http://annadegismen.com/js/kdmgzy.js
 http://annadegismen.com/js/kqpyei.js
 http://annadegismen.com/js/tlbqkr.js
@@ -10769,7 +10790,6 @@ http://5.181.28.63:5945/.i
 http://24.64.128.57:48073/.i
 http://47.181.114.185:35261/.i
 http://mininews.kpzip.com/n/tui/mininews/mininewsplus/3.0.0.26165/mininewsplus-2.exe
-http://wz.3911.com/3911_wz.exe
 https://dcwblida.dz/images/stories/guides/Guide2018.exe
 http://118.44.144.198:4403/i
 http://113.98.201.248:81/pro2.jpg
@@ -12060,7 +12080,6 @@ http://188.147.175.18:8094//sshd
 http://159.196.71.244:8083//sshd
 http://99.71.130.109:8055//sshd
 http://178.183.85.67:10081//sshd
-http://76.53.38.126:8086//sshd
 http://76.53.38.126:8085//sshd
 http://76.53.38.126:8888//sshd
 http://123.143.141.75:10005//sshd
