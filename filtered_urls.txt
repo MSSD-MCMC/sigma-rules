@@ -1,3 +1,19 @@
+http://219.157.34.79:34479/i
+http://125.46.246.211:36987/bin.sh
+http://59.183.101.124:55926/bin.sh
+http://220.201.144.186:43924/i
+http://112.239.101.173:54551/i
+http://42.229.221.79:56043/i
+http://219.157.33.52:60588/i
+http://219.157.34.79:34479/bin.sh
+http://182.117.80.43:45420/i
+http://42.229.221.79:56043/bin.sh
+http://117.209.21.138:56919/i
+http://220.201.144.186:43924/bin.sh
+http://120.61.250.18:36346/i
+http://112.248.187.120:59034/i
+http://175.165.109.254:45941/i
+http://182.117.80.43:45420/bin.sh
 http://182.127.127.248:35622/i
 http://117.209.82.163:43969/i
 http://112.248.187.120:59034/bin.sh
@@ -1018,7 +1034,6 @@ http://221.13.240.141:8001/Docker/run/AV.scr
 http://221.13.240.141:8001/Docker/lib/image/overlay2/layerdb/info.zip
 http://221.13.240.141:8001/Docker/lib/overlay2/l/AV.scr
 http://221.13.240.141:8001/Docker/Video.scr
-http://221.13.240.141:8001/Docker/lib/plugins/AV.scr
 http://221.13.240.141:8001/Docker/run/info.zip
 http://221.13.240.141:8001/Docker/run/Photo.lnk
 http://221.13.240.141:8001/Docker/lib/buildkit/AV.scr
@@ -1052,7 +1067,6 @@ http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/content/Photo.lnk
 http://221.13.240.141:8001/Docker/run/swarm/AV.lnk
 http://221.13.240.141:8001/Docker/lib/overlay2/Video.lnk
 http://221.13.240.141:8001/Docker/lib/image/overlay2/Photo.lnk
-http://221.13.240.141:8001/Docker/lib/image/overlay2/imagedb/Photo.lnk
 http://221.13.240.141:8001/Docker/lib/network/AV.lnk
 http://221.13.240.141:8001/Docker/run/containerd/Video.lnk
 http://175.150.28.49:39204/i
@@ -1065,7 +1079,6 @@ http://154.53.62.36:8080/newr.exe
 http://221.13.240.141:8001/AV.scr
 http://185.253.75.188:81/a.sh
 http://107.150.0.101/xmrig-6.24.0.tar
-http://221.13.240.141:8001/Photo.scr
 http://103.165.81.230:8000/asp.gif
 http://119.29.147.3:8888/WxWorkApis.dll
 http://207.167.64.24/bins.zip
@@ -1484,7 +1497,6 @@ http://abc.galaxias.cc/00101010101001/morte.spc
 http://abc.galaxias.cc/1.sh
 http://abc.galaxias.cc/00101010101001/morte.arm7
 http://abc.galaxias.cc/00101010101001/morte.x86
-http://223.13.92.146:43938/i
 http://119.117.186.51:48706/i
 http://60.18.60.182:51318/bin.sh
 http://200.59.88.93:42951/i
@@ -1685,7 +1697,6 @@ http://113.26.176.182:48323/bin.sh
 http://200.59.88.17:44956/bin.sh
 http://88.225.231.222:57674/i
 http://77.247.88.91:55924/bin.sh
-http://125.65.145.4:52620/i
 http://113.237.37.211:60453/bin.sh
 http://47.238.228.19/test/12h/12h.msi
 http://42.52.104.164:55005/i
@@ -1934,11 +1945,9 @@ http://42.55.23.244:35610/i
 http://42.57.252.106:58034/i
 http://42.57.55.68:48974/bin.sh
 http://42.55.23.244:35610/bin.sh
-http://196.251.69.112/z/89/sh4
 http://110.182.174.133:60498/bin.sh
 http://196.251.69.112/z/89/mpsl
 http://196.251.69.112/z/89/m68k
-http://196.251.69.112/z/e
 http://196.251.69.112/z/89/spc
 http://42.57.252.106:58034/bin.sh
 http://27.215.102.163:52479/bin.sh
@@ -2413,6 +2422,7 @@ http://14.254.163.155:8080/sshd
 http://171.231.112.142:23991/i
 http://211.226.243.108:1535/i
 http://31.130.248.85:25600/i
+https://demo.goldenspoongroup.com/?u=script
 https://demo.mmoasis.com/?u=script
 https://69cutlass.com/?u=script
 https://a1oilindia.in/?u=script
@@ -5344,6 +5354,7 @@ http://47.237.86.186:60147/linux
 http://121.171.162.63:17945/.i
 http://123.240.130.119:28866/.i
 http://121.181.234.240:59928/.i
+http://118.233.240.6:20511/.i
 http://86.84.3.30:18189/.i
 http://109.87.136.70:58451/.i
 http://27.159.161.211:56329/.i
@@ -5357,6 +5368,7 @@ http://183.100.12.86:2663/.i
 http://173.54.182.169:43168/.i
 http://81.23.169.237:18694/.i
 http://81.16.117.191:38494/.i
+http://118.195.189.82/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
 http://36.41.71.241:2086/02.08.2022.exe
 http://47.254.74.170:13561/02.08.2022.exe
@@ -8645,7 +8657,6 @@ https://bmdcompany.com/
 https://www.thesignaturemag.salviatech.com/
 https://www.test.peperoncinochepassione.it/
 https://mail.cambodiatouristservice.com/
-https://my.salviatech.com/
 https://82.146.62.232/
 http://82.146.62.232/
 http://5.236.93.129:43975/Mozi.a
@@ -8975,7 +8986,6 @@ http://118.127.117.170:58346/i
 http://103.207.4.245:12890/i
 http://121.167.209.164:40197/i
 http://203.204.186.225:13718/i
-http://hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 https://dacemirror.sci-hub.se/journal-article/30343922aca0fb8e53340406c2d9339d/sora2012.pdf
 http://202.141.166.71:30117/.i
 http://8.143.2.128:65005/02.08.2022.exe
@@ -9956,6 +9966,7 @@ https://annadegismen.com/js/jlfvyr.js
 https://annadegismen.com/js/wegpvo.js
 https://annadegismen.com/js/rodsap.js
 https://annadegismen.com/js/ulhqcw.js
+https://annadegismen.com/js/vyiagt.js
 https://annadegismen.com/js/zsjwbc.js
 https://annadegismen.com/js/yoaxpt.js
 https://annadegismen.com/js/mspldv.js
@@ -10116,6 +10127,7 @@ https://annadegismen.com/js/rsbhal.js
 https://annadegismen.com/js/mbfnwq.js
 https://annadegismen.com/js/laurhk.js
 https://annadegismen.com/js/wyqmpl.js
+https://annadegismen.com/js/fqwgbd.js
 https://annadegismen.com/js/onqyfe.js
 https://annadegismen.com/js/awnrzg.js
 https://annadegismen.com/js/wyafhx.js
@@ -10818,7 +10830,6 @@ http://24.64.128.57:48073/.i
 http://47.181.114.185:35261/.i
 http://mininews.kpzip.com/n/tui/mininews/mininewsplus/3.0.0.26165/mininewsplus-2.exe
 http://wz.3911.com/3911_wz.exe
-https://dcwblida.dz/images/stories/guides/Guide2018.exe
 http://118.44.144.198:4403/i
 http://113.98.201.248:81/pro2.jpg
 https://raw.githubusercontent.com/R00tS3c/DDOS-RootSec/refs/heads/master/DDOS%20Scripts/L4/UDP/10gbpsUDP.py
@@ -11979,7 +11990,6 @@ https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
 http://27.156.224.11:43529/.i
 https://raw.githubusercontent.com/sirvivor32/sirvivor/main/LukeJazz.exe
 http://update.cg100iii.com/cg100/Update.exe
-http://47.120.46.210/cve/cve-2021-4034
 http://92.127.156.174:8880/SharpHound.exe
 https://github.com/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments.zip
 http://27.159.154.179:44041/.i
@@ -13137,7 +13147,6 @@ http://43.224.0.5:1316/o
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
 http://81.16.123.55:41567/bin.sh
-http://81.16.123.55:41567/Aqua.arm6
 http://81.16.123.55:41567/Aqua.arm5
 http://109.171.30.19:33609/bin.sh
 http://36.67.66.178:23987/Mozi.a
@@ -13309,7 +13318,6 @@ https://records.dennisign.se/agenzia/
 https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
 https://nhatheptienchebinhduong.com/scarica/
-https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
 https://villanyzsolti.hu/scarica/
 https://rpperformance.com.br/scarica/
