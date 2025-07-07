@@ -1,3 +1,40 @@
+http://42.227.107.99:50871/bin.sh
+http://119.119.167.79:46572/bin.sh
+http://125.47.222.214:40012/i
+http://222.139.42.20:36668/bin.sh
+http://115.55.129.63:44635/i
+http://61.52.159.197:34738/bin.sh
+http://182.126.242.36:56588/i
+http://175.173.92.132:42509/bin.sh
+http://42.178.142.167:33923/bin.sh
+http://61.52.221.22:38933/i
+http://125.47.222.214:40012/bin.sh
+http://119.102.33.159:36464/bin.sh
+http://27.216.56.175:54385/i
+http://182.117.13.193:40167/i
+http://182.122.218.161:39545/i
+http://60.23.123.92:55475/i
+http://125.44.32.158:56150/i
+http://182.126.242.36:56588/bin.sh
+http://103.118.175.130/ALFA_DATA/cats
+http://103.118.175.130/dirtycow/cats
+http://103.118.175.130/ALFA_DATA/alfasymlink/cats
+http://103.118.175.130/GCONV_PATH=./cats
+http://103.118.175.130/cats
+http://103.118.175.130/pwnkit/pwnkit.so
+http://103.118.175.130/pwnkit/cats
+http://103.118.175.130/ALFA_DATA/alfacgiapi/cats
+http://103.118.175.130/pwnkit/bengkulu_CONFIG/cats
+http://103.118.175.130/dirtycow/bengkulu_CONFIG/cats
+http://103.118.175.130/dirtycow/dirty
+http://103.118.175.130/bengkulu_CONFIG/cats
+http://182.117.13.193:40167/bin.sh
+http://59.88.27.160:43087/i
+http://27.216.56.175:54385/bin.sh
+http://180.191.0.165:48802/bin.sh
+http://125.44.32.158:56150/bin.sh
+https://raw.githubusercontent.com/InvisibleBunny/Records/main/Bunny-Mini/mini.shell.php
+https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit
 http://42.224.151.1:41754/bin.sh
 http://115.53.233.195:52641/i
 http://125.45.58.190:60074/bin.sh
@@ -120,7 +157,6 @@ http://39.74.105.149:57888/i
 http://42.7.247.231:35174/bin.sh
 http://119.4.46.166:43400/bin.sh
 http://222.138.205.213:50607/i
-http://182.117.49.11:60155/bin.sh
 http://39.74.105.149:57888/bin.sh
 http://42.228.32.114:48812/i
 http://42.228.216.128:46426/i
@@ -316,7 +352,6 @@ http://123.190.138.216:33539/bin.sh
 http://42.225.192.234:59320/bin.sh
 http://182.113.46.239:51669/i
 http://222.141.74.149:33684/bin.sh
-http://221.15.171.80:41889/bin.sh
 http://115.49.113.187:58863/i
 http://60.18.9.191:45740/bin.sh
 http://123.12.21.86:56617/bin.sh
@@ -397,6 +432,7 @@ http://219.157.28.92:40784/bin.sh
 http://219.157.30.25:50244/i
 http://112.198.195.68:47568/i
 http://42.176.107.70:48315/i
+http://112.249.79.143:49903/i
 http://125.44.45.247:35055/bin.sh
 http://175.148.153.59:37557/i
 http://123.189.106.182:60508/bin.sh
@@ -1331,7 +1367,6 @@ http://119.117.248.142:35637/bin.sh
 http://202.110.10.178:57214/bin.sh
 http://175.149.146.5:49606/i
 http://200.59.86.250:54887/i
-http://175.149.146.5:49606/bin.sh
 http://200.59.86.250:54887/bin.sh
 http://61.137.155.121:48796/bin.sh
 http://175.150.201.60:53989/bin.sh
@@ -1905,6 +1940,7 @@ http://205.250.126.180:56157/i
 http://121.147.179.88:52712/i
 http://37.34.172.44:50350/i
 http://95.110.123.122:23238/i
+http://117.72.102.110:8888/02.08.2022.exe
 http://117.102.100.74:65003/i
 https://dn721707.ca.archive.org/0/items/wp4096799-lost-in-space-wallpapers_20250624_1601/wp4096799-lost-in-space-wallpapers.jpg
 https://ia801509.us.archive.org/28/items/wp4096799-lost-in-space-wallpapers_20250624_1601/wp4096799-lost-in-space-wallpapers.jpg
@@ -2122,7 +2158,6 @@ https://delthac1.com/?u=script
 https://demo.wpaddonsfactory.com/?u=script
 https://derrickvelasquez.com/?u=script
 https://a99io.com/?u=script
-https://60alfredo.odc-conecta.com/?u=script
 https://defensapersonas.com/?u=script
 https://dentsadventure.com/?u=script
 https://demo22.zumm.info/?u=script
@@ -2134,9 +2169,9 @@ https://deoriatimes.com/?u=script
 https://demo.markazcity.in/?u=script
 https://yourname.physio/?u=script
 https://aaaitems.com/?u=script
-https://aahhcmi.com/?u=script
 https://design.pazeinternational.com/?u=script
 https://yosa.com/?u=script
+http://89.42.88.254/bins/sora.arm5
 http://89.42.88.254/bins/sora.sh4
 http://146.103.53.70/m-p.s-l.Sakura
 http://146.103.53.70/arm7
@@ -3759,6 +3794,7 @@ http://15.235.134.131:8080/dcaat.msi
 http://15.235.134.131:8080/dcap9.msi
 http://68.183.190.74:8000/report.ps1
 http://160.30.44.120/debug.x86_64
+http://117.72.102.110:6666/02.08.2022.exe
 http://172.187.170.10/02.08.2022.exe
 http://94.159.99.169/Documents/testlnk1.lnk
 http://88.200.149.253:56892/i
@@ -4421,7 +4457,6 @@ http://47.90.159.35:60130/linux
 http://27.214.70.40:55149/i
 http://27.214.70.40:55149/bin.sh
 http://jakestrack.com/fsps.zip
-https://viralmarketingsuite.com/tera.zip
 https://viralmarketingsuite.com/mimi.zip
 https://upgradegc.com/rsrs.zip
 http://120.24.206.137:81/02.08.2022.exe
@@ -4967,7 +5002,6 @@ http://118.195.189.82/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
 http://8.148.20.113/02.08.2022.exe
 http://36.41.71.241:2086/02.08.2022.exe
-http://47.254.74.170:13561/02.08.2022.exe
 http://80.110.37.104:48784/i
 http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
@@ -10124,7 +10158,6 @@ http://annadegismen.com/js/idmclj.js
 http://annadegismen.com/js/vyiagt.js
 http://annadegismen.com/js/ngvihl.js
 http://annadegismen.com/js/flutce.js
-http://annadegismen.com/js/ftrzvp.js
 http://annadegismen.com/js/hvnpwq.js
 http://annadegismen.com/js/anhosv.js
 http://annadegismen.com/js/xjkpez.js
@@ -10759,7 +10792,6 @@ http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 https://39.98.174.154:8888/02.08.2022.exe
-https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -11527,7 +11559,6 @@ http://203.2.65.29:8086/help.scr
 http://203.2.65.29:8085/help.scr
 http://124.67.254.109:61234/help.scr
 http://139.159.155.204:88/help.scr
-http://139.159.155.204:81/help.scr
 http://117.157.17.194:9999/help.scr
 https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
 http://27.156.224.11:43529/.i
@@ -12058,6 +12089,7 @@ http://82.212.109.51:47861/.i
 http://49.156.46.134:31244/.i
 http://87.197.107.203:52364/.i
 http://116.58.78.122:58232/.i
+http://80.19.172.50:57652/.i
 http://103.70.204.249:30005/.i
 http://181.129.2.18:15557/.i
 http://81.16.247.116:2957/.i
@@ -13006,6 +13038,7 @@ http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 https://chaparral.es/sphygmus.php
 https://chaparral.es/reactron.php
 https://chaparral.es/mausoleum.php
+https://chaparral.es/unbaked.php
 https://reauthenticator.com/lib/crypta.js
 https://kramersmarionnettes.com/actionably.php
 https://kramersmarionnettes.com/roughness.php
