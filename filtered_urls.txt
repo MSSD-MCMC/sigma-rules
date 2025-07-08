@@ -1,3 +1,21 @@
+http://123.10.139.215:39219/bin.sh
+http://182.113.204.180:56950/bin.sh
+http://182.118.186.37:58761/bin.sh
+http://115.61.110.173:35025/i
+http://119.179.206.110:57434/bin.sh
+http://119.4.181.67:34781/i
+http://182.126.180.180:40783/i
+http://42.227.7.94:41539/i
+http://123.10.32.228:36995/i
+http://123.10.32.228:36995/bin.sh
+http://115.61.110.173:35025/bin.sh
+http://42.227.206.171:39315/i
+http://119.4.181.67:34781/bin.sh
+http://182.126.180.180:40783/bin.sh
+http://123.5.156.185:50145/i
+http://42.234.139.128:36357/bin.sh
+http://182.126.88.210:34667/bin.sh
+http://42.231.209.224:54338/bin.sh
 http://59.95.91.103:43077/i
 http://222.138.78.191:44242/i
 http://115.52.25.44:36929/i
@@ -1546,6 +1564,7 @@ http://180.190.186.97:41206/bin.sh
 http://200.69.61.237:47504/bin.sh
 http://112.248.103.128:35756/i
 http://113.231.209.111:53621/bin.sh
+http://60.23.78.135:37702/bin.sh
 http://46.35.179.223:58143/i
 http://42.7.125.44:58606/bin.sh
 http://112.248.103.128:35756/bin.sh
@@ -2253,11 +2272,11 @@ https://demo.safelinegc.com/?u=script
 https://demo.mmoasis.com/?u=script
 https://a1oilindia.in/?u=script
 https://depaulo.com.br/?u=script
+https://aaronshaffier.jerusalemwalkingtour.com/?u=script
 https://delledonneluthier.com/?u=script
 https://6ixportal.ca/?u=script
 https://demo.ligologistics.ca/?u=script
 https://desentupidoranovaera.com/?u=script
-https://demokratieinbergen.de/?u=script
 https://descomoveis.com.br/?u=script
 https://demo2.amcham-ci.org/?u=script
 https://680res.com/?u=script
@@ -2369,7 +2388,6 @@ http://107.150.0.18/mipsel
 http://107.150.0.18/x86
 http://107.150.0.18/ssh.sh
 http://101.42.239.131/02.08.2022.exe
-http://47.92.144.57:443/02.08.2022.exe
 http://101.226.8.163:8066/02.08.2022.exe
 http://119.8.124.29:9999/02.08.2022.exe
 http://153.37.228.4:50775/i
@@ -3846,7 +3864,6 @@ http://82.157.148.8:8888/WxWorkMultiOpen.exe
 http://123.206.214.105:8888/WxWorkMultiOpen.exe
 http://43.136.94.178:8888/WxWorkMultiOpen.exe
 http://82.157.200.120:8888/WxWorkMultiOpen.exe
-http://43.136.88.193:8888/WxWorkMultiOpen.exe
 http://111.229.234.91:81/Ios.exe
 http://43.142.186.164:88/Android.exe
 http://62.234.82.149:8181/nginx.zip
@@ -11174,6 +11191,7 @@ http://154.0.129.134:10702/Mozi.m
 http://83.147.127.49:16660/Mozi.m
 http://41.77.74.90:10702/Mozi.m
 http://87.197.107.203:52364/Mozi.m
+http://190.217.148.227:4886/Mozi.m
 http://78.29.19.18:3200/Mozi.m
 http://185.57.69.125:16138/Mozi.m
 http://89.190.76.126:4729/Mozi.m
@@ -12050,6 +12068,7 @@ http://24.234.159.5:1112/sshd
 http://223.108.58.13:37782/sshd
 http://165.73.108.6:8021/sshd
 http://165.73.108.6:8023/sshd
+http://178.182.253.59:8085/sshd
 http://80.14.38.66:1081/sshd
 http://119.13.179.180:8081/sshd
 http://77.237.29.219:2027/sshd
