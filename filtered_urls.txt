@@ -1,3 +1,21 @@
+http://123.7.220.116:33845/i
+http://42.226.90.145:42733/bin.sh
+http://185.170.226.17:38716/bin.sh
+http://117.216.55.171:36399/i
+http://203.177.28.147:55153/i
+http://182.126.120.227:40384/bin.sh
+http://116.139.170.52:42127/i
+http://222.142.211.17:49722/i
+http://125.43.27.134:39405/bin.sh
+http://123.7.220.116:33845/bin.sh
+http://112.248.111.225:44622/bin.sh
+http://123.14.90.44:46979/bin.sh
+http://221.15.192.16:43334/bin.sh
+http://203.177.28.147:55153/bin.sh
+http://42.230.212.230:57032/i
+http://125.43.36.116:46189/i
+http://116.139.170.52:42127/bin.sh
+http://222.142.211.17:49722/bin.sh
 http://125.43.36.116:46189/bin.sh
 http://115.50.28.27:49262/i
 http://115.48.162.65:55069/i
@@ -777,7 +795,6 @@ http://120.28.194.30:44364/bin.sh
 http://39.88.80.219:44736/bin.sh
 http://42.5.6.68:58267/bin.sh
 http://60.160.154.237:50311/i
-http://182.119.108.66:42526/i
 http://180.190.203.38:44012/bin.sh
 http://60.160.154.237:50311/bin.sh
 http://39.81.55.134:40847/i
@@ -799,7 +816,6 @@ http://221.202.87.156:34047/i
 http://61.176.87.46:53023/bin.sh
 http://123.175.67.39:40220/bin.sh
 http://42.6.74.181:35229/i
-http://42.6.74.181:35229/bin.sh
 http://119.119.167.79:46572/bin.sh
 http://175.173.92.132:42509/bin.sh
 http://180.191.0.165:48802/i
@@ -909,7 +925,6 @@ http://221.3.98.234:39388/bin.sh
 http://61.137.201.65:53259/bin.sh
 http://61.163.149.44:55938/bin.sh
 http://176.114.47.73:9801/i
-http://176.212.159.241:14801/i
 http://14.165.71.209/sshd
 http://176.99.171.48:39034/i
 http://191.250.121.50:56365/i
@@ -1057,7 +1072,6 @@ http://42.179.0.101:59796/bin.sh
 http://218.19.147.41:39793/i
 http://27.204.225.239:38082/i
 http://27.204.225.239:38082/bin.sh
-http://223.12.177.86:45001/bin.sh
 http://218.19.147.41:39793/bin.sh
 http://90.229.218.205:52846/bin.sh
 http://113.231.204.194:41274/bin.sh
@@ -1086,7 +1100,6 @@ http://61.137.132.123:58305/bin.sh
 http://27.223.184.219:50103/i
 http://175.31.168.139:40588/bin.sh
 http://106.41.140.34:59393/i
-http://27.223.184.219:50103/bin.sh
 http://222.127.170.183:35531/i
 http://113.231.79.184:51137/i
 http://202.169.232.194:53722/i
@@ -1218,7 +1231,6 @@ http://58.22.95.120:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E
 http://58.22.95.120:6868/info.zip
 http://58.22.95.120:6868/20231208_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/Photo.lnk
 http://58.22.95.120:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/Video.lnk
-http://188.84.239.125:81/svchost.exe
 http://58.22.95.120:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD/Photo.lnk
 http://58.22.95.120:6868/20240103%E8%8B%B1%E8%AF%AD%E5%90%AC%E8%AF%B4%E6%9C%9F%E6%9C%AB%E5%BD%95%E9%9F%B3/%E7%85%A7%E6%98%8E%E4%BA%8C%E7%8F%AD/info.zip
 http://58.22.95.120:6868/20231208_%E5%BD%B1%E8%A7%86%E6%8A%80%E6%9C%AF%E7%8F%AD_%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E4%BD%9C%E4%B8%9A/Video.scr
@@ -1450,7 +1462,6 @@ http://106.56.195.7:51849/i
 http://106.56.195.7:51849/bin.sh
 http://42.177.211.23:34473/i
 http://120.37.207.224:59833/i
-http://42.177.211.23:34473/bin.sh
 http://120.37.207.224:59833/bin.sh
 http://180.190.203.38:44012/i
 http://42.55.56.17:51785/bin.sh
@@ -2145,6 +2156,7 @@ http://109.120.137.172/Crypt.exe
 http://109.120.137.172/step1.mp4
 http://39.103.236.200:443/02.08.2022.exe
 http://124.222.74.146:6666/02.08.2022.exe
+http://120.27.235.78:82/02.08.2022.exe
 http://82.139.187.78:47271/i
 http://217.117.116.182:15187/i
 http://93.235.69.105:91/sshd
@@ -3511,7 +3523,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/30%2003%202025/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/30%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/11%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/22%2002%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/26%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/23%2004%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/29%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/info.zip
@@ -3932,7 +3943,6 @@ http://94.159.99.169/Documents/testlnk1.lnk
 http://64.183.60.197:22414/i
 http://88.200.149.253:56892/i
 http://66.63.187.192/scan.sh
-http://66.63.187.192/.shell
 http://66.63.187.192/bins/spim
 http://66.63.187.192/bins/k86m
 http://66.63.187.192/l7vmra
@@ -5188,6 +5198,7 @@ http://43.226.39.44:5988/FileA.exe
 https://c3436037.salamanderprocessing.pages.dev/download/static/files/BootstrapperNew.exe
 http://43.226.39.44:5988/TestPTE.exe
 https://d3cciiowg5l3jx.cloudfront.net/RH/setup.exe
+https://mogimall.com/pds/mogimall/giftorder/Updater.exe
 http://14.224.174.212:1433/1.exe
 https://tapestryoftruth.com/media/video_file/Round_Setup.exe
 https://cdn.glitch.global/74002823-d235-4cf1-ba34-36967b91f68e/Deku_X_Cheat.dll?v=1718323411486
@@ -5284,7 +5295,6 @@ https://45.81.23.57/bin//support.client.exe?i=&e=Support&y=Guest&r=
 http://201.191.156.103:6913/i
 http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
-http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://43.140.215.17/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
@@ -8129,7 +8139,6 @@ https://img1.wsimg.com/blobby/go/7a69ed85-566a-4d22-8bd3-47a8a314b3bf/downloads/
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/69278806631.pdf
 https://img1.wsimg.com/blobby/go/e060217f-3d1d-4ed1-921e-8372b49c873f/downloads/nonisenokedevesuxumuk.pdf
 https://img1.wsimg.com/blobby/go/528f7e56-16b3-4527-bc22-02b6d7954666/downloads/xomomixomasupadimamowaw.pdf
-https://img1.wsimg.com/blobby/go/ce6ffbd8-735a-4087-afcd-48ff437b91ba/downloads/mesoduwegotujowokikurixo.pdf
 https://img1.wsimg.com/blobby/go/2b383d2d-2b5a-4b4f-949f-124c21f71183/downloads/how_to_fill_up_deed_of_sale_of_motor_vehicle.pdf
 https://img1.wsimg.com/blobby/go/33d2c907-2bf6-4426-875f-30dcfdd2ea6c/downloads/takeshi_amemiya_advanced_econometrics.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/paxakuvenu.pdf
@@ -8472,7 +8481,6 @@ http://81.70.85.113/tp/earm6
 http://81.70.85.113/earm6
 http://81.70.85.113/backdoor/earm6
 http://81.70.85.113/backdoor/earm7
-http://81.70.85.113/tp/earm5
 http://81.70.85.113/emips
 http://81.70.85.113/earm5
 http://81.70.85.113/dvrLocker
@@ -8511,7 +8519,6 @@ https://raw.githubusercontent.com/fhebngndsg/thefunny/refs/heads/main/Client-bui
 https://github.com/tezx11/imgui/raw/refs/heads/main/example_win32_dx11.exe
 https://github.com/aspdasdksa2/callback/raw/refs/heads/main/Client-built.exe
 https://github.com/TheRealAstro666/LOLZ/raw/refs/heads/main/Client-built.exe
-https://raw.githubusercontent.com/coluich/yaf/refs/heads/main/Windows12.exe
 https://github.com/FelikzIG/WDT/raw/refs/heads/main/CollosalLoader.exe
 https://github.com/imaeewy/about-me/raw/refs/heads/main/discord.exe
 https://github.com/XerusSploit/Neverlose-Loader/raw/refs/heads/main/Neverlose%20Loader.exe
@@ -8757,7 +8764,6 @@ http://47.181.114.185:35261/i
 http://103.43.128.123:59758/i
 http://78.153.52.58:19219/i
 http://103.236.135.177:21414/i
-http://195.34.205.242:27023/i
 http://185.162.140.242:18411/i
 http://186.125.133.242:53948/i
 http://94.244.113.217:53408/i
@@ -9241,6 +9247,7 @@ https://raw.githubusercontent.com/HAa15/driver-shitty/main/kdmapper_Release.exe
 http://github.com/v0lt/VirtualDub2/releases/download/2.1.3/VirtualDub2_v2.1.3.667_win32.7z
 http://update.cg100iii.com/cgmb/Update.exe
 http://update.cg100iii.com/cgpro/Update.exe
+http://quanly.jxmienphi.net/uploadvltt/Autokeoxe.exe
 http://lsks.volamngayxua.net/AutoUpdate.exe
 http://github.com/SkibidiXElaina/wuselaina/raw/refs/heads/main/build.exe
 https://raw.githubusercontent.com/keygroup777-ransomware/downloader/refs/heads/main/taskmoder.exe
@@ -9415,7 +9422,6 @@ http://149.88.73.206/Photo.scr
 http://141.155.36.213:41790/Photo.scr
 http://96.250.166.185:88/Photo.scr
 http://109.210.138.197/Photo.scr
-http://5.26.174.234/Photo.scr
 https://drive.google.com/uc?export=download&id=1iDr9P3dgXKBLHU7H4JcKCLZMTLIbWSIW
 https://drive.google.com/uc?export=download&id=1c2pnUcvMA1SHU90MNAUhEf6SHiLDTH-s
 http://158.101.35.62:9000/xblkpfZ8Y0
@@ -9784,7 +9790,6 @@ https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/ljvfth.js
-https://annadegismen.com/js/mpkgyo.js
 https://annadegismen.com/js/bqfgev.js
 https://annadegismen.com/js/dqwzvu.js
 https://annadegismen.com/js/kluhib.js
@@ -9798,7 +9803,6 @@ https://annadegismen.com/js/jowhkb.js
 https://annadegismen.com/js/chmuob.js
 https://annadegismen.com/js/fhqvas.js
 https://annadegismen.com/js/rsmupb.js
-https://annadegismen.com/js/obinaf.js
 https://annadegismen.com/js/pwxzmg.js
 https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
@@ -9963,6 +9967,7 @@ http://annadegismen.com/js/lrabiq.js
 http://annadegismen.com/js/wfevmh.js
 http://annadegismen.com/js/tenlqx.js
 http://annadegismen.com/js/rnejox.js
+http://annadegismen.com/js/owajis.js
 http://annadegismen.com/js/hmysqu.js
 http://annadegismen.com/js/vfakmu.js
 http://annadegismen.com/js/dwaehj.js
@@ -10343,7 +10348,6 @@ http://annadegismen.com/js/hxysdw.js
 http://annadegismen.com/js/gatled.js
 http://annadegismen.com/js/xcyqdg.js
 http://annadegismen.com/js/nozmuk.js
-http://annadegismen.com/js/brgdto.js
 http://annadegismen.com/js/fgjzlp.js
 http://annadegismen.com/js/xkhlro.js
 http://annadegismen.com/js/eyfbaq.js
@@ -10492,6 +10496,7 @@ http://85-95-173-28.saransk.ru/main_mpsl
 http://85-95-173-28.saransk.ru/mips
 http://85-95-173-28.saransk.ru/main_mips
 http://85-95-173-28.saransk.ru/main_ppc
+http://85-95-173-28.saransk.ru/main_arm6
 http://85-95-173-28.saransk.ru/main_sh4
 http://85-95-173-28.saransk.ru/dlr.x86
 https://raw.githubusercontent.com/DONW2023/ad/main/Gestor%20de%20Pedidos.apk
@@ -11117,7 +11122,6 @@ http://212.98.186.8:6819/Mozi.m
 http://219.73.22.64:8084/Photo.scr
 http://49.232.126.36:9000/Photo.scr
 http://150.158.25.244:9000/Photo.scr
-http://113.106.6.106:14417/help.scr
 http://121.43.104.75:8080/help.scr
 http://43.132.12.146:9000/Photo.scr
 http://50.65.169.30:81/Photo.scr
@@ -12095,7 +12099,6 @@ http://186.154.93.81:8125/.i
 http://150.129.202.197:1316/.i
 http://36.94.29.82:23591/.i
 http://43.245.131.27:1203/.i
-http://89.216.100.166:30359/.i
 http://186.42.98.2:28072/.i
 http://186.159.0.129:52617/.i
 http://63.78.214.18:33536/.i
@@ -13160,7 +13163,6 @@ https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://reifenquick.de/Scripts/statement/ul397wfyb/
 http://file.elecfans.com/web1/M00/8F/36/o4YBAFy-2m2AARFZAAhkAIik5pI122.exe
 http://www.reifenquick.de/Scripts/FILE/21mnqlvi/oz88535657v7rbazasyth9x8i/
-http://yongtai.cn/wp-includes/closed-disk/guarded-space/0870725-rAaDiviu/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
 http://yongtai.cn/wp-includes/VctIE/
 http://www.reifenquick.de/Scripts/closed_957176_mxqSdoJ6a4IZ/close_warehouse/ql55hnq09iyn6lm_334stxvw03wyv/
