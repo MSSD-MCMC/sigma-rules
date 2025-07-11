@@ -1,3 +1,15 @@
+http://117.212.55.138:56890/i
+http://59.88.22.86:43608/bin.sh
+http://112.248.117.72:43562/i
+http://123.14.43.133:60709/bin.sh
+http://117.212.55.138:56890/bin.sh
+http://42.224.254.200:33606/bin.sh
+http://182.119.182.183:38912/bin.sh
+http://112.248.117.72:43562/bin.sh
+http://42.231.93.151:58864/i
+http://182.117.42.247:33121/i
+http://117.215.55.152:51589/i
+http://182.127.114.19:53903/i
 http://27.202.46.254:46466/i
 http://27.202.46.254:46466/bin.sh
 http://123.188.54.211:60453/i
@@ -340,7 +352,6 @@ http://66.63.187.20:4433/vin.bat
 http://158.51.125.55/n/mipsel
 http://93.123.109.218/test/m68k
 http://93.123.109.218/test/powerpc
-http://176.46.157.32/files/7520802261/Y6bTG0o.exe
 http://93.123.109.218/test/sh4
 http://93.123.109.218/test/mips
 http://176.46.157.32/files/7898918466/mOctYvD.exe
@@ -449,6 +460,7 @@ http://182.126.104.115:35156/i
 http://77.110.113.242/Documents/Tax_Form.lnk
 http://123.5.160.71:36181/bin.sh
 http://117.72.103.9:8086/02.08.2022.exe
+http://120.79.162.99:8088/02.08.2022.exe
 http://42.193.0.19/02.08.2022.exe
 http://34.203.227.204/02.08.2022.exe
 http://101.200.193.211:8088/02.08.2022.exe
@@ -843,7 +855,6 @@ http://175.173.92.132:42509/i
 http://42.59.225.34:41188/i
 http://123.11.77.82:50276/i
 http://125.43.38.192:58726/i
-http://115.59.24.239:34727/i
 http://113.236.148.74:42558/i
 http://111.50.70.34:36438/bin.sh
 http://113.229.185.5:48974/i
@@ -1620,7 +1631,6 @@ http://185.208.158.140/bins/arm5
 http://185.208.158.140/bins/arm7
 http://185.208.158.140/bins/wget.sh
 http://106.59.1.20:50639/i
-http://175.165.238.85:48148/i
 http://175.165.238.85:48148/bin.sh
 http://83.219.1.198:48853/bin.sh
 http://78.142.229.12/agetty
@@ -2422,7 +2432,6 @@ http://47.101.187.219:81/02.08.2022.exe
 http://43.139.185.214/02.08.2022.exe
 http://46.236.65.11:45811/i
 http://176.96.131.92/arm
-http://47.108.162.213/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
 http://45.141.233.66:443/02.08.2022.exe
 http://222.149.76.83/sshd
@@ -2440,7 +2449,6 @@ https://a1oilindia.in/?u=script
 https://aaronshaffier.jerusalemwalkingtour.com/?u=script
 https://6ixportal.ca/?u=script
 https://dealshubindia.in/?u=script
-https://ddtech.kz/?u=script
 https://decorecasacastanhal.com.br/?u=script
 https://desentupidoranovaera.com/?u=script
 https://demo2.amcham-ci.org/?u=script
@@ -2451,7 +2459,6 @@ https://youthvoice.gr/?u=script
 https://deliwise.com.br/?u=script
 https://abhinavprakash.com/?u=script
 https://7abibo.com/?u=script
-https://a3dvisualizacion.com/wp/?u=script
 https://7cavaleiro.com/?u=script
 https://7jigen.net/wp/?u=script
 https://a-talentagency.com/?u=script
@@ -4154,6 +4161,7 @@ http://89.25.226.70:5300/i
 http://2.83.229.165:29558/i
 http://91.167.219.223/sshd
 http://181.49.10.194:42452/i
+http://115.238.252.51:9000/02.08.2022.exe
 http://8.218.77.224:8432/02.08.2022.exe
 http://93.116.56.78:3976/i
 http://37.80.71.230/sshd
@@ -4369,6 +4377,7 @@ http://86.54.42.125/x86_64.nn
 http://86.54.42.125/m68k.nn
 http://86.54.42.125/powerpc.nn
 http://86.54.42.125/mips.nn
+http://86.54.42.125/arm6.nn
 https://github.com/cybertoxin/Remcos-Professional-Cracked-By-Alcatraz3222/raw/master/Remcos%20Professional%20Cracked%20By%20Alcatraz3222.zip
 https://181.206.158.190/Update.vbs
 http://39.105.31.193:1389/encrypted_shellcode.bin
@@ -5227,6 +5236,7 @@ http://36.41.71.241:2086/02.08.2022.exe
 http://80.110.37.104:48784/i
 http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
+http://92.40.118.26:8001/sshd
 http://47.242.235.106:60116/linux
 http://183.109.132.188:35716/.i
 http://113.214.56.238:3269/.i
@@ -5407,6 +5417,7 @@ http://github.com/joshdied/files/raw/refs/heads/main/XtuService.exe
 http://162.215.218.82/ns3.jpg
 http://162.215.218.82/ns1.jpg
 http://8.134.156.248:10001/02.08.2022.exe
+http://139.159.157.238:5555/02.08.2022.exe
 http://185.208.158.206/7766.elf
 http://185.208.158.206/z.sh
 http://185.39.181.103:50295/i
@@ -5461,6 +5472,7 @@ https://111.229.187.190:8443/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
+https://129.204.254.108/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 http://118.31.114.149:8081/02.08.2022.exe
@@ -5541,6 +5553,7 @@ https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
 https://bestieslos.com/MAKEEWYK.msi
 https://bestieslos.com/UULYORIK.msi
 https://cdn.jsdelivr.net/gh/repository-git/cloud@master/terms-use.js
+https://bestieslos.com/PMLQRJIN.msi
 https://cdn.jsdelivr.net/gh/repository-git/q@master/cloud.turnstile.js
 https://cdn.jsdelivr.net/gh/repository-git/q@master/version-verify.js
 https://cdn.jsdelivr.net/gh/repository-git/q@master/license.js
@@ -10393,7 +10406,6 @@ http://annadegismen.com/js/gaxwco.js
 http://annadegismen.com/js/znuyhv.js
 http://annadegismen.com/js/abdogi.js
 http://annadegismen.com/js/tpwqro.js
-http://annadegismen.com/js/wjnalk.js
 http://annadegismen.com/js/ukitdj.js
 http://annadegismen.com/js/udjzbl.js
 http://annadegismen.com/js/bemzuh.js
@@ -10681,7 +10693,6 @@ http://85.95.173.28/main_x86
 http://85.95.173.28/main_mips
 http://85.95.173.28/dlr.x86
 http://85.95.173.28/mips
-https://telegramcn.co/download/Telegram.apk
 http://85.95.173.28/payload.sh
 http://101.133.156.69:7777/Lee.exe
 http://101.133.156.69:7777/we.exe
@@ -11717,6 +11728,7 @@ http://118.178.133.241:65500/help.scr
 http://112.27.189.32:8090/help.scr
 http://203.2.65.29:8081/help.scr
 http://124.67.254.109:61234/help.scr
+http://139.159.155.204:88/help.scr
 http://139.159.155.204:81/help.scr
 http://117.157.17.194:9999/help.scr
 https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
@@ -12317,7 +12329,6 @@ http://62.33.114.219:56719/.i
 http://85.187.82.120:41465/.i
 http://212.200.106.94:47831/.i
 http://91.216.28.112:20531/.i
-http://78.11.94.32:60741/.i
 http://178.134.42.162:18520/.i
 http://154.126.186.56:43941/.i
 http://36.91.144.195:2274/.i
