@@ -1,3 +1,13 @@
+http://42.231.93.151:58864/bin.sh
+http://222.137.23.144:56254/i
+http://59.88.132.143:38108/bin.sh
+http://123.12.29.111:60726/bin.sh
+http://219.157.63.178:36085/bin.sh
+http://182.121.109.82:43465/i
+http://59.88.157.154:34463/bin.sh
+http://61.1.228.180:52875/i
+http://182.117.125.182:33088/i
+http://182.121.109.82:43465/bin.sh
 http://182.121.132.113:44866/i
 http://196.251.69.244/00101010101001/morte.mips
 http://196.251.114.102/00101010101001/morte.mpsl
@@ -375,6 +385,8 @@ http://123.4.33.52:54681/i
 http://196.251.70.138/bins/sora.sh4
 http://196.251.70.138/bins/sora.x86
 http://196.251.70.138/bins/sora.mips
+http://196.251.73.7/bins/sora.sh4
+http://196.251.73.7/bins/sora.arm5
 http://61.1.31.63:40591/bin.sh
 http://59.95.81.140:33189/i
 http://59.95.90.228:47347/bin.sh
@@ -743,7 +755,6 @@ http://185.208.158.140/bins/b
 http://42.237.24.167:46101/i
 http://185.208.158.140/huawei
 http://185.208.158.140/tr064
-http://123.14.37.242:41989/i
 http://42.179.120.19:53784/bin.sh
 http://183.196.198.139:60120/linux
 http://123.188.54.211:60453/bin.sh
@@ -887,7 +898,6 @@ http://bot.hiddenlists.net/bot.m68k
 http://bot.hiddenlists.net/bot.x86
 http://bot.hiddenlists.net/bot.arm
 http://bot.hiddenlists.net/bot.mpsl
-http://bot.hiddenlists.net/bot.arm5
 http://bot.hiddenlists.net/bot.mips
 http://190.109.227.23:51718/bin.sh
 http://42.236.221.45:39552/bin.sh
@@ -2488,6 +2498,7 @@ http://43.159.52.193/02.08.2022.exe
 http://106.52.6.128:801/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
+http://45.141.233.66:443/02.08.2022.exe
 http://222.149.76.83/sshd
 http://221.113.193.128/sshd
 http://14.254.163.155:8080/sshd
@@ -2533,7 +2544,6 @@ https://aaronshaffier.com/?u=script
 https://derrickvelasquez.com/?u=script
 https://delermando.com.br/?u=script
 https://defensapersonas.com/?u=script
-https://demo22.zumm.info/?u=script
 https://aavishkaar-palampur.org/?u=script
 https://demo.antiquebrassmoroccan.com/?u=script
 https://deltapowerkw.com/?u=script
@@ -4448,7 +4458,6 @@ https://hogarsancamilo.org/Trash/Zrdabuukqo.mp4
 http://39.103.58.78/02.08.2022.exe
 http://47.102.209.177:8899/02.08.2022.exe
 http://121.144.247.212:6692/i
-http://45.115.254.68:19981/i
 http://41.246.164.238:8082/sshd
 http://41.246.164.238:8084/sshd
 http://41.246.164.238:8083/sshd
@@ -4638,6 +4647,7 @@ http://2.55.90.62:802/sshd
 http://171.252.114.83:2360/sshd
 http://182.239.78.134/sshd
 http://2.125.59.57:10085/sshd
+https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
 https://celebratingseniors.net/oste.zip
 http://82.64.2.200:50332/i
@@ -5201,6 +5211,7 @@ https://raw.githubusercontent.com/androidmalware/android_hid/f25d0234cff288ab838
 http://github.com/TestingMyInfomration123/123/raw/refs/heads/main/Client-built.exe
 http://github.com/wasdw8606/wasdw8606pw/raw/refs/heads/main/Windows%20Update.exe
 http://github.com/monkeyadece/v-f/releases/download/1.4.2/Vector-fixer-v1.4.2.exe
+http://public.demo.securecloudsandbox.com/ui.exe
 http://github.com/xyzelyz/configloader/raw/main/spoofer.exe
 http://github.com/lbormann/darts-gif/releases/download/v1.1.0/darts-gif.exe
 http://github.com/ITSUPPORTV1/chayen-baccarat/raw/refs/heads/main/Chayen_baccarat.exe
@@ -11115,6 +11126,7 @@ http://109.108.84.121:28531/Mozi.m
 http://94.251.5.51:31559/Mozi.m
 http://116.72.19.113:4229/Mozi.m
 http://88.119.95.176:40517/Mozi.m
+http://197.159.1.58:25983/Mozi.m
 http://195.22.237.98:35989/Mozi.m
 http://185.237.157.98:41619/Mozi.m
 http://167.250.193.253:19901/Mozi.m
@@ -12630,7 +12642,6 @@ http://45.224.100.254:4139/i
 http://92.241.19.127:61882/i
 http://37.252.66.188:12165/i
 http://119.15.92.78:4374/i
-http://95.38.24.186:2127/i
 http://41.76.195.60:52732/i
 http://118.71.250.6:28411/i
 http://78.140.32.219:12617/i
@@ -12936,7 +12947,6 @@ http://43.224.0.5:1316/Aqua.arm6
 http://36.67.66.178:23987/Aqua.arm6
 http://109.171.30.19:33609/Aqua.arm4
 http://109.171.30.19:33609/Aqua.arm6
-http://81.16.123.55:41567/Aqua.i686
 http://67.78.106.21:55731/o
 http://78.11.94.32:60741/bin.sh
 http://36.67.66.178:23987/o
@@ -12996,6 +13006,7 @@ http://69.142.178.141:39145/i
 http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
+https://contentmentfairnesspesky.com/c8bab23717e7ca18363ef595bbe57e9a/invoke.js
 https://computersupportexperts.com/css/down.exe
 https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
