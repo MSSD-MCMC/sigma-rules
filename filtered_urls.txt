@@ -1,3 +1,17 @@
+http://222.134.173.120:53382/i
+http://123.11.2.67:42052/i
+http://182.127.128.112:38997/i
+http://59.88.152.236:51879/bin.sh
+https://t0urist.cv/CrL.ini
+http://115.56.160.202:47418/bin.sh
+http://112.248.125.56:42323/bin.sh
+http://125.40.113.70:49789/i
+http://222.134.173.120:53382/bin.sh
+http://182.127.128.112:38997/bin.sh
+http://119.116.238.217:40944/bin.sh
+http://14.155.205.7:53173/bin.sh
+http://117.215.50.185:41045/bin.sh
+http://112.248.114.149:59920/i
 http://222.135.134.24:34065/bin.sh
 http://123.12.29.111:60726/i
 http://222.137.26.40:33623/i
@@ -462,7 +476,6 @@ http://89.67.26.78:35495/bin.sh
 http://60.19.145.150:50530/bin.sh
 http://182.113.37.224:38824/bin.sh
 http://144.172.91.114/bins/sora.x86
-http://144.172.91.114/bins/sora.spc
 http://144.172.91.114/bins/sora.m68k
 http://115.55.248.125:53972/i
 http://115.52.27.45:36929/i
@@ -1126,7 +1139,6 @@ http://92.113.29.232:81/armv7l
 http://92.113.29.232:81/powerpc
 http://92.113.29.232:81/arc
 http://92.113.29.232:81/armv4l
-http://92.113.29.232:81/csky
 http://92.113.29.232:81/sh4
 http://92.113.29.232:81/mipsel
 http://92.113.29.232:81/aarch64
@@ -1784,6 +1796,7 @@ https://produos.net/pin/remcos_z_base64.txt
 http://24.96.184.50:38457/i
 http://78.159.156.10/bins/fsociety.sparc
 http://78.159.156.10/bins/fsociety.arm7
+http://78.159.156.10/bins/fsociety.m68k
 http://78.159.156.10/bins/fsociety.sh4
 http://78.159.156.10/bins/fsociety.arc
 http://78.159.156.10/bins/fsociety.x86
@@ -2001,6 +2014,7 @@ http://diicotsec.ru/bins/main_m68k
 http://107.150.0.101/mirai.sh
 http://diicotsec.ru/bins/main_arm5
 http://diicotsec.ru/bins/main_mips
+http://diicotsec.ru/mirai.sh
 http://diicotsec.ru/bins/main_arm7
 http://diicotsec.ru/bins/main_x86_64
 http://diicotsec.ru/bins/main_ppc
@@ -2060,6 +2074,7 @@ http://200.59.83.22:56964/bin.sh
 http://74.214.56.173:35384/bin.sh
 http://77.90.153.137/r
 http://77.90.153.137/n
+http://77.90.153.137/vv/riscv32
 http://77.90.153.137/m
 http://77.90.153.137/w
 http://77.90.153.137/f
@@ -2431,6 +2446,7 @@ https://aarbon90.com/?u=script
 https://7223333.ru/?u=script
 https://7abibo.com/?u=script
 https://73puredesigns.com/?u=script
+https://a1alphaclean.com/?u=script
 https://aaffpublicitario.com/?u=script
 https://deshawfamily.com/?u=script
 https://derinkokkirtasiye.com/?u=script
@@ -2555,7 +2571,6 @@ https://yourclassmanager.com/blogs/?u=file
 https://yumeimise.net/?u=file
 https://zonalatina103.net/?u=file
 https://zammler.com.kz/?u=file
-https://yourlove.net/?u=file
 https://zosnow.com/?u=file
 https://zaydacortez.com/?u=file
 https://yumeenterprises.com/?u=file
@@ -5328,7 +5343,6 @@ http://43.226.39.44:5988/TestPTE2.exe
 http://43.226.39.44:5988/TestWindow.exe
 https://99194034-96-20180108171507.webstarterz.com/newchaisupon/vendor/bin/psysh.bat
 http://scan-echo.online/client/PAP46EIUkZ.exe
-https://www.salonmarketing.ca/diaclients/doitallmain.exe
 https://www.ss-01.com/SA0611/SystemSA32.dll
 http://43.226.39.44:5988/Test6.exe
 https://c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru/msedge.exe
@@ -9657,6 +9671,7 @@ https://annadegismen.com/js/heqigs.js
 https://annadegismen.com/js/lzjxve.js
 https://annadegismen.com/js/xcvepk.js
 https://annadegismen.com/js/yduphe.js
+https://annadegismen.com/js/iodhgt.js
 https://annadegismen.com/js/ofbnkh.js
 https://annadegismen.com/js/qefpth.js
 https://annadegismen.com/js/dhzwae.js
@@ -12429,6 +12444,7 @@ http://194.187.151.189:36681/.i
 http://81.16.242.236:28115/.i
 http://182.253.60.198:46757/.i
 http://92.241.19.127:61882/.i
+http://103.62.233.206:62130/.i
 http://180.250.160.26:37143/.i
 http://211.186.82.229:13753/.i
 http://185.190.20.228:46441/.i
@@ -13087,6 +13103,7 @@ https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
 https://villanyzsolti.hu/scarica/
 https://rpperformance.com.br/scarica/
+https://suakhoaketsattphcm.com/agenzia/
 https://nhatheptienchebinhduong.com/connect/
 https://admin.byte.in.ua/connect/
 https://embedone.com/scarica/
