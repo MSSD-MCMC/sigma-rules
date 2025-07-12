@@ -1,3 +1,16 @@
+http://219.157.134.198:60784/bin.sh
+http://113.236.65.183:40659/i
+http://182.114.195.248:43595/i
+http://125.41.240.200:60341/bin.sh
+http://112.239.102.7:53762/i
+http://125.44.17.238:51183/bin.sh
+http://115.56.113.86:48686/i
+http://42.226.79.241:38777/i
+http://113.236.65.183:40659/bin.sh
+http://42.7.99.32:50424/i
+http://196.190.105.170:33314/bin.sh
+http://42.226.79.241:38777/bin.sh
+http://115.56.113.86:48686/bin.sh
 http://182.123.211.212:57473/i
 http://42.7.99.32:50424/bin.sh
 http://rtost.duckdns.org/mimicr/stel.exe
@@ -378,6 +391,7 @@ http://196.251.69.254/00101010101001/morte.x86_64
 http://196.251.113.9/00101010101001/debug
 http://196.251.114.102/1.sh
 http://196.251.69.241/00101010101001/morte.spc
+http://196.251.69.244/00101010101001/morte.arm6
 http://103.77.241.145/00101010101001/debug
 http://196.251.69.254/00101010101001/morte.ppc
 http://196.251.114.102/00101010101001/morte.x86
@@ -387,6 +401,7 @@ http://103.77.241.145/00101010101001/morte.x86
 http://196.251.69.254/00101010101001/morte.mpsl
 http://13.250.32.158/1.sh
 http://196.251.66.32/HBTs/top1miku.sh4
+http://196.251.69.179/00101010101001/morte.arc
 http://196.251.66.32/HBTs/top1miku.mpsl
 http://103.77.241.145/00101010101001/morte.ppc
 http://196.251.69.254/00101010101001/morte.spc
@@ -397,6 +412,7 @@ http://196.251.69.241/00101010101001/morte.ppc
 http://196.251.69.244/00101010101001/morte.x86_64
 http://196.251.69.254/00101010101001/morte.arm6
 http://196.251.69.241/00101010101001/morte.arm
+http://196.251.69.244/00101010101001/morte.m68k
 http://196.251.114.102/00101010101001/morte.arm6
 http://196.251.69.254/00101010101001/morte.x86
 http://196.251.69.179/00101010101001/morte.arm7
@@ -566,6 +582,7 @@ http://1.92.138.71:8080/02.08.2022.exe
 http://47.109.140.12:2233/02.08.2022.exe
 http://8.137.80.215/02.08.2022.exe
 http://120.48.25.39/02.08.2022.exe
+http://49.65.96.18:9999/02.08.2022.exe
 http://41.145.128.24:8083/sshd
 http://116.103.173.237/sshd
 http://185.255.210.33:44819/i
@@ -653,7 +670,6 @@ http://119.4.146.110:34781/bin.sh
 http://45.186.37.143:45886/bin.sh
 http://119.116.152.122:40994/bin.sh
 http://112.248.111.225:44622/i
-http://61.53.237.59:55766/i
 http://222.127.237.115:41633/i
 http://87.9.24.48:46710/bin.sh
 http://112.248.81.210:32829/bin.sh
@@ -1142,6 +1158,7 @@ https://paste.ee/d/X1RQOIxO/0
 https://paste.ee/d/kKc5xntz/0
 https://paste.ee/d/uRGsjOgx/0
 http://116.139.129.45:55810/i
+http://60.23.144.115:53545/bin.sh
 http://92.113.29.232:81/cat.sh
 http://110.182.242.156:59209/bin.sh
 http://217.24.176.168:47090/i
@@ -1201,6 +1218,7 @@ http://42.5.6.68:58267/i
 http://42.5.6.68:58267/bin.sh
 http://60.160.154.237:50311/i
 http://60.160.154.237:50311/bin.sh
+http://175.174.106.217:53516/bin.sh
 http://124.95.33.237:56906/bin.sh
 http://27.214.35.137:35647/i
 http://89.67.72.83:52845/i
@@ -2492,7 +2510,6 @@ https://zonalatina103.net/?u=file
 https://zammler.com.kz/?u=file
 https://zosnow.com/?u=file
 https://zivalife.com.br/?u=file
-https://zaydacortez.com/?u=file
 https://yumeenterprises.com/?u=file
 https://zion-wealth.com/?u=file
 https://z-sercem.pl/?u=file
@@ -5360,6 +5377,7 @@ http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
 https://113.44.67.52:9443/02.08.2022.exe
 https://189.1.220.101:28443/02.08.2022.exe
+https://182.255.45.244:64898/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
@@ -8662,7 +8680,6 @@ http://46.24.237.234:8011/sshd
 http://2.55.73.161:802/sshd
 http://110.239.6.17:8081/sshd
 http://84.15.147.5:805/sshd
-http://117.215.129.223/sshd
 http://185.20.19.72:8009/sshd
 http://210.4.75.110:65323/i
 http://43.230.157.52:19667/i
@@ -9614,7 +9631,6 @@ https://annadegismen.com/js/vyiagt.js
 https://annadegismen.com/js/zsjwbc.js
 https://annadegismen.com/js/yoaxpt.js
 https://annadegismen.com/js/mspldv.js
-https://annadegismen.com/js/tlbqkr.js
 https://annadegismen.com/js/ocjbrm.js
 https://annadegismen.com/js/tzokax.js
 https://annadegismen.com/js/hmdjou.js
@@ -9625,6 +9641,7 @@ https://annadegismen.com/js/zoafhp.js
 https://annadegismen.com/js/cigfds.js
 https://annadegismen.com/js/rkvabp.js
 https://annadegismen.com/js/otpgcj.js
+https://annadegismen.com/js/jaieho.js
 https://annadegismen.com/js/ergubk.js
 https://annadegismen.com/js/mnyrdf.js
 https://annadegismen.com/js/vqpfdh.js
@@ -9780,7 +9797,6 @@ https://annadegismen.com/js/wsjkzd.js
 https://annadegismen.com/js/pexogi.js
 https://annadegismen.com/js/dnuwsr.js
 https://annadegismen.com/js/jvoihp.js
-https://annadegismen.com/js/wgusdm.js
 https://annadegismen.com/js/ueqyip.js
 https://annadegismen.com/js/udjzbl.js
 https://annadegismen.com/js/djihng.js
@@ -9942,6 +9958,7 @@ https://annadegismen.com/js/fgjzlp.js
 https://annadegismen.com/js/jpkibs.js
 https://annadegismen.com/js/awtjki.js
 https://annadegismen.com/js/atdxug.js
+https://annadegismen.com/js/tcgdqr.js
 https://annadegismen.com/js/jvlhib.js
 https://annadegismen.com/js/kdmgzy.js
 https://annadegismen.com/js/nscgoi.js
@@ -9989,6 +10006,7 @@ http://annadegismen.com/js/atodpl.js
 http://annadegismen.com/js/ahpftx.js
 http://annadegismen.com/js/zsabth.js
 http://annadegismen.com/js/auwgir.js
+http://annadegismen.com/js/acdkqh.js
 http://annadegismen.com/js/natsgp.js
 http://annadegismen.com/js/qzmcax.js
 http://annadegismen.com/js/dspvek.js
@@ -10059,6 +10077,7 @@ http://annadegismen.com/js/tfzmiy.js
 http://annadegismen.com/js/meciyz.js
 http://annadegismen.com/js/uzrhnf.js
 http://annadegismen.com/js/xbuqgz.js
+http://annadegismen.com/js/jaieho.js
 http://annadegismen.com/js/jfoepi.js
 http://annadegismen.com/js/ljkacr.js
 http://annadegismen.com/js/ybisjv.js
@@ -10091,6 +10110,7 @@ http://annadegismen.com/js/rplkdt.js
 http://annadegismen.com/js/kljdsp.js
 http://annadegismen.com/js/qyblsk.js
 http://annadegismen.com/js/rznscf.js
+http://annadegismen.com/js/pdemzv.js
 http://annadegismen.com/js/mgurty.js
 http://annadegismen.com/js/nmsgoz.js
 http://annadegismen.com/js/vsbace.js
@@ -10287,7 +10307,6 @@ http://annadegismen.com/js/wdupyk.js
 http://annadegismen.com/js/htfvnw.js
 http://annadegismen.com/js/yhnbve.js
 http://annadegismen.com/js/inrkdl.js
-http://annadegismen.com/js/zyuakm.js
 http://annadegismen.com/js/dqwzvu.js
 http://annadegismen.com/js/qnrbse.js
 http://annadegismen.com/js/gecixy.js
@@ -10408,7 +10427,6 @@ http://annadegismen.com/js/sbozjq.js
 http://annadegismen.com/js/ylherd.js
 http://annadegismen.com/js/hrdcou.js
 http://annadegismen.com/js/hexmvb.js
-http://annadegismen.com/js/svandw.js
 http://annadegismen.com/js/upefdg.js
 http://annadegismen.com/js/qpvbmw.js
 http://annadegismen.com/js/igbavd.js
@@ -11156,7 +11174,6 @@ http://190.129.2.198:24944/Mozi.m
 http://190.2.237.104:65088/Mozi.m
 http://178.77.228.166:37077/Mozi.m
 http://213.91.236.237:10713/Mozi.m
-http://14.200.203.114:7122/Mozi.m
 http://2.180.9.57:12220/Mozi.m
 http://78.29.14.127:29050/Mozi.m
 http://95.170.112.61:14898/Mozi.m
@@ -12259,7 +12276,6 @@ http://62.176.113.135:65108/.i
 http://195.211.197.30:10994/.i
 http://78.29.14.127:29050/.i
 http://118.127.105.182:17818/.i
-http://14.200.203.114:7122/.i
 http://82.117.197.102:19001/.i
 http://188.68.95.174:13872/.i
 http://131.108.39.235:1237/.i
@@ -12534,7 +12550,6 @@ http://190.128.195.138:50368/i
 http://131.108.39.235:1237/i
 http://89.254.173.147:44386/i
 http://195.34.91.22:61437/i
-http://216.155.93.238:33194/i
 http://200.72.199.205:1542/i
 http://186.67.227.98:65300/i
 http://164.77.147.186:12652/i
@@ -12849,7 +12864,6 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=//projetodegente.com
 http://118.26.174.163/app/view/ta.sh
 http://5.236.93.129:43975/.i
 https://adclick.g.doubleclick.net/pcs/click?adurl=//higreens.co.in
-https://adclick.g.doubleclick.net/pcs/click?adurl=//kavyasourcing.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://cliffg.me
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://streammobs.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://redeamazoniaazul.org/
@@ -12936,7 +12950,6 @@ http://195.22.237.98:35989/.i
 http://79.121.103.84:45544/.i
 http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
-https://gaenterprises.in/sb/sb.js
 https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
