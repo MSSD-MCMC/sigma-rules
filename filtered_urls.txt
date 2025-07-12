@@ -1,3 +1,36 @@
+http://182.121.212.16:40356/i
+http://42.235.86.197:58590/bin.sh
+http://182.121.212.16:40356/bin.sh
+http://42.224.75.242:52942/bin.sh
+http://196.251.80.67/armv5l
+http://176.65.148.60/ntpd
+http://176.65.148.60/cron
+http://176.65.148.60/sshd
+http://176.65.148.60/sh
+http://176.65.148.60/openssh
+http://176.65.148.60/wget
+http://196.251.80.67/i686
+http://196.251.80.67/mipsel
+http://176.65.148.60/ftp
+http://196.251.80.67/sh4
+http://196.251.80.67/m68k
+http://196.251.80.67/armv4l
+http://45.141.86.132/LjEZs/uYtea.mips
+http://196.251.80.67/x86
+http://176.65.148.60/apache2
+http://196.251.80.67/i586
+http://45.141.86.132/LjEZs/uYtea.x86
+http://176.65.148.60/%20
+http://176.65.148.60/bash
+http://176.65.148.60/tftp
+http://176.65.148.60/pftp
+http://115.62.188.251:51792/i
+http://221.13.182.65:46973/i
+http://221.15.95.0:58841/bin.sh
+http://182.124.235.131:54996/i
+http://60.18.10.57:50577/bin.sh
+http://59.93.129.250:48853/i
+http://115.62.188.251:51792/bin.sh
 http://221.13.182.65:46973/bin.sh
 http://182.124.235.131:54996/bin.sh
 http://60.18.66.110:34560/i
@@ -661,7 +694,6 @@ http://200.59.88.134:54450/i
 http://106.40.243.173:40809/bin.sh
 http://200.59.88.134:54450/bin.sh
 http://42.176.97.102:44132/bin.sh
-http://122.245.32.165:37886/i
 http://103.126.116.235:43011/i
 http://122.245.32.165:37886/bin.sh
 http://113.224.86.85:42784/i
@@ -722,7 +754,6 @@ http://cameldomain1.n-e.kr/bins/m68k
 http://cameldomain1.n-e.kr/bins/x86
 http://cameldomain1.n-e.kr/bins/mips
 http://cameldomain1.n-e.kr/bins/sh4
-http://cameldomain1.n-e.kr/bins/arm7
 http://cameldomain1.n-e.kr/bins/arm5
 http://cameldomain1.n-e.kr/bins/arm
 http://206.123.128.90/lg
@@ -1317,6 +1348,7 @@ http://175.148.153.59:37557/bin.sh
 http://175.165.109.254:45941/i
 http://175.147.153.89:57486/i
 http://110.177.80.58:38960/i
+http://175.165.109.254:45941/bin.sh
 http://110.177.80.58:38960/bin.sh
 http://60.23.193.63:49662/i
 http://175.167.160.23:50273/bin.sh
@@ -1735,7 +1767,6 @@ http://103.130.213.4/bins/sora.mpsl
 http://103.130.213.4/bins/sora.arm5
 https://paste.ee/d/jrRQamzV/0
 https://paste.ee/d/rI8G8B1W/0
-https://produos.net/pin/remcos_z_base64.txt
 http://24.96.184.50:38457/i
 http://78.159.156.10/bins/fsociety.sparc
 http://78.159.156.10/bins/fsociety.arm7
@@ -2387,6 +2418,7 @@ https://ddtech.kz/?u=script
 https://decorecasacastanhal.com.br/?u=script
 https://desentupidoranovaera.com/?u=script
 https://demo2.amcham-ci.org/?u=script
+https://aagmaninfotech.com/?u=script
 https://demo.gtropy.com/?u=script
 https://99naturais.com.br/?u=script
 https://deermusik.com/?u=script
@@ -2434,7 +2466,6 @@ https://deoriatimes.com/?u=script
 https://yorja.org/?u=script
 https://yourname.physio/?u=script
 https://aaaitems.com/?u=script
-https://yosa.com/?u=script
 http://176.96.131.92/mipsel
 http://176.96.131.92/i686
 http://176.96.131.92/x86_64
@@ -4311,6 +4342,8 @@ http://209.141.49.113/v
 http://205.185.124.206/sex.sh
 http://209.141.49.113/sd.sh
 http://217.84.190.48/sshd
+http://86.54.42.125/mipsel.nn
+http://86.54.42.125/sparc.nn
 http://86.54.42.125/sh4.nn
 http://86.54.42.125/arm.nn
 http://86.54.42.125/arm7.nn
@@ -4350,6 +4383,7 @@ http://39.103.58.78/02.08.2022.exe
 http://47.102.209.177:8899/02.08.2022.exe
 http://121.144.247.212:6692/i
 http://41.246.164.238:8082/sshd
+http://196.219.130.75:52670/i
 http://41.246.164.238:8084/sshd
 http://41.246.164.238:8083/sshd
 http://92.144.86.229:65317/i
@@ -4575,6 +4609,7 @@ https://kristalzemin.com/Faae127.ocx
 https://kristalzemin.com/qEGaAzL74.bin
 https://kristalzemin.com/Surmount.mso
 http://81.226.201.46:54352/i
+http://173.18.16.18:27193/i
 http://43.251.84.196:21388/i
 http://223.83.211.82:8000/sshd
 http://185.76.252.53:184/sshd
@@ -5249,6 +5284,7 @@ http://43.229.20.42:2874/i
 https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
 https://lsks.volamngayxua.net/AutoUpdate.exe
+https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
 http://43.226.39.44:5988/TestMemTest10.exe
@@ -9553,7 +9589,6 @@ https://annadegismen.com/js/wmxrlh.js
 https://annadegismen.com/js/jiurtg.js
 https://annadegismen.com/js/oyhixg.js
 https://annadegismen.com/js/unpagw.js
-https://annadegismen.com/js/tmvhgx.js
 https://annadegismen.com/js/qugkmx.js
 https://annadegismen.com/js/wxpfmy.js
 https://annadegismen.com/js/xyphbf.js
@@ -9589,6 +9624,7 @@ https://annadegismen.com/js/lmaknf.js
 https://annadegismen.com/js/yiuojp.js
 https://annadegismen.com/js/pamvwr.js
 https://annadegismen.com/js/heqigs.js
+https://annadegismen.com/js/lzjxve.js
 https://annadegismen.com/js/xcvepk.js
 https://annadegismen.com/js/yduphe.js
 https://annadegismen.com/js/iodhgt.js
@@ -9666,7 +9702,6 @@ https://annadegismen.com/js/rfwelc.js
 https://annadegismen.com/js/eyivgm.js
 https://annadegismen.com/js/cpeqni.js
 https://annadegismen.com/js/gdqxnm.js
-https://annadegismen.com/js/rnejox.js
 https://annadegismen.com/js/ngvihl.js
 https://annadegismen.com/js/qrwujv.js
 https://annadegismen.com/js/kpqgja.js
@@ -9739,6 +9774,7 @@ https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/yuesrp.js
 https://annadegismen.com/js/wkmpis.js
 https://annadegismen.com/js/lzgmnf.js
+https://annadegismen.com/js/zefhca.js
 https://annadegismen.com/js/ahpftx.js
 https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
@@ -9791,7 +9827,6 @@ https://annadegismen.com/js/ecalyt.js
 https://annadegismen.com/js/ojuwkc.js
 https://annadegismen.com/js/eyanol.js
 https://annadegismen.com/js/hrdcou.js
-https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/hnwkmj.js
 https://annadegismen.com/js/nlizmc.js
@@ -9840,7 +9875,6 @@ https://annadegismen.com/js/xljwek.js
 https://annadegismen.com/js/chztsf.js
 https://annadegismen.com/js/jezqcu.js
 https://annadegismen.com/js/pmgyrd.js
-https://annadegismen.com/js/sxvnkf.js
 https://annadegismen.com/js/jxufsd.js
 https://annadegismen.com/js/wjlhgv.js
 https://annadegismen.com/js/ecpjkf.js
@@ -9908,6 +9942,7 @@ https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
+https://annadegismen.com/js/gcbepw.js
 https://annadegismen.com/js/zsdpvi.js
 https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/ndesbu.js
@@ -12038,7 +12073,6 @@ http://178.151.34.26:9354/.i
 http://71.42.105.54:7158/.i
 http://190.4.51.242:58806/.i
 http://103.235.66.238:31442/.i
-http://109.245.220.229:44759/.i
 http://172.85.143.74:47929/.i
 http://37.192.22.166:28149/.i
 http://190.145.205.178:6360/.i
@@ -12533,7 +12567,6 @@ http://91.92.94.138:15350/i
 http://136.169.119.33:51153/i
 http://102.216.69.112:17350/i
 http://119.40.84.254:32920/i
-http://103.62.233.206:62130/i
 http://78.26.180.129:37261/i
 http://130.204.154.237:3204/i
 http://63.78.214.18:33536/i
@@ -12965,7 +12998,6 @@ https://kitchenidea.me/stt/stt.js
 https://chinesegarden.com.tr/nit/nit.js
 https://gabyagozetim.com/scarica/
 https://villanyzsolti.hu/connect/
-https://admin.byte.in.ua/agenzia/
 https://records.dennisign.se/connect/
 https://donkeytourscroatia.com/agenzia/
 https://gabyagozetim.com/connect/
@@ -13401,7 +13433,6 @@ http://sg123.net/files/install.exe
 http://igra123.com/files/install.exe
 http://igra123.com/files/update.exe
 http://haeum.nfile.net/files/haeum.exe
-http://down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
 http://static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
 http://p4man.com.br/Rechnungen/01_19/
 http://attach.mail.daum.net/bigfile/v1/urls/d/4QnWTDd-4XsuUy1XlRMzcibqJfU/IHdzYO55cuS7ds4lmMKxpA
@@ -13502,5 +13533,4 @@ http://tirtasentosa.com/give/ukbros002.exe
 http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
 http://tirtasentosa.com/give/obi001.exe
-http://tirtasentosa.com/give/jon001.exe
 http://tirtasentosa.com/give/was001.exe
