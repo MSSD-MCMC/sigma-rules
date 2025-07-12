@@ -1,3 +1,9 @@
+http://117.235.107.110:52518/bin.sh
+http://182.120.10.105:53104/i
+http://123.11.6.166:47016/i
+http://182.120.10.105:53104/bin.sh
+http://125.40.153.68:46627/i
+http://123.11.6.166:47016/bin.sh
 http://123.191.89.67:37979/i
 http://42.234.202.211:49073/i
 http://42.227.176.182:58554/i
@@ -298,7 +304,6 @@ https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.x86_64
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.arm4
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/kaitor.mpsl
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.m68k
-https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.arm6
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.arm5
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/kaitor.arm7
 https://github.com/lightdarkcode525/test2/raw/refs/heads/main/torz.arm7
@@ -402,7 +407,6 @@ http://222.220.238.40:48776/i
 http://37.52.151.37:45257/bin.sh
 http://222.220.238.40:48776/bin.sh
 http://42.231.93.151:58864/bin.sh
-http://222.137.23.144:56254/i
 http://196.251.114.102/00101010101001/morte.mpsl
 http://196.251.113.9/00101010101001/morte.x86_64
 http://196.251.69.241/00101010101001/morte.arm5
@@ -599,7 +603,6 @@ http://156.225.31.150:808/linux_ppc64
 http://www.xikou.org:808/linux_arm64
 http://156.225.31.150:808/linux_ppc64el
 http://156.225.31.150:808/linux_mips64_softfloat
-http://156.225.31.150:808/linux_mips
 http://156.225.31.150:808/linux_mips_softfloat
 http://156.225.31.150:808/linux_arm6
 http://156.225.31.150:808/linux_arm64
@@ -634,6 +637,7 @@ http://1.94.239.203:1111/02.08.2022.exe
 http://8.137.80.215/02.08.2022.exe
 http://1.15.25.148:3443/02.08.2022.exe
 http://120.48.25.39/02.08.2022.exe
+http://124.70.219.41:7070/02.08.2022.exe
 http://139.196.248.134/02.08.2022.exe
 http://49.65.96.18:9999/02.08.2022.exe
 http://41.145.128.24:8083/sshd
@@ -908,7 +912,6 @@ http://182.127.112.75:52098/i
 http://182.127.112.75:52098/bin.sh
 http://123.12.173.148:38400/bin.sh
 https://dhxhn1njedrgt.cloudfront.net/NovaX.apk
-http://42.52.105.183:39285/i
 http://42.86.182.46:34556/i
 http://175.165.118.178:52800/bin.sh
 http://bot.hiddenlists.net/bot.x86_64
@@ -1816,7 +1819,6 @@ http://77.90.153.136/vv/armv4l
 http://77.90.153.136/vv/armv7l
 http://77.90.153.136/vv/armv6l
 http://200.59.83.42:47834/i
-http://45.74.116.201:44200/i
 http://200.59.83.42:47834/bin.sh
 http://88.225.231.222:57674/i
 http://47.238.228.19/test/12h/12h.msi
@@ -2000,6 +2002,7 @@ http://185.208.158.140/nc
 http://185.208.158.140/powerpc
 http://191.241.143.19:55130/bin.sh
 https://intelligentopennetworkingawards.com/ghostgera/
+http://47.92.106.246:8443/02.08.2022.exe
 http://47.121.24.204/02.08.2022.exe
 http://124.131.90.66:12457/i
 http://46.236.65.58:56051/i
@@ -2316,6 +2319,7 @@ http://171.231.112.142:23991/i
 http://211.226.243.108:1535/i
 https://abdulelectricalsandinfra.in/?u=script
 https://demo.goldenspoongroup.com/?u=script
+https://69cutlass.com/?u=script
 https://delledonneluthier.com/?u=script
 https://6ixportal.ca/?u=script
 https://dealshubindia.in/?u=script
@@ -4174,6 +4178,7 @@ http://1.94.184.17:8000/zbsm.zip
 http://20.41.73.175:8080/02.08.2022.exe
 http://39.98.204.142:9090/02.08.2022.exe
 http://193.37.69.42:5389/02.08.2022.exe
+http://120.46.212.33:1112/02.08.2022.exe
 http://103.70.147.14:37720/i
 http://202.88.234.44:64615/i
 http://185.208.158.206/xm/xmrig-6.22.2/xmrig
@@ -4950,6 +4955,7 @@ http://191.7.47.222:21234/.i
 http://47.86.1.37:60125/linux
 http://47.239.192.107:60140/linux
 http://203.203.90.22:14961/.i
+http://121.101.255.108:5080/.i
 http://81.23.169.191:36881/.i
 http://221.159.190.196:8868/.i
 http://80.76.101.102:22010/.i
@@ -5286,6 +5292,7 @@ http://124.123.26.174:8888/sshd
 http://109.92.203.214:51326/i
 https://182.255.45.244:64898/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
+https://120.79.64.164:58232/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
@@ -5366,6 +5373,7 @@ http://8.134.199.119/wj/vcruntime140_1.dll
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s86.txt
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
+http://111.229.108.128:12233/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
 https://bestieslos.com/MAKEEWYK.msi
@@ -8411,7 +8419,6 @@ http://154.126.184.240:24236/i
 http://178.168.9.189:56526/.i
 https://2024.sci-hub.se/6107/8404c3d00d8aee946bdf1c140c904799/sorandaru2016.pdf
 https://app-store.s3.cn-north-1.jdcloud-oss.com/tronlink.apk
-http://120.24.64.74/02.08.2022.exe
 http://80.11.36.4:10018/sshd
 http://80.11.36.4:10019/sshd
 http://37.9.25.206:36858/i
@@ -9369,7 +9376,6 @@ https://drive.google.com/uc?export=download&id=1B3MRGXuZWdG46eXHp6A71YeYmlVrmaBx
 https://drive.google.com/uc?export=download&id=1NvSn7w4EPO6U8rU3BheuM2FyGVBG6fh4
 https://drive.google.com/uc?export=download&id=1-WQl_IuA-mYLU2KIuYz-IB-5GgJqjQQP
 https://firebasestorage.googleapis.com/v0/b/decqq-cf20a.appspot.com/o/donchifile_VchFujk91.bin?alt=media&token=c2737a65-ff1c-436c-a6f0-11d3a748f62f
-http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip64.dll
 http://8.137.114.210:4455/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
@@ -9507,7 +9513,6 @@ https://annadegismen.com/js/lhkrya.js
 https://annadegismen.com/js/nmsgoz.js
 https://annadegismen.com/js/uxsfql.js
 https://annadegismen.com/js/lkcwbp.js
-https://annadegismen.com/js/wpglyv.js
 https://annadegismen.com/js/ilgesm.js
 https://annadegismen.com/js/ynjsml.js
 https://annadegismen.com/js/ckhvft.js
@@ -9531,7 +9536,6 @@ https://annadegismen.com/js/mspldv.js
 https://annadegismen.com/js/tlbqkr.js
 https://annadegismen.com/js/ocjbrm.js
 https://annadegismen.com/js/tzokax.js
-https://annadegismen.com/js/hmdjou.js
 https://annadegismen.com/js/zvwjks.js
 https://annadegismen.com/js/hxysdw.js
 https://annadegismen.com/js/euhzjt.js
@@ -9862,6 +9866,7 @@ https://annadegismen.com/js/gqmosl.js
 https://annadegismen.com/js/gnkjqf.js
 http://annadegismen.com/js/ctiakn.js
 http://annadegismen.com/js/geruvw.js
+http://annadegismen.com/js/wueshi.js
 http://annadegismen.com/js/gabjzd.js
 http://annadegismen.com/js/nhoiwl.js
 http://annadegismen.com/js/lisyxb.js
@@ -10984,6 +10989,7 @@ http://118.127.112.49:17818/Mozi.m
 http://154.0.129.134:10702/Mozi.m
 http://41.77.74.90:10702/Mozi.m
 http://87.197.107.203:52364/Mozi.m
+http://190.217.148.227:4886/Mozi.m
 http://78.29.19.18:3200/Mozi.m
 http://185.57.69.125:16138/Mozi.m
 http://89.190.76.126:4729/Mozi.m
@@ -11027,6 +11033,7 @@ http://119.40.91.22:1544/Mozi.m
 http://116.58.83.76:39359/Mozi.m
 http://194.208.56.60:14184/Mozi.m
 http://81.16.247.81:17403/Mozi.m
+http://217.218.235.202:17134/Mozi.m
 http://150.129.202.197:1316/Mozi.m
 http://27.116.61.234:44306/Mozi.m
 http://36.95.14.237:26598/Mozi.m
@@ -12077,7 +12084,6 @@ http://179.190.109.156:21882/.i
 http://95.170.119.100:1863/.i
 http://90.182.214.197:50162/.i
 http://217.64.96.209:13156/.i
-http://64.140.100.194:44920/.i
 http://202.124.33.242:51961/.i
 http://176.12.6.42:47684/.i
 http://136.169.119.33:51153/.i
@@ -12884,7 +12890,6 @@ http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Hsrdqwkmzlr
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Udndlytpwdl
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Irvwgjjfsyc
-http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Zjqyppwjmbp
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Ztjemchbyhr
 https://github.com/janchuk/VoidRAT/raw/master/VoidRAT.exe
 http://47.98.224.91/buding.exe
