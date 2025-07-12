@@ -1,3 +1,17 @@
+http://221.13.182.65:46973/bin.sh
+http://182.124.235.131:54996/bin.sh
+http://60.18.66.110:34560/i
+http://212.64.201.67:8000/bot
+http://212.64.201.67:8081/api/bot/download/BLD-1752275340-Sperme1337?token=b4ec35da81d3a33ff95416bdd0b0cc75
+http://117.213.252.241:58210/i
+http://141.11.62.222/x/tplink
+http://59.93.129.250:48853/bin.sh
+http://42.7.219.126:59796/i
+http://125.41.240.200:60341/i
+http://60.18.66.110:34560/bin.sh
+http://182.112.28.201:54756/i
+http://175.165.81.101:59403/i
+http://42.7.219.126:59796/bin.sh
 http://219.157.134.198:60784/bin.sh
 http://113.236.65.183:40659/i
 http://182.114.195.248:43595/i
@@ -546,7 +560,6 @@ http://84.200.193.120/bins/bins.sh
 http://84.200.193.120/bins/miraint.mpsl
 http://84.200.193.120/bins/miraint.arm5n
 http://84.200.193.120/bins/mirai.mips
-http://84.200.193.120/bins/mirai.arm5n
 http://84.200.193.120/bins/mirai.mpsl
 http://84.200.193.120/bins/miraint.x86
 http://84.200.193.120/bins/miraint.arm
@@ -705,7 +718,6 @@ http://cdn.valgap.org/huawei
 http://cdn.valgap.org/hnap
 http://cdn.valgap.org/realtek
 http://cameldomain1.n-e.kr/bins/mpsl
-http://cameldomain1.n-e.kr/bins/arm6
 http://cameldomain1.n-e.kr/bins/m68k
 http://cameldomain1.n-e.kr/bins/x86
 http://cameldomain1.n-e.kr/bins/mips
@@ -779,7 +791,6 @@ http://45.74.16.34/bins/mpsl
 http://45.74.16.34/bins/x86
 http://45.74.16.34/1.sh
 http://27.202.83.205:33454/i
-http://27.202.83.205:33454/bin.sh
 http://123.11.169.246:58863/i
 http://42.55.230.131:40734/bin.sh
 http://123.11.169.246:58863/bin.sh
@@ -1120,7 +1131,6 @@ http://200.59.81.204:38875/i
 http://175.165.47.171:48733/i
 http://60.23.214.58:43788/bin.sh
 http://175.165.47.171:48733/bin.sh
-http://119.109.213.205:60194/i
 http://36.163.57.158:41041/bin.sh
 https://paste.ee/d/wE1uPdmv/0
 https://paste.ee/d/o5QmlbuN/0
@@ -1594,7 +1604,6 @@ http://107.175.158.208:2086/02.08.2022.exe
 http://47.120.32.72:8081/02.08.2022.exe
 http://101.200.193.211:8080/02.08.2022.exe
 http://14.173.33.250:8081/sshd
-http://47.120.32.72:8080/02.08.2022.exe
 http://102.212.60.172:8025/sshd
 http://165.50.16.26:31040/i
 http://77.110.113.242/Documents/fw9.lnk
@@ -1791,6 +1800,7 @@ http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
 http://abc.galaxias.cc/00101010101001/morte.arc
 http://abc.galaxias.cc/00101010101001/morte.ppc
+http://abc.galaxias.cc/00101010101001/morte.x86_64
 http://abc.galaxias.cc/00101010101001/morte.arm5
 http://abc.galaxias.cc/00101010101001/debug
 http://abc.galaxias.cc/00101010101001/morte.sh4
@@ -2144,7 +2154,6 @@ http://207.167.64.24/mirai.arm7
 http://207.167.64.24/tbk.sh
 http://207.167.64.24/mirai.i686
 https://checkinetverifk.com/A3f.dof
-https://michellegraci.com/fyvu.zip
 https://michellegraci.com/fyvu.zip?le=19
 https://michellegraci.com/smkl.zip?le=48/
 https://michellegraci.com/hatz.zip
@@ -2256,6 +2265,7 @@ http://185.208.158.140/mips
 http://185.208.158.140/sparc
 http://185.208.158.140/arm7
 http://39.103.236.200:443/02.08.2022.exe
+http://124.222.74.146:6666/02.08.2022.exe
 http://47.109.93.252:50051/02.08.2022.exe
 http://103.159.72.227:42939/i
 http://82.139.187.78:47271/i
@@ -2407,7 +2417,6 @@ https://7hillssymphony.org/?u=script
 https://dentalixe.com/?u=script
 https://depoimentos.professorcorazza.com.br/?u=script
 https://demauroconsulting.com/?u=script
-https://youraffiliatesecret.com/?u=script
 https://dentemaxdental.com.au/?u=script
 https://delugeministries.com/?u=script
 https://derrickvelasquez.com/?u=script
@@ -4082,6 +4091,8 @@ http://43.138.30.109:9999/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://121.36.27.251/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
+http://101.226.8.163:1521/02.08.2022.exe
+http://43.159.57.217:5555/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
@@ -4499,6 +4510,7 @@ http://4.233.216.36:8000/a.ps1
 http://4.233.216.36:8000/b.ps1
 http://4.233.216.36:8000/beacon.bin
 http://72.177.84.111:8232/i
+http://124.221.27.158:7500/02.08.2022.exe
 http://185.95.124.42:2220/sshd
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
@@ -5426,7 +5438,6 @@ http://github.com/ducanh82919/ducanh/raw/refs/heads/main/remcos_a.exe
 http://github.com/Uelenka/supreme-spork/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/Niggedddx/Dependenciuesfeife/raw/refs/heads/main/BruterV3.1.exe
 http://github.com/arduino1209/archive-client/raw/refs/heads/main/payload1.exe
-https://acc.trjsp41.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://24x7support.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://screensconnct.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -5829,6 +5840,7 @@ https://github.com/hakimil/hack-crypto-wallet/releases/download/v2.7.7-beta.4/ha
 https://github.com/AussieONZaza/assets/raw/refs/heads/master/Launcher.zip
 http://121.37.134.174:8080/02.08.2022.exe
 http://8.141.166.236:8888/02.08.2022.exe
+http://101.133.156.69:18888/02.08.2022.exe
 http://79.121.103.84:45544/i
 http://78.111.30.28:6692/i
 http://175.140.197.149:12408/i
@@ -7082,7 +7094,6 @@ https://github.com/NT8068/AWP.gg-Executor-Roblox/releases/download/v2.0/Software
 https://github.com/RandomX-blip/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/1.0.4/infinite-yield-admin-tool-v1.0.4.zip
 https://github.com/AinulGaming/Bypass-Hwid-Spoofer/releases/download/v1.3.6/slidesharedownloader_v2.3.0.zip
 https://onyxsafetrack.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://onyxstealthnet.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxaquarius.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://103.79.114.28:17429/i
 http://96.9.87.21:58844/i
@@ -8774,7 +8785,6 @@ http://93.117.75.7:8080/sshd
 http://2.54.89.174:802/sshd
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
-http://8.140.239.162/02.08.2022.exe
 http://121.121.71.113:31863/i
 http://190.220.229.49:12646/i
 http://31.185.103.48:54941/i
@@ -8802,7 +8812,6 @@ http://185.148.3.216/5fr5gthkjdg71
 https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
-http://47.90.142.15/02.08.2022.exe
 http://121.40.112.176:8087/02.08.2022.exe
 http://182.252.66.22:16263/i
 http://103.50.4.174:28917/i
@@ -9616,6 +9625,7 @@ https://annadegismen.com/js/nwbgvc.js
 https://annadegismen.com/js/ijermv.js
 https://annadegismen.com/js/ieubhk.js
 https://annadegismen.com/js/ctiakn.js
+https://annadegismen.com/js/stlhfw.js
 https://annadegismen.com/js/swejgo.js
 https://annadegismen.com/js/wijbyn.js
 https://annadegismen.com/js/ebavlw.js
@@ -9631,6 +9641,7 @@ https://annadegismen.com/js/vyiagt.js
 https://annadegismen.com/js/zsjwbc.js
 https://annadegismen.com/js/yoaxpt.js
 https://annadegismen.com/js/mspldv.js
+https://annadegismen.com/js/tlbqkr.js
 https://annadegismen.com/js/ocjbrm.js
 https://annadegismen.com/js/tzokax.js
 https://annadegismen.com/js/hmdjou.js
@@ -9897,6 +9908,7 @@ https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
+https://annadegismen.com/js/zsdpvi.js
 https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/ndesbu.js
 https://annadegismen.com/js/dumbnq.js
@@ -9940,10 +9952,8 @@ https://annadegismen.com/js/xntyfk.js
 https://annadegismen.com/js/mhayzo.js
 https://annadegismen.com/js/wbpusy.js
 https://annadegismen.com/js/vmjorn.js
-https://annadegismen.com/js/svandw.js
 https://annadegismen.com/js/yhcoms.js
 https://annadegismen.com/js/zcowxm.js
-https://annadegismen.com/js/gsklwf.js
 https://annadegismen.com/js/qgkljo.js
 https://annadegismen.com/js/xqbgec.js
 https://annadegismen.com/js/vromjb.js
@@ -10997,6 +11007,7 @@ http://193.106.58.174:32789/Mozi.m
 http://36.88.180.115:20043/Mozi.m
 http://118.71.250.6:28411/Mozi.m
 http://202.78.201.3:62330/Mozi.m
+http://181.49.47.190:46516/Mozi.m
 http://124.194.46.204:44528/Mozi.m
 http://151.237.4.20:46151/Mozi.m
 http://62.73.121.49:29111/Mozi.m
@@ -13465,7 +13476,6 @@ http://users.atw.hu/nykol16/kepek.exe
 http://users.atw.hu/zoolatogato/xrUHBmzvLAgHfnQCerRv.exe
 http://users.atw.hu/toneraruhaz/wp-admin/network/installer.rar
 http://users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe
-http://robertrowe.com/Vqd0D5/
 http://hasalltalent.com/Factures-09-2018/
 http://vgd.vg/Document/En/Need-to-send-the-attachment
 http://vgd.vg/7MN5ZO8D/
