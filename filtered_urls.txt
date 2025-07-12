@@ -1,3 +1,9 @@
+http://59.96.143.72:49129/bin.sh
+http://117.212.48.186:39790/bin.sh
+http://112.82.118.12:49985/i
+http://222.137.1.141:36987/bin.sh
+http://42.224.136.142:53421/i
+http://115.63.248.19:53926/bin.sh
 http://106.41.47.122:56377/bin.sh
 http://112.82.118.12:49985/bin.sh
 http://42.224.136.142:53421/bin.sh
@@ -651,7 +657,6 @@ http://206.123.128.47/bins/arm6
 http://123.190.30.16:48051/bin.sh
 http://206.123.128.90/bot.arm5
 http://45.74.16.34/bins/ppc
-http://206.123.128.90/bot.m68k
 http://206.123.128.90/bot.arm6
 http://206.123.128.90/bot.arm
 http://206.123.128.90/bot.sh4
@@ -721,7 +726,6 @@ https://home.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://home.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://bon.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://dive.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://buzz.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://assuredfix.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://cook.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onlinehotvideos.com/44/w.exe
@@ -821,7 +825,6 @@ http://208.123.36.32:55704/i
 http://31.135.249.24:49394/bin.sh
 http://122.245.159.96:42255/bin.sh
 http://221.214.248.37:32955/i
-http://196.251.80.60/hiddenbin/boatnet.arm6
 http://196.251.80.166/LjEZs/uYtea.x86
 http://196.251.80.60/hiddenbin/boatnet.sh4
 http://196.251.80.60/hiddenbin/boatnet.arm5
@@ -1158,7 +1161,6 @@ http://113.89.43.165:40502/bin.sh
 http://175.147.231.232:55997/bin.sh
 http://222.127.61.32:60584/i
 http://60.177.19.165:53939/i
-http://112.198.130.112:52508/bin.sh
 http://175.149.85.40:58368/i
 http://175.148.5.169:41137/bin.sh
 http://175.149.85.40:58368/bin.sh
@@ -1211,7 +1213,6 @@ http://103.130.213.44/LjEZs/uYtea.arm
 http://158.51.126.131/v/armv5l
 http://103.130.213.44/LjEZs/uYtea.x86_64
 http://103.130.213.44/LjEZs/uYtea.arc
-http://158.51.126.131/v/mips
 http://158.51.126.131/v/armv4l
 http://103.130.213.44/LjEZs/uYtea.spc
 http://103.130.213.44/LjEZs/uYtea.m68k
@@ -1331,7 +1332,6 @@ http://61.137.132.123:58305/bin.sh
 http://27.223.184.219:50103/i
 http://175.31.168.139:40588/bin.sh
 http://27.223.184.219:50103/bin.sh
-http://222.127.170.183:35531/i
 http://113.231.79.184:51137/i
 http://202.169.232.194:53722/i
 http://222.127.170.183:35531/bin.sh
@@ -1772,6 +1772,7 @@ http://abc.galaxias.cc/00101010101001/morte.mpsl
 http://abc.galaxias.cc/00101010101001/debug
 http://abc.galaxias.cc/00101010101001/morte.sh4
 http://abc.galaxias.cc/1.sh
+http://abc.galaxias.cc/00101010101001/morte.x86
 http://186.88.165.234:46520/i
 http://186.88.165.234:46520/bin.sh
 http://200.59.83.35:51124/i
@@ -2065,6 +2066,7 @@ http://94.255.232.166:37372/i
 http://200.59.84.225:48846/i
 http://24.88.242.6:41406/i
 http://218.91.153.60:44200/i
+http://120.28.214.232:42075/i
 http://175.175.206.107:50371/i
 http://191.241.143.15:45734/i
 http://188.150.45.193:51451/i
@@ -2326,7 +2328,6 @@ http://103.20.102.84/w.sh
 http://103.20.102.84/x86_64
 http://162.215.218.82/aminer.gz
 http://162.215.218.82/install.tgz
-http://47.101.187.219:81/02.08.2022.exe
 http://43.139.185.214/02.08.2022.exe
 http://46.236.65.11:45811/i
 http://176.96.131.92/arm
@@ -2426,7 +2427,6 @@ http://103.245.237.243/d/akido.sh4
 http://talentrecruitments.com/new_image.jpg
 http://103.245.237.243/d/akido.spc
 http://103.245.237.243/d/wget.sh
-https://talentrecruitments.com/js/new_image.jpg
 http://103.245.237.243/d/c.sh
 http://103.245.237.243/d/akido.arm
 http://103.245.237.243/d/akido.arm6
@@ -4261,9 +4261,7 @@ http://86.54.42.125/sparc.nn
 http://86.54.42.125/sh4.nn
 http://86.54.42.125/arm.nn
 http://86.54.42.125/arm7.nn
-http://86.54.42.125/arm5.nn
 http://86.54.42.125/x86_32.nn
-http://86.54.42.125/x86_64.nn
 http://86.54.42.125/m68k.nn
 http://86.54.42.125/arm6.nn
 https://github.com/cybertoxin/Remcos-Professional-Cracked-By-Alcatraz3222/raw/master/Remcos%20Professional%20Cracked%20By%20Alcatraz3222.zip
@@ -4903,6 +4901,7 @@ http://82.102.157.161:802/sshd
 http://211.229.88.50:32107/.i
 http://42.200.207.90/386
 http://42.200.207.90/arm
+http://36.91.77.59:43282/i
 http://103.10.63.150:37596/i
 http://31.182.123.72:62516/i
 http://68.193.233.41:36378/.i
@@ -7476,7 +7475,6 @@ https://img1.wsimg.com/blobby/go/26bbb7e6-2f83-462e-b1a0-c9b7b5a50d38/downloads/
 https://img1.wsimg.com/blobby/go/5a9e93e0-0f17-4e5e-a00c-88e3958ec770/downloads/najovozulubameto.pdf
 https://img1.wsimg.com/blobby/go/225bb15f-2915-4639-a3a1-bcedb142b1ef/downloads/letter_format_for_reply_to_show_cause_notice.pdf
 https://img1.wsimg.com/blobby/go/c718f9e1-28ba-4c02-b434-4456f7af09a8/downloads/masizaz.pdf
-https://img1.wsimg.com/blobby/go/e0a1cb9a-d03c-4949-aa70-8624f1f28094/downloads/68698784677.pdf
 https://img1.wsimg.com/blobby/go/34a417cb-7930-4ae3-8428-8420716ba08a/downloads/51274200809.pdf
 https://img1.wsimg.com/blobby/go/990799bc-d23a-46ce-a09a-3161937bf907/downloads/rolinejagogid.pdf
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/buxam.pdf
@@ -9470,6 +9468,7 @@ https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://162.219.216.183:40370/Mozi.a
 http://165.154.184.75/SearchUII.exe
 https://csg-app.com/order/purchaseorder.exe
+https://csg-app.com/order/putty.exe
 http://81.42.249.132:1080/Video.scr
 http://81.42.249.132:1080/Photo.scr
 http://81.42.249.132:1080/Photo.lnk
@@ -9557,6 +9556,8 @@ https://annadegismen.com/js/xpdlwg.js
 https://annadegismen.com/js/kawjhl.js
 https://annadegismen.com/js/gabjzd.js
 https://annadegismen.com/js/ehyjku.js
+https://annadegismen.com/js/auwgir.js
+https://annadegismen.com/js/gkevtl.js
 https://annadegismen.com/js/flutce.js
 https://annadegismen.com/js/bzykis.js
 https://annadegismen.com/js/vxoiba.js
@@ -11262,6 +11263,7 @@ http://37.252.86.167:36327/i
 http://36.95.14.237:26598/i
 http://185.151.108.232:29113/i
 http://185.56.172.234:9362/i
+http://37.233.63.185:33423/i
 http://200.11.216.34:54077/i
 http://201.184.179.195:30450/i
 http://95.170.112.61:14898/i
@@ -11460,7 +11462,6 @@ https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/networks_profile
 https://raw.githubusercontent.com/s3q/blackdoor/main/backdoor.exe
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_move.bat
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_virus.bat
-http://194.122.165.159/Photo.scr
 http://64.234.95.70/Photo.scr
 http://170.55.7.234/Photo.scr
 http://94.255.218.185/Photo.scr
@@ -11941,7 +11942,6 @@ http://80.14.38.66:1081/sshd
 http://119.13.179.180:8081/sshd
 http://77.237.29.219:2027/sshd
 http://193.251.62.153:65003/sshd
-http://202.22.143.159:9020/sshd
 http://46.250.54.75:84/sshd
 http://202.139.21.198:1125/sshd
 http://99.71.130.109:8042/sshd
@@ -12157,6 +12157,7 @@ http://109.171.30.19:33609/.i
 http://186.154.93.81:8125/.i
 http://150.129.202.197:1316/.i
 http://36.94.29.82:23591/.i
+http://43.245.131.27:1203/.i
 http://89.216.100.166:30359/.i
 http://186.42.98.2:28072/.i
 http://186.159.0.129:52617/.i
@@ -12758,7 +12759,6 @@ http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
 http://36.67.66.178:23987/bin.sh
-http://43.224.0.5:1316/o
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
 http://81.16.123.55:41567/bin.sh
@@ -12802,6 +12802,7 @@ http://69.142.178.141:39145/i
 http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
+https://contentmentfairnesspesky.com/54/66/ea/5466ea04d7d3b8b726b1288f75403510.js
 https://computersupportexperts.com/css/down.exe
 https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
@@ -13239,6 +13240,7 @@ http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
+http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 https://quovadisholidays.testingdemo.net/quovadisholidays.com/docs/m-99675669-7561188-hrh8fb2zu-tk2irfuvp/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
 http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
