@@ -1,3 +1,15 @@
+http://182.121.232.105:46439/bin.sh
+http://42.225.11.41:54759/bin.sh
+http://117.242.235.111:54885/bin.sh
+http://121.16.185.87:54411/bin.sh
+http://219.155.56.222:38500/i
+https://walkin.college/trace.mp3
+http://176.46.157.32/files/tm/random.exe
+http://94.156.114.219/8UsA.sh
+http://109.235.7.1:34851/i
+http://115.57.240.99:47057/i
+http://219.155.56.222:38500/bin.sh
+http://39.89.21.199:52357/i
 http://115.57.240.99:47057/bin.sh
 http://112.248.184.253:38225/bin.sh
 http://125.43.106.244:52514/i
@@ -58,7 +70,6 @@ http://82.29.164.99/systemcl/sh4
 http://82.29.164.99/wget.sh
 http://82.29.164.99/systemcl/arm7
 http://82.29.164.99/systemcl/ppc
-http://51.79.100.117:8085/chocovm/phobos-ransomware-builder/raw/branch/main/2fcad226b17131da4274e1b9f8f31359bdd325c9568665f08fd1f6c5d06a23ce.exe
 http://82.29.164.99/systemcl/arm
 http://42.178.85.253:47129/i
 http://113.231.233.48:49230/i
@@ -609,7 +620,6 @@ http://196.251.69.244/00101010101001/morte.arm5
 http://196.251.69.179/00101010101001/morte.arm7
 http://196.251.69.241/1.sh
 http://196.251.69.244/00101010101001/morte.x86
-http://196.251.69.254/1.sh
 http://103.77.241.145/00101010101001/morte.spc
 http://196.251.69.179/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/morte.mips
@@ -744,6 +754,7 @@ http://35.222.201.2:443/02.08.2022.exe
 http://123.60.142.31/02.08.2022.exe
 http://1.15.25.148:9080/02.08.2022.exe
 http://101.200.193.211:8088/02.08.2022.exe
+http://213.209.150.214:8080/02.08.2022.exe
 http://103.112.210.25:40080/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
 http://1.15.25.148:3443/02.08.2022.exe
@@ -942,7 +953,6 @@ http://42.179.120.19:53784/bin.sh
 http://183.196.198.139:60120/linux
 http://123.188.54.211:60453/bin.sh
 http://113.230.25.28:60018/i
-http://113.230.25.28:60018/bin.sh
 http://200.59.88.121:48420/i
 http://123.172.79.66:32865/i
 http://176.46.157.32/files/5466831341/a9RD5LI.exe
@@ -969,7 +979,6 @@ http://42.54.187.108:33592/i
 http://208.123.36.32:55704/i
 http://31.135.249.24:49394/bin.sh
 http://196.251.80.60/hiddenbin/boatnet.arm5
-http://196.251.80.60/hiddenbin/boatnet.arm
 http://196.251.80.60/hiddenbin/boatnet.m68k
 http://196.251.80.166/LjEZs/uYtea.x86_64
 http://196.251.80.60/hiddenbin/boatnet.arc
@@ -1733,7 +1742,6 @@ http://abc.galaxias.cc/00101010101001/morte.arm
 http://abc.galaxias.cc/00101010101001/morte.i686
 http://abc.galaxias.cc/00101010101001/morte.x86_64
 http://abc.galaxias.cc/00101010101001/morte.mpsl
-http://abc.galaxias.cc/00101010101001/morte.arm5
 http://abc.galaxias.cc/00101010101001/debug
 http://abc.galaxias.cc/00101010101001/morte.sh4
 http://abc.galaxias.cc/00101010101001/morte.arm6
@@ -2325,6 +2333,7 @@ https://a3dvisualizacion.com/wp/?u=script
 https://dellaeventos.com/?u=script
 https://derinkokkirtasiye.com/?u=script
 https://deanvon.com/?u=script
+https://7jigen.net/wp/?u=script
 https://8slions.picklescoop.com/?u=script
 https://a-talentagency.com/?u=script
 https://dentismexico.com/?u=script
@@ -2354,6 +2363,7 @@ https://deamoseguros.com.br/?u=script
 https://aahhcmi.com/?u=script
 https://design.pazeinternational.com/?u=script
 https://yosa.com/?u=script
+https://yoyely.nl/?u=script
 http://176.96.131.92/mipsel
 http://176.96.131.92/i686
 http://176.96.131.92/x86_64
@@ -3181,6 +3191,7 @@ http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://43.138.30.109:7524/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
+http://101.226.8.163:1521/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
@@ -7546,7 +7557,6 @@ http://103.18.28.106:10757/i
 http://85.206.188.166:8582/sshd
 https://github.com/leinchchanceleinch/jik/raw/refs/heads/main/d.msi
 http://185.148.3.216/Okfgjrg5d8gt
-https://hkuu.oss-cn-hongkong.aliyuncs.com/hkuu/down.exe
 https://hkuu.oss-cn-hongkong.aliyuncs.com/hkuu/TASLogin.log
 https://hkuu.oss-cn-hongkong.aliyuncs.com/hkuu/TASLoginBase.dll
 http://179.248.3.202.ll.sta.mana.pf/sshd
@@ -7753,7 +7763,6 @@ https://raw.githubusercontent.com/sleepysnz/skibidi/refs/heads/main/CondoGenerat
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 http://github.com/TOP-executors/JJsploit/releases/download/v2.1.0/JJSPLOIT.V2.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
-http://101.35.235.124:4444/02.08.2022.exe
 http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
@@ -8020,7 +8029,6 @@ https://weco2.oss-me-east-1.aliyuncs.com/smiple_4yue
 https://weco.oss-eu-central-1.aliyuncs.com/test_kbnt
 http://93.176.52.107/Pack_Brout_ncrypt.exe
 http://weco.oss-eu-central-1.aliyuncs.com/test_kbnt
-https://weco.oss-eu-central-1.aliyuncs.com/simple
 https://raw.githubusercontent.com/mariolalo/myrec/refs/heads/main/NOTallowedtocrypt.exe
 http://bruplong.oss-accelerate.aliyuncs.com/270/audi.exe
 http://github.com/sfyklight/VB-KasperSky-Undetectedtable-Crypter/raw/refs/heads/main/VB.NET%20CRYPTER%20V2.exe
@@ -10040,7 +10048,6 @@ http://62.73.121.49:29111/Mozi.m
 http://159.224.143.43:60566/Mozi.m
 http://196.41.63.178:12132/Mozi.m
 http://103.7.27.90:17260/Mozi.m
-http://43.230.158.26:5393/Mozi.m
 http://203.223.44.206:8418/Mozi.m
 http://156.155.176.210:40080/Mozi.m
 http://12.148.208.86:42009/Mozi.m
@@ -10062,7 +10069,6 @@ http://91.92.94.138:15350/Mozi.m
 http://180.250.160.26:37143/Mozi.m
 http://59.153.80.90:4581/Mozi.m
 http://37.255.217.87:32902/Mozi.m
-http://216.155.92.204:2876/Mozi.m
 http://195.34.91.22:61437/Mozi.m
 http://115.245.112.26:20671/Mozi.m
 http://37.57.33.51:49049/Mozi.m
@@ -10344,7 +10350,6 @@ http://146.196.120.21:36191/i
 http://181.143.114.106:61394/i
 http://190.109.223.242:4486/i
 http://186.118.121.223:8027/i
-http://70.166.89.181:26293/i
 http://91.203.89.146:46544/i
 http://134.249.141.119:22752/i
 http://89.231.14.137:2282/i
@@ -10850,7 +10855,6 @@ http://80.24.87.77:8057//sshd
 http://209.162.229.229:2004//sshd
 http://165.73.108.6:8029//sshd
 http://159.196.71.244:8084//sshd
-http://76.53.38.126:8090//sshd
 http://119.13.179.186:8081//sshd
 http://119.13.179.180:8080//sshd
 http://31.173.70.100:86//sshd
@@ -11534,7 +11538,6 @@ http://79.120.54.194:15151/i
 http://37.143.133.215:46668/i
 http://116.58.78.122:58232/i
 http://77.73.49.254:14233/i
-http://37.202.49.118:56648/i
 http://89.133.95.164:38396/i
 http://123.193.21.48:36061/i
 http://88.119.95.176:40517/i
@@ -12173,7 +12176,6 @@ https://chat-server.maverickpreviews.com/unanswerable.php
 https://www.cutting-edge.in/harass.php
 http://103.164.200.170:7080/.i
 http://203.223.44.206:8418/.i
-https://www.cutting-edge.in/sweat.php
 http://103.106.250.161:8161/power.txt
 http://103.125.163.10:7080/Hajime
 http://182.253.205.235:8600/.i
