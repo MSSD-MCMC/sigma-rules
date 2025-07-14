@@ -1,3 +1,17 @@
+http://219.137.231.196:47513/bin.sh
+http://115.56.161.16:41096/bin.sh
+http://113.238.236.2:51014/bin.sh
+http://182.112.30.45:51586/i
+http://120.61.65.63:37415/bin.sh
+http://115.55.53.223:60491/bin.sh
+http://115.58.92.115:45536/bin.sh
+http://182.117.70.230:56318/bin.sh
+http://221.15.145.1:43569/i
+http://182.112.30.45:51586/bin.sh
+http://117.216.29.174:54828/i
+http://222.138.101.21:48238/i
+http://61.52.214.191:44622/i
+http://27.213.132.153:59613/bin.sh
 http://61.52.214.191:44622/bin.sh
 http://222.138.101.21:48238/bin.sh
 http://27.213.132.153:59613/i
@@ -360,6 +374,7 @@ http://68.69.185.162/main_sh4
 http://68.69.185.162/main_arm6
 http://27.8.3.38:50923/bin.sh
 http://113.74.13.136:60827/i
+http://27.213.189.68:57505/i
 http://27.202.24.165:34603/i
 http://113.231.121.106:50202/i
 http://113.229.186.7:36210/i
@@ -897,6 +912,7 @@ http://47.109.140.12:2233/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
 http://8.137.80.215/02.08.2022.exe
 http://1.15.25.148:3443/02.08.2022.exe
+http://124.70.219.41:7070/02.08.2022.exe
 http://47.245.61.75/02.08.2022.exe
 http://41.145.128.24:8083/sshd
 http://116.103.173.237/sshd
@@ -930,7 +946,6 @@ http://119.116.178.90:53989/bin.sh
 http://123.14.111.27:46763/i
 http://123.14.111.27:46763/bin.sh
 http://125.40.11.208:34284/i
-http://61.53.143.150:48945/i
 http://125.40.11.208:34284/bin.sh
 http://61.53.143.150:48945/bin.sh
 http://61.176.87.46:53023/i
@@ -1400,6 +1415,7 @@ http://116.133.72.10:20000/1/AV.lnk
 http://60.26.217.176:88/2019-10-11/info.zip
 http://116.133.72.10:20000/1/Video.scr
 http://116.133.72.10:20000/1/Photo.scr
+http://60.26.217.176:88/2019-10-29/info.zip
 http://116.133.72.10:20000/1/AV.scr
 http://116.133.72.10:20000/Photo.scr
 http://116.133.72.10:20000/lost%2Bfound/Photo.scr
@@ -1669,13 +1685,11 @@ http://198.55.98.107/main_m68k
 http://198.55.98.107/main_arm
 http://113.231.228.83:44070/i
 http://42.177.211.23:34473/i
-http://42.177.211.23:34473/bin.sh
 http://219.70.90.108:38567/i
 http://219.70.90.108:38567/bin.sh
 http://118.26.174.163/app/view/za.sh
 http://113.229.176.161:52563/i
 http://113.229.176.161:52563/bin.sh
-http://223.12.154.134:59838/i
 http://120.28.164.12:35614/i
 http://120.28.164.12:35614/bin.sh
 http://223.12.154.134:59838/bin.sh
@@ -2042,6 +2056,7 @@ http://45.90.80.192:50868/i
 http://191.241.143.8:42132/bin.sh
 http://45.90.80.192:50868/bin.sh
 http://200.59.87.55:48395/i
+http://218.91.153.60:44200/bin.sh
 http://200.59.87.55:48395/bin.sh
 http://200.59.86.228:53959/bin.sh
 http://124.229.34.226:33572/i
@@ -2382,9 +2397,9 @@ https://60alfredo.odc-conecta.com/?u=script
 https://defensapersonas.com/?u=script
 https://dentsadventure.com/?u=script
 https://demo22.zumm.info/?u=script
+https://aavishkaar-palampur.org/?u=script
 https://deccanrehab.com/?u=script
 https://deltapowerkw.com/?u=script
-https://aaronschur.com/?u=script
 https://dentalcaredentist.in/?u=script
 https://deoriatimes.com/?u=script
 https://demo.markazcity.in/?u=script
@@ -3125,6 +3140,7 @@ http://124.220.93.150:8888/WxWorkMultiOpen.exe
 http://42.194.199.15:8888/WxWorkMultiOpen.exe
 http://118.89.84.133:8888/WxWorkApis.dll
 http://43.138.242.32:8888/WxWorkMultiOpen.exe
+http://114.132.86.182:8888/WxWorkMultiOpen.exe
 http://43.139.244.32:8888/WxWorkApis.dll
 http://49.233.172.4:8888/WxWorkApis.dll
 http://129.204.226.158:8888/WxWorkApis.dll
@@ -3688,6 +3704,7 @@ https://raw.githubusercontent.com/waf/dracula-cmd/master/dist/ColorTool.zip
 https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrounds.zip
 http://github.com/anonimusman00-2/xmr/raw/refs/heads/main/Silent%20Miner.zip
 http://github.com/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip
+http://139.159.157.238:55555/02.08.2022.exe
 http://109.92.232.94:60396/i
 http://78.30.244.228:14416/i
 http://188.231.3.177/sshd
@@ -7903,7 +7920,6 @@ http://154.126.186.44:34102/i
 http://177.247.15.185:5451/i
 http://78.26.136.125:25540/i
 https://83.229.122.83/02.08.2022.exe
-http://185.148.3.216/fdiuIoijofgrg
 https://raw.githubusercontent.com/Nvcommander2/Allgens/refs/heads/main/msgde.exe
 http://qlqd5zqefmkcr34a.onion.sh/win/checking.hta
 https://raw.githubusercontent.com/ryycheats/EZFN-CHEATS-V2/refs/heads/main/EZFN%20op%20cheats.exe
@@ -8862,6 +8878,7 @@ https://annadegismen.com/js/ojuwkc.js
 https://annadegismen.com/js/eyanol.js
 https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
+https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/hnwkmj.js
 https://annadegismen.com/js/nlizmc.js
 https://annadegismen.com/js/rsbhal.js
@@ -11866,6 +11883,7 @@ http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
 http://81.16.123.55:41567/bin.sh
 http://81.16.123.55:41567/Aqua.arm6
+http://81.16.123.55:41567/Aqua.arm5
 http://109.171.30.19:33609/bin.sh
 http://36.67.66.178:23987/Mozi.a
 http://67.78.106.21:55731/Mozi.m
@@ -11923,6 +11941,7 @@ http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
+http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 https://drive.google.com/uc?export=download&id=1Wuy2Y3vBxibDFQCs6-kx96NOcarZixfD
 https://adclick.g.doubleclick.net/pcs/click?adurl=//projetodegente.com
@@ -12040,6 +12059,7 @@ https://nhatheptienchebinhduong.com/connect/
 https://cfu.twr.mybluehost.me/connect/
 https://suakhoaketsattphcm.com/scarica/
 https://admin.byte.in.ua/connect/
+https://embedone.com/scarica/
 https://records.dennisign.se/scarica/
 https://cfu.twr.mybluehost.me/scarica/
 http://29sbt.ru/lib/rl2xse0Do/
@@ -12220,7 +12240,6 @@ https://drive.google.com/uc?export=download&id=1alQ8r5TnR6wWIfTqA3l6D9FYMv7y0G9m
 https://www.playtown.co.za/watercress.php
 https://www.playtown.co.za/lining.php
 https://www.playtown.co.za/scroungy.php
-https://jyothishmathi.in/pinout.php
 https://jyothishmathi.in/steeplechases.php
 https://jyothishmathi.in/familial.php
 http://visam.info/update_vbase/VOKLIGHT.exe
@@ -12402,6 +12421,7 @@ http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
 http://dl.1003b.56a.com/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe
 http://xiaoma-10021647.file.myqcloud.com/qrtb.exe
 http://redlk.com/tqpjo/Scan/UftRuaEmi2h/
+http://faubourg-70.fr/1/80.exe
 http://faubourg-70.fr/1/9006.exe
 http://faubourg-70.fr/1/1.exe
 http://sk-comtel.com/templates/theme261/css/msg.jpg
