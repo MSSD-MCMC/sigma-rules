@@ -1,3 +1,12 @@
+http://61.52.214.191:44622/bin.sh
+http://222.138.101.21:48238/bin.sh
+http://27.213.132.153:59613/i
+http://117.216.29.174:54828/bin.sh
+http://200.59.82.77:43809/bin.sh
+http://112.198.135.201:49959/i
+http://175.150.83.108:48271/i
+http://220.173.160.150:45126/i
+http://220.173.160.150:45126/bin.sh
 http://60.23.214.58:43788/i
 http://222.141.11.232:44515/i
 http://112.198.135.201:49959/bin.sh
@@ -912,6 +921,7 @@ http://88.8.22.161:10012/sshd
 http://46.6.1.98:57610/i
 http://113.239.207.168:50156/bin.sh
 http://182.116.39.24:59443/bin.sh
+http://196.251.73.7/bins/sora.spc
 http://42.224.69.242:41428/i
 http://112.239.102.7:53762/bin.sh
 http://119.116.178.90:53989/i
@@ -979,7 +989,6 @@ http://206.123.128.47/bins/mpsl
 http://206.123.128.47/bins/x86_64
 http://206.123.128.47/bins/arm7
 http://206.123.128.47/bins/x86
-http://42.55.230.131:40734/bin.sh
 https://cast.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://city.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -1591,6 +1600,7 @@ http://47.120.32.72:8081/02.08.2022.exe
 http://60.204.245.37:8080/02.08.2022.exe
 http://101.200.193.211:8080/02.08.2022.exe
 http://14.173.33.250:8081/sshd
+http://47.120.32.72:8080/02.08.2022.exe
 http://102.212.60.172:8025/sshd
 http://165.50.16.26:31040/i
 http://1.94.239.203:3333/02.08.2022.exe
@@ -1865,10 +1875,8 @@ http://45.142.122.235/bot.x86
 http://45.142.122.235/bot.arm7
 http://45.142.122.235/bot.m68k
 http://45.142.122.235/bot.x86_64
-http://45.142.122.235/bot.arm6
 http://45.142.122.235/bot.arm
 http://91.143.174.252:59155/i
-http://91.143.174.252:59155/bin.sh
 http://188.150.45.193:51451/bin.sh
 http://119.114.121.218:40965/i
 http://129.226.212.179:11111/02.08.2022.exe
@@ -2105,7 +2113,6 @@ https://michellegraci.com/fyvu.zip
 https://michellegraci.com/fyvu.zip?le=19
 https://michellegraci.com/smkl.zip?le=48/
 https://michellegraci.com/hatz.zip
-http://michellegraci.com/hatz.zip
 https://michellegraci.com/tuvu.zip?le=12
 https://michellegraci.com/smkl.zip?le=48
 http://michellegraci.com/tuvu.zip?le=12
@@ -2368,6 +2375,7 @@ https://youraffiliatesecret.com/?u=script
 https://dentemaxdental.com.au/?u=script
 https://abemetal.ru/?u=script
 https://a4naturals.com/?u=script
+https://aaronshaffier.com/?u=script
 https://delugeministries.com/?u=script
 https://a99io.com/?u=script
 https://60alfredo.odc-conecta.com/?u=script
@@ -3205,7 +3213,6 @@ http://130.61.242.29/evil.apk
 http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
-http://43.138.30.109:9999/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
 http://43.138.30.109:8888/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
@@ -3310,7 +3317,6 @@ https://193.142.146.42/xnew.ps1
 https://otp.mysynology.net/xnew.ps1
 https://161.132.50.128:8443/mlwr/MLAV-MS-Doc.doc
 https://161.132.50.128:8443/mlwr/MLAV-MS-Excel.xls
-https://161.132.50.128:8443/mlwr/mlav.zip
 https://161.132.50.128:8443/mlwr/MLAV-MS-Exe.exe.000
 http://6f841a9a-243d-4072-8e01-b07a63e328cd.random.tbtt.duckdns.org/Update.vbs
 http://14.224.174.212:1433/Ransomware.WannaCry_Plus.zip
@@ -4017,7 +4023,6 @@ http://121.202.210.5/sshd
 http://121.202.208.107/sshd
 http://122.21.133.121/sshd
 http://60.43.126.86/sshd
-http://157.157.22.65/sshd
 http://193.109.44.220/sshd
 http://glamandglow.com.sg/poli.bin
 http://102.141.182.53:30884/i
@@ -4237,7 +4242,6 @@ http://173.54.182.169:43168/.i
 http://2.126.54.218:3647/.i
 http://81.23.169.237:18694/.i
 http://81.16.117.191:38494/.i
-http://43.133.41.106/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
 http://36.41.71.241:2086/02.08.2022.exe
 http://47.254.74.170:13561/02.08.2022.exe
@@ -4472,7 +4476,6 @@ https://113.44.67.52:9443/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://139.196.237.171:63577/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
-https://47.96.13.97:8443/02.08.2022.exe
 http://47.93.28.103:33333/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
@@ -4492,6 +4495,7 @@ https://www.khavar.com/GHDsdCBN124.bin
 http://8.210.78.137:81/02.08.2022.exe
 http://101.43.91.156:18081/02.08.2022.exe
 http://31.170.22.205/dl16
+http://218.200.94.63:8081/sshd
 http://66.187.4.77/fish.arm6
 http://66.187.4.77/fish.arm7
 http://66.187.4.77/fish.m68k
@@ -4645,7 +4649,6 @@ https://github.com/Sylvanogammer/Apex-No-Recoil/releases/download/v1.8.4-beta.4/
 https://github.com/roniel8/Apex-No-Recoil/releases/download/v2.5.1-alpha.3/apex-no-recoil-v2-5-1-alpha-3.zip
 https://onyxironvault.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxphantomlock.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-http://221.126.77.158:11285/i
 https://github.com/JuanBustoss/src/raw/refs/heads/master/Application.zip
 https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip
 https://github.com/shellyACM/imgx/releases/download/v2.0/Software.zip
@@ -4914,7 +4917,6 @@ https://github.com/hakimil/hack-crypto-wallet/releases/download/v2.7.7-beta.4/ha
 https://github.com/AussieONZaza/assets/raw/refs/heads/master/Launcher.zip
 http://121.37.134.174:8080/02.08.2022.exe
 http://8.141.166.236:8888/02.08.2022.exe
-http://120.24.64.74:63211/02.08.2022.exe
 http://79.121.103.84:45544/i
 http://78.111.30.28:6692/i
 http://175.140.197.149:12408/i
@@ -6171,6 +6173,7 @@ https://github.com/NT8068/AWP.gg-Executor-Roblox/releases/download/v2.0/Software
 https://github.com/RandomX-blip/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/1.0.4/infinite-yield-admin-tool-v1.0.4.zip
 https://github.com/AinulGaming/Bypass-Hwid-Spoofer/releases/download/v1.3.6/slidesharedownloader_v2.3.0.zip
 https://onyxsafetrack.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://onyxstealthnet.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxaquarius.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://103.79.114.28:17429/i
 http://96.9.87.21:58844/i
@@ -6497,7 +6500,6 @@ https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/ligitove.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/62404701972.pdf
 https://img1.wsimg.com/blobby/go/069f5eef-b21d-41b6-aaa6-569b53af1c5a/downloads/rawidesukusutalunug.pdf
-https://img1.wsimg.com/blobby/go/d102a54e-7197-4308-a937-d70c58240642/downloads/26442784020.pdf
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/83882971503.pdf
 https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/modelo_carta_entrega_de_inmueble_word.pdf
 https://img1.wsimg.com/blobby/go/61905f2a-55dd-4144-8c7c-fce5e91063a8/downloads/british_army_all_arms_tactical_aide_memoire.pdf
@@ -8110,7 +8112,6 @@ http://103.187.146.29/xcd/InjekSimple3.mentah
 http://103.187.146.29/sumatra/InjekSimple3.mentah
 http://103.187.146.29/samarinda/Injek3.mentah
 http://103.187.146.29/vvipejy/Injek3.mentah
-http://103.187.146.29/vvipejy/VVIPEJY_Simple_VP.rar
 http://103.187.146.29/enjoyers/Simple3.mentah
 http://103.187.146.29/egn/Simple3.mentah
 http://103.187.146.29/egn/InjekSimple3.mentah
@@ -9285,7 +9286,6 @@ http://annadegismen.com/js/hdpabv.js
 http://annadegismen.com/js/tcgdqr.js
 http://annadegismen.com/js/hruavi.js
 http://annadegismen.com/js/nrzjgh.js
-http://annadegismen.com/js/giutma.js
 http://annadegismen.com/js/qudsxr.js
 http://annadegismen.com/js/bivasm.js
 http://annadegismen.com/js/btyrlu.js
@@ -10567,7 +10567,6 @@ https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/networks_profile
 https://raw.githubusercontent.com/s3q/blackdoor/main/backdoor.exe
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_move.bat
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_virus.bat
-http://194.122.165.159/Photo.scr
 http://194.122.165.170/Photo.scr
 http://64.234.95.70/Photo.scr
 http://170.55.7.234/Photo.scr
@@ -11603,7 +11602,6 @@ http://36.66.105.177:22255/i
 http://36.66.108.167:57344/i
 http://36.67.251.227:10466/i
 https://github.com/pbhhdf/12/raw/main/keepvid-pro_full2578.exe
-http://vulnfactory.org/exploits/full-nelson.c
 http://62.162.141.194:27673/i
 http://185.21.223.166:60622/i
 http://180.250.160.26:37143/i
@@ -11908,6 +11906,7 @@ http://69.142.178.141:39145/i
 http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
+https://contentmentfairnesspesky.com/c8bab23717e7ca18363ef595bbe57e9a/invoke.js
 https://computersupportexperts.com/css/down.exe
 https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
@@ -12413,7 +12412,6 @@ http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
-http://flyingmutts.com/secure.myacc.resourses.com/
 http://programandojuntos.us.tempcloudsite.com/I203611254B019514581.zip
 http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
 http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
