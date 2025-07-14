@@ -1,3 +1,18 @@
+http://78.182.83.141:37798/i
+http://175.149.208.172:58462/i
+http://175.147.243.80:54720/i
+http://185.97.113.40:48720/bin.sh
+http://39.73.115.181:58713/bin.sh
+http://115.52.242.226:51184/i
+http://78.182.83.141:37798/bin.sh
+http://42.235.180.211:56452/bin.sh
+http://61.52.158.221:35566/i
+http://222.139.205.33:56563/i
+http://115.52.242.226:51184/bin.sh
+http://42.229.222.188:34536/i
+http://154.208.50.70:46061/i
+http://61.52.158.221:35566/bin.sh
+http://42.180.83.188:40243/i
 http://221.13.148.181:51491/i
 http://42.229.222.188:34536/bin.sh
 http://42.224.126.57:49383/bin.sh
@@ -884,6 +899,7 @@ http://154.201.82.47:808/linux_386
 http://www.xikou.org:808/linux_amd64
 http://www.xikou.org:808/linux_ppc64el
 http://154.201.82.47:808/linux_amd64
+http://154.201.82.47:808/linux_arm7
 http://www.xikou.org:808/linux_arm7
 http://154.201.82.47:808/linux_arm64
 http://www.xikou.org:808/linux_ppc64
@@ -936,6 +952,7 @@ http://103.112.210.25:40080/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
 http://1.15.25.148:3443/02.08.2022.exe
 http://120.48.25.39/02.08.2022.exe
+http://139.196.248.134/02.08.2022.exe
 http://41.145.128.24:8083/sshd
 http://116.103.173.237/sshd
 http://78.132.83.232/sshd
@@ -980,7 +997,6 @@ http://222.138.212.182:38833/bin.sh
 http://119.4.146.110:34781/i
 http://42.224.69.242:41428/bin.sh
 http://119.4.146.110:34781/bin.sh
-http://119.116.152.122:40994/bin.sh
 http://222.127.237.115:41633/i
 http://87.9.24.48:46710/bin.sh
 http://113.231.72.195:48386/i
@@ -1117,7 +1133,6 @@ http://31.135.249.24:49394/bin.sh
 http://196.251.80.60/hiddenbin/boatnet.arm6
 http://196.251.80.60/hiddenbin/boatnet.sh4
 http://196.251.80.60/hiddenbin/boatnet.arm5
-http://196.251.80.60/hiddenbin/boatnet.arm
 http://196.251.80.60/hiddenbin/boatnet.spc
 http://196.251.80.60/hiddenbin/boatnet.m68k
 http://213.232.114.169/armv6l
@@ -1707,6 +1722,7 @@ http://93.123.109.218/bins/pmips
 http://93.123.109.218/bins/px86
 http://93.123.109.218/bins/parm6
 http://93.123.109.218/bins/parm
+https://paste.ee/d/pcCu70gz/0
 https://paste.ee/d/ufkkGaIo/0
 https://paste.ee/d/zr5xJRxr/0
 https://paste.ee/d/IdN7cwei/0
@@ -1734,6 +1750,7 @@ http://103.130.213.4/bins/sora.mpsl
 http://103.130.213.4/bins/sora.arm5
 https://paste.ee/d/jrRQamzV/0
 https://paste.ee/d/rI8G8B1W/0
+https://produos.net/pin/remcos_z_base64.txt
 http://24.96.184.50:38457/i
 https://raw.githubusercontent.com/LABUBU99999/Localoco8386/main/shaman.zip
 http://24.96.184.50:38457/bin.sh
@@ -1783,7 +1800,6 @@ http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
 http://abc.galaxias.cc/00101010101001/morte.arm
-http://abc.galaxias.cc/00101010101001/morte.x86_64
 http://abc.galaxias.cc/00101010101001/morte.mpsl
 http://abc.galaxias.cc/00101010101001/morte.sh4
 http://abc.galaxias.cc/00101010101001/morte.arm6
@@ -2098,7 +2114,6 @@ http://207.167.64.24/tbk.sh
 http://207.167.64.24/mirai.i686
 https://checkinetverifk.com/A3f.dof
 https://michellegraci.com/fyvu.zip
-https://michellegraci.com/smkl.zip?le=48/
 https://michellegraci.com/hatz.zip
 http://michellegraci.com/hatz.zip
 https://michellegraci.com/tuvu.zip?le=12
@@ -2174,6 +2189,7 @@ http://181.215.45.62/mirai.arm5n
 http://205.250.126.180:56157/i
 http://121.147.179.88:52712/i
 http://37.34.172.44:50350/i
+http://36.38.184.142:53058/i
 http://117.102.100.74:65003/i
 https://dn721707.ca.archive.org/0/items/wp4096799-lost-in-space-wallpapers_20250624_1601/wp4096799-lost-in-space-wallpapers.jpg
 https://ia801509.us.archive.org/28/items/wp4096799-lost-in-space-wallpapers_20250624_1601/wp4096799-lost-in-space-wallpapers.jpg
@@ -2329,7 +2345,6 @@ https://abhinavprakash.com/?u=script
 https://debdiehl.com/?u=script
 https://7223333.ru/?u=script
 https://7abibo.com/?u=script
-https://73puredesigns.com/?u=script
 https://aaffpublicitario.com/?u=script
 https://a3dvisualizacion.com/wp/?u=script
 https://7cavaleiro.com/?u=script
@@ -2355,7 +2370,6 @@ https://aaronshaffier.com/?u=script
 https://delugeministries.com/?u=script
 https://derrickvelasquez.com/?u=script
 https://a99io.com/?u=script
-https://60alfredo.odc-conecta.com/?u=script
 https://dentsadventure.com/?u=script
 https://decal-global.com/?u=script
 https://aavishkaar-palampur.org/?u=script
@@ -4515,7 +4529,6 @@ https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxprotectech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardwave.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcryptorix.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://onyxguardify.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://psloglink.psur7.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcyberedge.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://prloglink.prsa7.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -7587,7 +7600,6 @@ http://upchemicals.co.in/test/cgi-bin/JND/PURE_JND
 http://upchemicals.co.in/test/cgi-bin/ADONIS/ALL_ADONIS
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/ALL_BEAN
-http://upchemicals.co.in/test/cgi-bin/JND/JND_ALL
 http://36.92.188.84:40111/i
 http://36.92.188.85:40111/i
 http://36.92.188.86:40111/i
@@ -9969,7 +9981,6 @@ http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 https://39.98.174.154:8888/02.08.2022.exe
 https://139.196.237.171:12345/02.08.2022.exe
-https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -11314,6 +11325,7 @@ http://91.232.188.116:28561/.i
 http://88.80.242.177:20131/.i
 http://221.126.238.71:7537/.i
 http://94.28.123.75:60123/.i
+http://62.33.114.219:56719/.i
 http://85.187.82.120:41465/.i
 http://212.200.106.94:47831/.i
 http://91.216.28.112:20531/.i
@@ -12574,5 +12586,6 @@ http://tirtasentosa.com/give/ukbros003.exe
 http://tirtasentosa.com/give/ukbros002.exe
 http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
+http://tirtasentosa.com/give/obi001.exe
 http://tirtasentosa.com/give/jon001.exe
 http://tirtasentosa.com/give/was001.exe
