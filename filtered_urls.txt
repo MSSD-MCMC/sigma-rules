@@ -1,3 +1,18 @@
+http://59.177.111.206:57497/i
+http://125.45.16.94:52650/i
+http://42.232.225.69:57989/i
+http://125.43.105.238:52514/i
+http://117.209.89.32:44515/i
+http://42.238.166.103:33195/i
+http://59.97.248.118:51732/bin.sh
+http://125.45.16.94:52650/bin.sh
+http://196.189.39.17:42270/i
+http://42.238.166.103:33195/bin.sh
+http://42.232.225.69:57989/bin.sh
+http://125.43.105.238:52514/bin.sh
+http://175.149.65.68:58368/i
+http://115.58.86.27:52521/i
+http://117.209.89.32:44515/bin.sh
 http://117.248.27.145:42822/bin.sh
 http://123.129.128.205:33411/bin.sh
 http://116.138.189.168:58305/bin.sh
@@ -640,7 +655,6 @@ http://156.238.225.44/LjEZs/uYtea.arm5
 http://156.238.225.44/LjEZs/uYtea.mpsl
 http://68.69.185.162/main_x86
 http://113.231.80.42:53892/bin.sh
-http://115.48.38.241:33638/i
 http://182.123.192.65:51266/i
 http://115.48.38.241:33638/bin.sh
 http://42.224.66.231:45705/i
@@ -950,7 +964,6 @@ http://196.251.66.32/HBTs/top1miku.ppc
 http://196.251.113.9/00101010101001/morte.arm7
 http://196.251.114.102/00101010101001/morte.i686
 http://196.251.113.9/00101010101001/morte.mpsl
-http://196.251.69.179/00101010101001/morte.x86_64
 http://196.251.69.244/00101010101001/morte.spc
 http://196.251.69.244/00101010101001/debug
 http://196.251.69.179/00101010101001/debug
@@ -978,6 +991,7 @@ http://196.251.114.102/00101010101001/morte.x86
 http://196.251.69.244/00101010101001/morte.arm7
 http://103.77.241.145/00101010101001/morte.arm5
 http://103.77.241.145/00101010101001/morte.x86
+http://196.251.69.254/00101010101001/morte.mpsl
 http://13.250.32.158/1.sh
 http://196.251.66.32/HBTs/top1miku.sh4
 http://196.251.69.179/00101010101001/morte.arc
@@ -1099,6 +1113,7 @@ http://156.225.31.150:808/linux_ppc64
 http://www.xikou.org:808/linux_arm64
 http://156.225.31.150:808/linux_ppc64el
 http://156.225.31.150:808/linux_mips64_softfloat
+http://156.225.31.150:808/linux_mips
 http://156.225.31.150:808/linux_mips_softfloat
 http://156.225.31.150:808/linux_arm6
 http://www.xikou.org:808/linux_arm5
@@ -1230,6 +1245,7 @@ https://ara.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://cook.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://club.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://home.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://home.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://bon.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://dive.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://buzz.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -1936,6 +1952,7 @@ https://paste.ee/d/jrRQamzV/0
 https://paste.ee/d/rI8G8B1W/0
 https://produos.net/pin/remcos_z_base64.txt
 http://24.96.184.50:38457/i
+http://78.159.156.10/bins/fsociety.sparc
 https://raw.githubusercontent.com/LABUBU99999/Localoco8386/main/shaman.zip
 http://24.96.184.50:38457/bin.sh
 https://paste.ee/d/WmjFw497/0
@@ -2164,6 +2181,7 @@ http://175.174.87.210:36983/bin.sh
 http://116.210.26.87:46913/i
 https://paste.ee/d/2bBC36gr/0
 https://paste.ee/d/P7CcnpM7/0
+http://112.31.189.32:35712/i
 http://112.31.189.32:35712/bin.sh
 http://200.59.83.22:56964/i
 http://74.214.56.173:35384/i
@@ -2533,7 +2551,7 @@ https://deshkiupasana.com/?u=script
 https://aaranayurveda.ch/?u=script
 https://deltainfotek.com/?u=script
 https://design-nanal.com/?u=script
-https://aanorman.com/?u=script
+https://zadding.com/?u=script
 https://depoimentos.professorcorazza.com.br/?u=script
 https://demauroconsulting.com/?u=script
 https://deltain.it/?u=script
@@ -3675,7 +3693,6 @@ http://8.138.47.245/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://46.236.65.100:46981/i
 http://37.156.10.208:7481/i
-http://154.73.64.16:41921/i
 http://195.26.97.59/sshd
 http://222.149.6.17/sshd
 http://192.252.181.93:6635/120.89.71.182.dll
@@ -4262,7 +4279,6 @@ http://213.209.143.44/ssh.sh
 http://95.188.92.182:60293/.i
 http://8.210.178.40:60131/linux
 http://1.234.66.181:15788/Zc3.exe
-http://1.234.66.181:15788/zal.exe
 http://1.234.66.181:15788/XPT.exe
 http://188.12.100.131:30261/i
 http://202.51.100.238:30425/i
@@ -4521,7 +4537,6 @@ https://www.salonmarketing.ca/diaclients/doitallmain.exe
 https://www.ss-01.com/SA0611/SystemSA32.dll
 http://43.226.39.44:5988/Test6.exe
 https://c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru/msedge.exe
-https://update.volamthientu.cc/Autoupdate.exe
 http://114.55.106.136/update/pubData/HPSocket4C.dll
 http://43.226.39.44:5988/TestMemTest31.exe
 http://43.226.39.44:5988/TestDumpAll.exe
@@ -7815,7 +7830,6 @@ https://github.com/Grozniy1/folder/raw/refs/heads/main/444.exe
 https://github.com/kees5462/this-is-a-roblox-external-cheat-best-one-out-there/raw/refs/heads/main/Java32.exe
 https://github.com/tezx11/imgui/raw/refs/heads/main/RuntimeBroker.exe
 https://github.com/kees5462/this-is-a-roblox-external-cheat-best-one-out-there/raw/refs/heads/main/Java.exe
-https://github.com/TheRealAstro666/LOLZ/raw/refs/heads/main/built.exe
 https://github.com/sesafvr/ayo/raw/refs/heads/main/Client-built.exe
 https://raw.githubusercontent.com/fhebngndsg/thefunny/refs/heads/main/Client-built.exe
 https://github.com/tezx11/imgui/raw/refs/heads/main/example_win32_dx11.exe
@@ -8464,7 +8478,6 @@ http://103.84.39.181:19439/.i
 http://190.117.240.144:6603/.i
 http://181.233.95.25:40000/.i
 http://186.125.133.244:53948/.i
-http://121.160.146.2:46001/.i
 http://212.85.166.12:22448/.i
 http://212.154.209.206:16122/.i
 http://121.121.71.115:31863/.i
@@ -9180,6 +9193,7 @@ http://annadegismen.com/js/dopvba.js
 http://annadegismen.com/js/uigzyq.js
 http://annadegismen.com/js/yhcoms.js
 http://annadegismen.com/js/tspwuj.js
+http://annadegismen.com/js/qugkmx.js
 http://annadegismen.com/js/cotbjd.js
 http://annadegismen.com/js/ivrfja.js
 http://annadegismen.com/js/ypufma.js
@@ -9303,7 +9317,6 @@ http://annadegismen.com/js/wyafhx.js
 http://annadegismen.com/js/njbcql.js
 http://annadegismen.com/js/nrqhmt.js
 http://annadegismen.com/js/bmstep.js
-http://annadegismen.com/js/dwjupc.js
 http://annadegismen.com/js/xyphbf.js
 http://annadegismen.com/js/yoaxpt.js
 http://annadegismen.com/js/mxciwn.js
@@ -9443,7 +9456,6 @@ http://annadegismen.com/js/fmxscl.js
 http://annadegismen.com/js/dsqvlp.js
 http://annadegismen.com/js/ergubk.js
 http://annadegismen.com/js/lkcwbp.js
-http://annadegismen.com/js/cekhjv.js
 http://annadegismen.com/js/xntyfk.js
 http://annadegismen.com/js/skcoju.js
 http://annadegismen.com/js/wpglyv.js
@@ -9489,6 +9501,7 @@ http://annadegismen.com/js/wyqmpl.js
 http://annadegismen.com/js/bqfgev.js
 http://annadegismen.com/js/jowhkb.js
 http://annadegismen.com/js/stwzbl.js
+http://annadegismen.com/js/ofbnkh.js
 http://annadegismen.com/js/gdqxnm.js
 http://annadegismen.com/js/jtcqge.js
 http://annadegismen.com/js/uvlpmk.js
@@ -9528,6 +9541,7 @@ http://annadegismen.com/js/otpgcj.js
 http://annadegismen.com/js/fdkrnb.js
 http://annadegismen.com/js/ndzbiy.js
 http://annadegismen.com/js/qpaywg.js
+http://annadegismen.com/js/sgtvuz.js
 http://annadegismen.com/js/eizwhg.js
 http://annadegismen.com/js/zcowxm.js
 http://annadegismen.com/js/amlyko.js
@@ -9749,6 +9763,7 @@ http://85.95.173.28/main_mips
 http://mirailover.ddns.net/payload.sh
 http://85.95.173.28/dlr.x86
 http://85.95.173.28/mips
+http://mirailover.ddns.net/dlr.x86
 http://mirailover.ddns.net/mips
 https://telegramcn.co/download/Telegram.apk
 http://85.95.173.28/payload.sh
@@ -12391,6 +12406,7 @@ https://raw.githubusercontent.com/d35ha/ProcessHide/master/bins/ProcessHide32.ex
 http://support.viewpoint.fr/viewpoint_support.exe
 http://0022a601.pphost.net/threatsim/exe/pdf.exe
 http://0022a601.pphost.net/threatsim/exe/xerox01_pdf.exe
+http://0022a601.pphost.net/threatsim/exe/njrat.exe
 http://0022a601.pphost.net/threatsim/exe/640.exe
 https://softcatalog.ru/builds/offers/12.exe
 http://cfs5.tistory.com/upload_control/download.blog?fhandle=YmxvZzcxMzYyQGZzNS50aXN0b3J5LmNvbTovYXR0YWNoLzAvMTQwMDAwMDAwMDAwLmV4ZQ%3D%3D&filename=crack-pro20.exe
@@ -12448,7 +12464,6 @@ https://files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da
 http://data.kaoyany.top/2018/06/201806065969_1243.doc
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
 http://razorcrypter.com/rapidtables.txt
-http://fakers.co.jp/20.06.2019_130.22.doc
 http://www.opolis.io/Opolis.exe
 http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
 http://tcgroup.com.au/MONEX%20Swift%20_11.06.2019.exe
