@@ -1,3 +1,14 @@
+http://42.235.153.69:51700/i
+http://113.239.244.233:42121/i
+http://117.254.181.86:38317/i
+http://101.99.233.30:36925/bin.sh
+http://175.0.75.248:58230/i
+http://42.235.153.69:51700/bin.sh
+http://222.140.195.212:41684/i
+http://125.43.93.35:56452/i
+http://117.254.181.86:38317/bin.sh
+http://221.0.117.118:44817/i
+http://125.43.93.35:56452/bin.sh
 http://42.237.25.195:46101/i
 http://61.147.66.42:40131/i
 http://117.209.126.35:44957/i
@@ -94,7 +105,6 @@ http://123.4.14.120:49905/i
 http://last.galaxias.cc/00101010101001/morte.i686
 http://last.galaxias.cc/00101010101001/morte.m68k
 http://last.galaxias.cc/00101010101001/morte.arm7
-http://last.galaxias.cc/00101010101001/morte.spc
 http://last.galaxias.cc/00101010101001/morte.sh4
 http://1.izumisv1.cc/00101010101001/morte.arc
 http://1.izumisv1.cc/00101010101001/morte.arm5
@@ -102,7 +112,6 @@ http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/debug
 http://1.izumisv1.cc/00101010101001/morte.x86_64
 http://1.izumisv1.cc/00101010101001/morte.m68k
-http://1.izumisv1.cc/00101010101001/morte.mips
 http://1.izumisv1.cc/00101010101001/morte.arm6
 http://1.izumisv1.cc/00101010101001/morte.arm7
 http://1.izumisv1.cc/00101010101001/morte.arm
@@ -315,7 +324,6 @@ http://194.26.192.12/morte.arm6
 http://194.26.192.12/morte.arc
 http://116.138.83.149:48885/i
 http://219.155.211.57:51703/i
-http://125.47.57.31:47982/i
 http://42.179.117.217:52589/bin.sh
 http://42.239.152.201:53758/bin.sh
 http://116.138.83.149:48885/bin.sh
@@ -516,7 +524,6 @@ http://196.251.113.7/li
 http://196.251.113.7/z/adb
 http://196.251.113.7/z/jaws
 http://196.251.113.7/z/toto
-http://196.251.113.7/asd
 http://196.251.113.7/z/89/mips
 http://196.251.113.7/z/89/arm6
 http://196.251.113.7/z/sdt
@@ -724,7 +731,6 @@ http://93.123.109.218/bins/sora.mips
 http://161.97.160.132/bins/sora.m68k
 http://185.218.84.45/armv7l
 http://161.97.160.132/bins/sora.arm5
-http://196.251.70.138/hiddenbin/Space.i686
 http://161.97.160.132/bins/sora.arm6
 http://93.123.109.218/bins/sora.arm
 http://196.251.70.138/hiddenbin/Space.m68k
@@ -1117,7 +1123,6 @@ http://188.38.3.30:38292/Mozi.m
 http://176.46.157.32/files/unique1/random.exe
 http://176.46.157.32/files/Ght/random.exe
 http://113.231.214.56:48341/i
-http://42.53.11.252:55348/i
 http://113.231.214.56:48341/bin.sh
 http://42.53.11.252:55348/bin.sh
 http://83.220.249.234:53543/i
@@ -1690,7 +1695,6 @@ http://93.123.109.218/bins/pppc
 http://60.212.29.200:35689/bin.sh
 http://27.223.184.219:50103/i
 http://27.223.184.219:50103/bin.sh
-http://202.169.232.194:53722/i
 http://202.169.232.194:53722/bin.sh
 http://89.197.154.115/https_payload.exe
 http://89.197.154.115/Slack.zip
@@ -2183,7 +2187,6 @@ http://77.90.153.137/vv/mips64
 http://77.90.153.137/f
 http://77.90.153.137/g
 http://77.90.153.137/v
-https://archive.org/download/universe-1733359315202-8750/universe-1733359315202-8750.jpg
 http://191.241.143.19:55130/bin.sh
 https://intelligentopennetworkingawards.com/ghostgera/
 http://185.156.73.52/02.08.2022.exe
@@ -5099,7 +5102,6 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
-http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/bea.bin
 http://111.46.219.240:14593/.i
 http://111.173.104.176:8888/02.08.2022.exe
@@ -5259,6 +5261,7 @@ http://43.226.39.44:5988/TestMemTest24.exe
 https://lsks.volamngayxua.net/FilterText3.dll
 https://icoffeecloud.com/versions/GestionICCv20.21.8.51/GestionICC.exe
 https://52575815-38-20200406120634.webstarterz.com/eric.exe
+http://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
 https://60aaf9c6.salamanderprocessing.pages.dev/download/static/files/BootstrapperNew.exe
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Map_Free.dll
 http://ny.lshdw.cc/FB/sm.exe
@@ -5272,6 +5275,7 @@ https://www.salonmarketing.ca/diaclients/doitallmain.exe
 https://www.ss-01.com/SA0611/SystemSA32.dll
 http://43.226.39.44:5988/Test6.exe
 https://c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru/msedge.exe
+https://update.volamthientu.cc/Autoupdate.exe
 http://114.55.106.136/update/pubData/HPSocket4C.dll
 http://43.226.39.44:5988/TestMemTest31.exe
 http://43.226.39.44:5988/TestDumpAll.exe
@@ -5526,7 +5530,6 @@ http://91.130.61.223:62082/i
 http://203.58.85.190:38206/i
 http://106.244.41.133:29572/i
 http://174.106.42.3:24739/i
-http://109.207.199.141:42170/i
 http://179.60.216.19:65020/i
 http://46.210.95.241:802/sshd
 http://37.255.241.82:2195/i
@@ -8635,6 +8638,7 @@ http://185.20.19.72:8009/sshd
 http://210.4.75.110:65323/i
 http://43.230.157.52:19667/i
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
+http://104.248.170.245/fido9000/rev_https.exe
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
 http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
@@ -8707,6 +8711,7 @@ http://152.136.140.85:40389/zotero/DWPPJ74T.zip
 http://152.136.140.85:40389/zotero/JDYM53NL.zip
 http://152.136.140.85:40389/zotero/E9FFA5DA.zip
 http://152.136.140.85:40389/zotero/8ZG9FAZ4.zip
+https://safefiles2.oss-cn-beijing.aliyuncs.com/free
 http://43.240.65.55:81/IMG001.exe
 http://1.181.70.42:17003/info.zip
 https://safefiles2.oss-cn-beijing.aliyuncs.com/auda
@@ -8989,7 +8994,6 @@ https://raw.githubusercontent.com/k53xupn43/i965652f/refs/heads/main/m.ps1
 http://github.com/20Matrix77/ksdeuf/raw/refs/heads/main/armv7l
 https://drive.google.com/uc?export=download&id=12jgDe-soIB4LIipbDhS55vKZ7EK8_Ua6
 http://github.com/caonim2le/yournigas/raw/refs/heads/main/x86_32
-http://github.com/20Matrix77/DHJIF/raw/refs/heads/main/armv6l
 http://github.com/caonim2le/yournigas/raw/refs/heads/main/arm
 http://github.com/FelikzIG/WDT/raw/refs/heads/main/CollosalLoader.exe
 http://github.com/ValOfficial/Client-follower/raw/refs/heads/main/Client-built.exe
@@ -9725,7 +9729,6 @@ https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
-https://annadegismen.com/js/qivbdo.js
 https://annadegismen.com/js/gcbepw.js
 https://annadegismen.com/js/zsdpvi.js
 https://annadegismen.com/js/nsubfo.js
@@ -10531,8 +10534,8 @@ https://github.com/Abdulah345/pizdaporc/raw/refs/heads/main/XClient.exe
 https://drive.google.com/uc?export=download&id=1yGqwpVXaDhjSXskR3U3tDW2u5DnZv0Pp
 https://drive.google.com/uc?export=download&id=1uZjwtBH4Hcs9i060hWf08HrNymnOdugN
 http://162.219.216.183:40370/bin.sh
+http://175.204.26.43:10630/.i
 https://raw.githubusercontent.com/caibe/fwga/refs/heads/main/rooahio.txt
-https://raw.githubusercontent.com/caibe/fwga/refs/heads/main/oahInkn.txt
 https://raw.githubusercontent.com/caibe/fwga/refs/heads/main/asy_dfFaaep.txt
 https://raw.githubusercontent.com/caibe/fwga/refs/heads/main/ikSjbpj.txt
 https://raw.githubusercontent.com/caibe/fwga/refs/heads/main/domcFbS.txt
@@ -10918,6 +10921,7 @@ http://200.61.163.235:27538/Mozi.m
 http://193.169.146.186:61643/Mozi.m
 http://84.36.25.50:64488/Mozi.m
 http://113.214.56.228:41018/Mozi.m
+http://102.141.182.53:30884/Mozi.m
 http://89.28.58.132:37382/Mozi.m
 http://103.82.211.164:45793/Mozi.m
 http://188.137.36.53:44689/Mozi.m
@@ -11767,7 +11771,6 @@ http://88.119.193.17:10462/.i
 http://88.116.62.226:52714/.i
 http://88.119.151.142:10462/.i
 http://45.120.38.214:1208/.i
-http://194.208.56.189:19006/.i
 http://190.92.29.206:1076/.i
 http://45.120.38.214:1208/i
 http://194.208.56.189:19006/i
@@ -11847,6 +11850,7 @@ http://197.159.1.58:25983/.i
 http://89.28.58.81:24363/.i
 http://37.252.66.188:12165/.i
 http://212.18.223.226:26541/.i
+http://78.38.60.246:33664/.i
 http://212.154.131.153:16122/.i
 http://95.141.135.138:14131/.i
 http://12.148.208.86:42009/.i
