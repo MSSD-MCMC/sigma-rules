@@ -1,3 +1,24 @@
+http://223.13.29.249:43657/bin.sh
+http://117.241.89.216:51690/bin.sh
+http://182.123.192.65:51266/bin.sh
+http://61.1.217.119:35508/bin.sh
+http://120.28.195.216:37097/i
+http://125.44.35.8:55710/i
+http://42.238.199.35:32829/bin.sh
+http://117.209.240.50:54748/i
+http://61.53.122.3:59146/bin.sh
+http://125.44.35.8:55710/bin.sh
+http://120.28.195.216:37097/bin.sh
+http://117.200.114.59:35518/bin.sh
+http://42.57.46.236:54916/bin.sh
+http://117.209.240.50:54748/bin.sh
+http://45.80.158.76/garm7
+http://45.80.158.76/gmpsl
+http://45.80.158.76/harm4
+http://45.80.158.76/hmips
+http://45.80.158.76/gmips
+http://45.80.158.76/gompsl
+http://182.120.11.12:53506/i
 http://59.184.216.153:41696/bin.sh
 http://115.55.223.83:46793/i
 http://200.69.61.197:35777/i
@@ -683,7 +704,6 @@ http://68.69.185.162/main_ppc
 http://68.69.185.162/main_arm7
 http://68.69.185.162/main_sh4
 http://68.69.185.162/main_arm6
-http://27.213.189.68:57505/i
 http://113.229.186.7:36210/i
 http://110.183.48.55:43333/i
 http://46.160.139.44:41497/bin.sh
@@ -721,7 +741,6 @@ http://154.201.82.47:808/cve.txt
 http://31.129.22.45/sc77.exe
 http://31.129.22.45/scstager.mp4
 https://dansorium.gr/DarkCyan-fa1d3_Install.exe
-https://meetingplatform-webex.com/webex/Webex.ClientSetup.exe
 https://meetingplatform-webex.com/video/jobdescription2.mp4
 https://meetingplatform-webex.com/video/number1.mp4
 http://93.123.109.218/test/i486
@@ -1554,6 +1573,7 @@ http://60.26.217.176:88/Handler/info.zip
 http://60.26.217.176:88/info.zip
 http://60.26.217.176:88/eyeBeam%201.5/info.zip
 http://60.26.217.176:88/temp/info.zip
+http://60.26.217.176:88/update1358/info.zip
 http://60.26.217.176:88/js/info.zip
 http://116.133.72.10:20000/1/Video.scr
 http://116.133.72.10:20000/1/Photo.scr
@@ -1885,6 +1905,7 @@ http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
 http://abc.galaxias.cc/00101010101001/morte.arm
+http://abc.galaxias.cc/00101010101001/morte.ppc
 http://abc.galaxias.cc/00101010101001/morte.x86_64
 http://abc.galaxias.cc/00101010101001/debug
 http://abc.galaxias.cc/00101010101001/morte.mips
@@ -3891,7 +3912,6 @@ http://2.54.239.98:802/sshd
 http://2.54.83.40:802/sshd
 http://85.204.105.97:30802/.i
 http://115.159.71.204:801/02.08.2022.exe
-http://47.122.20.70:9090/02.08.2022.exe
 http://124.221.32.87:9001/02.08.2022.exe
 http://109.229.224.26:63333/i
 http://100.1.53.24:24178/i
@@ -3907,7 +3927,6 @@ https://onfiltre.com.tr/wp-content/giphy.gif
 http://37.235.164.101:58964/i
 http://update.aegis.aliyun.com/download/uninstall.sh
 http://update.aegis.aliyun.com/download/quartz_uninstall.sh
-http://45.192.104.206:6003/02.08.2022.exe
 http://46.236.65.108:55511/i
 http://78.63.149.52:2707/i
 http://88.8.17.128:1078/sshd
@@ -7640,7 +7659,6 @@ http://103.159.221.33:9269/i
 http://attachment.vnecdn.net/document/2019/12/05/13/x21-1575525820.txt
 http://175.100.115.43:50106/i
 http://178.253.103.221:1693/i
-http://117.50.178.197:57982/02.08.2022.exe
 http://27.147.196.138:22320/i
 http://101.126.11.168/xsh/xsh.exe
 https://raw.githubusercontent.com/TylerMT99/ZZZaaa/refs/heads/main/Built.exe
@@ -8093,7 +8111,6 @@ http://e4l4.com/%E8%AF%BE%E4%BB%B6-%E7%AC%AC6%E8%AF%BE%E6%97%B6-910%E7%AB%A0%E8%
 http://e4l4.com/2022%E7%BD%91%E9%BC%8E%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B.7z
 http://e4l4.com/%E5%89%AF%E6%9C%AC21.3%E8%93%9D%E9%98%9F%E6%8A%A4%E7%BD%91%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99210303.xlsx
 https://raw.githubusercontent.com/cqHack/DDoS-Script/refs/heads/master/cqHack.pl
-http://185.16.38.38:555/ver/d.jpg
 https://182.92.99.95/kaijiorder/cert/2a.hta
 https://raw.githubusercontent.com/comitheicon/VOLATUS0.5/refs/heads/main/VOLATUS0.5.exe
 https://101.37.34.164:47535/02.08.2022.exe
@@ -8460,6 +8477,7 @@ http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/clip64.dll
 http://185.208.158.96/mzmtrpwoe113eelxn/Plugins/cred64.dll
 http://8.137.114.210:4455/02.08.2022.exe
+http://124.222.129.148:10000/02.08.2022.exe
 http://8.154.18.17:15679/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://162.219.216.183:40370/Mozi.a
@@ -8664,6 +8682,7 @@ https://annadegismen.com/js/mkvuip.js
 https://annadegismen.com/js/pdemzv.js
 https://annadegismen.com/js/acnqoe.js
 https://annadegismen.com/js/igbavd.js
+https://annadegismen.com/js/jvrept.js
 https://annadegismen.com/js/hpkynl.js
 https://annadegismen.com/js/geruvw.js
 https://annadegismen.com/js/pqyhgb.js
@@ -8904,7 +8923,6 @@ https://annadegismen.com/js/jfoepi.js
 https://annadegismen.com/js/lzcvfy.js
 https://annadegismen.com/js/piasrb.js
 https://annadegismen.com/js/smvkca.js
-https://annadegismen.com/js/xezyfb.js
 https://annadegismen.com/js/htvriu.js
 https://annadegismen.com/js/acbsyg.js
 https://annadegismen.com/js/bfigvd.js
@@ -8935,6 +8953,7 @@ https://annadegismen.com/js/tcgdqr.js
 https://annadegismen.com/js/qpvbmw.js
 https://annadegismen.com/js/jvlhib.js
 https://annadegismen.com/js/kdmgzy.js
+https://annadegismen.com/js/nscgoi.js
 https://annadegismen.com/js/gvtuqd.js
 https://annadegismen.com/js/nwqtuo.js
 https://annadegismen.com/js/youwtb.js
@@ -9085,13 +9104,13 @@ http://annadegismen.com/js/pdemzv.js
 http://annadegismen.com/js/mgurty.js
 http://annadegismen.com/js/nmsgoz.js
 http://annadegismen.com/js/vsbace.js
+http://annadegismen.com/js/komysw.js
 http://annadegismen.com/js/mpkgyo.js
 http://annadegismen.com/js/gqmosl.js
 http://annadegismen.com/js/lzcvfy.js
 http://annadegismen.com/js/npjovg.js
 http://annadegismen.com/js/ufeigv.js
 http://annadegismen.com/js/qnzymd.js
-http://annadegismen.com/js/ropalb.js
 http://annadegismen.com/js/hmdjou.js
 http://annadegismen.com/js/qdkgmu.js
 http://annadegismen.com/js/lnpmqd.js
@@ -9283,6 +9302,7 @@ http://annadegismen.com/js/wbpusy.js
 http://annadegismen.com/js/xijzwd.js
 http://annadegismen.com/js/aukifc.js
 http://annadegismen.com/js/wpctlk.js
+http://annadegismen.com/js/tlsoch.js
 http://annadegismen.com/js/wlnoku.js
 http://annadegismen.com/js/lqbutd.js
 http://annadegismen.com/js/mwsknf.js
@@ -10052,6 +10072,7 @@ http://118.127.112.49:17818/Mozi.m
 http://154.0.129.134:10702/Mozi.m
 http://41.77.74.90:10702/Mozi.m
 http://87.197.107.203:52364/Mozi.m
+http://190.217.148.227:4886/Mozi.m
 http://78.29.19.18:3200/Mozi.m
 http://185.57.69.125:16138/Mozi.m
 http://89.190.76.126:4729/Mozi.m
@@ -11411,7 +11432,6 @@ http://121.200.63.165:27123/i
 http://45.224.100.254:4139/i
 http://92.241.19.127:61882/i
 http://37.252.66.188:12165/i
-http://119.15.92.78:4374/i
 http://95.38.24.186:2127/i
 http://118.71.250.6:28411/i
 http://91.242.106.137:2509/i
@@ -11760,7 +11780,6 @@ http://14.224.174.212/Ransomware.WannaCry_Plus.zip
 http://f24-zfcloud.zdn.vn/17c4755d1d45ed1bb454/8703634058188758823
 http://85.72.39.196:39497/.i
 http://oys0ro.static.otenet.gr:39497/.i
-https://adclick.g.doubleclick.net//pcs/click?adurl=//bamautzky.de/red.php
 http://216.188.216.17:54983/i
 http://67.78.106.23:55731/i
 http://64.140.100.201:44920/i
@@ -12161,7 +12180,6 @@ http://cdaonline.com.ar/wp-admin/bXjesdj7W3meuh7iAtiURBsgh/
 https://abissnet.net/u0eukz.zip
 http://yzkzixun.com/v2x2vexx.jpg
 http://ncxps.com/wp-includes/lm/7CFVaAA9jo/
-http://davaorealproperty.com/blogs/i0jOsqdfOKxC2/
 http://ncxps.com/wp-includes/rRRv7ILGM2dzPohaKlKheWb8rkju15bMqeEWcCglAp/
 http://ncxps.com/wp-includes/4LD2g8W3RRmhtGVVVPeq2OrlCqm71yyXVERIW5rZiTVIi3/
 http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
@@ -12195,6 +12213,7 @@ http://hitstation.nl/css/parts_service/ly944myw/
 https://raw.githubusercontent.com/d35ha/ProcessHide/master/bins/ProcessHide32.exe
 http://support.viewpoint.fr/viewpoint_support.exe
 http://0022a601.pphost.net/threatsim/exe/pdf.exe
+http://0022a601.pphost.net/threatsim/doc/774d0427cd607b1c09131cc277a68c9edd7cf01499d356bcb1ef4a08e6fc322a.doc
 http://0022a601.pphost.net/threatsim/exe/xerox01_pdf.exe
 http://0022a601.pphost.net/threatsim/exe/njrat.exe
 http://0022a601.pphost.net/threatsim/exe/640.exe
@@ -12265,7 +12284,6 @@ http://hseda.com/download/qt51crk.exe
 http://www.starcountry.net/screenmate/cute/sm1302.zip
 http://dl.dzqzd.com/wj1bsetup.exe
 http://www.caravella.com.br/arquivos/nfe.sfx.exe
-http://caravella.com.br/arquivos/nfe.sfx.exe
 http://nerve.untergrund.net/releases/zorke_release/zorke_asciiverter_v1.00/zke-ascv.exe
 http://nerve.untergrund.net/releases/12.2013/nrv-ppwr.zip
 http://chiptune.com/razor/rzr-winner_intro.zip
