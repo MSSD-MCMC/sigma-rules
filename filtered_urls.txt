@@ -1,3 +1,14 @@
+http://59.184.216.153:41696/bin.sh
+http://115.55.223.83:46793/i
+http://200.69.61.197:35777/i
+http://182.120.11.12:53506/bin.sh
+http://123.11.15.179:56132/i
+http://113.228.86.144:40569/i
+http://219.157.59.62:56886/bin.sh
+http://115.55.223.83:46793/bin.sh
+http://200.69.61.197:35777/bin.sh
+http://61.53.86.50:53365/i
+http://123.11.15.179:56132/bin.sh
 http://42.86.130.239:51582/i
 http://113.228.86.144:40569/bin.sh
 http://115.48.41.109:54996/i
@@ -774,7 +785,6 @@ http://47.108.63.64:7787/02.08.2022.exe
 http://87.120.126.194/Documents/Terms.lnk
 http://121.101.255.108:5080/i
 http://121.73.168.216:8082/sshd
-http://113.187.162.23/sshd
 http://201.110.92.215:8080/sshd
 http://95.47.176.138:50119/i
 http://41.211.101.107:26334/i
@@ -815,7 +825,6 @@ http://45.80.158.76/ppc
 http://45.80.158.76/x86
 http://45.80.158.76/spc
 http://45.80.158.76/mips
-http://45.80.158.76/mpsl
 http://45.80.158.76/arm6
 http://45.80.158.76/arm4
 http://45.80.158.76/arm7
@@ -1114,7 +1123,6 @@ http://196.251.70.138/bins/sora.spc
 http://196.251.70.138/bins/sora.arm7
 http://196.251.70.138/bins/sora.ppc
 http://196.251.70.138/bins/sora.arm
-http://196.251.70.138/bins/sora.mips
 http://119.116.178.90:53989/i
 http://185.208.158.140/mips1
 http://119.116.178.90:53989/bin.sh
@@ -1742,6 +1750,7 @@ http://107.175.158.208/02.08.2022.exe
 http://107.175.158.208:2086/02.08.2022.exe
 http://47.120.32.72:8081/02.08.2022.exe
 http://60.204.245.37:8080/02.08.2022.exe
+http://101.200.193.211:8080/02.08.2022.exe
 http://14.173.33.250:8081/sshd
 http://102.212.60.172:8025/sshd
 http://165.50.16.26:31040/i
@@ -1843,7 +1852,6 @@ http://78.159.156.10/bins/fsociety.arm7
 http://78.159.156.10/bins/fsociety.m68k
 http://78.159.156.10/bins/fsociety.sh4
 http://78.159.156.10/bins/fsociety.arc
-http://78.159.156.10/bins/fsociety.x86
 http://78.159.156.10/bins/fsociety.arm4
 http://78.159.156.10/bins/fsociety.arm6
 http://78.159.156.10/bins/fsociety.powerpc
@@ -1878,6 +1886,7 @@ http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
 http://abc.galaxias.cc/00101010101001/morte.arm
 http://abc.galaxias.cc/00101010101001/morte.x86_64
+http://abc.galaxias.cc/00101010101001/debug
 http://abc.galaxias.cc/00101010101001/morte.mips
 http://abc.galaxias.cc/1.sh
 http://abc.galaxias.cc/00101010101001/morte.arm7
@@ -3656,7 +3665,6 @@ http://2.125.59.57:10085/sshd
 https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
 https://celebratingseniors.net/oste.zip
-http://82.64.2.200:50332/i
 http://195.95.253.86:44754/i
 http://46.39.2.136:1823/i
 http://194.135.230.86:1550/i
@@ -3669,6 +3677,7 @@ https://maidforyou1985.com/bufs.zip
 https://medthermography.com/raxs.zip
 https://windomstatetheater.com/mits.zip
 https://medthermography.com/fsxs.zip
+https://jakestrack.com/zsps.zip
 http://medthermography.com/oste.zip
 https://windomstatetheater.com/osxs.zip
 https://jakestrack.com/fste.zip
@@ -4525,6 +4534,7 @@ https://onyxprotectech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardwave.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxshieldcore.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcryptorix.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://onyxarmorcrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardify.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://psloglink.psur7.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxcyberedge.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -4832,7 +4842,6 @@ https://talentrecruitments.com/new_image.jpg
 https://tobecation.github.io/TSL/downloader.exe
 https://accesspoint.cc/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://31.170.22.205/dl20
-https://electrum-dogecoin.com/download/electrum-doge-1.4.2.AppImage
 https://lindenappliances.co.za/order_svea.js
 https://github.com/StepLT2/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases/download/v3.9.1/InfiniteYieldAdminToolforRobloxEducationalPurposes-v3.9.1.zip
 https://raw.githubusercontent.com/AussieONZaza/assets/refs/heads/master/Launcher.zip
@@ -5518,7 +5527,6 @@ https://github.com/exvinityf/BSternAIChain/releases/download/v2.0/Software.zip
 https://github.com/obaniissnek/EarlyCascade/releases/download/v2.0/Release_x64.zip
 https://github.com/Fufulooky/life.html/releases/download/v2.0/Release_x64.zip
 https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip
-http://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip
 http://github.com/D3M0NVR/Electron-Executor/releases/download/v2.0/Release_x64.zip
 https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v2.0/Software.zip
 https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip
@@ -7988,6 +7996,7 @@ http://uyul.oss-cn-beijing.aliyuncs.com/in/2041.bin
 http://uyul.oss-cn-beijing.aliyuncs.com/in/d204.dll
 http://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 https://weco2.oss-me-east-1.aliyuncs.com/futon
+http://kuakuawenjian.oss-cn-hangzhou.aliyuncs.com/QQ%E5%8D%8E%E5%A4%8F%E6%9B%B4%E6%96%B0%E6%96%87%E4%BB%B6/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F.exe
 https://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/B0B34B3375B144C680A0456FFDD639A0.exe
 https://weco2.oss-me-east-1.aliyuncs.com/smiple_4yue
 https://weco.oss-eu-central-1.aliyuncs.com/test_kbnt
@@ -8773,6 +8782,7 @@ https://annadegismen.com/js/duvijc.js
 https://annadegismen.com/js/amlyko.js
 https://annadegismen.com/js/bzywxa.js
 https://annadegismen.com/js/kvrxln.js
+https://annadegismen.com/js/uizjfa.js
 https://annadegismen.com/js/phafqz.js
 https://annadegismen.com/js/icwhtg.js
 https://annadegismen.com/js/nsdztx.js
@@ -8830,7 +8840,6 @@ https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/rplkdt.js
-https://annadegismen.com/js/ljvfth.js
 https://annadegismen.com/js/mpkgyo.js
 https://annadegismen.com/js/bqfgev.js
 https://annadegismen.com/js/dqwzvu.js
@@ -10009,6 +10018,7 @@ http://76.76.195.174:62922/Mozi.m
 http://178.151.34.26:9354/Mozi.m
 http://103.217.215.238:17645/Mozi.m
 http://146.196.120.21:36191/Mozi.m
+http://202.74.246.172:57366/Mozi.m
 http://27.147.225.2:29392/Mozi.m
 http://134.249.141.119:22752/Mozi.m
 http://110.74.207.194:3585/Mozi.m
@@ -10100,7 +10110,6 @@ http://37.252.86.167:36327/Mozi.m
 http://190.129.2.198:24944/Mozi.m
 http://190.2.237.104:65088/Mozi.m
 http://91.244.169.56:48300/Mozi.m
-http://213.91.236.237:10713/Mozi.m
 http://14.200.203.114:7122/Mozi.m
 http://2.180.9.57:12220/Mozi.m
 http://78.29.14.127:29050/Mozi.m
@@ -10361,7 +10370,6 @@ https://soft.wsyhn.com/soft/wnbsqv3008.exe
 http://down.qqfarmer.com.cn/QQHelper_1540.exe
 http://cdn.ly.9377.com/login/1188%E7%83%88%E7%84%B0.exe
 http://144.172.71.105:1338/nova_flow/patcher.exe
-http://cs.go.kg/pages/update/css/self/[UPG]CSS.exe
 http://down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 http://43.249.193.54:81/tjqdq.exe
 https://temirtau-adm.ru/media/mod_junewsultra/js/bootstrap/js/bootstrap.min.js
@@ -10466,6 +10474,7 @@ https://github.com/TRevSglAss/MornA/raw/main/Ref_BA0929399122_pdf.zip
 https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
 http://78.188.91.108:39532/bin.sh
+http://78.188.91.108:39532/i
 http://43.240.65.55:81/info.zip
 http://220.248.47.54:76/info.zip
 http://167.250.49.155/bin/mimikatz.exe
@@ -10970,7 +10979,6 @@ http://121.101.191.106:24912/.i
 http://103.209.184.118:9257/.i
 http://103.209.184.121:9257/.i
 http://182.253.115.155:59323/.i
-http://159.224.143.43:60566/.i
 http://190.145.123.18:3553/.i
 http://122.170.110.131:9105/cryptography_module_windows.exe
 http://176.37.170.214:6685/i
@@ -11670,7 +11678,6 @@ http://84.242.139.154:15341/i
 http://64.140.105.9:44920/i
 http://2.36.68.156:54788/i
 http://1.55.243.196:28311/i
-http://103.237.174.30:22399/i
 http://109.92.143.90:65469/i
 http://14.200.203.114:7122/i
 http://93.118.104.33:41338/i
