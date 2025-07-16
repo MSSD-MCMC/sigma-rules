@@ -1,3 +1,5 @@
+http://119.166.83.101:33371/bin.sh
+http://61.53.133.28:60774/i
 http://117.209.26.217:40766/i
 http://125.47.71.75:41935/i
 http://115.48.223.203:50788/i
@@ -564,7 +566,6 @@ http://223.13.29.249:43657/i
 http://58.255.45.7:58349/bin.sh
 http://223.13.29.249:43657/bin.sh
 http://182.123.192.65:51266/bin.sh
-http://42.238.199.35:32829/bin.sh
 http://42.57.46.236:54916/bin.sh
 http://200.69.61.197:35777/i
 http://113.228.86.144:40569/i
@@ -672,6 +673,7 @@ http://78.31.250.161/ppc
 http://78.31.250.161/lmips
 http://78.31.250.161/toto
 http://196.251.113.7/adb
+http://196.251.113.7/w.sh
 http://78.31.250.161/massload
 http://78.31.250.161/wget.sh
 http://196.251.113.7/c.sh
@@ -1115,6 +1117,7 @@ http://222.220.238.40:48776/i
 http://222.220.238.40:48776/bin.sh
 http://196.251.69.244/00101010101001/morte.mips
 http://196.251.113.9/00101010101001/morte.x86_64
+http://196.251.69.179/00101010101001/morte.m68k
 http://196.251.113.9/00101010101001/morte.m68k
 http://196.251.69.254/00101010101001/debug
 http://196.251.69.244/00101010101001/morte.mpsl
@@ -1383,7 +1386,6 @@ http://23.160.193.251/bins/sora.arm5
 http://175.149.139.11:38543/i
 http://114.225.173.46:57226/i
 http://175.149.139.11:38543/bin.sh
-http://114.225.173.46:57226/bin.sh
 http://196.251.66.32/w.sh
 http://196.251.66.32/wget.sh
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link/test.jpg?137113
@@ -1448,7 +1450,6 @@ http://218.93.44.86:60349/i
 http://218.93.44.86:60349/bin.sh
 http://42.180.141.194:58992/bin.sh
 http://45.90.116.95/.5r3fqt67ew531has4231.mips
-http://45.90.116.95/.5r3fqt67ew531has4231.dbg
 http://45.90.116.95/.5r3fqt67ew531has4231.arm
 http://45.90.116.95/.5r3fqt67ew531has4231.sh4
 http://45.90.116.95/.5r3fqt67ew531has4231.arm7
@@ -1888,7 +1889,6 @@ http://154.205.133.58/skid.mpsl
 http://45.142.122.235/bot.sh4
 http://45.142.122.235/bot.mips
 http://45.142.122.235/bot.x86
-http://45.142.122.235/bot.arm7
 http://45.142.122.235/bot.m68k
 http://45.142.122.235/bot.x86_64
 http://45.142.122.235/bot.ppc
@@ -1906,7 +1906,6 @@ http://119.114.121.218:40965/bin.sh
 http://200.59.84.200:52380/i
 http://205.185.124.92/bins/star.arm5
 http://205.185.124.92/bins/star.arm7
-http://205.185.124.92/bins/star.spc
 http://205.185.124.92/bins/star.mips
 http://191.241.143.19:55130/i
 http://81.26.81.68:57147/i
@@ -2279,6 +2278,7 @@ https://demo.kaviansolutions.com/?u=script
 https://dentsadventure.com/?u=script
 https://demo22.zumm.info/?u=script
 https://aaron.doupe.com/?u=script
+https://demo.antiquebrassmoroccan.com/?u=script
 https://deltapowerkw.com/?u=script
 https://dehavenwerkers.nl/?u=script
 https://dentalcaredentist.in/?u=script
@@ -2356,6 +2356,7 @@ https://yumeimise.net/?u=file
 https://zonalatina103.net/?u=file
 https://zammler.com.kz/?u=file
 https://yourlove.net/?u=file
+https://zosnow.com/?u=file
 https://zivalife.com.br/?u=file
 https://yumeenterprises.com/?u=file
 https://zion-wealth.com/?u=file
@@ -3908,10 +3909,10 @@ http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
+http://121.36.27.251/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
-http://118.195.156.76:2443/02.08.2022.exe
 http://191.33.171.242:55443/i
 http://89.25.226.70:5300/i
 http://2.83.229.165:29558/i
@@ -7972,7 +7973,6 @@ https://drive.google.com/uc?export=download&id=1E2JDrdS0CIMRW3YPjRguvFl-CfsU0vKV
 http://forspeed.onlinedown.net/down/wupiao.3987.com.rar
 http://190.52.36.129:40486/i
 https://riverview-pools.com/verify/index.html
-https://blessdayservices.org/up/
 https://admin.gestroom.it/
 https://test.peperoncinochepassione.it/
 https://first-security-verden.de/
@@ -8735,6 +8735,7 @@ http://195.34.205.242:27023/.i
 http://203.115.101.242:32242/.i
 http://196.2.14.197:36682/.i
 http://103.236.133.81:21414/.i
+http://210.208.104.219:64995/.i
 http://190.110.204.150:34857/.i
 http://37.220.123.125:45497/.i
 http://212.233.125.238:19923/.i
@@ -9172,7 +9173,6 @@ https://annadegismen.com/js/mdnujx.js
 https://annadegismen.com/js/gchrsz.js
 https://annadegismen.com/js/lnpmqd.js
 https://annadegismen.com/js/vswybn.js
-https://annadegismen.com/js/mbpjue.js
 https://annadegismen.com/js/kspntc.js
 https://annadegismen.com/js/meciyz.js
 https://annadegismen.com/js/tgfhvd.js
@@ -9249,6 +9249,7 @@ https://annadegismen.com/js/giutma.js
 https://annadegismen.com/js/ecalyt.js
 https://annadegismen.com/js/ojuwkc.js
 https://annadegismen.com/js/eyanol.js
+https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/hnwkmj.js
@@ -9592,8 +9593,10 @@ http://annadegismen.com/js/npjovg.js
 http://annadegismen.com/js/ufeigv.js
 http://annadegismen.com/js/qnzymd.js
 http://annadegismen.com/js/ropalb.js
+http://annadegismen.com/js/hmdjou.js
 http://annadegismen.com/js/qdkgmu.js
 http://annadegismen.com/js/lnpmqd.js
+http://annadegismen.com/js/xrajol.js
 http://annadegismen.com/js/youwtb.js
 http://annadegismen.com/js/ihqwvu.js
 http://annadegismen.com/js/zefhca.js
@@ -9792,6 +9795,7 @@ http://annadegismen.com/js/abdogi.js
 http://annadegismen.com/js/tpwqro.js
 http://annadegismen.com/js/wjnalk.js
 http://annadegismen.com/js/ukitdj.js
+http://annadegismen.com/js/udjzbl.js
 http://annadegismen.com/js/bemzuh.js
 http://annadegismen.com/js/qduize.js
 http://annadegismen.com/js/jxufsd.js
@@ -10850,8 +10854,6 @@ https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/networks_profile
 https://raw.githubusercontent.com/s3q/blackdoor/main/backdoor.exe
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_move.bat
 https://raw.githubusercontent.com/s3q/blackdoor/main/extensions/fill_storage_virus.bat
-http://194.122.165.159/Photo.scr
-http://194.122.165.156/Photo.scr
 http://194.122.165.170/Photo.scr
 http://64.234.95.70/Photo.scr
 http://170.55.7.234/Photo.scr
@@ -11746,7 +11748,6 @@ http://213.147.120.145:41331/i
 http://75.136.50.41:20362/i
 http://188.175.134.62:4496/i
 http://212.55.98.177:48211/i
-http://185.34.20.221:58688/i
 http://185.190.20.228:46441/i
 http://202.124.33.242:51961/i
 http://188.72.6.218:43597/i
@@ -12122,6 +12123,7 @@ http://36.67.66.178:23987/Aqua.arm4
 http://81.16.123.55:41567/Aqua.i686
 http://67.78.106.21:55731/o
 http://36.67.66.178:23987/o
+http://81.16.123.55:41567/o
 http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
@@ -12290,6 +12292,7 @@ http://46.100.49.235:63034/.i
 http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://gaenterprises.in/sb/sb.js
+https://afrihealthexpo.org/sb/sb.js
 https://dezino.ir/smed/smed.js
 https://chinesegarden.com.tr/nit/nit.js
 https://villanyzsolti.hu/connect/
