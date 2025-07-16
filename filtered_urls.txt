@@ -1,3 +1,13 @@
+http://42.234.202.225:49073/i
+http://42.55.62.239:48227/i
+http://71.207.64.66:37958/i
+http://115.58.80.106:41287/bin.sh
+http://144.48.121.4:54247/bin.sh
+http://124.131.107.80:40950/i
+http://124.131.107.80:40950/bin.sh
+http://125.44.38.102:60431/i
+http://61.53.152.5:57989/bin.sh
+http://123.8.26.238:46605/i
 http://112.245.231.102:46817/bin.sh
 http://123.8.26.238:46605/bin.sh
 http://182.112.46.190:53404/i
@@ -390,11 +400,11 @@ http://198.55.98.107/arm7
 http://179.108.92.202:54922/i
 http://219.157.58.201:60000/bin.sh
 http://last.galaxias.cc/00101010101001/morte.arm
+http://last.galaxias.cc/00101010101001/morte.m68k
 http://last.galaxias.cc/00101010101001/morte.sh4
 http://1.izumisv1.cc/00101010101001/morte.arc
 http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/morte.x86_64
-http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.x86
 http://1.izumisv1.cc/00101010101001/morte.ppc
 http://1.izumisv1.cc/00101010101001/morte.spc
@@ -417,7 +427,6 @@ http://correospanama.cc/00101010101001/morte.mips
 http://correo7.shop/00101010101001/morte.mpsl
 http://kuwaitpost.shop/00101010101001/morte.arc
 http://kuwaitpost.shop/00101010101001/morte.mpsl
-http://autotoll.shop/00101010101001/morte.sh4
 http://autotoll.shop/00101010101001/morte.arc
 http://autotoll.shop/00101010101001/morte.i686
 http://kuwaitpost.shop/00101010101001/morte.m68k
@@ -660,7 +669,6 @@ http://196.251.113.7/z/89/arm6
 http://196.251.113.7/z/sdt
 http://196.251.113.7/z/89/arm5
 http://196.251.113.7/z/wget.sh
-http://196.251.113.7/lll
 http://196.251.113.7/z/asd
 http://196.251.113.7/z/weed
 http://196.251.113.7/z/c.sh
@@ -1043,7 +1051,6 @@ http://60.21.173.153:34278/i
 http://42.87.44.246:60860/bin.sh
 http://60.21.173.153:34278/bin.sh
 http://42.58.21.133:42279/i
-http://171.109.158.57:48524/bin.sh
 http://42.58.21.133:42279/bin.sh
 http://213.209.143.44/m68k
 http://178.141.154.130:42597/bin.sh
@@ -1181,6 +1188,7 @@ http://196.251.113.9/00101010101001/morte.sh4
 http://196.251.69.95/1.sh
 http://196.251.113.9/00101010101001/morte.x86
 http://196.251.114.102/00101010101001/morte.ppc
+http://196.251.114.102/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/morte.x86_64
 http://196.251.69.244/00101010101001/morte.sh4
 http://196.251.114.102/00101010101001/morte.arm7
@@ -1250,6 +1258,7 @@ http://196.251.69.244/00101010101001/morte.arm5
 http://196.251.69.241/1.sh
 http://196.251.69.244/00101010101001/morte.x86
 http://196.251.69.254/1.sh
+http://103.77.241.145/00101010101001/morte.spc
 http://196.251.69.179/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/morte.mips
 http://196.251.113.9/1.sh
@@ -1697,8 +1706,6 @@ http://42.51.49.238:6828/%E9%AA%97%E6%88%91%E3%81%AE.apk
 http://42.51.49.238:6828/%E9%9B%AA%E8%8A%B1%E8%BF%9C%E7%A8%8B%E7%89%88.apk
 http://42.51.49.238:6828/%E5%B0%8F%E8%9A%82%E8%9A%81bdt_v1.0.0-9_sign.apk
 http://42.51.49.238:6828/%E5%B0%8F%E9%9B%A8%E7%82%B9%E6%96%B01.apk
-http://42.51.49.238:6828/%E9%9B%AA%E8%8A%B1%E8%BF%9C%E7%A8%8B%E7%89%88%E6%96%B0.apk
-https://serv90.com/f63017a1.js
 http://163.142.89.111:33533/i
 http://42.194.186.137:8888/DebugView%2b%2b.exe
 http://42.194.186.137:8888/WxWorkApis.dll
@@ -2077,6 +2084,7 @@ http://191.241.143.17:40705/i
 http://216.244.203.24:56363/bin.sh
 http://119.166.14.121:37173/i
 http://191.241.143.17:40705/bin.sh
+http://119.166.14.121:37173/bin.sh
 http://213.209.150.18/Mm5njCjtExPunNp1j.exe
 http://222.127.214.87:33501/i
 http://222.127.214.87:33501/bin.sh
@@ -2261,6 +2269,7 @@ http://191.96.11.215/x86_64
 http://191.96.11.215/arm
 http://191.96.11.215/x86
 http://191.96.11.215/arm7
+http://47.103.36.44:8088/02.08.2022.exe
 http://205.250.126.180:56157/i
 http://121.147.179.88:52712/i
 http://37.34.172.44:50350/i
@@ -2374,7 +2383,6 @@ http://221.113.193.128/sshd
 http://171.231.112.142:23991/i
 http://211.226.243.108:1535/i
 http://31.130.248.85:25600/i
-https://abdulelectricalsandinfra.in/?u=script
 https://demo.goldenspoongroup.com/?u=script
 https://abcocomputers.com/?u=script
 https://demo.safelinegc.com/?u=script
@@ -2428,7 +2436,6 @@ https://a1webs.in/?u=script
 https://dentalcaredentist.in/?u=script
 https://deoriatimes.com/?u=script
 https://aarmacdecorators.co.uk/?u=script
-https://yorja.org/?u=script
 https://yourname.physio/?u=script
 https://aahhcmi.com/?u=script
 http://176.96.131.92/mipsel
@@ -2492,6 +2499,7 @@ https://zenithprojectsnsw.com.au/?u=file
 https://zebloexpress.com/?u=file
 https://zhaolearning.com/?u=file
 https://yummy-station.com/?u=file
+https://zennahopson.com/?u=file
 https://yourclassmanager.com/blogs/?u=file
 https://yumeimise.net/?u=file
 https://zonalatina103.net/?u=file
@@ -5039,6 +5047,7 @@ http://183.109.132.188:35716/.i
 http://113.214.56.238:3269/.i
 http://47.83.203.183:60138/linux
 http://8.210.50.65:60126/linux
+http://85.185.185.193:50500/.i
 https://github.com/vaxilu/x-ui/releases/latest/download/x-ui-linux-amd64.tar.gz
 http://195.158.88.156:13509/.i
 https://45.81.23.72/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -9196,7 +9205,6 @@ https://annadegismen.com/js/ahyfgb.js
 https://annadegismen.com/js/unxvws.js
 https://annadegismen.com/js/avicfl.js
 https://annadegismen.com/js/vbiqhm.js
-https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
@@ -9224,7 +9232,6 @@ https://annadegismen.com/js/giclzn.js
 https://annadegismen.com/js/xcyqdg.js
 https://annadegismen.com/js/mlxsgh.js
 https://annadegismen.com/js/tfzmiy.js
-https://annadegismen.com/js/shlebq.js
 https://annadegismen.com/js/lqbutd.js
 https://annadegismen.com/js/uzrhnf.js
 https://annadegismen.com/js/uigzyq.js
@@ -9499,7 +9506,6 @@ https://annadegismen.com/js/balqsd.js
 https://annadegismen.com/js/nlotfm.js
 https://annadegismen.com/js/eznirm.js
 https://annadegismen.com/js/sgtvuz.js
-https://annadegismen.com/js/mgurty.js
 https://annadegismen.com/js/zjkhuf.js
 https://annadegismen.com/js/xljwek.js
 https://annadegismen.com/js/chztsf.js
@@ -10904,7 +10910,6 @@ http://36.95.14.237:26598/i
 http://220.90.28.98:4789/i
 http://185.151.108.232:29113/i
 http://185.56.172.234:9362/i
-http://37.233.63.185:33423/i
 http://200.11.216.34:54077/i
 http://201.184.179.195:30450/i
 http://95.170.112.61:14898/i
@@ -11901,6 +11906,7 @@ http://190.129.2.198:24944/.i
 http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
 http://150.107.205.29:54598/.i
+http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
 http://94.154.84.37:64790/.i
 http://203.17.23.194:20834/.i
@@ -12462,6 +12468,7 @@ https://drive.google.com/uc?export=download&id=10lygPYJu_Dlg3x6R9OSlzGBlsHakSTl-
 https://drive.google.com/uc?export=download&id=1sqvM1XSORanfNVqst_KkDmN8yHgulm4k
 https://codeload.github.com/drakeo03/rbxfpsunlocker-x64-hotfix1/zip/refs/heads/main
 https://drive.google.com/uc?export=download&id=1GFn3lqD1rVybuT4ha-ldl92wT8ysRZfc
+http://221.147.184.207:6491/.i
 http://ircftp.net/image.png
 http://203.204.186.225:13718/.i
 http://119.192.203.57:45768/.i
@@ -12535,7 +12542,6 @@ https://cfu.twr.mybluehost.me/scarica/
 https://nusatoyota.co.id/teev/teev.js
 http://trungtambaohanhmaylanh.com/connect/index.php
 https://nhatheptienchebinhduong.com/mise/Normativa.zip
-https://nhatheptienchebinhduong.com/mise/Funzioni.zip
 https://nhatheptienchebinhduong.com/mise/Cliente.zip
 https://github.com/tedburke/CommandCam/archive/refs/heads/master.zip
 https://codeload.github.com/UnlockTeame/Unlimited/zip/refs/heads/main
@@ -12815,7 +12821,6 @@ https://dweixin.cn/gttu/Overview/sw94b26/
 https://dweixin.cn/gttu/invoice/ujn3me8cye/
 http://www.reifenquick.de/Scripts/open-0627720493640-azQ24PfFjRm/guarded-space/gxkx9t42ra6yf-6x7uyx330389w/
 http://schenckel.com.br/covid19/statement/
-http://lindnerelektroanlagen.de/INVOICE/AOG-3515110/
 http://hitstation.nl/css/parts_service/ly944myw/
 https://raw.githubusercontent.com/d35ha/ProcessHide/master/bins/ProcessHide32.exe
 http://0022a601.pphost.net/threatsim/exe/pdf.exe
