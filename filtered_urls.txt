@@ -1,3 +1,13 @@
+http://124.95.24.4:41841/i
+http://115.57.69.183:54466/i
+http://175.147.229.169:55997/i
+http://61.137.150.60:42482/i
+http://219.157.54.116:47857/i
+http://42.232.176.128:49607/i
+http://175.147.229.169:55997/bin.sh
+http://124.95.24.4:41841/bin.sh
+http://61.137.150.60:42482/bin.sh
+http://219.157.54.116:47857/bin.sh
 http://42.232.176.128:49607/bin.sh
 http://222.127.54.84:55049/i
 http://219.155.83.51:41806/i
@@ -558,7 +568,6 @@ http://autotoll.shop/00101010101001/morte.ppc
 http://autotoll.shop/00101010101001/debug
 http://autotoll.shop/00101010101001/morte.x86_64
 http://autotoll.shop/00101010101001/morte.arm7
-http://autotoll.shop/00101010101001/morte.arm5
 http://correo7.shop/00101010101001/morte.arc
 http://correo7.shop/00101010101001/morte.ppc
 http://autotoll.shop/00101010101001/morte.spc
@@ -664,6 +673,7 @@ http://42.57.46.236:54916/bin.sh
 http://200.69.61.197:35777/i
 http://219.157.59.62:56886/bin.sh
 http://200.69.61.197:35777/bin.sh
+http://42.86.130.239:51582/i
 http://42.225.88.188:41799/i
 http://27.37.27.5:35997/i
 http://175.165.110.103:45941/bin.sh
@@ -718,6 +728,7 @@ http://196.251.113.7/z/adb
 http://196.251.113.7/asd
 http://196.251.113.7/z/89/mips
 http://196.251.113.7/z/89/mpsl
+http://196.251.113.7/z/sdt
 http://196.251.113.7/irz
 http://196.251.113.7/z/f5
 http://196.251.113.7/create.py
@@ -727,7 +738,6 @@ http://196.251.113.7/z/test.sh
 http://196.251.113.7/z.sh
 http://196.251.113.7/z/w.sh
 http://196.251.113.7/zz
-http://196.251.113.7/z/fdgsfg
 http://196.251.113.7/z/aaa
 http://196.251.113.7/z/vc
 http://196.251.113.7/z/ruck
@@ -736,7 +746,6 @@ http://196.251.113.7/linksys
 http://196.251.113.7/av.sh
 http://196.251.113.7/mag
 http://196.251.113.7/test.sh
-http://196.251.113.7/multi
 http://196.251.113.7/z/g
 http://87.9.62.151/ss
 http://78.31.250.161/larm4
@@ -1000,7 +1009,6 @@ http://88.250.184.107:38354/Mozi.m
 http://61.52.56.213:34386/i
 http://61.52.56.213:34386/bin.sh
 http://42.59.236.3:55565/bin.sh
-http://221.14.40.56:37375/bin.sh
 http://119.109.232.186:39927/i
 https://yosa.com/?u=osxxxx
 http://176.46.157.32/files/7782545218/JTA6cYY.exe
@@ -1212,10 +1220,10 @@ http://196.251.69.254/00101010101001/morte.x86_64
 http://196.251.69.244/00101010101001/morte.arm6
 http://103.77.241.145/00101010101001/debug
 http://196.251.114.102/00101010101001/morte.x86
-http://196.251.69.244/00101010101001/morte.arm7
 http://103.77.241.145/00101010101001/morte.arm5
 http://103.77.241.145/00101010101001/morte.x86
 http://196.251.69.254/00101010101001/morte.mpsl
+http://196.251.69.179/00101010101001/morte.arc
 http://196.251.66.32/HBTs/top1miku.mpsl
 http://103.77.241.145/00101010101001/morte.ppc
 http://196.251.69.254/00101010101001/morte.spc
@@ -1240,7 +1248,6 @@ http://196.251.114.102/00101010101001/morte.x86_64
 http://196.251.114.102/00101010101001/debug
 http://196.251.114.102/00101010101001/morte.sh4
 http://196.251.69.241/00101010101001/morte.x86_64
-http://196.251.69.244/00101010101001/morte.ppc
 http://196.251.113.9/00101010101001/morte.arm6
 http://196.251.69.241/00101010101001/morte.m68k
 http://103.77.241.145/00101010101001/morte.arm7
@@ -1494,6 +1501,7 @@ http://218.93.44.86:60349/i
 http://218.93.44.86:60349/bin.sh
 http://42.180.141.194:58992/bin.sh
 http://89.42.88.254/LjEZs/uYtea.arm6
+http://89.42.88.254/LjEZs/uYtea.ppc
 http://103.175.16.75/sh4.nn
 http://103.175.16.75/dvr.sh
 http://103.175.16.75/multi.sh
@@ -1726,7 +1734,6 @@ http://45.151.62.238/Documents/nudes.png.lnk
 http://5.101.11.9:19080/i
 http://197.89.38.83:8043/sshd
 http://77.110.113.242/Documents/w9.lnk
-http://45.93.28.105:8080/02.08.2022.exe
 http://77.110.113.242/Documents/lnksample.lnk
 http://77.110.113.207/Downloads/docusign.lnk
 http://78.159.156.10/telnet.sh
@@ -1837,6 +1844,7 @@ http://154.205.133.58/lilin.sh
 http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
+http://abc.galaxias.cc/00101010101001/morte.arm
 http://abc.galaxias.cc/00101010101001/morte.m68k
 http://abc.galaxias.cc/00101010101001/morte.arm6
 http://abc.galaxias.cc/00101010101001/morte.mips
@@ -2233,6 +2241,7 @@ http://103.20.102.84/wget.sh
 http://162.215.218.82/aminer.gz
 http://162.215.218.82/install.tgz
 http://43.139.228.20:800/02.08.2022.exe
+http://47.101.187.219:81/02.08.2022.exe
 http://43.139.185.214/02.08.2022.exe
 http://43.159.52.193/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
@@ -2251,6 +2260,7 @@ https://69cutlass.com/?u=script
 https://dennissooklal.cyber-demo-client-website1.com/?u=script
 https://demo.ligologistics.ca/?u=script
 https://desentupidoranovaera.com/?u=script
+https://demokratieinbergen.de/?u=script
 https://aagmaninfotech.com/?u=script
 https://99naturais.com.br/?u=script
 https://delisiregroup.com/?u=script
@@ -2277,12 +2287,14 @@ https://dean.stugray.com/?u=script
 https://deltainfotek.com/?u=script
 https://design-nanal.com/?u=script
 https://zadding.com/?u=script
+https://7hillssymphony.org/?u=script
 https://depoimentos.professorcorazza.com.br/?u=script
 https://aarbon90.tastyspicydelish.com/?u=script
 https://demauroconsulting.com/?u=script
 https://dentemaxdental.com.au/?u=script
 https://abemetal.ru/?u=script
 https://a4naturals.com/?u=script
+https://dentsadventure.com/?u=script
 https://demo22.zumm.info/?u=script
 https://decal-global.com/?u=script
 https://aavishkaar-palampur.org/?u=script
@@ -2325,7 +2337,6 @@ http://103.245.237.243/d/akido.mips
 http://103.245.237.243/d/akido.m68k
 https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
 http://91.92.46.53:8083/publish.zip
-http://107.150.0.18/ppc
 http://107.150.0.18/sh4
 http://107.150.0.18/arm7
 http://107.150.0.18/arm
@@ -2982,7 +2993,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/06%2006%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/24%2005%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/30%2012%202024/info.zip
-http://81.42.249.132:1080/SER%20Costa%20Luz/13%2012%202024/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/23%2001%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/21%2005%202025/info.zip
@@ -3570,7 +3580,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/29%2005%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/11%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/23%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/19%2004%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/27%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/24%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/27%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/15%2003%202025/info.zip
@@ -4278,6 +4287,7 @@ http://4.233.216.36:8000/a.ps1
 http://4.233.216.36:8000/b.ps1
 http://4.233.216.36:8000/beacon.bin
 http://72.177.84.111:8232/i
+http://124.221.27.158:7500/02.08.2022.exe
 http://185.95.124.42:2220/sshd
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
@@ -4381,7 +4391,6 @@ http://80.94.92.143/mig
 http://143.92.48.9/2023
 http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://47.102.209.177:22211/02.08.2022.exe
-http://81.71.64.78/02.08.2022.exe
 http://186.87.82.140:31414/i
 http://2.54.83.155:802/sshd
 http://47.242.224.97:60147/linux
@@ -6769,7 +6778,6 @@ https://onyxguardshift.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxnexguard.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsentinelx.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsafecrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://axhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsecuregate.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://acc.wtshelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -9203,7 +9211,6 @@ https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
-https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
 https://annadegismen.com/js/gecixy.js
 https://annadegismen.com/js/qrxjgz.js
@@ -9432,7 +9439,6 @@ https://annadegismen.com/js/wdupyk.js
 https://annadegismen.com/js/mskbyg.js
 https://annadegismen.com/js/qaglhn.js
 https://annadegismen.com/js/nemuxy.js
-https://annadegismen.com/js/evktub.js
 https://annadegismen.com/js/ypufma.js
 https://annadegismen.com/js/gaxwco.js
 https://annadegismen.com/js/ldfnaq.js
@@ -9820,7 +9826,6 @@ http://annadegismen.com/js/wpglyv.js
 http://annadegismen.com/js/yijwpl.js
 http://annadegismen.com/js/mskbyg.js
 http://annadegismen.com/js/qgpckt.js
-http://annadegismen.com/js/whdsul.js
 http://annadegismen.com/js/wdupyk.js
 http://annadegismen.com/js/htfvnw.js
 http://annadegismen.com/js/yhnbve.js
@@ -10499,6 +10504,7 @@ http://77.89.245.118:44811/Mozi.m
 http://85.29.137.243:24679/Mozi.m
 http://202.4.124.58:12137/Mozi.m
 http://195.64.182.106:53111/Mozi.m
+http://202.166.220.109:59928/Mozi.m
 http://190.248.145.19:49406/Mozi.m
 http://37.143.133.215:46668/Mozi.m
 http://64.140.100.194:44920/Mozi.m
@@ -12195,7 +12201,6 @@ http://109.171.30.19:33609/o
 http://81.16.123.55:41567/bin.sh
 http://81.16.123.55:41567/Aqua.arm6
 http://109.171.30.19:33609/bin.sh
-http://36.67.66.178:23987/Mozi.a
 http://67.78.106.21:55731/Mozi.m
 http://43.224.0.5:1316/Mozi.a
 http://79.120.54.194:15151/Mozi.m
@@ -12813,6 +12818,7 @@ http://sg123.net/files/install.exe
 http://igra123.com/files/install.exe
 http://igra123.com/files/update.exe
 http://haeum.nfile.net/files/haeum.exe
+http://down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
 http://static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
 http://p4man.com.br/Rechnungen/01_19/
 http://attach.mail.daum.net/bigfile/v1/urls/d/4QnWTDd-4XsuUy1XlRMzcibqJfU/IHdzYO55cuS7ds4lmMKxpA
