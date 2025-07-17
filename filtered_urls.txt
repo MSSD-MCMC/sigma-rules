@@ -1,3 +1,16 @@
+http://42.232.176.128:49607/bin.sh
+http://222.127.54.84:55049/i
+http://219.155.83.51:41806/i
+http://42.177.21.164:48973/bin.sh
+http://222.127.54.84:55049/bin.sh
+http://39.77.70.70:44736/i
+http://42.230.36.98:41405/i
+http://42.235.188.168:60864/i
+http://182.127.36.39:41447/i
+http://89.67.28.49:57423/bin.sh
+http://182.117.43.146:33121/bin.sh
+http://219.155.83.51:41806/bin.sh
+http://216.247.210.223:3276/i
 http://39.77.70.70:44736/bin.sh
 http://182.124.144.127:36150/bin.sh
 http://117.209.92.86:57439/i
@@ -519,7 +532,6 @@ http://last.galaxias.cc/00101010101001/morte.arm5
 http://last.galaxias.cc/00101010101001/morte.i686
 http://last.galaxias.cc/00101010101001/morte.arm6
 http://last.galaxias.cc/00101010101001/morte.sh4
-http://1.izumisv1.cc/00101010101001/morte.arm5
 http://1.izumisv1.cc/00101010101001/morte.x86_64
 http://1.izumisv1.cc/00101010101001/morte.arm6
 http://1.izumisv1.cc/00101010101001/morte.x86
@@ -1165,6 +1177,7 @@ http://196.251.113.9/00101010101001/morte.x86_64
 http://196.251.69.241/00101010101001/morte.arm5
 http://196.251.69.179/00101010101001/morte.m68k
 http://196.251.113.9/00101010101001/morte.arm5
+http://196.251.113.9/00101010101001/morte.i686
 http://196.251.69.254/00101010101001/morte.mips
 http://196.251.69.244/00101010101001/morte.mpsl
 http://196.251.114.102/00101010101001/morte.spc
@@ -1425,6 +1438,7 @@ http://175.149.139.11:38543/i
 http://196.251.66.32/w.sh
 http://196.251.66.32/wget.sh
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link/test.jpg?137113
+http://196.251.69.95/00101010101001/morte.mpsl
 http://196.251.69.95/00101010101001/morte.i686
 http://196.251.69.95/00101010101001/morte.arm5
 http://196.251.69.95/00101010101001/morte.arm6
@@ -1502,7 +1516,6 @@ http://160.191.86.53/hiddenbin/boatnet.arm5
 http://160.191.86.53/hiddenbin/boatnet.arm6
 http://160.191.86.53/hiddenbin/boatnet.mpsl
 http://160.191.86.53/hiddenbin/boatnet.x86
-http://60.177.19.165:53939/i
 http://124.95.33.237:56906/i
 http://124.95.33.237:56906/bin.sh
 http://123.175.67.39:40220/i
@@ -1584,7 +1597,6 @@ http://60.26.217.176:88/2019-10-29/info.zip
 http://60.26.217.176:88/2022/info.zip
 http://60.26.217.176:88/2020/info.zip
 http://60.26.217.176:88/2019-10-12/info.zip
-http://60.26.217.176:88/2023/info.zip
 http://60.26.217.176:88/read400record/info.zip
 http://116.133.72.10:20000/1/AV.scr
 http://116.133.72.10:20000/Photo.scr
@@ -1825,7 +1837,6 @@ http://154.205.133.58/lilin.sh
 http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
 http://154.205.133.58/skid.arm5
-http://abc.galaxias.cc/00101010101001/morte.arm
 http://abc.galaxias.cc/00101010101001/morte.m68k
 http://abc.galaxias.cc/00101010101001/morte.arm6
 http://abc.galaxias.cc/00101010101001/morte.mips
@@ -2285,6 +2296,7 @@ https://aarmacdecorators.co.uk/?u=script
 https://yourname.physio/?u=script
 https://aaaitems.com/?u=script
 https://aahhcmi.com/?u=script
+https://design.pazeinternational.com/?u=script
 http://66.63.187.193/arm7
 http://66.63.187.193/clean
 http://66.63.187.193/i686
@@ -3625,7 +3637,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/04%2003%202025/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/14%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/06%2004%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/20%2001%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/10%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/20%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/18%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/23%2005%202025/info.zip
@@ -4479,6 +4490,7 @@ http://89.10.239.29:46046/i
 http://213.209.150.18/alphamm.exe
 https://screen.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://sconnect-01.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://connection.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://216.131.90.19:54138/bin.sh
 https://github.com/popa339/nef5/raw/refs/heads/main/Slasher.exe
 http://2.54.239.97:802/sshd
@@ -8288,6 +8300,7 @@ http://82.96.151.84:44586/i
 http://tests.yjzj.org/helps/helphelp1207/helps.hta
 http://github.com/blackhatethicalhacking/fud/blob/master/access.exe?raw=true
 http://github.com/blackhatethicalhacking/fud/raw/refs/heads/master/access.exe
+https://ah-scanning.oss-cn-hongkong.aliyuncs.com/cos
 http://83.229.122.83:801/02.08.2022.exe
 http://193.176.252.85:8083/sshd
 http://80.11.36.4:10014/sshd
@@ -8398,6 +8411,7 @@ http://152.136.140.85:40389/zotero/DWPPJ74T.zip
 http://152.136.140.85:40389/zotero/JDYM53NL.zip
 http://152.136.140.85:40389/zotero/E9FFA5DA.zip
 http://152.136.140.85:40389/zotero/8ZG9FAZ4.zip
+http://43.240.65.55:81/IMG001.exe
 http://1.181.70.42:17003/info.zip
 http://81.42.249.132:1080/info.zip
 http://2.54.83.78:802/sshd
@@ -8511,6 +8525,7 @@ http://24.64.128.57:48073/i
 http://111.74.21.155:5011/sshd
 http://117.240.155.245:30140/sshd
 http://117.240.155.245:30330/sshd
+http://220.180.255.224:9081/sshd
 http://117.240.155.245:30430/sshd
 http://117.240.155.245:30120/sshd
 http://117.240.155.245:30010/sshd
@@ -8789,6 +8804,7 @@ http://103.43.6.114:7055/.i
 http://103.84.39.181:19439/.i
 http://181.233.95.25:40000/.i
 http://186.125.133.244:53948/.i
+http://121.160.146.2:46001/.i
 http://212.85.166.12:22448/.i
 http://212.154.209.206:16122/.i
 http://121.121.71.115:31863/.i
@@ -9468,6 +9484,7 @@ https://annadegismen.com/js/tsqyuk.js
 https://annadegismen.com/js/atdxug.js
 https://annadegismen.com/js/tcgdqr.js
 https://annadegismen.com/js/qpvbmw.js
+https://annadegismen.com/js/jvlhib.js
 https://annadegismen.com/js/kdmgzy.js
 https://annadegismen.com/js/nscgoi.js
 https://annadegismen.com/js/gvtuqd.js
@@ -9769,7 +9786,6 @@ http://annadegismen.com/js/pwxzmg.js
 http://annadegismen.com/js/qivbdo.js
 http://annadegismen.com/js/tukayh.js
 http://annadegismen.com/js/tkwlbg.js
-http://annadegismen.com/js/hcflvo.js
 http://annadegismen.com/js/cbaxsl.js
 http://annadegismen.com/js/poclxy.js
 http://annadegismen.com/js/afyles.js
@@ -10347,6 +10363,7 @@ http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 https://39.98.174.154:52683/02.08.2022.exe
+https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -10634,13 +10651,13 @@ http://181.143.124.58:2854/Mozi.m
 http://81.16.247.116:2957/Mozi.m
 http://27.147.132.114:38521/Mozi.m
 http://190.4.44.202:14124/Mozi.m
+http://103.71.46.122:7747/Mozi.m
 http://36.66.139.36:53736/Mozi.m
 http://31.210.217.24:64046/Mozi.m
 http://89.28.58.97:37382/Mozi.m
 http://103.61.103.83:2620/Mozi.m
 http://103.1.157.126:20748/Mozi.m
 http://93.175.223.140:5544/Mozi.m
-http://2.180.35.231:56242/Mozi.m
 http://203.80.244.154:46151/Mozi.m
 http://182.160.124.186:5529/Mozi.m
 http://66.181.166.140:27299/Mozi.m
@@ -12247,6 +12264,7 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=//kavyasourcing.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://cliffg.me
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://redeamazoniaazul.org/
 https://adclick.g.doubleclick.net/pcs/click?adurl=//www.jd-forever.com/
+https://adclick.g.doubleclick.net/pcs/click?adurl=//old.umcl.us/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://wegrowcoaching.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://dongyu.us/
 https://github.com/ssslllap1/asdasd/raw/main/crypted.exe
@@ -12436,6 +12454,7 @@ https://storage.googleapis.com/by9sdoqaf4zo.appspot.com/w/faa0ZXu52Jz0FGE.html?a
 https://storage.googleapis.com/kjl51nnbkg8f.appspot.com/w/I3HMeWO60GWvUmx.html?b=841660865822302577
 https://storage.googleapis.com/c08hrgew4vlk.appspot.com/w/j28WVEcoAgAouGq.html?w=036663603374497270
 http://211.197.134.180:37772/.i
+http://222.117.7.182:12472/.i
 https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://2.181.0.61:64572/.i
 http://1717.1000uc.com/Updates1/up.exe
@@ -12467,6 +12486,7 @@ https://dreamwatchevent.com/zp-user/Protected%20Client.js
 http://37.34.209.216:59068/.i
 http://212.231.226.35:27102/.i
 http://211.192.158.40:18524/.i
+http://125.25.110.77:57263/Mozi.m
 http://210.96.44.219:45071/.i
 http://121.152.84.56:52066/.i
 https://rxquickpay.com/hksweep/vendor/font-awesome/svgs/brands/subtraction.php
