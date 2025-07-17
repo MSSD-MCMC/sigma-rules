@@ -1,3 +1,12 @@
+http://192.24.206.1:3850/i
+http://182.120.4.214:41096/i
+http://42.232.237.141:46169/i
+http://192.24.206.1:3850/bin.sh
+http://1.181.227.183:41299/i
+http://61.52.168.247:50629/i
+http://115.53.242.2:46439/i
+http://1.181.227.183:41299/bin.sh
+http://42.57.221.195:51163/i
 http://61.52.168.247:50629/bin.sh
 http://115.53.242.2:46439/bin.sh
 http://42.228.220.92:37068/i
@@ -481,6 +490,7 @@ http://175.147.224.171:41058/i
 http://200.59.88.140:35209/i
 http://correospanama.cc/00101010101001/morte.i686
 http://correospanama.cc/00101010101001/morte.x86
+http://correospanama.cc/00101010101001/morte.x86_64
 http://correospanama.cc/00101010101001/morte.spc
 http://kuwaitpost.shop/00101010101001/morte.ppc
 http://correo7.shop/00101010101001/morte.mpsl
@@ -496,6 +506,7 @@ http://autotoll.shop/00101010101001/morte.x86
 http://correo7.shop/00101010101001/morte.mips
 http://correospanama.cc/00101010101001/morte.m68k
 http://kuwaitpost.shop/00101010101001/morte.arm5
+http://correo7.shop/00101010101001/debug
 http://correo7.shop/00101010101001/morte.arc
 http://autotoll.shop/00101010101001/morte.spc
 http://182.127.36.39:41447/bin.sh
@@ -679,11 +690,13 @@ http://196.251.113.7/f5
 http://196.251.113.7/bx
 http://196.251.113.7/z/ipc
 http://196.251.113.7/weed
+http://196.251.113.7/z/vc
 http://196.251.113.7/gocl
 http://196.251.113.7/sdt
 http://196.251.113.7/z/xaxa
 http://196.251.113.7/mag
 http://196.251.113.7/test.sh
+http://196.251.113.7/z/g
 http://87.9.62.151/ss
 http://78.31.250.161/larm4
 http://78.31.250.161/larm5
@@ -982,7 +995,6 @@ http://113.231.233.48:49230/i
 http://113.231.80.42:53892/i
 http://156.238.225.44/LjEZs/uYtea.spc
 http://156.238.225.44/LjEZs/uYtea.x86
-http://156.238.225.44/LjEZs/uYtea.ppc
 http://156.238.225.44/LjEZs/uYtea.m68k
 http://156.238.225.44/LjEZs/uYtea.sh4
 http://156.238.225.44/LjEZs/uYtea.arm5
@@ -991,7 +1003,6 @@ http://68.69.185.162/main_x86
 http://113.231.80.42:53892/bin.sh
 http://182.123.192.65:51266/i
 http://220.161.100.86:60830/i
-http://42.176.3.131:45332/i
 http://121.61.109.25:444/02.08.2022.exe
 http://47.109.45.147:23072/02.08.2022.exe
 http://27.17.158.66:56245/02.08.2022.exe
@@ -1404,6 +1415,7 @@ http://123.179.230.55:33033/bin.sh
 http://23.160.193.251/bins/sora.arm5
 http://175.149.139.11:38543/i
 http://175.149.139.11:38543/bin.sh
+http://196.251.66.32/c.sh
 http://196.251.66.32/wget.sh
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link/test.jpg?137113
 http://196.251.69.95/00101010101001/morte.arm5
@@ -1554,6 +1566,7 @@ http://116.133.72.10:20000/AV.lnk
 http://116.133.72.10:20000/1/AV.lnk
 http://60.26.217.176:88/Handler/info.zip
 http://60.26.217.176:88/2025/info.zip
+http://60.26.217.176:88/eyeBeam%201.5/info.zip
 http://116.133.72.10:20000/1/Video.scr
 http://116.133.72.10:20000/1/Photo.scr
 http://60.26.217.176:88/2023/info.zip
@@ -2198,7 +2211,6 @@ http://103.20.102.84/w.sh
 http://103.20.102.84/x86_64
 http://162.215.218.82/aminer.gz
 http://162.215.218.82/install.tgz
-http://43.139.228.20:800/02.08.2022.exe
 http://47.101.187.219:81/02.08.2022.exe
 http://43.139.185.214/02.08.2022.exe
 http://46.236.65.11:45811/i
@@ -2221,6 +2233,7 @@ https://dennissooklal.cyber-demo-client-website1.com/?u=script
 https://aaronshaffier.jerusalemwalkingtour.com/?u=script
 https://6ixportal.ca/?u=script
 https://dealshubindia.in/?u=script
+https://ddtech.kz/?u=script
 https://desentupidoranovaera.com/?u=script
 https://demokratieinbergen.de/?u=script
 https://demo2.amcham-ci.org/?u=script
@@ -2240,6 +2253,7 @@ https://abmarketingstudio.co.uk/?u=script
 https://7223333.ru/?u=script
 https://a3dvisualizacion.com/wp/?u=script
 https://dellaeventos.com/?u=script
+https://derinkokkirtasiye.com/?u=script
 https://deanvon.com/?u=script
 https://7jigen.net/wp/?u=script
 https://desentupidoraalternativa.com.br/?u=script
@@ -3857,6 +3871,7 @@ http://15.235.134.131:8080/dcaptk.msi
 http://15.235.134.131:8080/dcaat.msi
 http://15.235.134.131:8080/dcap9.msi
 http://68.183.190.74:8000/report.ps1
+http://117.72.102.110:6666/02.08.2022.exe
 http://94.159.99.169/Documents/testlnk1.lnk
 http://64.183.60.197:22414/i
 http://88.200.149.253:56892/i
@@ -4794,6 +4809,7 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
+http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/bea.bin
 http://8.138.119.70:5003/beacon.bin
 http://111.46.219.240:14593/.i
@@ -4852,6 +4868,7 @@ http://81.16.117.191:38494/.i
 http://43.133.41.106/02.08.2022.exe
 http://118.195.189.82/02.08.2022.exe
 http://47.102.209.177:8389/02.08.2022.exe
+http://47.254.74.170:13561/02.08.2022.exe
 http://80.110.37.104:48784/i
 http://103.144.210.195:48375/i
 http://212.166.205.220:9001/sshd
@@ -4992,6 +5009,7 @@ http://neirong.funshion.com/airportbeta/files/foam.zip
 http://github.com/xensontop1/d/raw/refs/heads/main/dmap.exe
 http://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-msvc-win64.zip
 http://github.com/vinhuptoday/testbn/raw/refs/heads/main/brbotnet.exe
+http://fz.tiansys.cn:85/TianSys(XP%E4%B8%93%E7%94%A8).exe
 http://github.com/disbalancer-project/main/releases/latest/download/disbalancer-go-client-windows-386.exe
 http://52mj.susuwei.cn:8090/game/ysjyx880.exe?tk=UjYxMzYlVzN3UTYwUmY0QWOmdDMyYTOzQWO1gDO0QDN852b812bj5CM2MTaopXaixHN1IDNzcjM5YTM
 http://42.194.150.118:7789/images/TP.exe
@@ -5499,7 +5517,6 @@ http://79.121.103.84:45544/i
 http://78.111.30.28:6692/i
 https://github.com/hassan-be/Pet-Simulator-99-Dupe-GUI/releases/download/newmarket/pet-simulator-99-dupe-gui-newmarket.zip
 https://github.com/gayfjlover/tracex-hwid-spoofer-de/releases/download/v1.6.6/tracex-hwid-spoofer-de_v1.6.6.zip
-http://103.144.2.73:19490/spread.txt
 https://github.com/kenzie299312/hack-crypto-wallet/releases/download/v1.9.0-alpha.1/hack-crypto-wallet-v1.9.0-alpha.1.zip
 https://github.com/kenzie299312/hack-crypto-wallet/releases/download/3.7.6/hack-crypto-wallet_v3.7.6.zip
 https://raw.githubusercontent.com/PhamKhanhHung208/assets/refs/heads/master/Launcher.zip
@@ -8249,6 +8266,7 @@ http://222.165.237.60:37379/i
 http://103.187.31.50:23626/i
 http://222.165.237.59:37379/i
 http://185.136.195.193:60963/i
+http://216.155.92.203:3956/i
 https://raw.githubusercontent.com/Matrix2077v2/dsiasif/refs/heads/main/main_mpsl
 http://119.206.216.132:8674/i
 http://222.165.237.58:37379/i
@@ -9908,7 +9926,6 @@ http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
 http://annadegismen.com/js/sbozjq.js
-http://annadegismen.com/js/ylherd.js
 http://annadegismen.com/js/hrdcou.js
 http://annadegismen.com/js/hexmvb.js
 http://annadegismen.com/js/svandw.js
@@ -10730,6 +10747,7 @@ http://89.218.42.242:51547/i
 http://213.91.236.237:10713/i
 http://36.94.219.31:4812/i
 http://27.116.61.234:44306/i
+http://81.16.122.253:6805/i
 http://181.211.15.10:60096/i
 http://103.82.211.164:45793/i
 http://103.235.33.186:1662/i
@@ -10990,7 +11008,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://down.ftp21.cc/445.jpg
 http://ssl.ftp21.cc/TQ.jpg
-http://85.207.44.106/Photo.scr
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
