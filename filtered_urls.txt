@@ -1,3 +1,12 @@
+http://117.209.17.80:47127/i
+http://112.248.191.23:44320/bin.sh
+http://182.114.196.71:41487/i
+http://42.6.184.142:53050/i
+http://119.118.48.73:40693/bin.sh
+http://117.209.17.80:47127/bin.sh
+http://42.6.184.142:53050/bin.sh
+http://42.225.203.227:45936/i
+http://182.124.144.127:36150/i
 http://61.52.2.131:57837/i
 http://42.224.136.47:33345/i
 http://42.225.203.227:45936/bin.sh
@@ -448,6 +457,7 @@ http://185.229.66.57/x86_64
 http://185.229.66.57/x86
 http://185.229.66.57/mpsl
 http://112.248.82.191:37145/i
+http://42.87.149.170:36894/bin.sh
 http://123.8.130.44:45770/bin.sh
 http://112.248.82.191:37145/bin.sh
 http://222.138.138.230:36647/bin.sh
@@ -820,13 +830,11 @@ http://196.251.113.7/z/multi
 http://196.251.113.7/z/lll
 http://196.251.113.7/z/weed
 http://196.251.113.7/z/test.sh
-http://196.251.113.7/zz
 http://196.251.113.7/z/fdgsfg
 http://196.251.113.7/z/aaa
 http://196.251.113.7/z/irz
 http://196.251.113.7/g
 http://196.251.113.7/z/li
-http://196.251.113.7/bx
 http://196.251.113.7/z/ipc
 http://196.251.113.7/weed
 http://196.251.113.7/z/vc
@@ -1142,7 +1150,6 @@ http://89.221.203.158:6969/bins/arm6
 http://89.221.203.158:6969/bins/x86_64
 http://89.221.203.158:6969/bins/mpsl
 http://89.221.203.158:6969/bins/sh4
-http://89.221.203.158:6969/bins/arm7
 http://89.221.203.158:6969/bins/arm
 http://89.221.203.158:6969/bins/x86
 http://113.239.110.61:41050/i
@@ -1243,6 +1250,7 @@ http://196.251.69.241/00101010101001/morte.x86
 http://103.77.241.145/00101010101001/morte.i686
 http://196.251.69.254/00101010101001/morte.sh4
 http://196.251.69.244/00101010101001/morte.arc
+http://196.251.113.9/00101010101001/debug
 http://196.251.69.241/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/debug
 http://103.77.241.145/00101010101001/morte.arm5
@@ -1792,6 +1800,7 @@ http://103.130.213.4/bins/sora.spc
 http://103.130.213.4/bins/sora.sh4
 http://103.130.213.4/bins/sora.mpsl
 http://103.130.213.4/bins/sora.arm5
+https://produos.net/pin/remcos_z_base64.txt
 http://24.96.184.50:38457/i
 http://78.159.156.10/bins/fsociety.sparc
 http://78.159.156.10/bins/fsociety.arm7
@@ -3868,6 +3877,7 @@ http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
+http://43.138.30.109:8888/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://121.36.27.251/02.08.2022.exe
 http://139.9.129.103:4444/02.08.2022.exe
@@ -4375,7 +4385,6 @@ http://213.209.150.107/hiddenbin/boatnet.sh4
 http://213.209.150.107/hiddenbin/boatnet.mpsl
 http://213.209.150.107/hiddenbin/boatnet.arm
 http://213.209.150.107/hiddenbin/boatnet.m68k
-http://101.133.229.117:443/02.08.2022.exe
 http://2.54.84.143:802/sshd
 http://201.98.176.195:8022/sshd
 http://91.212.166.206/dropper.apk
@@ -5448,6 +5457,7 @@ https://raw.githubusercontent.com/pawela827-2/test/main/VsGraphicsResources2.exe
 https://github.com/voslol/hack-crypto-wallet/releases/download/croupous/hack-crypto-wallet-croupous.zip
 https://github.com/hakimil/hack-crypto-wallet/releases/download/v2.7.7-beta.4/hack-crypto-wallet-v2.7.7-beta.4.zip
 https://github.com/AussieONZaza/assets/raw/refs/heads/master/Launcher.zip
+http://8.141.166.236:8888/02.08.2022.exe
 http://79.121.103.84:45544/i
 http://78.111.30.28:6692/i
 https://github.com/hassan-be/Pet-Simulator-99-Dupe-GUI/releases/download/newmarket/pet-simulator-99-dupe-gui-newmarket.zip
@@ -8192,6 +8202,7 @@ http://43.226.39.44:5988/LoginAntiCheat.dll
 http://43.226.39.44:5988/LoginAntiCheat4.dll
 http://43.226.39.44:5988/GMEX.dll
 http://185.136.195.193:60963/i
+http://216.155.92.203:3956/i
 https://raw.githubusercontent.com/Matrix2077v2/dsiasif/refs/heads/main/main_mpsl
 http://119.206.216.132:8674/i
 http://222.165.237.58:37379/i
@@ -8900,6 +8911,7 @@ https://drive.google.com/uc?export=download&id=1NvSn7w4EPO6U8rU3BheuM2FyGVBG6fh4
 https://drive.google.com/uc?export=download&id=1-WQl_IuA-mYLU2KIuYz-IB-5GgJqjQQP
 https://firebasestorage.googleapis.com/v0/b/decqq-cf20a.appspot.com/o/donchifile_VchFujk91.bin?alt=media&token=c2737a65-ff1c-436c-a6f0-11d3a748f62f
 http://8.137.114.210:4455/02.08.2022.exe
+http://124.222.129.148:10000/02.08.2022.exe
 http://8.154.18.17:15679/02.08.2022.exe
 https://raw.githubusercontent.com/khangdz1801/raw/refs/heads/main/sound.exe
 http://162.219.216.183:40370/Mozi.a
@@ -9055,6 +9067,7 @@ https://annadegismen.com/js/rodsap.js
 https://annadegismen.com/js/ulhqcw.js
 https://annadegismen.com/js/vyiagt.js
 https://annadegismen.com/js/mspldv.js
+https://annadegismen.com/js/ocjbrm.js
 https://annadegismen.com/js/tzokax.js
 https://annadegismen.com/js/hmdjou.js
 https://annadegismen.com/js/zvwjks.js
@@ -9320,6 +9333,7 @@ https://annadegismen.com/js/evktub.js
 https://annadegismen.com/js/ypufma.js
 https://annadegismen.com/js/gaxwco.js
 https://annadegismen.com/js/ldfnaq.js
+https://annadegismen.com/js/pxobar.js
 https://annadegismen.com/js/dspvek.js
 https://annadegismen.com/js/nozmuk.js
 https://annadegismen.com/js/vrxbsi.js
@@ -9749,7 +9763,6 @@ http://annadegismen.com/js/wjlhgv.js
 http://annadegismen.com/js/bfigvd.js
 http://annadegismen.com/js/yuesrp.js
 http://annadegismen.com/js/lhkrya.js
-http://annadegismen.com/js/ecpjkf.js
 http://annadegismen.com/js/ihznpm.js
 http://annadegismen.com/js/mwpjqs.js
 http://annadegismen.com/js/owvzhd.js
@@ -10661,7 +10674,6 @@ http://27.147.132.114:38521/i
 http://31.223.60.33:38054/i
 http://175.211.219.57:42362/i
 http://178.211.135.170:12768/i
-http://47.254.74.170:13560/02.08.2022.exe
 https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip
 https://123.60.83.46/02.08.2022.exe
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
@@ -11673,7 +11685,6 @@ http://185.114.137.114:23308/i
 http://178.34.182.186:34662/i
 http://202.166.220.109:59928/i
 http://81.16.242.236:28115/i
-http://197.155.64.126:47085/i
 http://202.148.20.138:24291/i
 http://188.0.131.200:15427/i
 http://176.195.191.123:54140/i
