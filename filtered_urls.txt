@@ -1,3 +1,13 @@
+http://117.209.16.52:40766/i
+http://42.231.111.153:55972/bin.sh
+http://45.74.116.201:59261/i
+http://220.201.110.179:54589/i
+http://42.58.228.172:40311/bin.sh
+http://59.93.181.76:56019/bin.sh
+http://45.74.116.201:59261/bin.sh
+http://117.205.93.159:40612/i
+http://116.10.132.71:45126/i
+http://42.225.204.239:60491/i
 http://117.205.93.159:40612/bin.sh
 http://116.10.132.71:45126/bin.sh
 http://42.225.204.239:60491/bin.sh
@@ -197,7 +207,6 @@ http://boxwoodrenovations.com/bins/bin.m68k
 http://boxwoodrenovations.com/bins/bin.x86_64
 http://boxwoodrenovations.com/bins/bin.arm7
 http://boxwoodrenovations.com/bins/bin.mips
-http://boxwoodrenovations.com/bins/bin.mpsl
 http://196.251.80.60/bins/nexusnet.arm6
 http://196.251.80.60/bins/nexusnet.mpsl
 http://196.251.80.60/bins/nexusnet.spc
@@ -515,6 +524,7 @@ http://196.251.118.167/bins/bin.arm5
 http://196.251.118.167/bins/bin.mips
 http://196.251.118.167/bins/bin.x86_64
 http://196.251.118.167/bins/bin.x86
+http://196.251.118.167/bins/bin.arm7
 http://185.229.66.57/hi.sh
 http://192.24.206.1:3850/i
 http://192.24.206.1:3850/bin.sh
@@ -702,10 +712,12 @@ http://23.146.184.43/hiddenbin/Space.arm
 http://23.146.184.43/hiddenbin/Space.arm7
 http://23.146.184.43/hiddenbin/Space.m68k
 http://1.izumisv1.cc/00101010101001/morte.arc
+http://1.izumisv1.cc/00101010101001/morte.arm5
 http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/debug
 http://1.izumisv1.cc/00101010101001/morte.x86_64
 http://1.izumisv1.cc/00101010101001/morte.m68k
+http://1.izumisv1.cc/00101010101001/morte.arm7
 http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.ppc
 http://1.izumisv1.cc/00101010101001/morte.spc
@@ -821,6 +833,7 @@ http://196.251.113.7/z/zz
 http://196.251.113.7/z/bx
 http://196.251.113.7/ipc
 http://196.251.113.7/multi
+http://196.251.113.7/aaa
 http://196.251.113.7/rtz
 http://196.251.113.7/z/89/x86_64
 http://196.251.113.7/adb
@@ -1073,7 +1086,6 @@ http://196.251.114.102/00101010101001/morte.mpsl
 http://196.251.113.9/00101010101001/morte.x86_64
 http://196.251.69.241/00101010101001/morte.arm5
 http://196.251.113.9/00101010101001/morte.m68k
-http://196.251.113.9/00101010101001/morte.arm5
 http://196.251.113.9/00101010101001/morte.i686
 http://196.251.69.254/00101010101001/debug
 http://196.251.113.9/00101010101001/morte.arm
@@ -1500,6 +1512,7 @@ http://14.225.217.229:8080/FyzqTYTe.jpeg
 http://1.15.230.7:8888/WxWorkApis.dll
 http://107.130.118.168:8081/installer.sh
 http://14.225.217.229:8080/QpnfqAxm.jpeg
+http://139.159.197.114:8090/%e6%96%87%e4%bb%b6%e7%89%b9%e5%be%81%e6%91%98%e8%a6%81%e5%88%97%e8%a1%a8%e7%94%9f%e6%88%90.exe
 http://1.15.230.7:8888/WxWorkMultiOpen.exe
 http://43.140.214.197:8888/DebugView%2b%2b.exe
 http://101.33.244.192:8888/WxWorkApis.dll
@@ -1902,8 +1915,8 @@ http://213.173.74.116:16876/i
 http://58.240.204.207:13913/i
 http://197.155.206.126:22236/i
 http://39.103.236.200:443/02.08.2022.exe
-http://124.222.74.146:6666/02.08.2022.exe
 http://120.27.235.78:82/02.08.2022.exe
+http://47.109.93.252:50051/02.08.2022.exe
 http://103.159.72.227:42939/i
 http://82.139.187.78:47271/i
 http://217.117.116.182:15187/i
@@ -1970,7 +1983,6 @@ http://103.20.102.84/mpsl
 http://103.20.102.84/arm6
 http://103.20.102.84/m68k
 http://103.20.102.84/sh4
-http://103.20.102.84/arm5
 http://103.20.102.84/debug.dbg
 http://103.20.102.84/c.sh
 http://103.20.102.84/arm7
@@ -2040,6 +2052,7 @@ https://decal-global.com/?u=script
 https://aavishkaar-palampur.org/?u=script
 https://demo.antiquebrassmoroccan.com/?u=script
 https://a1webs.in/?u=script
+https://dehavenwerkers.nl/?u=script
 https://deoriatimes.com/?u=script
 https://demo.markazcity.in/?u=script
 https://aarmacdecorators.co.uk/?u=script
@@ -3993,6 +4006,7 @@ http://4.233.216.36:8000/a.ps1
 http://4.233.216.36:8000/b.ps1
 http://4.233.216.36:8000/beacon.bin
 http://72.177.84.111:8232/i
+http://197.210.129.150:44008/i
 http://185.95.124.42:2220/sshd
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin4.plg
@@ -4000,7 +4014,6 @@ https://xai830k.com/plugin1.plg
 http://94.26.90.80/VivadoLD.exe
 http://39.107.85.83:50050/02.08.2022.exe
 http://8.134.128.115/02.08.2022.exe
-http://1.92.135.168:8074/02.08.2022.exe
 http://31.202.153.12:13264/i
 http://153.37.252.36:4440/i
 http://115.127.119.198:28033/i
@@ -4024,7 +4037,6 @@ http://190.214.55.142:23120/i
 http://181.199.86.79:32837/i
 http://217.64.135.53:63442/i
 http://2.55.90.62:802/sshd
-http://171.252.114.83:2360/sshd
 http://2.125.59.57:10085/sshd
 https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
@@ -4788,6 +4800,7 @@ https://20.74.209.192:8080/02.08.2022.exe
 https://8.141.166.236/02.08.2022.exe
 https://43.155.195.102:8888/02.08.2022.exe
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
+http://47.113.217.92:8001/02.08.2022.exe
 http://120.27.235.78/02.08.2022.exe
 http://156.19.57.50:24183/i
 https://192.159.99.195/bin//support.client.exe?i=&e=Support&y=Guest&r=
@@ -8564,7 +8577,6 @@ http://103.163.119.220/Aqua.arm6
 http://github.com/user-attachments/files/17793058/lg246drE.txt
 http://103.163.119.220/Aqua.arm5
 http://103.163.119.220/Aqua.ppc
-https://xn--yh4bx88a.com/storage/files/9/%E2%98%85%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%98%85.zip
 https://xn--yh4bx88a.com/storage/files/9/%E2%AB%B8%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%AB%B7.zip
 http://github.com/rviance/ubiquitous-fortnight/releases/download/toolwin/toolwin.exe
 https://loader.oxy.st/get/19f3c14691d28ab174a7935987ce2182/
@@ -8687,7 +8699,6 @@ https://annadegismen.com/js/ygwqnm.js
 https://annadegismen.com/js/zhlkqy.js
 https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
-https://annadegismen.com/js/uhoqtj.js
 https://annadegismen.com/js/pkacbg.js
 https://annadegismen.com/js/lrabiq.js
 https://annadegismen.com/js/hjiosv.js
@@ -9588,7 +9599,6 @@ http://annadegismen.com/js/fgjzlp.js
 http://annadegismen.com/js/xkhlro.js
 http://annadegismen.com/js/eyfbaq.js
 http://annadegismen.com/js/hznwrv.js
-http://annadegismen.com/js/wfrtcn.js
 http://annadegismen.com/js/crfobl.js
 http://annadegismen.com/js/tzlpch.js
 http://annadegismen.com/js/dnuwsr.js
@@ -10102,7 +10112,6 @@ http://12.148.208.86:42009/Mozi.m
 http://181.94.245.254:3028/Mozi.m
 http://103.209.184.118:9257/Mozi.m
 http://185.56.172.234:9362/Mozi.m
-http://216.155.93.238:33194/Mozi.m
 http://62.162.113.34:21172/Mozi.m
 http://194.183.186.164:50835/Mozi.m
 http://92.241.77.214:20631/Mozi.m
@@ -10287,7 +10296,6 @@ http://103.61.103.83:2620/Mozi.m
 http://103.1.157.126:20748/Mozi.m
 http://37.202.49.118:56648/Mozi.m
 http://93.175.223.140:5544/Mozi.m
-http://2.180.35.231:56242/Mozi.m
 http://203.80.244.154:46151/Mozi.m
 http://84.22.48.234:63218/Mozi.m
 http://182.160.124.186:5529/Mozi.m
@@ -12105,7 +12113,6 @@ https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/retraction.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
 http://93.170.128.248:52806/.i
-https://www.crazywickedaddiction.com/comply.php
 https://continentalgroup.net.in/squalid.php
 https://www.crazywickedaddiction.com/development/public/uploads/images/categories/beirut.php
 https://forms.saurashtrauniversity.edu/belt.php
@@ -12158,7 +12165,6 @@ https://chat-server.maverickpreviews.com/aggressive.php
 https://bridgeroad.maverickpreviews.com/belt.php
 https://bridgeroad.maverickpreviews.com/anarchical.php
 https://chat-server.maverickpreviews.com/newborn.php
-https://www.cutting-edge.in/ruckus.php
 https://chat-server.maverickpreviews.com/unanswerable.php
 http://103.164.200.170:7080/.i
 http://203.223.44.206:8418/.i
@@ -12184,7 +12190,6 @@ https://www.playtown.co.za/lining.php
 https://jyothishmathi.in/pinout.php
 https://jyothishmathi.in/steeplechases.php
 https://jyothishmathi.in/familial.php
-http://visam.info/update_vbase/VOKLIGHT.exe
 http://visam.info/update_vbase/VOKLIGHTD.exe
 http://103.125.163.10:7080/.i
 https://jyothishmathi.in/habitual.php
@@ -12507,5 +12512,4 @@ http://tirtasentosa.com/give/ukbros003.exe
 http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
 http://tirtasentosa.com/give/obi001.exe
-http://tirtasentosa.com/give/jon001.exe
 http://tirtasentosa.com/give/was001.exe
