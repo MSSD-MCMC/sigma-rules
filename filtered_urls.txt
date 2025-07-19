@@ -1,3 +1,15 @@
+http://27.219.136.224:41996/bin.sh
+http://123.5.190.171:39253/i
+http://188.17.93.0:42806/bin.sh
+http://42.227.185.63:38030/i
+http://120.61.66.35:33493/i
+http://182.52.128.230:43456/i
+http://123.5.190.171:39253/bin.sh
+http://60.18.50.224:42534/i
+http://125.43.0.181:35679/i
+http://120.61.66.35:33493/bin.sh
+http://61.53.127.223:40111/i
+http://42.227.185.63:38030/bin.sh
 http://60.18.50.224:42534/bin.sh
 http://125.43.0.181:35679/bin.sh
 http://116.138.44.42:46858/i
@@ -64,6 +76,7 @@ http://125.44.61.233:43091/i
 http://www.ultrasource.co.za/aniporac/Udvalgsbehandlingens.deploy
 http://www.ultrasource.co.za/aniporac/Arvens.thn
 http://www.ultrasource.co.za/aniporac/Steakenes.dsp
+http://www.ultrasource.co.za/aniporac/Timelnnedes.u32
 http://www.ultrasource.co.za/aniporac/Initialens178.pfb
 http://petrofac-files.com/dy/MR-9062-000-MS-PRQ-020K307.pdf
 http://www.ultrasource.co.za/saipem/Astmatikers.psd
@@ -168,7 +181,6 @@ http://87.121.84.105/hiddenbin/boatnet.arm5
 http://87.121.84.105/hiddenbin/boatnet.spc
 http://87.121.84.105/hiddenbin/boatnet.ppc
 http://87.121.84.105/hiddenbin/boatnet.arm
-http://87.121.84.105/hiddenbin/boatnet.arc
 http://87.121.84.105/hiddenbin/boatnet.mips
 http://87.121.84.105/hiddenbin/boatnet.arm6
 http://222.137.37.63:35456/bin.sh
@@ -204,6 +216,7 @@ http://207.167.64.24/powerpc
 http://207.167.64.24/arm
 http://boxwoodrenovations.com/bins/bin.arm6
 http://graceparkhawthornclub.com/bins/bin.sh4
+http://graceparkhawthornclub.com/bins/bin.arm
 http://boxwoodrenovations.com/bins/bin.arm5
 http://graceparkhawthornclub.com/bins/bin.arm7
 http://graceparkhawthornclub.com/bins/bin.mpsl
@@ -235,6 +248,7 @@ http://alina-quintana.com/bins/bin.arm7
 http://play-the-play-lp.com/bins/bin.arm7
 http://play-the-play-lp.com/bins/bin.x86_64
 http://alina-quintana.com/bins/bin.arm
+http://alina-quintana.com/bins/bin.mips
 http://play-the-play-lp.com/bins/bin.mpsl
 http://alina-quintana.com/bins/bin.ppc
 http://play-the-play-lp.com/bins/bin.sh4
@@ -393,7 +407,6 @@ http://172.96.14.125/dlr.arm5
 http://172.96.14.125/dlr.arm6
 http://172.96.14.125/dlr.mpsl
 http://125.43.227.71:54650/i
-http://42.225.242.51:34835/i
 http://42.178.168.95:51915/i
 http://42.178.168.95:51915/bin.sh
 http://31.135.249.24:50366/i
@@ -456,7 +469,6 @@ http://209.141.43.46/sh4
 http://209.141.43.46/co
 http://209.141.43.46/dss
 http://209.141.43.46/sex.sh
-http://172.252.71.127/main_arm7
 http://172.252.71.127/main_x86
 http://209.141.43.46/586
 http://209.141.43.46/x86
@@ -598,7 +610,6 @@ http://support-elusa.6g.in/rsyslogd
 http://support-elusa.6g.in/system
 http://unext.am.in/dbus-daemon
 http://support-elusa.6g.in/getty
-http://116.139.185.8:40011/bin.sh
 http://unext.am.in/system
 http://unext.am.in/agetty
 http://unext.am.in/ssh
@@ -811,7 +822,6 @@ http://42.6.146.252:56487/i
 http://hollywoodcafeonmain.com/wplus.ps1
 http://138.207.174.248:52381/i
 http://138.207.174.248:52381/bin.sh
-http://213.232.114.169/i486
 http://196.251.113.7/li
 http://196.251.113.7/z/jaws
 http://196.251.113.7/z/89/mpsl
@@ -820,7 +830,6 @@ http://196.251.113.7/z/sdt
 http://196.251.113.7/z/89/arm5
 http://196.251.113.7/irz
 http://196.251.113.7/create.py
-http://196.251.113.7/z/asd
 http://196.251.113.7/z/weed
 http://196.251.113.7/z/gocl
 http://196.251.113.7/z/w.sh
@@ -895,6 +904,7 @@ http://213.209.143.140/hiddenbin/Space.i686
 http://213.209.143.140/hiddenbin/Space.mips
 http://213.209.143.140/hiddenbin/Space.spc
 http://213.209.143.140/hiddenbin/Space.mpsl
+http://213.209.143.140/hiddenbin/Space.ppc
 http://213.209.143.140/hiddenbin/Space.x86_64
 http://213.209.143.140/hiddenbin/Space.m68k
 http://213.209.143.140/hiddenbin/Space.arm5
@@ -1148,7 +1158,6 @@ http://196.251.69.241/00101010101001/morte.ppc
 http://196.251.69.244/00101010101001/morte.x86_64
 http://196.251.69.254/00101010101001/morte.arm6
 http://196.251.69.241/00101010101001/morte.arm
-http://196.251.69.244/00101010101001/morte.m68k
 http://196.251.114.102/00101010101001/morte.arm6
 http://196.251.114.102/00101010101001/morte.arc
 http://196.251.69.254/00101010101001/morte.x86
@@ -1273,7 +1282,6 @@ http://87.20.197.23:3067/.i
 http://110.183.49.235:39301/bin.sh
 http://175.173.92.132:42509/i
 http://213.232.114.169/armv6l
-http://213.232.114.169/i586
 http://213.232.114.169/mips
 http://213.232.114.169/armv4l
 http://213.232.114.169/i686
@@ -1701,6 +1709,7 @@ http://94.255.232.166:37372/bin.sh
 http://176.46.157.32/files/fate/random.exe
 http://176.46.157.32/luma/random.exe
 http://46.35.179.223:58143/bin.sh
+http://175.174.87.210:36983/i
 http://176.46.157.32/soft/index.exe
 http://176.46.157.32/files/unique2/random.exe
 http://177.70.102.232:8090/info.zip
@@ -2013,7 +2022,6 @@ https://demo.goldenspoongroup.com/?u=script
 https://abcocomputers.com/?u=script
 https://dennissooklal.cyber-demo-client-website1.com/?u=script
 https://6ixportal.ca/?u=script
-https://dealshubindia.in/?u=script
 https://demo.ligologistics.ca/?u=script
 https://ddtech.kz/?u=script
 https://desentupidoranovaera.com/?u=script
@@ -4015,7 +4023,6 @@ https://xai830k.com/plugin4.plg
 https://xai830k.com/plugin1.plg
 http://94.26.90.80/VivadoLD.exe
 http://39.107.85.83:50050/02.08.2022.exe
-http://8.134.128.115/02.08.2022.exe
 http://31.202.153.12:13264/i
 http://153.37.252.36:4440/i
 http://115.127.119.198:28033/i
@@ -4181,7 +4188,6 @@ http://178.208.187.90/hiddenbin/boatnet.arm5
 http://178.208.187.90/hiddenbin/boatnet.m68k
 http://178.208.187.90/hiddenbin/boatnet.mpsl
 http://178.208.187.90/hiddenbin/boatnet.spc
-http://178.208.187.90/hiddenbin/boatnet.arc
 http://178.208.187.90/hiddenbin/boatnet.arm7
 http://178.208.187.90/hiddenbin/boatnet.arm6
 http://178.208.187.90/hiddenbin/boatnet.arm
@@ -4848,7 +4854,6 @@ https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a843
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
 http://111.229.108.128:12233/02.08.2022.exe
-http://47.108.39.159:4446/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
 https://bestieslos.com/MAKEEWYK.msi
@@ -7850,7 +7855,6 @@ https://raw.githubusercontent.com/iluxa94/-3-/refs/heads/main/%D0%A4%D0%BE%D1%80
 https://github.com/Neo23x0/signature-base/archive/master.zip
 http://101.32.40.22/
 http://85.204.104.159:17159/i
-http://202.141.244.42:16801/i
 http://36.92.188.82:40111/i
 http://46.236.65.143:55111/i
 http://195.158.88.156:13509/i
@@ -8578,6 +8582,7 @@ http://103.163.119.220/Aqua.arm6
 http://github.com/user-attachments/files/17793058/lg246drE.txt
 http://103.163.119.220/Aqua.arm5
 http://103.163.119.220/Aqua.ppc
+https://xn--yh4bx88a.com/storage/files/9/%E2%98%85%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%98%85.zip
 https://xn--yh4bx88a.com/storage/files/9/%E2%AB%B8%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%AB%B7.zip
 http://github.com/rviance/ubiquitous-fortnight/releases/download/toolwin/toolwin.exe
 https://loader.oxy.st/get/19f3c14691d28ab174a7935987ce2182/
@@ -9023,7 +9028,6 @@ https://annadegismen.com/js/xrajol.js
 https://annadegismen.com/js/lusrqf.js
 https://annadegismen.com/js/lrgkaj.js
 https://annadegismen.com/js/qudsxr.js
-https://annadegismen.com/js/brgdto.js
 https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/rplkdt.js
@@ -9133,7 +9137,6 @@ https://annadegismen.com/js/lyqtmc.js
 https://annadegismen.com/js/syabui.js
 https://annadegismen.com/js/majqwv.js
 https://annadegismen.com/js/mwpjqs.js
-https://annadegismen.com/js/ktaxgd.js
 https://annadegismen.com/js/gqmosl.js
 https://annadegismen.com/js/gnkjqf.js
 http://annadegismen.com/js/ctiakn.js
@@ -9153,6 +9156,7 @@ http://annadegismen.com/js/rsmupb.js
 http://annadegismen.com/js/qkrbco.js
 http://annadegismen.com/js/kyhmov.js
 http://annadegismen.com/js/ebavlw.js
+http://annadegismen.com/js/jvlhib.js
 http://annadegismen.com/js/ylmtcr.js
 http://annadegismen.com/js/lusrqf.js
 http://annadegismen.com/js/ocjbrm.js
@@ -10072,7 +10076,6 @@ http://190.185.119.13:53572/Mozi.m
 http://31.223.60.33:38054/Mozi.m
 http://103.209.184.121:9257/Mozi.m
 http://89.133.95.164:38396/Mozi.m
-http://77.238.209.82:26331/Mozi.m
 http://216.188.216.17:54983/Mozi.m
 http://36.88.109.138:25236/Mozi.m
 http://179.189.254.54:19253/Mozi.m
@@ -11418,7 +11421,6 @@ http://202.53.164.46:35803/.i
 http://118.127.112.49:17818/.i
 http://181.193.59.78:39941/.i
 http://212.55.98.177:48211/.i
-http://79.111.119.241:38922/.i
 http://176.195.191.123:54140/.i
 http://185.126.195.110:51413/.i
 http://185.43.228.126:2473/.i
@@ -12010,6 +12012,7 @@ http://trungtambaohanhmaylanh.com/connect/index.php
 https://nhatheptienchebinhduong.com/mise/Normativa.zip
 https://nhatheptienchebinhduong.com/mise/Funzioni.zip
 https://nhatheptienchebinhduong.com/mise/Servizi.zip
+https://nhatheptienchebinhduong.com/mise/Cliente.zip
 https://nhatheptienchebinhduong.com/mise/Contratto.zip
 https://github.com/tedburke/CommandCam/archive/refs/heads/master.zip
 https://codeload.github.com/UnlockTeame/Unlimited/zip/refs/heads/main
