@@ -1,3 +1,7 @@
+http://115.55.221.111:41788/i
+http://60.19.216.250:41958/i
+http://117.146.92.46:39379/bin.sh
+http://222.141.182.138:50904/i
 http://182.126.95.165:48600/bin.sh
 http://222.141.182.138:50904/bin.sh
 http://117.209.86.204:40114/i
@@ -186,6 +190,7 @@ http://176.46.157.32/files/7395374685/7Un6LSu.exe
 http://xabanak.ru/312.exe
 http://alina-quintana.com/bins/bin.arm7
 http://alina-quintana.com/bins/bin.arm
+http://alina-quintana.com/bins/bin.mips
 http://alina-quintana.com/bins/bin.x86_64
 http://play-the-play-lp.com/bins/bin.m68k
 http://alina-quintana.com/bins/bin.arm6
@@ -601,6 +606,7 @@ http://179.61.138.56/00101010101001/morte.sh4
 http://179.61.138.56/00101010101001/morte.i686
 http://109.120.137.172/terms.mp4
 http://47.245.90.197/02.08.2022.exe
+http://155.94.175.189/02.08.2022.exe
 http://106.12.215.229:8080/02.08.2022.exe
 http://47.120.48.100/02.08.2022.exe
 http://89.221.203.233/Documents/Invoice_DE00150_2025.lnk
@@ -687,6 +693,7 @@ http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/morte.m68k
 http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.x86
+http://1.izumisv1.cc/00101010101001/morte.ppc
 http://1.izumisv1.cc/00101010101001/morte.i686
 http://175.147.224.171:41058/i
 http://200.59.88.140:35209/i
@@ -905,6 +912,7 @@ http://68.69.186.182/bolubotnetm68k
 http://68.69.186.182/bolubotnetx86
 http://68.69.186.182/bolubotnetppc
 http://68.69.185.162/sh.sh
+http://42.4.125.177:60209/bin.sh
 http://112.64.53.135:37229/i
 http://97.81.149.91:58801/i
 http://97.81.149.91:58801/bin.sh
@@ -1057,6 +1065,7 @@ http://196.251.114.102/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/morte.x86_64
 http://196.251.114.102/00101010101001/morte.arm7
 http://196.251.69.95/00101010101001/debug
+http://196.251.69.241/00101010101001/morte.arc
 http://196.251.114.102/00101010101001/morte.arm5
 http://196.251.114.102/00101010101001/morte.arm
 http://103.77.241.145/00101010101001/morte.arm
@@ -1076,6 +1085,7 @@ http://196.251.69.254/00101010101001/morte.sh4
 http://196.251.69.244/00101010101001/morte.arc
 http://196.251.113.9/00101010101001/debug
 http://196.251.114.102/1.sh
+http://196.251.69.241/00101010101001/morte.spc
 http://103.77.241.145/00101010101001/debug
 http://196.251.114.102/00101010101001/morte.x86
 http://196.251.69.244/00101010101001/morte.arm7
@@ -1565,7 +1575,6 @@ http://93.123.109.218/bins/parm6
 http://93.123.109.218/bins/parm
 https://produos.net/pin/remcos_light_base64.txt
 http://113.231.228.83:44070/bin.sh
-http://103.130.213.4/bins/sora.arm7
 http://103.130.213.4/bins/sora.m68k
 http://103.130.213.4/bins/sora.arm
 http://103.130.213.4/bins/sora.mips
@@ -1757,6 +1766,7 @@ https://michellegraci.com/fyvu.zip?le=19
 https://michellegraci.com/smkl.zip?le=48/
 https://michellegraci.com/hatz.zip
 http://michellegraci.com/hatz.zip
+https://michellegraci.com/tuvu.zip?le=12
 https://michellegraci.com/smkl.zip?le=48
 http://michellegraci.com/tuvu.zip?le=12
 https://michellegraci.com/hatz.zip?le=17
@@ -1851,6 +1861,7 @@ http://93.235.69.105:93/sshd
 http://90.8.83.87/sshd
 http://90.8.83.87:83/sshd
 http://176.126.159.123:8080/sshd
+http://158.51.126.131/xvr.sh
 http://158.51.126.131/lilin.sh
 http://158.51.126.131/vc
 http://158.51.126.131/weed
@@ -1937,6 +1948,7 @@ https://5dsolution.taewool.co.kr/?u=script
 https://desentupidoranovaera.com/?u=script
 https://demokratieinbergen.de/?u=script
 https://demo2.amcham-ci.org/?u=script
+https://aagmaninfotech.com/?u=script
 https://deermusik.com/?u=script
 https://yourcar.vn/?u=script
 https://youthvoice.gr/?u=script
@@ -1980,6 +1992,7 @@ https://deltapowerkw.com/?u=script
 https://dehavenwerkers.nl/?u=script
 https://aaronschur.com/?u=script
 https://dentalcaredentist.in/?u=script
+https://deoriatimes.com/?u=script
 https://yorja.org/?u=script
 https://yourname.physio/?u=script
 https://aaaitems.com/?u=script
@@ -3853,6 +3866,7 @@ http://47.95.31.143:6666/02.08.2022.exe
 http://8.138.47.245/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://46.236.65.100:46981/i
+http://37.156.10.208:7481/i
 http://195.26.97.59/sshd
 http://222.149.6.17/sshd
 http://192.252.181.93:6635/120.89.71.182.dll
@@ -4161,6 +4175,7 @@ http://216.131.90.19:54138/bin.sh
 http://2.54.239.97:802/sshd
 http://2.54.239.98:802/sshd
 http://2.54.83.40:802/sshd
+http://115.159.71.204:801/02.08.2022.exe
 http://124.221.32.87:9001/02.08.2022.exe
 http://109.229.224.26:63333/i
 http://100.1.53.24:24178/i
@@ -4400,7 +4415,6 @@ http://1.234.66.181:15788/zal.exe
 http://1.234.66.181:15788/XPT.exe
 http://180.76.244.133/02.08.2022.exe
 http://188.12.100.131:30261/i
-http://202.51.100.238:30425/i
 http://115.127.68.162:55090/i
 http://88.8.22.161:10004/sshd
 http://88.8.22.161:10006/sshd
@@ -4626,7 +4640,6 @@ https://windatem.com/MainWindow.dll
 http://jxhuyhoang.com/autoupdate/AutoUpdate.exe
 https://openaigrok.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
 http://43.226.39.44:5988/TestMemTest24.exe
-https://lsks.volamngayxua.net/FilterText3.dll
 https://icoffeecloud.com/versions/GestionICCv20.21.8.51/GestionICC.exe
 https://52575815-38-20200406120634.webstarterz.com/eric.exe
 http://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
@@ -5166,6 +5179,7 @@ http://79.121.103.84:45544/i
 http://78.111.30.28:6692/i
 https://github.com/hassan-be/Pet-Simulator-99-Dupe-GUI/releases/download/newmarket/pet-simulator-99-dupe-gui-newmarket.zip
 https://github.com/gayfjlover/tracex-hwid-spoofer-de/releases/download/v1.6.6/tracex-hwid-spoofer-de_v1.6.6.zip
+http://103.144.2.73:19490/spread.txt
 https://github.com/kenzie299312/hack-crypto-wallet/releases/download/v1.9.0-alpha.1/hack-crypto-wallet-v1.9.0-alpha.1.zip
 https://github.com/kenzie299312/hack-crypto-wallet/releases/download/3.7.6/hack-crypto-wallet_v3.7.6.zip
 https://raw.githubusercontent.com/PhamKhanhHung208/assets/refs/heads/master/Launcher.zip
@@ -7878,6 +7892,7 @@ https://github.com/user-attachments/files/17793058/lg246drE.txt
 http://111.231.144.159:4444/02.08.2022.exe
 http://144.48.171.68:39884/i
 http://14.224.174.212/1.exe
+http://www.newkey.co.kr/cab/LauncherLoader.exe
 http://41.32.249.165:57203/i
 http://202.141.166.71:30117/i
 http://222.165.237.62:37379/i
@@ -8786,6 +8801,7 @@ https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
+https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
 https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
@@ -9229,7 +9245,6 @@ http://annadegismen.com/js/ufeigv.js
 http://annadegismen.com/js/qnzymd.js
 http://annadegismen.com/js/hmdjou.js
 http://annadegismen.com/js/qdkgmu.js
-http://annadegismen.com/js/lnpmqd.js
 http://annadegismen.com/js/xrajol.js
 http://annadegismen.com/js/youwtb.js
 http://annadegismen.com/js/ihqwvu.js
@@ -9348,7 +9363,6 @@ http://annadegismen.com/js/ngvihl.js
 http://annadegismen.com/js/flutce.js
 http://annadegismen.com/js/ftrzvp.js
 http://annadegismen.com/js/hvnpwq.js
-http://annadegismen.com/js/anhosv.js
 http://annadegismen.com/js/xjkpez.js
 http://annadegismen.com/js/vnskdc.js
 http://annadegismen.com/js/qldfwy.js
@@ -10334,6 +10348,7 @@ http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://182.160.102.188:16079/i
 http://59.153.80.90:4581/i
+http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://109.160.87.2:31378/i
 http://212.98.186.8:6819/i
@@ -10610,7 +10625,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/InfinityCrypt.exe
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://down.ftp21.cc/445.jpg
-http://down.ftp21.cc/TQ.jpg
 http://ssl.ftp21.cc/TQ.jpg
 http://85.207.44.106/Photo.scr
 http://186.3.78.195/Photo.scr
@@ -10762,7 +10776,6 @@ http://118.69.157.212:9114//sshd
 http://99.71.130.109:8021//sshd
 http://178.176.204.250:84//sshd
 http://74.72.72.247:8002//sshd
-http://178.182.253.59:8082//sshd
 http://188.147.175.18:8091//sshd
 http://80.24.87.77:8056//sshd
 http://99.71.130.109:8041//sshd
@@ -11770,10 +11783,8 @@ http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
 http://43.224.0.5:1316/o
-http://81.16.123.55:41567/Aqua.arm4
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
-http://81.16.123.55:41567/bin.sh
 http://81.16.123.55:41567/Aqua.arm6
 http://81.16.123.55:41567/Aqua.arm5
 http://109.171.30.19:33609/bin.sh
@@ -11862,7 +11873,6 @@ http://211.184.58.163:33310/.i
 http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://synergyconsulting.us
-https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.org/
 https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
 http://2.184.54.225:35287/.i
@@ -12167,6 +12177,7 @@ https://drive.google.com/uc?export=download&id=1ETPmpb2shvUny5DxJ5awfpxklxqpBzGx
 https://jyothishmathi.in/toothy.php
 https://jyothishmathi.in/unpunished.php
 https://jyothishmathi.in/jordan.php
+https://jyothishmathi.in/defended.php
 https://capsule4u.com/funded.php
 https://aldahwiprivatehospital.com/manage-hospital/webroot/themes/base/images/vehemence.php
 https://drive.google.com/uc?export=download&id=1b6t1MjNJCvnDcY-MDQQ0NeqRBOcqYJu4
@@ -12410,7 +12421,6 @@ http://cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd137.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.1.17/fmt_01.exe
 http://divametalart.com/BcabYiW/
-http://www.divametalart.com/BcabYiW/
 http://advustech.com/cFjy-2q9I_Yq-se/COMET/SIGNS/PAYMENT/NOTIFICATION/01/16/2019/En/Open-Past-Due-Orders/
 http://www.myvcart.com/drop/css/obr.hta
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
@@ -12489,6 +12499,7 @@ http://robertrowe.com/STATUS/Auditor-of-State-Notification-of-EFT-Deposit/
 http://www.tirtasentosa.com/admim/mine001.exe
 http://schreven.de/Facture-impayee/
 http://tirtasentosa.com/give/ukbros003.exe
+http://tirtasentosa.com/give/ukbros002.exe
 http://tirtasentosa.com/give/ukbros001.exe
 http://tirtasentosa.com/give/prin001.exe
 http://tirtasentosa.com/give/jon001.exe
