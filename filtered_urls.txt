@@ -1,3 +1,46 @@
+http://phubotnet.duckdns.org/iotmirai_ppc
+http://phubotnet.duckdns.org/debug.dbg
+http://phubotnet.duckdns.org/iotmirai_x86
+http://phubotnet.duckdns.org/iotmirai_m68k
+http://phubotnet.duckdns.org/iotmirai_arm6
+http://phubotnet.duckdns.org/iotmirai_mips
+http://phubotnet.duckdns.org/sky.sh
+http://phubotnet.duckdns.org/iotmirai_sh4
+http://phubotnet.duckdns.org/iotmirai_arm5
+http://phubotnet.duckdns.org/iotmirai_arm
+http://phubotnet.duckdns.org/iotmirai_x86_64
+http://160.30.21.117/sky.sh
+http://222.141.190.206:54297/i
+http://123.11.9.124:58571/bin.sh
+http://117.196.251.166:39582/bin.sh
+http://222.141.190.206:54297/bin.sh
+http://160.30.21.117/iotmirai_x86
+http://160.30.21.117/iotmirai_ppc
+http://160.30.21.117/iotmirai_m68k
+http://160.30.21.117/iotmirai_mips
+http://160.30.21.117/iotmirai_x86_64
+http://160.30.21.117/iotmirai_sh4
+http://160.30.21.117/iotmirai_arm7
+http://160.30.21.117/iotmirai_arm6
+http://160.30.21.117/iotmirai_arm5
+http://160.30.21.117/iotmirai_arm
+http://61.163.144.38:51926/i
+http://160.30.21.117/debug.dbg
+http://163.5.63.17/UnHAnaAW.arm
+http://163.5.63.17/UnHAnaAW.arm5
+http://163.5.63.17/UnHAnaAW.x86
+http://163.5.63.17/UnHAnaAW.ppc
+http://163.5.63.17/UnHAnaAW.mpsl
+http://163.5.63.17/UnHAnaAW.arm6
+http://163.5.63.17/UnHAnaAW.spc
+http://163.5.63.17/UnHAnaAW.arm7
+http://163.5.63.17/c.sh
+http://163.5.63.17/UnHAnaAW.m68k
+http://163.5.63.17/wget.sh
+http://163.5.63.17/UnHAnaAW.sh4
+http://163.5.63.17/w.sh
+http://163.5.63.17/UnHAnaAW.mips
+http://120.61.21.191:59721/i
 http://182.115.131.76:45797/bin.sh
 http://61.163.144.38:51926/bin.sh
 http://112.253.131.89:48991/i
@@ -209,7 +252,6 @@ http://115.187.17.117/mpsl
 http://119.118.48.73:40693/i
 http://27.220.242.247:42179/bin.sh
 http://222.137.239.102:55744/i
-http://61.53.93.116:53635/i
 http://222.137.239.102:55744/bin.sh
 http://61.53.93.116:53635/bin.sh
 http://61.163.128.72:59000/i
@@ -332,7 +374,6 @@ http://apexservices.duckdns.org/cbot/cbot.exe
 http://apexservices.duckdns.org/bins/arm6
 http://apexservices.duckdns.org/cbot/cbot_debug.exe
 http://172.94.96.203/bins/arm6
-http://172.94.96.203/cbot/raw_cbot_debug.exe
 http://172.94.96.203/cbot/cbot_debug.exe
 http://172.94.96.203/cbot/raw_cbot.exe
 http://125.40.1.140:58067/bin.sh
@@ -535,7 +576,6 @@ http://47.245.90.197/02.08.2022.exe
 http://8.130.191.106:18080/02.08.2022.exe
 http://124.223.54.248/02.08.2022.exe
 http://106.12.215.229:8080/02.08.2022.exe
-http://189.1.243.105:4443/02.08.2022.exe
 http://120.24.241.109:6001/02.08.2022.exe
 http://47.120.48.100/02.08.2022.exe
 http://89.221.203.233/Documents/Invoice_DE00150_2025.lnk
@@ -559,6 +599,7 @@ http://104.168.7.213/224/dcn/verygoodcutlurewithbestpopelsmindsetgooforfme_____v
 http://113.89.40.15:40502/bin.sh
 http://5.135.131.74:20108/download_exe
 http://204.12.203.52/service.exe
+http://167.160.161.247/l8890f.exe
 https://sontungcoffee.com/wr.txt
 http://39.69.130.194:59847/bin.sh
 http://42.235.89.164:42593/bin.sh
@@ -596,7 +637,6 @@ http://176.46.157.60/inc/stub.exe
 http://176.46.157.60/inc/cron20252.exe
 http://176.46.157.60/inc/cron20251.exe
 http://113.239.244.233:42121/i
-http://42.57.253.32:56987/bin.sh
 http://83.219.1.198:42625/i
 http://180.191.20.52:60513/i
 http://42.235.89.164:42593/i
@@ -718,13 +758,11 @@ http://212.16.87.33/wgetproxy.sh
 http://212.16.87.33/proxy.arm6
 http://212.16.87.33/bins/UnHAnaAW.ppc
 http://212.16.87.33/bins/UnHAnaAW.mips
-http://212.16.87.33/proxy.x86
 http://212.16.87.33/bins/UnHAnaAW.arm7
 http://212.16.87.33/bins/UnHAnaAW.m68k
 http://212.16.87.33/bins/UnHAnaAW.sh4
 http://212.16.87.33/8UsA.sh
 http://212.16.87.33/proxy.ppc
-http://212.16.87.33/wproxy.sh
 http://212.16.87.33/proxy.arm7
 http://172.96.14.125/SBIDIOT/ppc
 http://172.96.14.125/SBIDIOT/arm5
@@ -1130,7 +1168,6 @@ https://assuredfix.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://onlinehotvideos.com/44/w.exe
 http://45.194.66.6/arm7
 http://158.51.126.131/d
-http://158.51.126.131/imeow4fun
 http://123.188.54.211:60453/bin.sh
 http://200.59.88.121:48420/i
 http://77.90.153.136/ss/armv7l
@@ -1802,7 +1839,6 @@ http://129.204.103.151:8081/02.08.2022.exe
 http://93.235.69.105:92/sshd
 http://158.51.126.131/xm.sh
 http://158.51.126.131/sdt
-http://158.51.126.131/powerpc
 http://158.51.126.131/tvt.sh
 http://158.51.126.131/faith
 http://158.51.126.131/nx86_64
@@ -3536,7 +3572,6 @@ http://89.25.226.70:5300/i
 http://2.83.229.165:29558/i
 http://91.167.219.223/sshd
 http://115.238.252.51:9000/02.08.2022.exe
-http://8.218.77.224:8432/02.08.2022.exe
 http://93.116.56.78:3976/i
 http://37.80.71.230/sshd
 http://185.247.226.135/botx.arm
@@ -3882,7 +3917,6 @@ http://94.26.90.80/VivadoLD.exe
 http://39.107.85.83:50050/02.08.2022.exe
 http://8.134.128.115/02.08.2022.exe
 http://1.92.135.168:8074/02.08.2022.exe
-http://118.200.131.244:12186/i
 http://31.202.153.12:13264/i
 http://153.37.252.36:4440/i
 http://115.127.119.198:28033/i
@@ -4689,7 +4723,6 @@ http://124.123.26.174:8888/sshd
 https://113.44.67.52:9443/02.08.2022.exe
 https://182.255.45.244:64898/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
-https://43.140.215.17/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
@@ -8292,6 +8325,7 @@ http://182.92.99.95/kaijiorder/cert/2a.hta
 http://device.redirec.com/yS558pd/start.hta
 http://74.48.34.10/AB4g5/Josho.x86
 http://74.48.34.10/AB4g5/Josho.arm5
+http://74.48.34.10/AB4g5/Josho.arm7
 http://74.48.34.10/AB4g5/Josho.ppc
 http://74.48.34.10/AB4g5/Josho.mpsl
 http://74.48.34.10/AB4g5/Josho.sh4
@@ -8605,6 +8639,7 @@ https://annadegismen.com/js/ahyfgb.js
 https://annadegismen.com/js/unxvws.js
 https://annadegismen.com/js/avicfl.js
 https://annadegismen.com/js/vbiqhm.js
+https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
 https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
@@ -8810,6 +8845,7 @@ https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
 https://annadegismen.com/js/eyfbaq.js
 https://annadegismen.com/js/fxvwgp.js
+https://annadegismen.com/js/fcvdqi.js
 https://annadegismen.com/js/qnrbse.js
 https://annadegismen.com/js/xkhlro.js
 https://annadegismen.com/js/btyrlu.js
@@ -9121,7 +9157,6 @@ http://annadegismen.com/js/nqcgyb.js
 http://annadegismen.com/js/ecalyt.js
 http://annadegismen.com/js/jezqcu.js
 http://annadegismen.com/js/ygwqnm.js
-http://annadegismen.com/js/ylienp.js
 http://annadegismen.com/js/qefpth.js
 http://annadegismen.com/js/inercb.js
 http://annadegismen.com/js/uovxcl.js
@@ -9313,7 +9348,6 @@ http://annadegismen.com/js/pwxzmg.js
 http://annadegismen.com/js/qivbdo.js
 http://annadegismen.com/js/xdtmpf.js
 http://annadegismen.com/js/tukayh.js
-http://annadegismen.com/js/tkwlbg.js
 http://annadegismen.com/js/hcflvo.js
 http://annadegismen.com/js/cbaxsl.js
 http://annadegismen.com/js/poclxy.js
@@ -9521,6 +9555,7 @@ https://github.com/Saked018/rivada/raw/refs/heads/main/MIS_FILE_9888123_RECEIVED
 https://github.com/rouki555/dcm/raw/refs/heads/main/Document.zip
 https://github.com/rouki555/lnk/raw/refs/heads/main/u.xls
 https://firebasestorage.googleapis.com/v0/b/nube-f5f04.appspot.com/o/ansy.txt?alt=media&token=703d87ea-0284-408f-b949-21b01138d2a5
+http://www.zhikey.com/crm/exe/update.exe
 http://101.200.220.118:8090/ledshow.exe
 http://101.200.220.118:8090/ledshow1.exe
 http://101.200.220.118:8090/ledshowa.exe
@@ -10196,6 +10231,7 @@ http://66.181.166.140:27299/Mozi.m
 http://200.11.216.34:54077/Mozi.m
 http://78.26.81.99:58230/Mozi.m
 http://202.191.123.196:27033/Mozi.m
+http://196.202.220.96:29588/Mozi.m
 http://176.12.6.42:47684/Mozi.m
 http://174.78.254.83:38585/Mozi.m
 http://36.66.108.167:57344/Mozi.m
@@ -10639,7 +10675,6 @@ http://195.135.42.75:38188/sshd
 http://195.135.42.75:38187/sshd
 https://www.sendspace.com/pro/dl/8gikly
 https://www.sendspace.com/pro/dl/medjl1
-https://www.sendspace.com/pro/dl/dy1f16
 https://www.sendspace.com/pro/dl/kx3wl4
 https://www.sendspace.com/pro/dl/e7opy8
 https://www.sendspace.com/pro/dl/7dhid7
@@ -12025,6 +12060,7 @@ https://rxquickpay.com/hksweep/vendor/font-awesome/svgs/brands/subtraction.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/retraction.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 https://acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
+http://93.170.128.248:52806/.i
 https://www.crazywickedaddiction.com/comply.php
 https://www.crazywickedaddiction.com/development/public/uploads/images/categories/beirut.php
 https://forms.saurashtrauniversity.edu/belt.php
