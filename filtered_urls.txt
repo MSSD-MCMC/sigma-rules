@@ -1,3 +1,13 @@
+http://42.224.122.238:50411/i
+http://115.48.134.202:34167/i
+http://115.58.91.36:39070/i
+http://115.48.134.202:34167/bin.sh
+http://42.224.122.238:50411/bin.sh
+http://115.58.112.53:58737/bin.sh
+http://182.116.14.243:57504/i
+http://115.58.91.36:39070/bin.sh
+http://27.206.139.79:47611/i
+http://59.97.248.125:37566/i
 http://116.138.94.144:50164/i
 http://182.116.14.243:57504/bin.sh
 http://219.154.32.240:41755/i
@@ -732,7 +742,6 @@ http://179.61.138.56/00101010101001/morte.mpsl
 http://179.61.138.56/00101010101001/morte.arm7
 http://179.61.138.56/00101010101001/morte.arm6
 http://179.61.138.56/00101010101001/morte.arm
-http://179.61.138.56/1.sh
 http://179.61.138.56/00101010101001/morte.ppc
 http://179.61.138.56/00101010101001/debug
 http://179.61.138.56/00101010101001/morte.arc
@@ -824,7 +833,6 @@ http://1.izumisv1.cc/00101010101001/morte.arm5
 http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/debug
 http://1.izumisv1.cc/00101010101001/morte.m68k
-http://1.izumisv1.cc/00101010101001/morte.arm6
 http://1.izumisv1.cc/00101010101001/morte.arm7
 http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.spc
@@ -928,6 +936,7 @@ http://196.251.113.7/rtz
 http://196.251.113.7/z/89/x86_64
 http://196.251.113.7/w.sh
 http://196.251.113.7/b
+http://196.251.113.7/jaws
 http://196.251.113.7/wget.sh
 http://196.251.113.7/c.sh
 http://172.96.14.125/SBIDIOT/ppc
@@ -991,7 +1000,6 @@ http://104.164.104.15/00101010101001/morte.mpsl
 http://104.164.104.15/00101010101001/morte.x86
 http://104.164.104.15/00101010101001/morte.i686
 http://104.164.104.15/00101010101001/morte.m68k
-http://104.164.104.15/00101010101001/morte.sh4
 http://104.164.104.15/00101010101001/morte.arm7
 http://104.164.104.15/00101010101001/morte.x86_64
 http://104.164.104.15/00101010101001/morte.arm
@@ -1079,7 +1087,6 @@ http://60.21.173.153:34278/bin.sh
 http://213.209.143.44/m68k
 http://178.141.154.130:42597/bin.sh
 http://39.75.4.193:53269/i
-http://42.5.161.170:35488/bin.sh
 http://141.11.62.222/j/xle1
 http://141.11.62.222/j/mle1
 http://141.11.62.222/j/a5le1
@@ -1317,7 +1324,6 @@ https://club.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Gues
 https://club.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://home.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://home.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
-https://bon.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://dive.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onlinehotvideos.com/44/w.exe
 http://45.194.66.6/arm7
@@ -1815,7 +1821,6 @@ http://91.143.174.252:59155/i
 http://91.143.174.252:59155/bin.sh
 http://188.150.45.193:51451/bin.sh
 http://119.114.121.218:40965/i
-http://103.243.24.130:8866/02.08.2022.exe
 http://1.94.134.161/02.08.2022.exe
 http://41.146.15.141:8081/sshd
 http://lomejordesalamanca.es/chrome_134.exe
@@ -2056,7 +2061,6 @@ http://103.245.237.243/d/akido.m68k
 https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
 http://91.92.46.53:8083/publish.zip
 http://101.42.239.131/02.08.2022.exe
-http://119.91.203.199:88/02.08.2022.exe
 http://101.226.8.163:8066/02.08.2022.exe
 http://115.238.252.51:8989/02.08.2022.exe
 http://119.8.124.29:9999/02.08.2022.exe
@@ -3890,7 +3894,6 @@ http://213.209.150.18/nbin22.exe
 https://raw.githubusercontent.com/ducminh23/ccc/main/MHDDoS-main.zip
 http://192.250.228.95/xmrig
 http://198.55.98.29/HOST/Jay.exe
-http://110.40.147.170:8002/02.08.2022.exe
 http://31.154.187.24:34995/i
 http://176.254.84.45:22854/i
 http://4.233.216.36:8000/t_vnc.exe
@@ -3964,7 +3967,6 @@ http://180.92.228.34:2461/i
 http://stattcheck-intuiit.com/barren.exe
 http://2.55.125.165:801/sshd
 http://76.125.11.14:18802/i
-http://196.251.115.189/t
 http://178.131.45.13:21618/i
 http://81.226.201.46:54352/i
 http://14.53.126.50:40423/i
@@ -4017,6 +4019,7 @@ http://80.94.92.143/mig
 http://143.92.48.9/2023
 http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://47.102.209.177:22211/02.08.2022.exe
+http://117.72.206.39:443/02.08.2022.exe
 http://81.71.64.78/02.08.2022.exe
 http://186.87.82.140:31414/i
 http://2.54.83.155:802/sshd
@@ -7716,6 +7719,7 @@ http://46.236.65.59:38531/i
 http://168.138.162.78/output/client/cabal.exe
 https://2024.sci-hub.se/6107/8404c3d00d8aee946bdf1c140c904799/sorandaru2016.pdf
 https://app-store.s3.cn-north-1.jdcloud-oss.com/tronlink.apk
+http://8.154.18.17:12356/02.08.2022.exe
 http://80.11.36.4:10018/sshd
 http://80.11.36.4:10019/sshd
 http://37.9.25.206:36858/i
@@ -9165,7 +9169,6 @@ http://annadegismen.com/js/kljdsp.js
 http://annadegismen.com/js/qyblsk.js
 http://annadegismen.com/js/pdemzv.js
 http://annadegismen.com/js/mgurty.js
-http://annadegismen.com/js/nmsgoz.js
 http://annadegismen.com/js/vsbace.js
 http://annadegismen.com/js/komysw.js
 http://annadegismen.com/js/mpkgyo.js
@@ -11692,6 +11695,7 @@ http://36.67.66.178:23987/Aqua.arm6
 http://109.171.30.19:33609/Aqua.arm4
 http://109.171.30.19:33609/Aqua.arm6
 http://36.67.66.178:23987/Aqua.arm4
+http://81.16.123.55:41567/Aqua.sh4
 http://81.16.123.55:41567/Aqua.i686
 http://67.78.106.21:55731/o
 http://78.11.94.32:60741/bin.sh
