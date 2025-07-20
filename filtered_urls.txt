@@ -1,3 +1,6 @@
+http://117.205.164.26:50243/i
+http://117.205.164.26:50243/bin.sh
+http://115.50.225.235:47621/bin.sh
 http://219.156.33.193:49340/i
 http://198.55.98.107/debug.dbg
 http://156.238.225.44/LjEZs/uYtea.arm7
@@ -818,6 +821,7 @@ http://196.251.113.7/av.sh
 http://196.251.113.7/z/b
 http://196.251.113.7/z/zz
 http://196.251.113.7/ipc
+http://196.251.113.7/multi
 http://196.251.113.7/z/k.sh
 http://196.251.113.7/rtz
 http://196.251.113.7/z/89/x86_64
@@ -1020,7 +1024,6 @@ http://89.221.203.158:6969/bins/mpsl
 http://89.221.203.158:6969/bins/sh4
 http://89.221.203.158:6969/bins/arm7
 http://89.221.203.158:6969/bins/arm
-http://89.221.203.158:6969/bins/x86
 http://89.221.203.158:6969/bins/arm5
 http://89.221.203.158:6969/bins/ppc
 http://113.239.110.61:41050/i
@@ -1046,6 +1049,7 @@ http://120.28.81.136:47352/i
 http://120.28.81.136:47352/bin.sh
 http://123.188.54.211:60453/i
 http://47.86.5.176:60114/linux
+http://141.11.62.222/j/a7le0
 http://188.38.3.30:38292/Mozi.m
 http://176.46.157.32/files/unique1/random.exe
 http://83.220.249.234:53543/i
@@ -1190,6 +1194,7 @@ http://1.15.25.148:9080/02.08.2022.exe
 http://101.200.193.211:8088/02.08.2022.exe
 http://1.92.138.71:8080/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
+http://1.15.25.148:3443/02.08.2022.exe
 http://124.70.219.41:7070/02.08.2022.exe
 http://41.145.128.24:8083/sshd
 http://116.103.173.237/sshd
@@ -1249,7 +1254,6 @@ http://213.232.114.169/i686
 http://213.232.114.169/mipsel
 http://213.232.114.169/armv5l
 http://213.232.114.169/armv7l
-http://213.232.114.169/sh4
 http://213.232.114.169/sparc
 http://190.109.227.23:51718/i
 http://bot.hiddenlists.net/bot.ppc
@@ -1259,6 +1263,7 @@ http://bot.hiddenlists.net/bot.m68k
 http://bot.hiddenlists.net/bot.x86
 http://bot.hiddenlists.net/bot.mpsl
 http://bot.hiddenlists.net/bot.arm5
+http://bot.hiddenlists.net/bot.mips
 http://bot.hiddenlists.net/bot.sh4
 http://190.109.227.23:51718/bin.sh
 http://200.59.88.121:48420/bin.sh
@@ -1540,7 +1545,6 @@ http://78.142.229.12/logs2.sh
 http://78.142.229.12/getty
 http://78.142.229.12/katrina
 http://78.142.229.12/s
-http://78.142.229.12/dbus-daemon
 http://113.231.231.113:36424/bin.sh
 https://investtrad.com/Blue.mp4
 http://60.204.245.37:8080/02.08.2022.exe
@@ -1797,6 +1801,7 @@ https://i.ibb.co/0RkNrw2J/JRU8j.png
 http://207.167.64.24/faith.sh
 http://207.167.64.24/tbk.sh
 https://checkinetverifk.com/A3f.dof
+https://michellegraci.com/fyvu.zip
 https://michellegraci.com/fyvu.zip?le=19
 https://michellegraci.com/smkl.zip?le=48/
 https://michellegraci.com/hatz.zip
@@ -1813,6 +1818,7 @@ http://185.241.208.184/hiddenbin/boatnet.arc
 http://185.241.208.184/hiddenbin/boatnet.arm5
 http://185.241.208.128/hiddenbin/boatnet.arm7
 http://185.241.208.184/hiddenbin/boatnet.spc
+http://185.241.208.128/hiddenbin/boatnet.arm
 http://185.241.208.128/hiddenbin/boatnet.arm5
 http://185.241.208.184/hiddenbin/boatnet.x86
 http://185.241.208.184/hiddenbin/boatnet.mips
@@ -4647,7 +4653,6 @@ http://211.219.49.173:4089/i
 http://201.191.156.103:6913/i
 http://124.123.26.174:8888/sshd
 https://113.44.67.52:9443/02.08.2022.exe
-https://182.255.45.244:64898/02.08.2022.exe
 https://43.139.207.11/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
@@ -7581,7 +7586,6 @@ http://112.4.110.28:37780/sshd
 http://112.4.110.28:37782/sshd
 http://36.89.62.19:63814/i
 http://102.91.76.166:23552/i
-https://github.com/Kaidopack/Mod-Gta5/releases/download/v3.0/Software.zip
 https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip
 https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip
 https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/download/v3.0/Software.zip
@@ -8557,6 +8561,7 @@ https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/rqdgsp.js
 https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/jiurtg.js
+https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/tmvhgx.js
 https://annadegismen.com/js/qugkmx.js
 https://annadegismen.com/js/wxpfmy.js
@@ -8877,6 +8882,7 @@ https://annadegismen.com/js/xrajol.js
 https://annadegismen.com/js/lrgkaj.js
 https://annadegismen.com/js/qudsxr.js
 https://annadegismen.com/js/brgdto.js
+https://annadegismen.com/js/qnzymd.js
 https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/rplkdt.js
@@ -9059,7 +9065,6 @@ http://annadegismen.com/js/vrxbsi.js
 http://annadegismen.com/js/xtgcul.js
 http://annadegismen.com/js/lrabiq.js
 http://annadegismen.com/js/wfevmh.js
-http://annadegismen.com/js/tenlqx.js
 http://annadegismen.com/js/rnejox.js
 http://annadegismen.com/js/owajis.js
 http://annadegismen.com/js/hmysqu.js
@@ -9257,7 +9262,6 @@ http://annadegismen.com/js/flutce.js
 http://annadegismen.com/js/ftrzvp.js
 http://annadegismen.com/js/hvnpwq.js
 http://annadegismen.com/js/anhosv.js
-http://annadegismen.com/js/xjkpez.js
 http://annadegismen.com/js/vnskdc.js
 http://annadegismen.com/js/qldfwy.js
 http://annadegismen.com/js/xonsry.js
@@ -10269,7 +10273,6 @@ http://27.147.132.114:38521/i
 http://31.223.60.33:38054/i
 http://175.211.219.57:42362/i
 http://178.211.135.170:12768/i
-http://47.254.74.170:13560/02.08.2022.exe
 https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip
 https://123.60.83.46/02.08.2022.exe
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
@@ -10371,7 +10374,6 @@ http://93.182.76.169:82/tftp
 http://93.182.76.169:81/tftp
 http://89.121.250.206:8080/tftp
 https://uyul.oss-cn-beijing.aliyuncs.com/in/2041.bin
-https://uyul.oss-cn-beijing.aliyuncs.com/in/204.bin
 https://uyul.oss-cn-beijing.aliyuncs.com/in/d204.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/Webcam.dll
 https://raw.githubusercontent.com/moom825/Discord-RAT-2.0/master/Discord%20rat/Resources/Token%20grabber.dll
@@ -10546,7 +10548,6 @@ http://203.232.37.151/install_python3.sh
 https://raw.githubusercontent.com/zwzonepieces/posapsi/master/ChatLife.exe
 http://186.118.121.223:8027/.i
 http://27.156.154.3:58633/.i
-https://github.com/fury-os/fury_kms/releases/download/v.1.6.0/FuryKMS_v.1.6.0.zip
 http://5.202.101.153:32704/.i
 https://raw.githubusercontent.com/kailash-jakhar/webpack-v5-tutorial/main/QuizPokemon.exe
 http://59.19.13.27:27649/.i
@@ -11745,7 +11746,6 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.or
 https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
 http://2.184.54.225:35287/.i
-https://www.encurtador.com.br/twzQS
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
 http://31.184.194.114/404
 http://37.139.249.103:3039/.i
@@ -12022,6 +12022,7 @@ https://drive.google.com/uc?export=download&id=1YfqTuGAHQHQrUlWUGDEkEAvfFktSL8cI
 http://advansys.com.ar/anthropoid.php
 http://advansys.com.ar/liniment.php
 http://103.230.153.181:2570/.i
+http://www.ysbaojia.com/downfile.asp?sid=276663/
 https://docs.google.com/uc?export=download&id=1SbD1rnw8lUztJMSH6GDlZUPVyUPBopa0&revid=0B3yyJTs_WOKLR2VnYXVQOHlidXBXN1l2WWJnTXFnWVI5V0h3PQ
 http://www.amranhvac.com/archbishopric.php
 http://www.amranhvac.com/rinse.php
@@ -12277,6 +12278,7 @@ http://cdn-10049480.file.myqcloud.com/jd/jd137.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.1.17/fmt_01.exe
 http://divametalart.com/BcabYiW/
 http://www.divametalart.com/BcabYiW/
+http://advustech.com/cFjy-2q9I_Yq-se/COMET/SIGNS/PAYMENT/NOTIFICATION/01/16/2019/En/Open-Past-Due-Orders/
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
 http://download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
