@@ -1,3 +1,17 @@
+http://42.227.159.48:43593/i
+http://42.226.76.103:48134/i
+http://123.129.135.27:43751/i
+http://42.227.159.48:43593/bin.sh
+http://144.48.121.4:54247/i
+http://116.2.48.72:49540/bin.sh
+http://42.53.118.225:54624/i
+http://123.129.135.27:43751/bin.sh
+http://216.164.87.158:8040/bin/support.client.exe
+http://42.239.153.41:46099/i
+http://221.15.160.26:53127/i
+http://42.85.190.92:33592/i
+http://115.62.183.65:45348/i
+http://42.235.151.41:41099/i
 http://156.238.225.44/wget.sh
 http://156.238.225.44/lol.sh
 http://156.238.225.44/b
@@ -307,7 +321,6 @@ http://125.40.52.232:54119/i
 http://182.119.1.152:46751/i
 http://113.228.61.90:50530/i
 http://113.228.61.90:50530/bin.sh
-http://182.120.13.158:35615/bin.sh
 http://113.236.150.108:46146/i
 http://125.40.52.232:54119/bin.sh
 http://182.119.1.152:46751/bin.sh
@@ -419,7 +432,6 @@ http://172.96.14.125/dlr.arm6
 http://172.96.14.125/dlr.mpsl
 http://104.164.110.7/bins/morte.x86_64
 http://104.164.110.7/bins/morte.ppc
-http://104.164.110.7/bins/morte.mips
 http://104.164.110.7/bins/debug
 http://104.164.110.7/bins/morte.sh4
 http://104.164.110.7/bins/morte.i686
@@ -796,6 +808,7 @@ http://175.147.224.171:41058/bin.sh
 https://www.retirify.sbs/HVNC-Server.exe
 http://177.70.102.228:8070/info.zip
 https://hr.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://staging.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://167.160.161.247/v999f8.exe
 https://preview.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://test.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -843,7 +856,6 @@ http://196.251.113.7/z/aaa
 http://196.251.113.7/z/irz
 http://196.251.113.7/fb
 http://196.251.113.7/g
-http://196.251.113.7/z/li
 http://196.251.113.7/bx
 http://196.251.113.7/ruck
 http://196.251.113.7/z/linksys
@@ -1224,7 +1236,6 @@ http://89.23.113.207/Documents/BriefDisneyFull.lnk
 http://89.23.113.207/Documents/Brief_Disney.lnk
 http://89.23.113.166/Documents/MarriotJobDescriptionInfoOpenRoles.lnk
 http://77.110.113.242/Documents/Tax_Form.lnk
-http://117.72.103.9:8086/02.08.2022.exe
 http://35.222.201.2:443/02.08.2022.exe
 http://1.15.25.148:9080/02.08.2022.exe
 http://101.200.193.211:8088/02.08.2022.exe
@@ -1570,7 +1581,6 @@ http://161.132.50.128:88/mlwr/MLAV-MS-Excel.xls
 http://78.142.229.12/agetty
 http://78.142.229.12/sshd
 http://78.142.229.12/logsbins.sh
-http://78.142.229.12/telnetd
 http://78.142.229.12/cron
 http://78.142.229.12/system
 http://78.142.229.12/klogd
@@ -1742,6 +1752,7 @@ http://77.90.153.136/vv/armv6l
 http://200.59.83.42:47834/i
 http://200.59.83.42:47834/bin.sh
 http://47.238.228.19/test/12h/12h.msi
+http://88.225.231.222:57674/bin.sh
 http://213.120.230.115:44946/i
 http://200.59.84.204:43354/i
 http://180.191.255.234:57448/bin.sh
@@ -1809,6 +1820,7 @@ http://77.90.153.137/g
 http://77.90.153.137/v
 http://185.156.73.52/02.08.2022.exe
 http://8.152.193.151:8081/02.08.2022.exe
+http://47.121.24.204/02.08.2022.exe
 http://46.236.65.58:56051/i
 http://103.161.230.13:16977/i
 http://121.202.142.68/sshd
@@ -3745,7 +3757,6 @@ https://raw.githubusercontent.com/PhantomPeek/Kematian/main/frontend-src/main.ba
 https://raw.githubusercontent.com/Da2dalus/FunBatchCode-MalicousAndNonMalicous/master/Worm.bat
 https://raw.githubusercontent.com/NOCCENTER/NOCCENTER/main/Huong%20dan%20xu%20ly%20tai%20khoan%20mail%20noi%20bo.zip
 https://raw.githubusercontent.com/mentaliczz/Bloxflip-Op-Predictor/main/Bloxflip%20Predictor.exe
-https://ccdplanet.com/api/torrent/CCD-LAUNCHER.exe
 http://cegelecinfo.fr/exe/set-2%20firmware%204.01.exe
 http://me3.ne.jp/_private/ME3_setup.exe
 http://download.pdf00.com/pc/pdfconvert/PDFConverter_P2W154-zx-666.exe
@@ -4343,6 +4354,7 @@ http://1.234.66.181:15788/zal.exe
 http://1.234.66.181:15788/XPT.exe
 http://188.12.100.131:30261/i
 http://202.51.100.238:30425/i
+http://202.40.178.201:26818/i
 http://115.127.68.162:55090/i
 http://88.8.22.161:10004/sshd
 http://88.8.22.161:10006/sshd
@@ -4601,7 +4613,6 @@ https://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 http://43.226.39.44:5988/FileA.exe
 http://43.226.39.44:5988/TestPTE.exe
 https://d3cciiowg5l3jx.cloudfront.net/RH/setup.exe
-https://mogimall.com/pds/mogimall/giftorder/Updater.exe
 http://14.224.174.212:1433/1.exe
 https://tapestryoftruth.com/media/video_file/Round_Setup.exe
 https://cdn.glitch.global/74002823-d235-4cf1-ba34-36967b91f68e/Deku_X_Cheat.dll?v=1718323411486
@@ -4710,6 +4721,7 @@ http://82.156.190.69/02.08.2022.exe
 http://8.210.78.137:81/02.08.2022.exe
 http://31.170.22.205/dl16
 http://160.25.8.42:52088/i
+http://66.187.4.77/fish.mipsel
 http://186.10.26.26:8581/i
 https://raw.githubusercontent.com/RAHMOUNBEN/LC/refs/heads/main/XClient.exe
 https://raw.githubusercontent.com/JustJZero/ahh/refs/heads/main/Cloudy.exe
@@ -6323,6 +6335,7 @@ http://79.8.103.110:61487/i
 http://1.1.109.99:60080/sshd
 https://web.bqxhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxleo.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://onyxfortifypro.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardshift.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxnexguard.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsentinelx.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -8595,6 +8608,7 @@ https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/rqdgsp.js
 https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/jiurtg.js
+https://annadegismen.com/js/oyhixg.js
 https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/tmvhgx.js
 https://annadegismen.com/js/qugkmx.js
@@ -8629,6 +8643,7 @@ https://annadegismen.com/js/fnaxby.js
 https://annadegismen.com/js/phmvbs.js
 https://annadegismen.com/js/cbaxsl.js
 https://annadegismen.com/js/lmaknf.js
+https://annadegismen.com/js/yiuojp.js
 https://annadegismen.com/js/pamvwr.js
 https://annadegismen.com/js/heqigs.js
 https://annadegismen.com/js/xcvepk.js
@@ -8690,6 +8705,7 @@ https://annadegismen.com/js/hxysdw.js
 https://annadegismen.com/js/euhzjt.js
 https://annadegismen.com/js/zoafhp.js
 https://annadegismen.com/js/cigfds.js
+https://annadegismen.com/js/rkvabp.js
 https://annadegismen.com/js/otpgcj.js
 https://annadegismen.com/js/jaieho.js
 https://annadegismen.com/js/ergubk.js
@@ -10102,6 +10118,7 @@ http://88.116.62.226:52714/Mozi.m
 http://82.193.120.99:4958/Mozi.m
 http://178.211.135.170:12768/Mozi.m
 http://36.92.207.29:60948/Mozi.m
+http://36.66.151.7:59841/Mozi.m
 http://46.151.56.42:28186/Mozi.m
 http://78.188.215.66:57861/Mozi.m
 http://212.85.176.23:45741/Mozi.m
@@ -10266,6 +10283,7 @@ http://118.179.203.50:40889/i
 http://78.26.81.99:58230/i
 http://182.160.102.188:16079/i
 http://59.153.80.90:4581/i
+http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://109.160.87.2:31378/i
 http://212.98.186.8:6819/i
@@ -10934,7 +10952,6 @@ http://43.240.65.55:81/install_python3.sh
 http://89.231.14.137:2282/.i
 http://88.116.62.226:52714/.i
 http://45.120.38.214:1208/.i
-http://190.92.29.206:1076/.i
 http://45.120.38.214:1208/i
 http://190.92.29.206:1076/i
 http://41.139.172.245:31226/i
@@ -11450,7 +11467,6 @@ http://94.28.123.75:60123/i
 http://31.210.217.24:64046/i
 http://77.89.245.118:44811/i
 http://36.91.144.195:2274/i
-http://5.198.242.56:13277/i
 http://94.231.164.10:6432/i
 http://62.249.140.222:7543/i
 http://89.216.100.166:30359/i
@@ -11771,7 +11787,6 @@ https://drive.google.com/uc?export=download&id=1IFVZUB1BlHMwSIRShBE2Wu5b1TUs3LS-
 https://drive.google.com/uc?export=download&id=1YyDIodTW09bAnoU13RO8IELf9rCMljXy
 https://drive.google.com/uc?export=download&id=11cByKY_wEGQJut6afR8jAnNW7VUB-xXf
 https://adclick.g.doubleclick.net/pcs/click?adurl=//vaibhavtripathi.in
-https://adclick.g.doubleclick.net/pcs/click?adurl=//procuratio.nu/
 http://2.180.35.231:56242/.i
 http://211.184.58.163:33310/.i
 http://123.193.21.48:36061/.i
@@ -11972,6 +11987,7 @@ https://pns.org.pk/crt/xe
 https://www.ingonherbal.com/application/PhEbceg4Tx/
 http://farschid.de/verkaufsberater_service/OZRw36a2y1CH2clUzY/
 http://farschid.de/verkaufsberater_service/uADJw/
+https://zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/0011b9cd240249c3aeb520ea1205eaf1.jpg
 https://github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz
 http://farschid.de/verkaufsberater_service/3CxMQ4uaxy/?i=1
 https://trtmyanmar.com/wp-content/plugins/yjmqxmidki/a/hyehwggs.ps1
