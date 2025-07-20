@@ -1,3 +1,25 @@
+http://221.15.17.61:48875/i
+http://221.13.148.87:54602/i
+http://221.14.36.219:58829/bin.sh
+http://221.15.17.61:48875/bin.sh
+http://172.96.14.125/arc
+http://172.96.14.125/ppc
+http://172.96.14.125/m68k
+http://172.96.14.125/x86
+http://172.96.14.125/lol.mips
+http://172.96.14.125/spc
+http://172.96.14.125/arm5
+http://172.96.14.125/sh4
+http://172.96.14.125/arm
+http://172.96.14.125/mips
+http://172.96.14.125/arm6
+http://172.96.14.125/mpsl
+http://172.96.14.125/arm7
+http://123.13.106.47:41677/i
+http://221.13.148.87:54602/bin.sh
+http://182.121.252.0:43044/i
+http://42.233.104.18:59346/bin.sh
+http://123.232.202.41:54595/i
 http://123.13.106.47:41677/bin.sh
 http://45.135.194.156/Gamma.mpsl
 http://115.187.17.117/wget.sh
@@ -545,7 +567,6 @@ http://1.13.187.97:8089/02.08.2022.exe
 http://1.94.183.238:443/02.08.2022.exe
 http://196.216.56.126:31424/i
 http://59.30.12.254:38009/i
-http://103.212.128.174:1697/i
 http://94.154.83.4:1344/i
 http://149.87.85.67:12837/i
 http://79.164.59.175:57916/i
@@ -663,6 +684,7 @@ http://175.175.54.46:58639/bin.sh
 http://60.23.158.245:57861/bin.sh
 http://39.101.64.124:9999/02.08.2022.exe
 http://146.70.79.53/02.08.2022.exe
+http://42.193.4.115:6666/02.08.2022.exe
 http://49.235.64.155:4444/02.08.2022.exe
 http://43.138.22.149:8080/02.08.2022.exe
 http://43.230.158.72:26889/i
@@ -693,6 +715,7 @@ http://115.48.223.203:50788/bin.sh
 http://171.83.223.186:48086/bin.sh
 http://71.207.64.66:37958/i
 http://144.48.121.4:54247/bin.sh
+https://cerni-mix-01174839212-snort-20.resourcemaster.net/vivo/concluir-atualizacao.msi
 https://cerni-mix-01174839212-snort-20.resourcemaster.net/nota/concluir-atualizacao.msi
 http://46.8.120.153:8080/ServerCC.exe
 http://185.100.157.217:85/Captcha.exe
@@ -708,6 +731,7 @@ http://42.5.227.242:46438/i
 http://42.5.227.242:46438/bin.sh
 http://59.54.88.94:37025/i
 http://unext.am.in/cron
+http://support-elusa.6g.in/sshd
 http://unext.am.in/sh
 http://support-elusa.6g.in/klogd
 http://support-elusa.6g.in/s
@@ -1288,7 +1312,6 @@ http://89.23.113.166/Documents/MarriotJobDescriptionInfoOpenRoles.lnk
 http://77.110.113.242/Documents/Tax_Form.lnk
 http://117.72.103.9:8086/02.08.2022.exe
 http://8.148.208.249:8081/02.08.2022.exe
-http://45.192.104.88:8443/02.08.2022.exe
 http://101.36.116.222:8443/02.08.2022.exe
 http://101.200.193.211:8088/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
@@ -1626,7 +1649,9 @@ http://161.132.50.128:88/mlwr/MLAV-MS-Exe.exe.000
 http://161.132.50.128:88/mlwr/MLAV-MS-Excel.xls
 http://78.142.229.12/sshd
 http://78.142.229.12/system
+http://78.142.229.12/sh
 http://78.142.229.12/rsyslogd
+http://78.142.229.12/katrina
 http://78.142.229.12/s
 http://113.231.231.113:36424/bin.sh
 https://investtrad.com/Blue.mp4
@@ -2038,6 +2063,7 @@ http://162.215.218.82/install.tgz
 http://43.139.185.214/02.08.2022.exe
 http://46.236.65.11:45811/i
 http://43.159.52.193/02.08.2022.exe
+http://106.52.6.128:801/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
 http://1.94.243.114/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
@@ -3215,6 +3241,7 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/01%2004%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/17%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/25%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/22%2012%202024/info.zip
+http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/02%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/04%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/17%2004%202025/info.zip
@@ -3609,6 +3636,7 @@ http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
+http://43.138.30.109:9999/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
 http://121.36.27.251/02.08.2022.exe
 http://43.159.57.217:5555/02.08.2022.exe
@@ -8958,6 +8986,7 @@ https://annadegismen.com/js/nfdjux.js
 https://annadegismen.com/js/wueshi.js
 https://annadegismen.com/js/zyuakm.js
 https://annadegismen.com/js/vjyzld.js
+https://annadegismen.com/js/dopvba.js
 https://annadegismen.com/js/twjikg.js
 https://annadegismen.com/js/qkrbco.js
 https://annadegismen.com/js/ngtlmw.js
@@ -9886,6 +9915,7 @@ http://8.138.96.41:10050/demon.x64.bin
 http://103.253.43.60/enc.bin
 http://147.50.240.62/EakLauncher/EakLauncher.exe
 http://39.105.31.193:1389/npc.exe
+http://188.81.134.196/resources/js/info2R.txt
 https://raw.githubusercontent.com/python312/rusty-dropper/main/Client-built.exe
 https://raw.githubusercontent.com/ff245185/payload/main/Fast%20Download.exe
 https://raw.githubusercontent.com/eliasgay23/123/main/svhost.exe
@@ -10741,6 +10771,7 @@ http://123.143.141.75:10005/sshd
 http://218.108.181.2:87/sshd
 http://178.183.85.67:10081/sshd
 https://www.sendspace.com/pro/dl/dvbcvt
+https://www.sendspace.com/pro/dl/exw2o1
 http://174.71.253.35:1103//sshd
 http://66.49.95.131:8132//sshd
 http://118.69.157.212:9114//sshd
@@ -10818,6 +10849,7 @@ http://80.24.87.77:8057//sshd
 http://209.162.229.229:2004//sshd
 http://165.73.108.6:8029//sshd
 http://159.196.71.244:8084//sshd
+http://76.53.38.126:8090//sshd
 http://165.73.108.6:8022//sshd
 http://212.3.211.157:50080//sshd
 http://91.164.39.142:50004//sshd
@@ -11104,6 +11136,7 @@ http://36.89.11.81:29418/.i
 http://185.34.20.221:58688/.i
 http://202.5.36.243:17079/.i
 http://67.78.106.21:55731/.i
+http://95.170.114.70:19301/.i
 http://45.116.68.70:23115/.i
 http://178.131.81.7:11141/.i
 http://188.72.6.218:43597/.i
@@ -11280,6 +11313,7 @@ http://92.241.19.127:61882/.i
 http://180.250.160.26:37143/.i
 http://211.186.82.229:13753/.i
 http://103.173.173.98:58982/.i
+http://185.190.20.228:46441/.i
 http://195.34.91.22:61437/.i
 http://36.93.219.59:20564/.i
 http://212.18.223.229:40464/.i
@@ -11720,6 +11754,7 @@ http://43.245.131.27:1203/i
 http://103.70.204.249:30005/i
 http://86.38.171.81:52452/i
 http://88.80.242.177:20131/i
+http://85.72.39.196:39497/i
 http://103.125.163.10:7080/i
 http://98.103.171.36:19021/i
 http://46.229.139.93:55850/o
@@ -11743,6 +11778,7 @@ http://36.67.66.178:23987/bin.sh
 http://43.224.0.5:1316/o
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
+http://81.16.123.55:41567/Aqua.arm5
 http://109.171.30.19:33609/bin.sh
 http://36.67.66.178:23987/Mozi.a
 http://67.78.106.21:55731/Mozi.m
@@ -12178,7 +12214,6 @@ http://buscascolegios.diit.cl/txs9e9.zip
 https://buscascolegios.diit.cl/txs9e9.zip
 https://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://download.caihong.com/gamewd/yhdl.exe
-https://abissnet.net/u0eukz.zip
 http://yzkzixun.com/v2x2vexx.jpg
 http://ncxps.com/wp-includes/4LD2g8W3RRmhtGVVVPeq2OrlCqm71yyXVERIW5rZiTVIi3/
 http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
