@@ -1,3 +1,37 @@
+http://219.157.27.95:57729/bin.sh
+http://42.233.105.122:59346/bin.sh
+http://123.188.116.167:59796/bin.sh
+http://78.142.229.12/x01/sh4
+http://78.142.229.12/x01/arm5
+http://78.142.229.12/x01/spc
+http://78.142.229.12/x01/arm6
+http://78.142.229.12/x01/mpsl
+http://78.142.229.12/x01/m68k
+http://78.142.229.12/x01/arm7
+http://78.142.229.12/x01/ppc
+http://78.142.229.12/x01/mips
+http://78.142.229.12/x01/arm
+http://78.142.229.12/x01/x86
+http://78.142.229.12/x01/arc
+http://27.215.121.212:44459/bin.sh
+http://42.57.39.73:40011/bin.sh
+http://42.56.156.221:57829/bin.sh
+http://115.55.50.191:37247/i
+http://222.137.72.219:34666/i
+http://37.52.129.198:42881/i
+http://112.252.163.103:40378/i
+http://50.3.47.60/m-6.8-k.Sakura
+http://50.3.47.60/a-r.m-7.Sakura
+http://50.3.47.60/a-r.m-4.Sakura
+http://50.3.47.60/x-3.2-.Sakura
+http://50.3.47.60/i-5.8-6.Sakura
+http://50.3.47.60/m-i.p-s.Sakura
+http://50.3.47.60/x-8.6-.Sakura
+http://50.3.47.60/p-p.c-.Sakura
+http://50.3.47.60/s-h.4-.Sakura
+http://50.3.47.60/a-r.m-6.Sakura
+http://50.3.47.60/a-r.m-5.Sakura
+http://50.3.47.60/m-p.s-l.Sakura
 http://115.63.11.76:49014/i
 http://115.58.112.53:58737/i
 http://37.52.129.198:42881/bin.sh
@@ -651,7 +685,6 @@ http://219.154.173.151:57832/bin.sh
 http://175.151.241.148:39204/i
 http://222.133.99.76:49014/bin.sh
 http://42.234.74.239:49692/bin.sh
-http://175.151.241.148:39204/bin.sh
 http://175.150.73.42:44971/bin.sh
 http://213.209.150.18/bjnklkeqvjuMaLnym.exe
 http://115.63.164.33:35690/i
@@ -714,7 +747,6 @@ http://172.96.14.125/mpsl
 http://172.96.14.125/arm7
 http://123.13.106.47:41677/i
 http://221.13.148.87:54602/bin.sh
-http://123.13.106.47:41677/bin.sh
 http://115.187.17.117/wget.sh
 http://196.251.66.32/massload
 http://115.187.17.117/mips
@@ -972,7 +1004,6 @@ http://boxwoodrenovations.com/bins/bin.arm7
 http://boxwoodrenovations.com/bins/bin.mips
 http://boxwoodrenovations.com/bins/bin.mpsl
 https://github.com/john-wilson25/cloudstorage/blob/main/0d6d6irad1rb.exe?raw=true
-https://github.com/john-wilson25/cloudstorage/blob/main/Vvmrg.scr?raw=true
 http://176.46.157.60/inc/cron2.exe
 http://176.46.157.60/inc/cron1.exe
 http://play-the-play-lp.com/bins/bin.mips
@@ -1025,6 +1056,7 @@ http://112.248.191.23:44320/i
 http://112.248.191.23:44320/bin.sh
 http://42.6.184.142:53050/i
 http://119.118.48.73:40693/bin.sh
+http://42.6.184.142:53050/bin.sh
 http://176.46.157.60/inc/Fold.exe
 http://160.191.243.55/most-x86
 http://160.191.243.55/most-x86_64
@@ -1289,7 +1321,6 @@ http://104.168.7.213/224/dcn/verygoodcutlurewithbestpopelsmindsetgooforfme_____v
 http://113.89.40.15:40502/bin.sh
 http://5.135.131.74:20108/download_exe
 http://204.12.203.52/service.exe
-http://167.160.161.247/l8890f.exe
 https://sontungcoffee.com/wr.txt
 http://39.69.130.194:59847/bin.sh
 http://113.237.96.92:37207/bin.sh
@@ -1344,6 +1375,7 @@ http://23.146.184.43/hiddenbin/Space.arm
 http://23.146.184.43/hiddenbin/Space.arm7
 http://23.146.184.43/hiddenbin/Space.m68k
 http://1.izumisv1.cc/00101010101001/morte.arc
+http://1.izumisv1.cc/00101010101001/morte.arm5
 http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.x86
@@ -1414,7 +1446,6 @@ http://196.251.113.7/z/toto
 http://196.251.113.7/asd
 http://196.251.113.7/z/89/arm6
 http://196.251.113.7/z/sdt
-http://196.251.113.7/create.py
 http://196.251.113.7/z/weed
 http://196.251.113.7/z/c.sh
 http://196.251.113.7/z/test.sh
@@ -1587,6 +1618,7 @@ http://98.38.63.192:59639/i
 http://42.54.191.69:54445/bin.sh
 http://98.38.63.192:59639/bin.sh
 http://141.11.62.222/x/tplink
+http://rtost.duckdns.org/mimicr/clper.exe
 http://89.221.203.158:6969/bins/m68k
 http://89.221.203.158:6969/bins/arm6
 http://89.221.203.158:6969/bins/mips
@@ -1734,7 +1766,6 @@ http://196.251.69.241/00101010101001/morte.m68k
 http://196.251.114.102/00101010101001/morte.mips
 http://103.77.241.145/00101010101001/morte.arm7
 http://196.251.69.241/00101010101001/morte.arm7
-http://103.77.241.145/00101010101001/morte.arm6
 http://196.251.69.254/00101010101001/morte.arm5
 http://196.251.66.32/HBTs/top1miku.mips
 http://196.251.66.32/HBTs/top1miku.m68k
@@ -2216,7 +2247,6 @@ http://176.46.157.32/files/fate/random.exe
 http://176.46.157.32/luma/random.exe
 http://46.35.179.223:58143/bin.sh
 http://175.174.87.210:36983/i
-http://ecs-124-70-158-53.compute.hwclouds-dns.com/1.exe
 http://176.46.157.32/soft/index.exe
 http://176.46.157.32/files/unique2/random.exe
 http://177.70.102.232:8090/info.zip
@@ -2283,6 +2313,7 @@ http://91.143.174.252:59155/bin.sh
 http://188.150.45.193:51451/bin.sh
 http://119.114.121.218:40965/i
 http://103.243.24.130:8866/02.08.2022.exe
+http://1.94.134.161/02.08.2022.exe
 http://41.146.15.141:8081/sshd
 http://178.131.118.73:11958/i
 http://119.114.121.218:40965/bin.sh
@@ -4296,7 +4327,6 @@ http://213.209.150.18/obii55%205.exe
 http://47.102.209.177/02.08.2022.exe
 http://62.60.226.166/cc.exe
 http://62.60.226.166/svc.exe
-http://101.42.13.105:8866/02.08.2022.exe
 http://47.95.31.143:6666/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://46.236.65.100:46981/i
@@ -4438,6 +4468,7 @@ https://raw.githubusercontent.com/waf/dracula-cmd/master/dist/ColorTool.zip
 https://raw.githubusercontent.com/iamsysadmin/SetTeamsBG/main/Set-Teams-Backgrounds.zip
 http://github.com/anonimusman00-2/xmr/raw/refs/heads/main/Silent%20Miner.zip
 http://github.com/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip
+http://139.159.157.238:55555/02.08.2022.exe
 http://109.92.232.94:60396/i
 http://78.30.244.228:14416/i
 http://188.231.3.177/sshd
@@ -4857,6 +4888,7 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
+http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/beacon.bin
 http://111.46.219.240:14593/.i
 http://111.173.104.176:8888/02.08.2022.exe
@@ -5000,6 +5032,7 @@ http://43.226.39.44:5988/TestMemTest14.exe
 http://43.226.39.44:5988/TestMemTest12.exe
 http://43.226.39.44:5988/Test4.exe
 https://cdn.glitch.global/982c7448-1ad7-4095-83b6-e629e3bc0060/ProtecXds.dll?v=1738043025857
+https://windatem.com/MainWindow.dll
 http://jxhuyhoang.com/autoupdate/AutoUpdate.exe
 https://dangtienluc.com/snake/hack3.6.dll
 https://openaigrok.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
@@ -8908,7 +8941,6 @@ https://raw.githubusercontent.com/heresfilly09-9/fornova/main/svchost.exe
 https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.exe
 http://ojang.pe.kr/CALENDAR/DOWN/CALENDAR/SETUP.EXE
 http://ojang.pe.kr/calendar/down/calendar.exe
-http://ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://raw.githubusercontent.com/ytisf/theZoo/refs/heads/master/malware/Binaries/Ransomware.WannaCry/Ransomware.WannaCry.zip
 https://raw.githubusercontent.com/newlog/exploiting/refs/heads/master/training/windows/practical_malware_analysis/labs/Chapter_1L/Lab01-02.exe
 https://raw.githubusercontent.com/GetRektBoy724/sementara/master/donut.exe
@@ -9716,7 +9748,6 @@ http://annadegismen.com/js/oyhixg.js
 http://annadegismen.com/js/bzykis.js
 http://annadegismen.com/js/wxpfmy.js
 http://annadegismen.com/js/ckhvft.js
-http://annadegismen.com/js/mbfnwq.js
 http://annadegismen.com/js/gvtuqd.js
 http://annadegismen.com/js/vjyzld.js
 http://annadegismen.com/js/wegpvo.js
@@ -10379,7 +10410,6 @@ http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 https://39.98.174.154:52683/02.08.2022.exe
 https://139.196.237.171:12345/02.08.2022.exe
-https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -11744,6 +11774,7 @@ http://188.44.110.215:60566/.i
 http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
 http://150.107.205.29:54598/.i
+http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
 http://94.154.84.37:64790/.i
 http://203.17.23.194:20834/.i
@@ -11967,6 +11998,7 @@ http://94.28.123.75:60123/i
 http://31.210.217.24:64046/i
 http://77.89.245.118:44811/i
 http://36.91.144.195:2274/i
+http://46.100.50.137:56504/i
 http://62.249.140.222:7543/i
 http://89.216.100.166:30359/i
 http://91.92.188.72:64496/i
@@ -12382,7 +12414,6 @@ https://records.dennisign.se/agenzia/
 https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
 https://nhatheptienchebinhduong.com/scarica/
-https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
 https://villanyzsolti.hu/scarica/
 https://rpperformance.com.br/scarica/
@@ -12668,6 +12699,7 @@ http://ncxps.com/wp-includes/4LD2g8W3RRmhtGVVVPeq2OrlCqm71yyXVERIW5rZiTVIi3/
 http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
+https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://94.43.139.153:56656/Mozi.m
