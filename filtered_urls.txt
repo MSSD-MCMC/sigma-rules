@@ -1,3 +1,10 @@
+http://42.178.53.241:57933/bin.sh
+http://42.228.88.32:39086/i
+http://182.121.139.225:44118/bin.sh
+http://119.179.229.181:34209/i
+http://60.18.9.122:40353/bin.sh
+http://119.179.229.181:34209/bin.sh
+http://117.206.68.131:39952/i
 http://175.175.201.245:41373/bin.sh
 http://119.109.164.235:43275/i
 http://42.233.105.122:59346/i
@@ -597,7 +604,6 @@ http://196.251.66.32/HBTs/top1miku.mipsel
 http://196.251.66.32/HBTs/top1miku.powerpc
 http://196.251.66.32/HBTs/top1miku.armv5l
 http://196.251.66.32/HBTs/top1miku.armv6l
-http://156.238.225.44/ocppc
 http://156.238.225.44/ocm68k
 http://156.238.225.44/ocx86
 http://156.238.225.44/ocarm4
@@ -792,6 +798,7 @@ http://176.46.157.60/inc/cron1.exe
 http://play-the-play-lp.com/bins/bin.mips
 http://alina-quintana.com/bins/bin.arm
 http://play-the-play-lp.com/bins/bin.arm6
+http://alina-quintana.com/bins/bin.x86_64
 http://alina-quintana.com/bins/bin.ppc
 http://play-the-play-lp.com/bins/bin.sh4
 http://play-the-play-lp.com/bins/bin.m68k
@@ -856,7 +863,6 @@ http://113.236.249.144:34868/i
 http://112.238.16.91:53479/i
 http://112.238.16.91:53479/bin.sh
 http://66.63.187.20:8000/vin.bat
-http://66.63.187.20:8000/doc/Office%20License.pdf.lnk
 http://172.96.14.125/dlr.m68k
 http://172.96.14.125/dlr.mips
 http://172.96.14.125/dlr.arm
@@ -1189,6 +1195,7 @@ http://104.223.84.4/uqRohuS37.bin
 http://104.223.84.4/IEqzhgXfZKjPaG249.bin
 http://104.223.84.4/ItLyoqQC213.bin
 http://196.251.71.46/Adobe%20Acrobat.exe
+http://196.251.71.46/Svchost.exe
 http://43.241.110.206:62952/.i
 http://124.234.219.221:49511/bin.sh
 http://175.147.224.171:41058/bin.sh
@@ -1237,6 +1244,7 @@ http://196.251.113.7/z/z.sh
 http://196.251.113.7/fdgsfg
 http://196.251.113.7/g
 http://196.251.113.7/z/ipc
+http://196.251.113.7/z/linksys
 http://196.251.113.7/weed
 http://196.251.113.7/z/ruck
 http://196.251.113.7/sdt
@@ -1250,6 +1258,7 @@ http://196.251.113.7/rtz
 http://196.251.113.7/z/89/x86_64
 http://196.251.113.7/w.sh
 http://196.251.113.7/jaws
+http://196.251.113.7/wget.sh
 http://172.96.14.125/SBIDIOT/ppc
 http://172.96.14.125/SBIDIOT/arm5
 http://172.96.14.125/SBIDIOT/rtk
@@ -2996,7 +3005,6 @@ http://81.42.249.132:1080/R-02-RADIOLE/03%2002%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/28%2012%202024/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/03%2005%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/06%2003%202025/info.zip
-http://81.42.249.132:1080/SER%20Costa%20Luz/07%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/08%2004%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/19%2003%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
@@ -3109,7 +3117,6 @@ http://81.42.249.132:1080/R-02-RADIOLE/13%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/Photo.lnk
 http://81.42.249.132:1080/R-02-RADIOLE/05%2005%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/10%2002%202025/info.zip
-http://81.42.249.132:1080/R-02-RADIOLE/26%2005%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/27%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/15%2012%202024/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/13%2002%202025/info.zip
@@ -3154,7 +3161,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/29%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/24%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/25%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/29%2004%202025/info.zip
-http://81.42.249.132:1080/SER%20Costa%20Luz/03%2003%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/01%2006%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/25%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/12%2012%202024/info.zip
@@ -3187,7 +3193,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/09%2005%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/25%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/06%2002%202025/info.zip
-http://81.42.249.132:1080/SER%20Costa%20Luz/03%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/28%2003%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/16%2002%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/21%2002%202025/info.zip
@@ -3506,7 +3511,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/27%2004%202025/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/30%2004%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/29%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/08%2006%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/18%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/Photo.lnk
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/04%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/20%2003%202025/info.zip
@@ -4693,7 +4697,6 @@ http://121.171.162.63:17945/.i
 http://121.181.234.240:59928/.i
 http://118.233.240.6:20511/.i
 http://86.84.3.30:18189/.i
-http://109.87.136.70:58451/.i
 http://47.86.28.47:60131/linux
 http://81.23.169.236:64004/.i
 http://112.168.60.136:31252/.i
@@ -4717,7 +4720,6 @@ http://8.210.50.65:60126/linux
 https://github.com/vaxilu/x-ui/releases/latest/download/x-ui-linux-amd64.tar.gz
 http://195.158.88.156:13509/.i
 https://45.81.23.72/bin/support.client.exe?i=&e=Support&y=Guest&r=
-http://103.69.219.246:14279/i
 http://213.47.243.57:48784/i
 http://179.56.2.26:11839/i
 http://46.236.65.74:47161/i
@@ -4986,6 +4988,7 @@ http://8.134.199.119/wj/vcruntime140_1.dll
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s86.txt
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
+http://111.229.108.128:12233/02.08.2022.exe
 http://47.108.39.159:4446/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
@@ -8022,7 +8025,6 @@ http://175.100.115.43:50106/i
 http://178.253.103.221:1693/i
 http://27.147.196.138:22320/i
 http://46.175.139.20:11074/i
-http://110.39.41.202:21504/i
 http://93.170.128.248:52806/i
 http://101.126.11.168/xsh/xsh.exe
 http://ny.lshdw.cc/SigmaPlus/4.exe
@@ -8689,7 +8691,6 @@ https://raw.githubusercontent.com/Crowly-AI/Hello-World/refs/heads/main/ZubovLek
 https://raw.githubusercontent.com/heresfilly09-9/fornova/main/svchost.exe
 https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.exe
 http://ojang.pe.kr/CALENDAR/DOWN/CALENDAR/SETUP.EXE
-http://ojang.pe.kr/calendar/down/calendar.exe
 http://ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://raw.githubusercontent.com/ytisf/theZoo/refs/heads/master/malware/Binaries/Ransomware.WannaCry/Ransomware.WannaCry.zip
 https://raw.githubusercontent.com/newlog/exploiting/refs/heads/master/training/windows/practical_malware_analysis/labs/Chapter_1L/Lab01-02.exe
@@ -8800,6 +8801,7 @@ https://drive.google.com/uc?export=download&id=1HkvynlDKcbdd50_BSW3S9Tk5elBDuXtG
 https://annadegismen.com/js/natsgp.js
 https://annadegismen.com/js/bfkovw.js
 https://annadegismen.com/js/xnzoum.js
+https://annadegismen.com/js/ibgeaz.js
 https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/wlnoku.js
 https://annadegismen.com/js/mqpbho.js
@@ -9037,6 +9039,7 @@ https://annadegismen.com/js/hudrnc.js
 https://annadegismen.com/js/imbdcr.js
 https://annadegismen.com/js/anhosv.js
 https://annadegismen.com/js/xdtmpf.js
+https://annadegismen.com/js/kewbaz.js
 https://annadegismen.com/js/ftdyqb.js
 https://annadegismen.com/js/dnmzaq.js
 https://annadegismen.com/js/jtocel.js
@@ -9062,7 +9065,6 @@ https://annadegismen.com/js/yvsmlo.js
 https://annadegismen.com/js/gatled.js
 https://annadegismen.com/js/xbuqgz.js
 https://annadegismen.com/js/nucksg.js
-https://annadegismen.com/js/dwaehj.js
 https://annadegismen.com/js/skcoju.js
 https://annadegismen.com/js/giutma.js
 https://annadegismen.com/js/ecalyt.js
@@ -9313,6 +9315,7 @@ http://annadegismen.com/js/yhcoms.js
 http://annadegismen.com/js/tspwuj.js
 http://annadegismen.com/js/qugkmx.js
 http://annadegismen.com/js/cotbjd.js
+http://annadegismen.com/js/tzokax.js
 http://annadegismen.com/js/ivrfja.js
 http://annadegismen.com/js/ypufma.js
 http://annadegismen.com/js/chztsf.js
@@ -9393,7 +9396,6 @@ http://annadegismen.com/js/shajxm.js
 http://annadegismen.com/js/dhbwlx.js
 http://annadegismen.com/js/pveubn.js
 http://annadegismen.com/js/xnzoum.js
-http://annadegismen.com/js/wkmpis.js
 http://annadegismen.com/js/eyanol.js
 http://annadegismen.com/js/kljdsp.js
 http://annadegismen.com/js/qyblsk.js
@@ -9579,7 +9581,6 @@ http://annadegismen.com/js/lkcwbp.js
 http://annadegismen.com/js/cekhjv.js
 http://annadegismen.com/js/xntyfk.js
 http://annadegismen.com/js/skcoju.js
-http://annadegismen.com/js/gchrsz.js
 http://annadegismen.com/js/yijwpl.js
 http://annadegismen.com/js/mskbyg.js
 http://annadegismen.com/js/qgpckt.js
@@ -10208,7 +10209,6 @@ http://109.108.84.121:28531/Mozi.m
 http://94.251.5.51:31559/Mozi.m
 http://88.119.95.176:40517/Mozi.m
 http://197.159.1.58:25983/Mozi.m
-http://195.22.237.98:35989/Mozi.m
 http://185.237.157.98:41619/Mozi.m
 http://43.249.52.210:12166/Mozi.m
 http://91.203.89.146:46544/Mozi.m
@@ -11555,6 +11555,7 @@ http://178.34.177.42:41638/.i
 http://154.0.129.114:10702/.i
 http://36.88.109.138:25236/.i
 http://78.30.234.163:54495/.i
+http://202.53.164.46:35803/.i
 http://118.127.112.49:17818/.i
 http://181.193.59.78:39941/.i
 http://212.55.98.177:48211/.i
@@ -12530,6 +12531,7 @@ http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
 http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
 http://softdl2.360tpcdn.com/tomatoleizhutizy/tomatoleizhutizy.exe
 http://p5.zbjimg.com/task/2011-03/27/pub/4d8ee54db371e.zip
+http://jeantetfamily.com/nbYKX-tuyPjfD9eJIDLdI_GSUQXuUwr-SJM/p0toi-wvvspg-pzauhekva/
 http://flyingmutts.com/stats/f06bn-kgh24-ncoviajp/
 http://www.teknotown.com/wp-admin/d96m-5kduyd-gmzsf.view/
 http://local-update.com/RawabiJob.hta
