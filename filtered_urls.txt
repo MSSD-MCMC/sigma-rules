@@ -1,3 +1,13 @@
+http://42.235.190.194:33345/bin.sh
+http://116.138.13.40:60018/bin.sh
+http://182.125.117.214:41712/i
+http://60.18.123.248:53275/i
+http://222.137.113.205:40051/i
+http://42.226.76.103:48134/bin.sh
+http://182.125.117.214:41712/bin.sh
+http://60.18.123.248:53275/bin.sh
+http://119.117.96.50:35032/i
+http://219.156.16.167:39953/i
 http://115.48.160.212:43101/i
 http://182.115.207.131:38533/i
 http://222.137.113.205:40051/bin.sh
@@ -571,6 +581,7 @@ http://apexservices.duckdns.org/cbot/raw_cbot_debug.exe
 http://apexservices.duckdns.org/cbot/raw_cbot.exe
 http://apexservices.duckdns.org/cbot/cbot.exe
 http://apexservices.duckdns.org/bins/arm6
+http://apexservices.duckdns.org/cbot/cbot_debug.exe
 http://172.94.96.203/bins/arm6
 http://172.94.96.203/cbot/cbot.exe
 http://172.94.96.203/cbot/raw_cbot_debug.exe
@@ -655,6 +666,7 @@ http://196.251.118.167/bins/bin.arm
 http://196.251.118.167/bins/bin.mips
 http://196.251.118.167/bins/bin.m68k
 http://196.251.118.167/bins/bin.arm6
+http://196.251.118.167/bins/bin.ppc
 http://196.251.118.167/bins/bin.arc
 http://185.229.66.57/hi.sh
 http://192.24.206.1:3850/i
@@ -662,6 +674,7 @@ http://192.24.206.1:3850/bin.sh
 http://27.37.61.165:38495/i
 http://123.190.21.107:39899/i
 http://175.175.54.46:58639/i
+http://60.23.158.245:57861/bin.sh
 http://39.101.64.124:9999/02.08.2022.exe
 http://42.193.4.115:6666/02.08.2022.exe
 http://49.235.64.155:4444/02.08.2022.exe
@@ -891,6 +904,7 @@ http://196.251.113.7/z/jaws
 http://196.251.113.7/z/toto
 http://196.251.113.7/z/89/mips
 http://196.251.113.7/5
+http://196.251.113.7/z/wget.sh
 http://196.251.113.7/xaxa
 http://196.251.113.7/create.py
 http://196.251.113.7/k.sh
@@ -906,6 +920,7 @@ http://196.251.113.7/z/fdgsfg
 http://196.251.113.7/z/aaa
 http://196.251.113.7/z/irz
 http://196.251.113.7/fdgsfg
+http://196.251.113.7/bx
 http://196.251.113.7/z/ipc
 http://196.251.113.7/ruck
 http://196.251.113.7/weed
@@ -1031,6 +1046,7 @@ http://103.130.213.44/hiddenbin/Space.mpsl
 http://112.227.26.133:41679/bin.sh
 http://88.250.184.107:38354/Mozi.m
 http://119.109.232.186:39927/i
+http://119.109.232.186:39927/bin.sh
 http://111.127.224.161:46807/bin.sh
 https://gitlab.com/rated1337-group/rated1337-project/-/raw/main/000.exe
 http://156.238.225.44/LjEZs/uYtea.x86
@@ -1183,7 +1199,6 @@ http://196.251.69.241/00101010101001/morte.ppc
 http://196.251.69.244/00101010101001/morte.x86_64
 http://196.251.69.254/00101010101001/morte.arm6
 http://196.251.69.241/00101010101001/morte.arm
-http://196.251.69.244/00101010101001/morte.m68k
 http://196.251.114.102/00101010101001/morte.arm6
 http://196.251.114.102/00101010101001/morte.arc
 http://196.251.69.254/00101010101001/morte.x86
@@ -1760,6 +1775,7 @@ http://45.142.122.235/bot.m68k
 http://45.142.122.235/bot.x86_64
 http://45.142.122.235/bot.ppc
 http://45.142.122.235/bot.arm6
+http://45.142.122.235/bot.mpsl
 http://91.143.174.252:59155/i
 http://91.143.174.252:59155/bin.sh
 http://188.150.45.193:51451/bin.sh
@@ -3898,6 +3914,7 @@ https://windomstatetheater.com/osxs.zip
 https://jakestrack.com/fste.zip
 https://medthermography.com/lebu.zip
 https://jakestrack.com/fsps.zip
+https://ace-project.org/d.js
 https://skynetx.com.br/atendimento/bk.txt
 http://8.210.122.125:60149/linux
 http://180.92.228.34:2461/i
@@ -6700,7 +6717,6 @@ https://img1.wsimg.com/blobby/go/7219dffe-e0ab-4b31-b3e7-77acd35b52f5/downloads/
 https://img1.wsimg.com/blobby/go/88933df5-ca10-43b5-b140-6aa02868b89c/downloads/actaris_meter_manual.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/passaic_county_technical_institute_salary_guide.pdf
 https://img1.wsimg.com/blobby/go/0c2227e9-a807-4022-9307-9c68c8629142/downloads/59021495355.pdf
-https://img1.wsimg.com/blobby/go/3abea8f6-1776-4586-b4e6-47b414d29e30/downloads/mozosadoboligemuwisuwet.pdf
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/malaysia_company_employee_handbook.pdf
 https://img1.wsimg.com/blobby/go/988c0021-e131-496b-8725-ae310052894b/downloads/berakigevep.pdf
 https://img1.wsimg.com/blobby/go/c0325f5e-ab4f-48af-8631-8757a310624e/downloads/87631223928.pdf
@@ -7912,6 +7928,7 @@ https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
 http://47.90.142.15/02.08.2022.exe
+http://121.40.112.176:8087/02.08.2022.exe
 http://103.50.4.174:28917/i
 http://185.136.193.25:12499/i
 http://45.116.68.12:15607/i
@@ -8272,7 +8289,6 @@ http://103.121.195.3:3985/.i
 http://103.43.6.114:7055/.i
 http://103.84.39.181:19439/.i
 http://181.233.95.25:40000/.i
-http://186.125.133.244:53948/.i
 http://121.160.146.2:46001/.i
 http://212.85.166.12:22448/.i
 http://46.107.32.176:55245/.i
@@ -8627,7 +8643,6 @@ https://annadegismen.com/js/otpgcj.js
 https://annadegismen.com/js/jaieho.js
 https://annadegismen.com/js/ergubk.js
 https://annadegismen.com/js/mnyrdf.js
-https://annadegismen.com/js/vqpfdh.js
 https://annadegismen.com/js/dsqvlp.js
 https://annadegismen.com/js/xonsry.js
 https://annadegismen.com/js/atodpl.js
@@ -8906,6 +8921,7 @@ https://annadegismen.com/js/jmtcgl.js
 https://annadegismen.com/js/cekhjv.js
 https://annadegismen.com/js/vsbace.js
 https://annadegismen.com/js/acdkqh.js
+https://annadegismen.com/js/kqpyei.js
 https://annadegismen.com/js/tpwqro.js
 https://annadegismen.com/js/jfoepi.js
 https://annadegismen.com/js/lzcvfy.js
@@ -9047,6 +9063,7 @@ http://annadegismen.com/js/cgafnd.js
 http://annadegismen.com/js/rqdgsp.js
 http://annadegismen.com/js/ibgeaz.js
 http://annadegismen.com/js/dnmzaq.js
+http://annadegismen.com/js/ptjfnz.js
 http://annadegismen.com/js/wltkns.js
 http://annadegismen.com/js/nfdjux.js
 http://annadegismen.com/js/tfzmiy.js
@@ -9062,7 +9079,6 @@ http://annadegismen.com/js/zsjwbc.js
 http://annadegismen.com/js/gbfyoz.js
 http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
-http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
 http://annadegismen.com/js/kewbaz.js
 http://annadegismen.com/js/abovez.js
@@ -9072,7 +9088,6 @@ http://annadegismen.com/js/fnezgm.js
 http://annadegismen.com/js/pxobar.js
 http://annadegismen.com/js/vqpfdh.js
 http://annadegismen.com/js/nsjypd.js
-http://annadegismen.com/js/kyrdlt.js
 http://annadegismen.com/js/mnyrdf.js
 http://annadegismen.com/js/yduphe.js
 http://annadegismen.com/js/tmvhgx.js
@@ -9116,6 +9131,7 @@ http://annadegismen.com/js/unpagw.js
 http://annadegismen.com/js/xzowjy.js
 http://annadegismen.com/js/zsdpvi.js
 http://annadegismen.com/js/wyafhx.js
+http://annadegismen.com/js/njbcql.js
 http://annadegismen.com/js/nrqhmt.js
 http://annadegismen.com/js/jiurtg.js
 http://annadegismen.com/js/bmstep.js
@@ -9174,7 +9190,6 @@ http://annadegismen.com/js/giutma.js
 http://annadegismen.com/js/qudsxr.js
 http://annadegismen.com/js/bivasm.js
 http://annadegismen.com/js/btyrlu.js
-http://annadegismen.com/js/ysgnkf.js
 http://annadegismen.com/js/fulspy.js
 http://annadegismen.com/js/kovprd.js
 http://annadegismen.com/js/zndrwm.js
@@ -9577,7 +9592,6 @@ http://85.95.173.28/payload.sh
 http://101.133.156.69:7777/Lee.exe
 https://github.com/ordogos2/g575/releases/download/Download/setup.7.0.zip
 http://c3poolbat.oss-accelerate.aliyuncs.com/c3pool7.bat
-http://update.vlnguba.com/add.bat
 http://c3poolbat.oss-accelerate.aliyuncs.com/autoc3pool.bat
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injector.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injectorOld.exe
@@ -9920,7 +9934,6 @@ http://92.241.77.214:20631/Mozi.m
 http://182.253.115.156:59323/Mozi.m
 http://36.93.219.59:20564/Mozi.m
 http://113.214.56.235:7880/Mozi.m
-http://190.113.124.155:64726/Mozi.m
 http://36.94.29.82:23591/Mozi.m
 http://190.145.123.18:3553/Mozi.m
 http://36.92.68.241:27066/Mozi.m
@@ -11167,7 +11180,6 @@ http://109.92.143.90:65469/.i
 http://176.65.35.214:61252/.i
 http://138.122.43.76:56486/.i
 http://92.241.77.214:20631/.i
-http://178.158.238.2:42830/.i
 http://89.28.58.131:24363/.i
 http://91.122.210.7:42618/.i
 http://176.62.179.34:28825/.i
