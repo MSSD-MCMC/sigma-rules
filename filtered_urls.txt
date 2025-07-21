@@ -1,3 +1,14 @@
+http://115.48.160.212:43101/i
+http://182.115.207.131:38533/i
+http://222.137.113.205:40051/bin.sh
+http://120.61.30.32:55239/bin.sh
+http://117.196.166.25:40393/bin.sh
+http://219.156.16.167:39953/bin.sh
+http://27.213.240.12:56912/bin.sh
+http://182.115.207.131:38533/bin.sh
+http://123.10.37.45:39843/i
+http://222.137.231.181:53040/i
+http://42.231.110.164:55972/i
 http://111.70.15.220:60603/i
 http://115.48.160.212:43101/bin.sh
 http://42.231.110.164:55972/bin.sh
@@ -431,7 +442,6 @@ http://207.167.64.24/powerpc
 http://207.167.64.24/arm
 http://graceparkhawthornclub.com/bins/bin.arm
 http://boxwoodrenovations.com/bins/bin.arm5
-http://graceparkhawthornclub.com/bins/bin.m68k
 http://graceparkhawthornclub.com/bins/bin.mpsl
 http://graceparkhawthornclub.com/bins/bin.ppc
 http://graceparkhawthornclub.com/bins/bin.arm6
@@ -1140,7 +1150,6 @@ http://196.251.113.9/00101010101001/morte.spc
 http://196.251.113.9/00101010101001/morte.arm7
 http://196.251.114.102/00101010101001/morte.i686
 http://196.251.113.9/00101010101001/morte.mpsl
-http://196.251.69.244/00101010101001/morte.spc
 http://196.251.69.244/00101010101001/debug
 http://196.251.69.179/00101010101001/debug
 http://196.251.69.179/00101010101001/morte.mips
@@ -4596,6 +4605,7 @@ http://211.219.49.173:4089/i
 http://201.191.156.103:6913/i
 http://124.123.26.174:8888/sshd
 https://113.44.67.52:9443/02.08.2022.exe
+https://189.1.220.101:28443/02.08.2022.exe
 https://182.255.45.244:64898/02.08.2022.exe
 https://43.139.207.11/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
@@ -7610,7 +7620,6 @@ http://205.185.115.242/p-p.c-.Sakura
 http://205.185.115.242/m-6.8-k.Sakura
 http://205.185.115.242/Sakura.sh
 https://raw.githubusercontent.com/leinchchanceleinch/jik/refs/heads/main/d.msi
-http://45.115.236.152:37232/02.08.2022.exe
 http://85.206.188.166:8582/sshd
 https://github.com/leinchchanceleinch/jik/raw/refs/heads/main/d.msi
 http://185.148.3.216/Okfgjrg5d8gt
@@ -9050,9 +9059,9 @@ http://annadegismen.com/js/jfoepi.js
 http://annadegismen.com/js/ljkacr.js
 http://annadegismen.com/js/ybisjv.js
 http://annadegismen.com/js/zsjwbc.js
-http://annadegismen.com/js/hcwxve.js
 http://annadegismen.com/js/gbfyoz.js
 http://annadegismen.com/js/yiuojp.js
+http://annadegismen.com/js/xqbgec.js
 http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
 http://annadegismen.com/js/kewbaz.js
@@ -9328,7 +9337,6 @@ http://annadegismen.com/js/oknpgb.js
 http://annadegismen.com/js/sxvnkf.js
 http://annadegismen.com/js/lmaknf.js
 http://annadegismen.com/js/bazyuq.js
-http://annadegismen.com/js/hoygvf.js
 http://annadegismen.com/js/jnfica.js
 http://annadegismen.com/js/hcfbpe.js
 http://annadegismen.com/js/ieubhk.js
@@ -9570,6 +9578,7 @@ http://101.133.156.69:7777/Lee.exe
 https://github.com/ordogos2/g575/releases/download/Download/setup.7.0.zip
 http://c3poolbat.oss-accelerate.aliyuncs.com/c3pool7.bat
 http://update.vlnguba.com/add.bat
+http://c3poolbat.oss-accelerate.aliyuncs.com/autoc3pool.bat
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injector.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/injectorOld.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/driver.sys
@@ -10505,6 +10514,7 @@ http://59.175.183.106:6713/help.scr
 http://203.2.65.29:8088/help.scr
 http://222.244.110.238:8089/help.scr
 http://118.178.133.241:65500/help.scr
+http://203.2.65.29:8087/help.scr
 http://203.2.65.29:8081/help.scr
 http://203.2.65.29:8086/help.scr
 http://124.67.254.109:61234/help.scr
