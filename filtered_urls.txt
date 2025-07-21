@@ -1,3 +1,16 @@
+http://176.46.157.32/files/7677226784/vRDhILL.exe
+http://176.46.157.32/files/1320544591/xvOrMXf.exe
+http://182.114.255.170:42254/i
+http://175.173.90.16:54720/bin.sh
+http://60.18.61.63:49914/bin.sh
+http://182.114.255.170:42254/bin.sh
+http://182.122.193.170:50170/i
+http://42.234.203.197:36624/i
+http://125.43.33.130:36626/i
+http://219.157.27.95:57729/i
+http://182.122.193.170:50170/bin.sh
+http://117.209.94.120:38943/bin.sh
+http://42.234.203.197:36624/bin.sh
 http://219.157.27.95:57729/bin.sh
 http://42.233.105.122:59346/bin.sh
 http://123.188.116.167:59796/bin.sh
@@ -530,7 +543,6 @@ http://47.117.179.86/02.08.2022.exe
 http://121.73.162.102:8082/sshd
 http://178.160.27.169:8081/sshd
 http://213.207.222.213:58000/i
-http://178.131.64.251:58813/i
 http://201.110.44.212:8080/sshd
 http://58.187.231.6:8080/sshd
 http://59.182.121.130:2000/sshd
@@ -980,6 +992,7 @@ http://42.235.22.16:35151/bin.sh
 http://27.202.34.13:59313/bin.sh
 http://42.52.205.159:49471/i
 http://175.165.132.12:60014/i
+https://cloudflare.blazing-cloud.com/linux/verify/captcha/igm5eif9tb96
 http://172.245.95.38/xcIeLenvM223.bin
 http://207.167.64.24/arm7
 http://207.167.64.24/mips
@@ -989,6 +1002,7 @@ http://207.167.64.24/x86_64
 http://207.167.64.24/enp2s0f0.sh
 http://207.167.64.24/m68k
 http://207.167.64.24/sparc
+http://207.167.64.24/arm5
 http://207.167.64.24/x86
 http://207.167.64.24/sh4
 http://207.167.64.24/powerpc
@@ -1009,6 +1023,7 @@ http://176.46.157.60/inc/cron1.exe
 http://play-the-play-lp.com/bins/bin.mips
 http://alina-quintana.com/bins/bin.m68k
 http://play-the-play-lp.com/bins/bin.arm
+http://alina-quintana.com/bins/bin.x86_64
 http://play-the-play-lp.com/bins/bin.mpsl
 http://alina-quintana.com/bins/bin.ppc
 http://alina-quintana.com/bins/bin.arm6
@@ -1081,6 +1096,7 @@ http://113.239.122.71:59019/bin.sh
 http://113.236.249.144:34868/i
 http://112.238.16.91:53479/i
 http://112.238.16.91:53479/bin.sh
+http://66.63.187.20:8000/vin.bat
 http://172.96.14.125/dlr.m68k
 http://172.96.14.125/dlr.mips
 http://172.96.14.125/dlr.arm
@@ -1467,6 +1483,7 @@ http://196.251.113.7/sdt
 http://196.251.113.7/z/mag
 http://196.251.113.7/linksys
 http://196.251.113.7/z/zz
+http://196.251.113.7/z/bx
 http://196.251.113.7/test.sh
 http://196.251.113.7/ipc
 http://196.251.113.7/multi
@@ -1618,6 +1635,7 @@ http://98.38.63.192:59639/i
 http://42.54.191.69:54445/bin.sh
 http://98.38.63.192:59639/bin.sh
 http://141.11.62.222/x/tplink
+http://rtost.duckdns.org/mimicr/gcide.exe
 http://rtost.duckdns.org/mimicr/clper.exe
 http://89.221.203.158:6969/bins/m68k
 http://89.221.203.158:6969/bins/arm6
@@ -1695,8 +1713,8 @@ http://196.251.114.102/00101010101001/morte.arm5
 http://196.251.114.102/00101010101001/morte.arm
 http://103.77.241.145/00101010101001/morte.arm
 http://103.77.241.145/1.sh
-http://103.77.241.145/00101010101001/morte.arc
 http://103.77.241.145/00101010101001/morte.m68k
+http://196.251.69.254/00101010101001/morte.arm
 http://196.251.69.241/00101010101001/debug
 http://103.77.241.145/00101010101001/morte.mpsl
 http://196.251.113.9/00101010101001/morte.spc
@@ -1714,7 +1732,6 @@ http://196.251.69.179/00101010101001/morte.i686
 http://196.251.69.179/00101010101001/morte.arm
 http://196.251.69.179/00101010101001/morte.x86
 http://196.251.69.241/00101010101001/morte.x86
-http://103.77.241.145/00101010101001/morte.i686
 http://196.251.69.254/00101010101001/morte.sh4
 http://196.251.69.244/00101010101001/morte.arc
 http://196.251.69.254/00101010101001/morte.x86_64
@@ -2305,14 +2322,12 @@ http://45.142.122.235/bot.mips
 http://45.142.122.235/bot.arm7
 http://45.142.122.235/bot.m68k
 http://45.142.122.235/bot.x86_64
-http://45.142.122.235/bot.ppc
 http://45.142.122.235/bot.arm6
 http://45.142.122.235/bot.mpsl
 http://91.143.174.252:59155/i
 http://91.143.174.252:59155/bin.sh
 http://188.150.45.193:51451/bin.sh
 http://119.114.121.218:40965/i
-http://103.243.24.130:8866/02.08.2022.exe
 http://1.94.134.161/02.08.2022.exe
 http://41.146.15.141:8081/sshd
 http://178.131.118.73:11958/i
@@ -2405,7 +2420,6 @@ http://185.241.208.184/hiddenbin/boatnet.arm7
 http://185.241.208.128/hiddenbin/boatnet.sh4
 http://185.241.208.128/hiddenbin/boatnet.spc
 http://185.241.208.128/hiddenbin/boatnet.mpsl
-http://185.241.208.128/hiddenbin/boatnet.arc
 http://185.241.208.128/hiddenbin/boatnet.mips
 http://185.241.208.128/hiddenbin/boatnet.arm6
 http://185.241.208.184/hiddenbin/boatnet.sh4
@@ -2498,6 +2512,7 @@ http://158.51.126.131/n/mipsel
 http://158.51.126.131/armv5l
 http://158.51.126.131/mips
 http://158.51.126.131/armv7l
+http://154.222.31.14:8808/02.08.2022.exe
 http://60.205.183.232:55555/02.08.2022.exe
 http://117.239.218.92:29034/i
 http://80.94.92.89/mig
@@ -4542,6 +4557,7 @@ https://khavar.com/Atata.txt
 http://213.209.150.107/hiddenbin/boatnet.x86
 http://213.209.150.107/hiddenbin/boatnet.arm5
 http://213.209.150.107/hiddenbin/boatnet.ppc
+http://213.209.150.107/hiddenbin/boatnet.arm7
 http://213.209.150.107/hiddenbin/boatnet.mips
 http://213.209.150.107/hiddenbin/boatnet.arm6
 http://213.209.150.107/hiddenbin/boatnet.sh4
@@ -4741,6 +4757,7 @@ http://93.118.147.142:12019/i
 http://81.22.42.232:8201/sshd
 https://bitbucket.org/dfffrf/dfdf/downloads/Notificaci%C3%B3n_demanda_virtual_juzgado_09_de_circuito_de_Bogot%C3%A1.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
+https://stonecradle.com/wp/wex.gif
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
 http://152.136.44.13:8001/02.08.2022.exe
 http://36.94.37.236:54251/i
@@ -5072,6 +5089,7 @@ https://cdn.glitch.global/74002823-d235-4cf1-ba34-36967b91f68e/Deku_X_Cheat.dll?
 http://43.226.39.44:5988/TestMemTest36.exe
 http://52575815-38-20200406120634.webstarterz.com/eric.exe
 http://43.226.39.44:5988/Test5.exe
+https://windatem.com/TingPong.dll
 http://www.ss-01.com/R0400/YahooDLL.dll
 http://noithaticon.vn/DRIVEapplet.exe
 https://www.blackhattoolz.com/licensing/updates/AddMeFast%20Bot.exe
@@ -8222,6 +8240,7 @@ https://raw.githubusercontent.com/iluxa94/-3-/refs/heads/main/%D0%A4%D0%BE%D1%80
 https://github.com/Neo23x0/signature-base/archive/master.zip
 http://101.32.40.22/
 http://85.204.104.159:17159/i
+http://36.92.188.82:40111/i
 http://46.236.65.143:55111/i
 http://195.158.88.156:13509/i
 http://146.196.122.95:1997/i
@@ -8509,6 +8528,7 @@ http://94.244.113.217:53408/i
 http://89.216.107.99:65414/i
 http://103.121.195.3:3985/i
 http://202.53.164.90:5465/i
+http://95.170.113.242:62214/i
 http://186.138.107.5:14491/i
 http://181.233.95.29:40000/i
 http://117.20.27.25:21414/i
@@ -9102,7 +9122,6 @@ https://annadegismen.com/js/shlebq.js
 https://annadegismen.com/js/lqbutd.js
 https://annadegismen.com/js/uzrhnf.js
 https://annadegismen.com/js/uigzyq.js
-https://annadegismen.com/js/xzowjy.js
 https://annadegismen.com/js/vjtbmk.js
 https://annadegismen.com/js/tspwuj.js
 https://annadegismen.com/js/jhoxtn.js
@@ -9443,7 +9462,6 @@ https://annadegismen.com/js/lisyxb.js
 https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
 https://annadegismen.com/js/njrtbu.js
-https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
@@ -9630,7 +9648,6 @@ http://annadegismen.com/js/dnmzaq.js
 http://annadegismen.com/js/ptjfnz.js
 http://annadegismen.com/js/wltkns.js
 http://annadegismen.com/js/nfdjux.js
-http://annadegismen.com/js/pexogi.js
 http://annadegismen.com/js/tfzmiy.js
 http://annadegismen.com/js/meciyz.js
 http://annadegismen.com/js/uzrhnf.js
@@ -10573,6 +10590,7 @@ http://82.117.197.102:19001/Mozi.m
 http://185.12.78.161:36220/Mozi.m
 http://183.112.2.247:45768/Mozi.m
 http://123.193.21.48:36061/Mozi.m
+http://124.41.225.49:61677/Mozi.m
 http://201.184.179.195:30450/Mozi.m
 http://85.187.82.120:41465/Mozi.m
 http://119.15.85.142:62506/Mozi.m
@@ -11712,7 +11730,6 @@ http://176.97.190.248:45588/.i
 http://64.140.100.201:44920/.i
 http://36.88.244.2:9487/.i
 http://37.143.133.215:46668/.i
-http://139.255.67.189:26678/.i
 http://89.190.76.126:4729/.i
 http://62.176.113.135:65108/.i
 http://195.211.197.30:10994/.i
@@ -11884,6 +11901,7 @@ http://213.5.19.220:13079/i
 http://203.115.103.19:43652/i
 http://154.126.178.16:30629/i
 http://151.237.4.20:46151/i
+http://217.66.195.187:55445/i
 http://181.117.210.108:5315/i
 http://103.173.173.98:58982/i
 http://186.159.0.129:52617/i
@@ -12739,7 +12757,6 @@ http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
-http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 https://quovadisholidays.testingdemo.net/quovadisholidays.com/docs/m-99675669-7561188-hrh8fb2zu-tk2irfuvp/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
 http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
