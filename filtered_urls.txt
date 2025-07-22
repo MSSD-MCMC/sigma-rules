@@ -1,3 +1,11 @@
+http://115.50.215.234:58028/i
+http://120.84.191.214:33533/i
+http://39.81.125.208:53106/i
+http://115.50.215.234:58028/bin.sh
+http://61.53.140.175:57747/bin.sh
+http://120.84.191.214:33533/bin.sh
+http://42.58.147.104:35751/i
+http://125.46.151.49:39905/i
 http://42.58.147.104:35751/bin.sh
 http://182.121.217.1:39163/i
 http://42.85.218.85:36718/i
@@ -364,7 +372,6 @@ http://175.173.90.16:54720/i
 http://96.44.154.199/MMxWCNqQMQAmGYMMP123.bin
 http://172.245.95.38/KbLCFnCOWvWtk84.bin
 http://60.18.61.63:49914/i
-http://176.46.157.32/files/7677226784/vRDhILL.exe
 http://175.173.90.16:54720/bin.sh
 http://60.18.61.63:49914/bin.sh
 http://219.157.27.95:57729/i
@@ -458,6 +465,7 @@ http://103.77.241.146/00101010101001/morte.arm7
 http://103.77.241.146/00101010101001/morte.arc
 http://103.77.241.146/00101010101001/debug
 http://27.37.117.54:35997/bin.sh
+http://vipcncnetwork.com/bins/morte.arm5
 http://vipcncnetwork.com/bins/morte.x86
 http://vipcncnetwork.com/bins/debug
 http://vipcncnetwork.com/bins/morte.ppc
@@ -758,7 +766,6 @@ http://www.ultrasource.co.za/aniporac/Timelnnedes.u32
 http://www.ultrasource.co.za/aniporac/Initialens178.pfb
 http://www.ultrasource.co.za/saipem/Astmatikers.psd
 http://www.ultrasource.co.za/saipem/Rulletrappen.pfm
-http://221.202.217.34:40923/i
 http://221.202.217.34:40923/bin.sh
 http://212.11.64.25/ohshit.sh
 http://123.11.9.124:58571/i
@@ -809,7 +816,6 @@ http://boxwoodrenovations.com/bins/bin.sh4
 http://boxwoodrenovations.com/bins/bin.mips
 http://boxwoodrenovations.com/bins/bin.mpsl
 http://play-the-play-lp.com/bins/bin.x86_64
-http://alina-quintana.com/bins/bin.mips
 http://play-the-play-lp.com/bins/bin.arm6
 http://play-the-play-lp.com/bins/bin.mpsl
 http://alina-quintana.com/bins/bin.ppc
@@ -1099,6 +1105,7 @@ http://1.izumisv1.cc/00101010101001/morte.arm5
 http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/morte.x86_64
 http://1.izumisv1.cc/00101010101001/morte.m68k
+http://1.izumisv1.cc/00101010101001/morte.arm7
 http://1.izumisv1.cc/00101010101001/morte.arm
 http://1.izumisv1.cc/00101010101001/morte.x86
 http://1.izumisv1.cc/00101010101001/morte.ppc
@@ -1175,6 +1182,7 @@ http://196.251.113.7/z/gocl
 http://196.251.113.7/z/w.sh
 http://196.251.113.7/z/aaa
 http://196.251.113.7/z/irz
+http://196.251.113.7/fdgsfg
 http://196.251.113.7/f5
 http://196.251.113.7/ruck
 http://196.251.113.7/z/linksys
@@ -1183,6 +1191,7 @@ http://196.251.113.7/sdt
 http://196.251.113.7/z/mag
 http://196.251.113.7/z/xaxa
 http://196.251.113.7/linksys
+http://196.251.113.7/av.sh
 http://196.251.113.7/test.sh
 http://196.251.113.7/multi
 http://196.251.113.7/aaa
@@ -1514,6 +1523,7 @@ http://156.225.31.150:808/linux_arm5
 http://156.225.31.150:808/linux_mipsel_softfloat
 http://154.201.82.47:808/linux_arm5
 http://156.225.31.150:808/linux_arm7
+http://156.225.31.150:808/linux_mips64el
 http://156.225.31.150:808/linux_mips64
 http://156.225.31.150:808/linux_ppc64
 http://156.225.31.150:808/linux_ppc64el
@@ -2064,6 +2074,7 @@ http://123.19.127.128/sshd
 http://94.197.231.166:8083/sshd
 http://220.158.234.135/j/xle1
 http://220.158.234.135/j/mbe1
+http://220.158.234.135/j/a5le1
 http://90.226.70.144:3123/i
 http://90.226.70.144:3123/bin.sh
 http://200.59.84.204:43354/bin.sh
@@ -2234,6 +2245,7 @@ http://66.63.187.193/aarch64
 http://66.63.187.193/x86_64
 http://66.63.187.193/sh
 http://45.141.233.66:8080/02.08.2022.exe
+http://101.42.239.131:8880/02.08.2022.exe
 http://47.116.197.65/02.08.2022.exe
 http://116.58.52.84:14591/i
 http://31.132.152.126:39656/i
@@ -3246,6 +3258,7 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/18%2012%202024/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/28%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/06%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/08%2002%202025/info.zip
+http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/30%2001%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/26%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/05%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/27%2004%202025/info.zip
@@ -4168,7 +4181,6 @@ http://2.54.83.155:802/sshd
 http://47.242.224.97:60147/linux
 http://27.214.70.40:55149/i
 http://27.214.70.40:55149/bin.sh
-http://207.231.111.146/bin/support.client.exe
 http://jakestrack.com/fsps.zip
 https://upgradegc.com/rsrs.zip
 http://115.23.70.129:42260/i
@@ -4810,7 +4822,6 @@ http://47.120.13.85:8889/02.08.2022.exe
 https://43.163.81.66:8888/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
 https://47.96.13.97:8443/02.08.2022.exe
-http://47.93.28.103:33333/02.08.2022.exe
 https://120.27.235.78:8443/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
@@ -6292,6 +6303,7 @@ https://github.com/Sporty18000/MOBILedit-Forensic-Express-Pro-Free/releases/down
 https://github.com/FilipXVZ/Roblox-Synapse/releases/download/v1.6.2/Roblox.Synapse.v1.6.2.zip
 https://github.com/msaad453/Nexus-Roblox/releases/download/v1.0/Application.zip
 https://163.5.149.8/bin/support.client.exe??i=&e=Support&y=Guest&r=
+https://www.axhelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://axhelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://acc.nmphelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
@@ -8663,6 +8675,7 @@ https://annadegismen.com/js/ibgeaz.js
 https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/fmxscl.js
 https://annadegismen.com/js/wlnoku.js
+https://annadegismen.com/js/mqpbho.js
 https://annadegismen.com/js/rznscf.js
 https://annadegismen.com/js/qlzjfg.js
 https://annadegismen.com/js/pnescq.js
@@ -8765,6 +8778,7 @@ https://annadegismen.com/js/ijermv.js
 https://annadegismen.com/js/ieubhk.js
 https://annadegismen.com/js/ctiakn.js
 https://annadegismen.com/js/stlhfw.js
+https://annadegismen.com/js/swejgo.js
 https://annadegismen.com/js/wijbyn.js
 https://annadegismen.com/js/qldfwy.js
 https://annadegismen.com/js/zfyaqp.js
@@ -8967,6 +8981,7 @@ https://annadegismen.com/js/mgurty.js
 https://annadegismen.com/js/zjkhuf.js
 https://annadegismen.com/js/xljwek.js
 https://annadegismen.com/js/chztsf.js
+https://annadegismen.com/js/jezqcu.js
 https://annadegismen.com/js/pmgyrd.js
 https://annadegismen.com/js/sxvnkf.js
 https://annadegismen.com/js/gdufvy.js
@@ -9400,7 +9415,6 @@ http://annadegismen.com/js/swejgo.js
 http://annadegismen.com/js/oemktg.js
 http://annadegismen.com/js/nucksg.js
 http://annadegismen.com/js/sejktf.js
-http://annadegismen.com/js/cnvlhd.js
 http://annadegismen.com/js/dhzwae.js
 http://annadegismen.com/js/ljqxrf.js
 http://annadegismen.com/js/kspntc.js
@@ -9556,6 +9570,7 @@ http://annadegismen.com/js/gatled.js
 http://annadegismen.com/js/xcyqdg.js
 http://annadegismen.com/js/nozmuk.js
 http://annadegismen.com/js/brgdto.js
+http://annadegismen.com/js/fgjzlp.js
 http://annadegismen.com/js/xkhlro.js
 http://annadegismen.com/js/eyfbaq.js
 http://annadegismen.com/js/wfrtcn.js
@@ -9741,7 +9756,6 @@ https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/OGFN%20Up
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/pclient.exe
 https://raw.githubusercontent.com/LeakerByDragon1/LeakerByDragon1/main/kdmapper_Release.exe
 http://ftp.ywxww.net:820/vc17x64.exe
-http://ftp.ywxww.net:820/PCHunter64.exe
 http://ftp.ywxww.net:820/RemotelyAnywhere11.exe
 http://ftp.ywxww.net:820/pm3100.exe
 http://ftp.ywxww.net:820/qwsrv3.3.exe
@@ -10082,7 +10096,6 @@ http://91.92.94.138:15350/Mozi.m
 http://180.250.160.26:37143/Mozi.m
 http://59.153.80.90:4581/Mozi.m
 http://37.255.217.87:32902/Mozi.m
-http://216.155.92.204:2876/Mozi.m
 http://195.34.91.22:61437/Mozi.m
 http://115.245.112.26:20671/Mozi.m
 http://37.57.33.51:49049/Mozi.m
@@ -10434,6 +10447,7 @@ http://218.92.65.139:20001/Photo.lnk
 http://43.240.65.55:81/av_downloader1.1.exe
 http://116.206.151.203:478/pornhub_downloader.exe
 http://45.153.129.239/7
+http://45.153.129.239/5
 http://45.153.129.239/3
 http://51.91.111.186/a
 http://45.153.129.239/c
@@ -11157,7 +11171,6 @@ http://185.21.223.166:60622/.i
 http://201.184.231.250:64676/.i
 http://185.101.239.41:65494/.i
 http://179.51.168.26:10428/.i
-http://41.205.90.51:24235/.i
 http://102.216.69.112:17350/.i
 http://82.193.120.99:4958/.i
 http://118.179.121.235:1123/.i
@@ -12078,7 +12091,6 @@ http://218.157.219.170:43369/.i
 https://palharesinformatica.com.br/down/newsales/adm_atu.exe
 http://jobcity.com/img/RM0XpX/
 http://www.ideaplusjal.in/softwares/jewel.sfx.exe
-https://pns.org.pk/crt/xe
 https://www.ingonherbal.com/application/PhEbceg4Tx/
 http://farschid.de/verkaufsberater_service/OZRw36a2y1CH2clUzY/
 http://farschid.de/verkaufsberater_service/uADJw/
@@ -12119,7 +12131,6 @@ https://kramersmarionnettes.com/actionably.php
 https://kramersmarionnettes.com/intermission.php
 https://kramersmarionnettes.com/redesign.php
 https://kramersmarionnettes.com/antienuretic.php
-https://kramersmarionnettes.com/fizz.php
 https://kramersmarionnettes.com/designer.php
 https://kramersmarionnettes.com/frustrating.php
 https://kramersmarionnettes.com/conditioner.php
@@ -12420,6 +12431,7 @@ http://cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd137.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.1.17/fmt_01.exe
 http://divametalart.com/BcabYiW/
+http://www.divametalart.com/BcabYiW/
 http://advustech.com/cFjy-2q9I_Yq-se/COMET/SIGNS/PAYMENT/NOTIFICATION/01/16/2019/En/Open-Past-Due-Orders/
 http://www.myvcart.com/drop/css/obr.hta
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
@@ -12480,6 +12492,7 @@ http://download.glzip.cn:80/n/tui/update_agency/v1.0.3.0/kzupdateagency-2.exe
 http://onenightlife.com/4339755AQ/PAY/Business/
 http://onenightlife.com/iDetNLWu1/
 http://stud.clanweb.eu/gym.exe
+http://onenightlife.com/9qVqmt/
 http://studio.maweb.eu/bidniz.exe
 http://studio.maweb.eu/EgO.hta
 https://www.dropbox.com/s/dl/gxfqfem5m813nva/Firefox_67.3.39.js
