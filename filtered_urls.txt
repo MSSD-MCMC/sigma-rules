@@ -1,3 +1,16 @@
+http://42.58.147.104:35751/bin.sh
+http://182.121.217.1:39163/i
+http://42.85.218.85:36718/i
+http://125.46.151.49:39905/bin.sh
+http://113.237.107.169:48974/i
+http://222.185.18.29:53702/i
+http://175.148.203.55:53784/i
+http://182.121.217.1:39163/bin.sh
+http://42.85.218.85:36718/bin.sh
+http://125.43.33.57:49415/i
+http://115.58.134.232:36577/bin.sh
+http://222.185.18.29:53702/bin.sh
+http://113.237.107.169:48974/bin.sh
 http://175.148.203.55:53784/bin.sh
 http://219.157.214.116:37649/i
 http://125.43.33.57:49415/bin.sh
@@ -1012,7 +1025,6 @@ http://179.61.138.56/00101010101001/debug
 http://179.61.138.56/00101010101001/morte.arc
 http://179.61.138.56/00101010101001/morte.x86
 http://179.61.138.56/00101010101001/morte.sh4
-http://179.61.138.56/00101010101001/morte.i686
 http://109.120.137.172/terms.mp4
 http://155.94.175.189/02.08.2022.exe
 http://8.130.191.106/02.08.2022.exe
@@ -1336,7 +1348,6 @@ http://89.221.203.158:6969/bins/mpsl
 http://89.221.203.158:6969/bins/sh4
 http://89.221.203.158:6969/bins/arm7
 http://89.221.203.158:6969/bins/arm
-http://89.221.203.158:6969/bins/x86
 http://89.221.203.158:6969/bins/arm5
 http://89.221.203.158:6969/bins/ppc
 http://113.239.110.61:41050/i
@@ -1513,7 +1524,6 @@ http://156.225.31.150:808/linux_arm6
 http://156.225.31.150:808/linux_arm64
 http://156.225.31.150:808/linux_mipsel
 http://156.225.31.150:808/linux_mips64el_softfloat
-http://156.225.31.150:808/linux_amd64
 http://156.225.31.150:808/win.exe
 http://94.159.99.169/Documents/scink.lnk
 http://89.23.113.207/Documents/Disney_Full_Brief.lnk
@@ -1570,6 +1580,7 @@ http://158.51.126.131/imeow4fun
 http://123.188.54.211:60453/bin.sh
 http://200.59.88.121:48420/i
 http://77.90.153.136/ss/armv7l
+http://220.158.234.135/j/mbe0
 http://39.75.4.193:53269/bin.sh
 http://87.20.197.23:3067/.i
 http://175.173.92.132:42509/i
@@ -1926,6 +1937,7 @@ http://196.251.85.220/E3jv8fS9b/Plugins/clip64.dll
 http://196.251.85.220/E3jv8fS9b/Plugins/cred64.dll
 http://220.158.234.135/j/a5le0w
 http://220.158.234.135/x/b
+http://220.158.234.135/x/asus
 http://154.205.133.58/lilin.sh
 http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
@@ -2010,6 +2022,7 @@ http://188.150.45.193:51451/bin.sh
 http://119.114.121.218:40965/i
 http://129.226.212.179:11111/02.08.2022.exe
 http://103.243.24.130:8866/02.08.2022.exe
+http://1.94.134.161/02.08.2022.exe
 http://41.146.15.141:8081/sshd
 http://119.114.121.218:40965/bin.sh
 https://iiiconstruction.net/DOUrVSItY187.bin
@@ -2049,6 +2062,7 @@ http://103.161.230.13:16977/i
 http://121.202.142.68/sshd
 http://123.19.127.128/sshd
 http://94.197.231.166:8083/sshd
+http://220.158.234.135/j/xle1
 http://220.158.234.135/j/mbe1
 http://90.226.70.144:3123/i
 http://90.226.70.144:3123/bin.sh
@@ -4041,7 +4055,6 @@ http://4.233.216.36:8000/a.ps1
 http://4.233.216.36:8000/b.ps1
 http://4.233.216.36:8000/beacon.bin
 http://72.177.84.111:8232/i
-http://197.210.129.150:44008/i
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
 https://xai830k.com/plugin4.plg
@@ -5983,7 +5996,6 @@ https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer
 https://github.com/McFlury62/ZIPsnipp/releases/download/v1.0/Release.zip
 https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip
 https://github.com/mehedihasanfarabi10/Solana-Trading-Bot/releases/download/v1.0/Software.zip
-https://github.com/Amiine7/ffmpeg-commands/releases/download/v1.0/Release.zip
 https://github.com/ImTheGoat123456/SNU_2D_ProgrammingTools_IDE_2-Dimensional-Array/releases/download/v2.0/Software.zip
 https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v1.0/Release.zip
 https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip
@@ -6433,7 +6445,6 @@ https://axhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsecuregate.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://acc.wtshelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://onyxcyberapex.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsafenova.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://github.com/ToxicAyNone/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip
 https://codeload.github.com/MyPrincessAkira/Jarvas/zip/refs/heads/main
@@ -8254,7 +8265,6 @@ http://103.187.146.29/enjoyers/InjekSimple3.mentah
 http://103.187.146.29/xcd/File3.mentah
 http://103.187.146.29/samarinda/File3.mentah
 http://103.187.146.29/vvipejy/VVIPEJY_Hard_VP.rar
-http://103.187.146.29/sumatra/Simple3.mentah
 http://103.187.146.29/fvc/File3.mentah
 http://103.187.146.29/samarinda/InjekKey.mentah
 http://103.187.146.29/fvc/Simple3.mentah
@@ -8675,7 +8685,6 @@ https://annadegismen.com/js/inrkdl.js
 https://annadegismen.com/js/ygwqnm.js
 https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
-https://annadegismen.com/js/uhoqtj.js
 https://annadegismen.com/js/pkacbg.js
 https://annadegismen.com/js/lrabiq.js
 https://annadegismen.com/js/hjiosv.js
@@ -8831,6 +8840,7 @@ https://annadegismen.com/js/jvrept.js
 https://annadegismen.com/js/hpkynl.js
 https://annadegismen.com/js/geruvw.js
 https://annadegismen.com/js/pqyhgb.js
+https://annadegismen.com/js/obefmt.js
 https://annadegismen.com/js/rfsduy.js
 https://annadegismen.com/js/mdnujx.js
 https://annadegismen.com/js/gchrsz.js
@@ -9522,7 +9532,6 @@ http://annadegismen.com/js/twjikg.js
 http://annadegismen.com/js/ktaxgd.js
 http://annadegismen.com/js/qlzjfg.js
 http://annadegismen.com/js/pnescq.js
-http://annadegismen.com/js/sveuca.js
 http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
@@ -11841,6 +11850,7 @@ https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
 http://78.188.215.66:57861/.i
 http://103.6.5.3/MobileAnjian.apk
 https://github.com/Den4ikYT/spoofer/raw/main/HWID%20SPOOFER.rar
+http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
@@ -12180,11 +12190,9 @@ https://docs.google.com/uc?export=download&id=1tiLqoZOt07VyLvDmmSfS7iA452jWhKTj&
 http://212.107.239.43:8026/.i
 https://drive.google.com/uc?export=download&id=1ETPmpb2shvUny5DxJ5awfpxklxqpBzGx
 https://jyothishmathi.in/toothy.php
-https://jyothishmathi.in/unpunished.php
 https://jyothishmathi.in/jordan.php
 https://jyothishmathi.in/defended.php
 https://capsule4u.com/funded.php
-https://aldahwiprivatehospital.com/manage-hospital/webroot/themes/base/images/vehemence.php
 https://drive.google.com/uc?export=download&id=1b6t1MjNJCvnDcY-MDQQ0NeqRBOcqYJu4
 http://softdl.360tpcdn.com/inst77player/inst77player_1.0.0.1.exe
 https://drive.google.com/uc?export=download&id=1NW1GmZG6LwTuhs0TTE969xcFpP9_dc5q
