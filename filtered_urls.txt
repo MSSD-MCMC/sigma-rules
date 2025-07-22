@@ -1,3 +1,19 @@
+http://175.148.203.55:53784/bin.sh
+http://219.157.214.116:37649/i
+http://125.43.33.57:49415/bin.sh
+http://42.57.47.70:54916/i
+http://59.88.13.2:42345/bin.sh
+http://219.157.214.116:37649/bin.sh
+http://42.57.47.70:54916/bin.sh
+http://119.179.237.133:40445/i
+http://222.141.43.38:45395/i
+http://61.163.13.58:40336/bin.sh
+http://182.116.49.97:50586/i
+http://46.6.13.167:53471/.i
+http://42.239.75.254:46494/i
+http://112.248.100.181:37082/i
+http://123.129.129.228:43317/bin.sh
+http://115.49.201.61:52243/i
 http://119.179.237.133:40445/bin.sh
 http://182.116.49.97:50586/bin.sh
 http://222.141.43.38:45395/bin.sh
@@ -781,13 +797,11 @@ http://boxwoodrenovations.com/bins/bin.mips
 http://boxwoodrenovations.com/bins/bin.mpsl
 http://play-the-play-lp.com/bins/bin.x86_64
 http://alina-quintana.com/bins/bin.mips
-http://play-the-play-lp.com/bins/bin.arm
 http://play-the-play-lp.com/bins/bin.arm6
 http://play-the-play-lp.com/bins/bin.mpsl
 http://alina-quintana.com/bins/bin.ppc
 http://play-the-play-lp.com/bins/bin.sh4
 http://play-the-play-lp.com/bins/bin.m68k
-http://alina-quintana.com/bins/bin.arm5
 http://alina-quintana.com/bins/bin.arm6
 http://alina-quintana.com/bins/bin.sh4
 http://alina-quintana.com/bins/bin.mpsl
@@ -1053,7 +1067,6 @@ http://162.248.53.119:8000/jdk64-srvmon
 http://ndirection.kr/download.php?filepath=/var/www/html/OUTPORT/proc&filename=proc.
 http://162.248.53.119:8000/run.sh
 http://196.251.66.32/HBTs/top1miku.arc
-http://196.251.66.32/HBTs/top1miku.i686
 http://42.57.253.32:56987/bin.sh
 http://180.191.20.52:60513/i
 http://23.146.184.43/hiddenbin/Space.sh4
@@ -1159,9 +1172,9 @@ http://196.251.113.7/z/mag
 http://196.251.113.7/z/xaxa
 http://196.251.113.7/linksys
 http://196.251.113.7/test.sh
+http://196.251.113.7/multi
 http://196.251.113.7/aaa
 http://196.251.113.7/rtz
-http://196.251.113.7/z/89/x86_64
 http://196.251.113.7/adb
 http://196.251.113.7/w.sh
 http://196.251.113.7/b
@@ -1591,7 +1604,6 @@ http://27.211.24.235:35779/bin.sh
 http://176.46.157.32/files/7234551096/HZhaduP.exe
 http://196.251.66.32/w.sh
 http://196.251.66.32/c.sh
-http://196.251.66.32/wget.sh
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link/test.jpg?137113
 https://secure.third-domain.su/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://statement.third-domain.su/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -1706,7 +1718,6 @@ http://60.26.217.176:88/info.zip
 http://60.26.217.176:88/DHYXClient/info.zip
 http://60.26.217.176:88/temp/info.zip
 http://60.26.217.176:88/2021/info.zip
-http://60.26.217.176:88/Log/info.zip
 http://116.133.72.10:20000/1/Video.scr
 http://116.133.72.10:20000/1/Photo.scr
 http://60.26.217.176:88/temp/20180223/info.zip
@@ -1913,6 +1924,8 @@ http://14.174.220.136/sshd
 http://2.69.56.24/sshd
 http://196.251.85.220/E3jv8fS9b/Plugins/clip64.dll
 http://196.251.85.220/E3jv8fS9b/Plugins/cred64.dll
+http://220.158.234.135/j/a5le0w
+http://220.158.234.135/x/b
 http://154.205.133.58/lilin.sh
 http://154.205.133.58/tvt.sh
 http://154.205.133.58/dvr.sh
@@ -2036,6 +2049,7 @@ http://103.161.230.13:16977/i
 http://121.202.142.68/sshd
 http://123.19.127.128/sshd
 http://94.197.231.166:8083/sshd
+http://220.158.234.135/j/mbe1
 http://90.226.70.144:3123/i
 http://90.226.70.144:3123/bin.sh
 http://200.59.84.204:43354/bin.sh
@@ -2867,6 +2881,7 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/30%2001%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/23%2002%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/28%2001%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/11%2003%202025/info.zip
+http://81.42.249.132:1080/SER%20Costa%20Luz/15%2004%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/15%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/26%2002%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/22%2003%202025/info.zip
@@ -4675,6 +4690,7 @@ https://www.salonmarketing.ca/diaclients/doitallmain.exe
 https://www.ss-01.com/SA0611/SystemSA32.dll
 http://43.226.39.44:5988/Test6.exe
 https://c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru/msedge.exe
+https://update.volamthientu.cc/Autoupdate.exe
 http://114.55.106.136/update/pubData/HPSocket4C.dll
 http://43.226.39.44:5988/TestMemTest31.exe
 http://43.226.39.44:5988/TestDumpAll.exe
@@ -7802,6 +7818,7 @@ http://213.5.194.140:17938/i
 http://46.236.65.59:38531/i
 http://168.138.162.78/output/client/cabal.exe
 https://app-store.s3.cn-north-1.jdcloud-oss.com/tronlink.apk
+http://8.154.18.17:12356/02.08.2022.exe
 http://80.11.36.4:10018/sshd
 http://80.11.36.4:10019/sshd
 http://37.9.25.206:36858/i
@@ -8979,6 +8996,7 @@ https://annadegismen.com/js/qnzymd.js
 https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/xtgcul.js
 https://annadegismen.com/js/rplkdt.js
+https://annadegismen.com/js/ljvfth.js
 https://annadegismen.com/js/mpkgyo.js
 https://annadegismen.com/js/bqfgev.js
 https://annadegismen.com/js/dqwzvu.js
@@ -10343,7 +10361,6 @@ http://181.211.15.10:60096/i
 http://103.82.211.164:45793/i
 http://183.81.156.121:12929/i
 http://103.235.33.186:1662/i
-http://37.255.217.87:32902/i
 http://114.7.209.193:47530/i
 http://146.196.120.21:36191/i
 http://181.143.114.106:61394/i
@@ -10671,6 +10688,7 @@ http://karoonpc.com/Slade107.psm
 http://27.159.154.179:44041/.i
 https://reusable-flex.com/o.elf
 http://karoonpc.com/Walesboller.pcx
+http://93.118.112.68:58915/.i
 http://119.91.25.19:8888/WxWorkApis.dll
 http://119.91.25.19:8888/WxWorkMultiOpen.exe
 https://raw.githubusercontent.com/sheksweet/sheksweet1/main/RambledMime.exe
@@ -11077,6 +11095,7 @@ http://197.159.1.58:25983/.i
 http://89.28.58.81:24363/.i
 http://37.252.66.188:12165/.i
 http://212.18.223.226:26541/.i
+http://78.38.60.246:33664/.i
 http://78.30.245.243:13170/.i
 http://212.154.131.153:16122/.i
 http://95.141.135.138:14131/.i
@@ -11525,6 +11544,7 @@ http://46.100.50.137:56504/i
 http://89.216.100.166:30359/i
 http://91.92.188.72:64496/i
 http://78.29.14.127:29050/i
+http://46.100.5.56:45003/i
 http://46.151.56.42:28186/i
 http://115.165.209.73:42721/i
 http://139.255.67.189:26678/i
@@ -11843,7 +11863,6 @@ https://drive.google.com/uc?export=download&id=1YyDIodTW09bAnoU13RO8IELf9rCMljXy
 https://drive.google.com/uc?export=download&id=11cByKY_wEGQJut6afR8jAnNW7VUB-xXf
 https://adclick.g.doubleclick.net/pcs/click?adurl=//vaibhavtripathi.in
 https://adclick.g.doubleclick.net/pcs/click?adurl=//procuratio.nu/
-http://2.180.35.231:56242/.i
 http://211.184.58.163:33310/.i
 http://185.16.38.38:555/24/b.jpg
 http://123.193.21.48:36061/.i
@@ -12125,7 +12144,6 @@ https://chat-server.maverickpreviews.com/teachable.php
 https://chat-server.maverickpreviews.com/aggressive.php
 https://bridgeroad.maverickpreviews.com/belt.php
 https://bridgeroad.maverickpreviews.com/anarchical.php
-https://chat-server.maverickpreviews.com/newborn.php
 https://www.cutting-edge.in/ruckus.php
 https://chat-server.maverickpreviews.com/unanswerable.php
 https://www.cutting-edge.in/harass.php
