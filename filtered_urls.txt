@@ -1,3 +1,11 @@
+http://61.52.176.173:34770/bin.sh
+http://182.127.122.82:43055/i
+http://123.5.131.182:51541/i
+http://182.127.122.82:43055/bin.sh
+http://113.233.121.19:53673/bin.sh
+http://27.215.211.75:38805/i
+http://123.5.131.182:51541/bin.sh
+http://115.58.93.199:54152/bin.sh
 http://27.215.211.75:38805/bin.sh
 http://219.157.21.233:58685/i
 http://175.167.237.230:49987/i
@@ -127,7 +135,6 @@ http://103.188.83.28/garm7
 http://103.188.83.28/lol.arm
 http://103.188.83.28/lol.mpsl
 http://103.188.83.28/lol.mips
-http://221.15.22.131:58118/i
 http://125.43.19.1:59080/i
 http://125.43.19.1:59080/bin.sh
 http://113.74.13.141:60827/i
@@ -157,7 +164,6 @@ http://182.115.71.211:56660/i
 http://115.59.14.87:32835/i
 http://36.152.9.62:42803/bin.sh
 http://42.52.205.159:49471/bin.sh
-http://182.115.71.211:56660/bin.sh
 http://115.59.14.87:32835/bin.sh
 http://45.141.215.37/arm5
 http://77.90.153.196/mipsel
@@ -986,6 +992,7 @@ http://xnhauvietnam.vietnamddns.com/mpsl
 http://xnhauvietnam.vietnamddns.com/mips
 http://xnhauvietnam.vietnamddns.com/ppc
 http://42.52.111.178:39285/i
+http://confeccionescoinffaa.cl/tu.bin
 http://confeccionescoinffaa.cl/tuk.bin
 http://196.251.118.167/bins/bin.mpsl
 http://196.251.118.167/bins/bin.mips
@@ -1188,6 +1195,7 @@ http://196.251.113.7/ruck
 http://196.251.113.7/z/linksys
 http://196.251.113.7/z/ruck
 http://196.251.113.7/sdt
+http://196.251.113.7/vc
 http://196.251.113.7/z/mag
 http://196.251.113.7/linksys
 http://196.251.113.7/av.sh
@@ -2001,6 +2009,7 @@ http://185.241.208.184/hiddenbin/boatnet.arm7
 http://185.241.208.128/hiddenbin/boatnet.sh4
 http://185.241.208.128/hiddenbin/boatnet.spc
 http://185.241.208.128/hiddenbin/boatnet.x86
+http://185.241.208.128/hiddenbin/boatnet.mpsl
 http://185.241.208.128/hiddenbin/boatnet.arc
 http://185.241.208.128/hiddenbin/boatnet.arm6
 http://185.241.208.184/hiddenbin/boatnet.sh4
@@ -2117,6 +2126,7 @@ http://66.63.187.193/aarch64
 http://66.63.187.193/x86_64
 http://66.63.187.193/sh
 http://45.141.233.66:8080/02.08.2022.exe
+http://101.42.239.131:8880/02.08.2022.exe
 http://116.58.52.84:14591/i
 http://31.132.152.126:39656/i
 https://raw.githubusercontent.com/ud-prog/gv-cu/main/ud.png
@@ -3678,7 +3688,6 @@ http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
 http://43.138.30.109:8888/02.08.2022.exe
-http://47.109.48.57/02.08.2022.exe
 http://43.159.57.217:5555/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
@@ -3836,6 +3845,7 @@ https://raw.githubusercontent.com/Da2dalus/FunBatchCode-MalicousAndNonMalicous/m
 https://raw.githubusercontent.com/NOCCENTER/NOCCENTER/main/Huong%20dan%20xu%20ly%20tai%20khoan%20mail%20noi%20bo.zip
 https://raw.githubusercontent.com/mentaliczz/Bloxflip-Op-Predictor/main/Bloxflip%20Predictor.exe
 https://ccdplanet.com/api/torrent/CCD-LAUNCHER.exe
+https://sanhack.com/storage/files/9/%E2%AB%B8%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%AB%B7.zip
 http://me3.ne.jp/_private/ME3_setup.exe
 http://download.pdf00.com/pc/pdfconvert/PDFConverter_P2W154-zx-666.exe
 http://www.r-tt.com/downloads/rod_en_1.exe
@@ -4151,6 +4161,7 @@ http://8.218.192.224:60126/linux
 http://89.10.239.29:46046/i
 http://213.209.150.18/alphamm.exe
 https://screen.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://sconnect-01.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://connection.connectprotocol.es/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://216.131.90.19:54138/bin.sh
 http://2.54.239.97:802/sshd
@@ -4453,7 +4464,6 @@ http://github.com/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe
 http://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://github.com/anonam999/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
-http://107.150.0.56:3000/ah.zip
 http://8.138.119.70:5003/bea.bin
 http://8.138.119.70:5003/beacon.bin
 http://111.46.219.240:14593/.i
@@ -4588,6 +4598,7 @@ http://43.229.20.42:2874/i
 https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
 https://lsks.volamngayxua.net/AutoUpdate.exe
+https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
 http://43.226.39.44:5988/TestMemTest10.exe
@@ -8339,6 +8350,7 @@ http://196.2.14.197:36682/.i
 http://103.236.133.81:21414/.i
 http://210.208.104.219:64995/.i
 http://190.110.204.150:34857/.i
+http://37.220.123.125:45497/.i
 http://212.233.125.238:19923/.i
 http://202.53.164.90:5465/.i
 http://103.164.191.74:12576/.i
@@ -8726,7 +8738,6 @@ https://annadegismen.com/js/tenlqx.js
 https://annadegismen.com/js/ipdaco.js
 https://annadegismen.com/js/rfwelc.js
 https://annadegismen.com/js/eyivgm.js
-https://annadegismen.com/js/cpeqni.js
 https://annadegismen.com/js/gdqxnm.js
 https://annadegismen.com/js/rnejox.js
 https://annadegismen.com/js/ngvihl.js
@@ -8823,7 +8834,6 @@ https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/tkwlbg.js
 https://annadegismen.com/js/fqtdxe.js
 https://annadegismen.com/js/oemktg.js
-https://annadegismen.com/js/xzpwsy.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
 https://annadegismen.com/js/qzmcax.js
@@ -8964,7 +8974,6 @@ https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
-https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
 https://annadegismen.com/js/gcbepw.js
@@ -9109,7 +9118,6 @@ http://annadegismen.com/js/qpltad.js
 http://annadegismen.com/js/vjtbmk.js
 http://annadegismen.com/js/gnkjqf.js
 http://annadegismen.com/js/clrfhb.js
-http://annadegismen.com/js/rtbivg.js
 http://annadegismen.com/js/icwhtg.js
 http://annadegismen.com/js/iodhgt.js
 http://annadegismen.com/js/kvrxln.js
@@ -9589,6 +9597,7 @@ http://132.255.117.198:64574/i
 http://122.160.164.103:5694/i
 https://raw.githubusercontent.com/Erez-Goldberg/Rust-reverse-shell/main/shellcode.bin
 http://103.162.59.217:38340/i
+http://101.133.156.69:7777/frpc.exe
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
 http://103.174.191.145:88/maxz/update/Client/Client.exe.zip
 http://103.174.191.145:88/maxz/update/Client/DSETUP.dll.zip
@@ -11437,6 +11446,7 @@ http://2.180.35.231:56242/i
 http://36.66.105.177:22255/i
 http://36.66.108.167:57344/i
 http://36.67.251.227:10466/i
+http://36.93.219.59:20564/i
 https://github.com/pbhhdf/12/raw/main/keepvid-pro_full2578.exe
 http://vulnfactory.org/exploits/full-nelson.c
 http://62.162.141.194:27673/i
@@ -11500,7 +11510,6 @@ http://182.253.60.194:46757/i
 http://91.244.169.56:48300/i
 http://81.211.8.190:4346/i
 http://188.95.186.50:28762/i
-http://202.4.124.58:12137/i
 http://62.122.96.124:48858/i
 http://109.202.63.7:5181/i
 http://185.71.69.198:34190/i
@@ -11550,7 +11559,6 @@ http://178.170.251.9:26895/i
 http://178.210.50.116:39572/i
 http://37.57.33.51:49049/i
 http://37.157.212.138:58474/i
-http://154.126.170.119:13722/i
 http://185.101.239.41:65494/i
 http://103.4.147.109:12215/i
 http://203.223.44.206:8418/i
@@ -11760,7 +11768,6 @@ http://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 https://drive.google.com/uc?export=download&id=1Wuy2Y3vBxibDFQCs6-kx96NOcarZixfD
 https://adclick.g.doubleclick.net/pcs/click?adurl=//projetodegente.com
 http://118.26.174.163/app/view/ta.sh
-https://adclick.g.doubleclick.net/pcs/click?adurl=//higreens.co.in
 https://adclick.g.doubleclick.net/pcs/click?adurl=//kavyasourcing.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://cliffg.me
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://streammobs.com/
@@ -11863,7 +11870,6 @@ https://chinesegarden.com.tr/nit/nit.js
 https://villanyzsolti.hu/connect/
 https://admin.byte.in.ua/agenzia/
 https://records.dennisign.se/connect/
-https://donkeytourscroatia.com/agenzia/
 https://suakhoaketsattphcm.com/connect/
 https://admin.byte.in.ua/scarica/
 https://www.institut-corps-a-ligne.fr/connect/
@@ -12291,6 +12297,7 @@ http://sanghyun.nfile.net/files/sanghyun.exe
 http://sg123.net/files/update.exe
 http://sg123.net/files/install.exe
 http://igra123.com/files/install.exe
+http://igra123.com/files/update.exe
 http://haeum.nfile.net/files/haeum.exe
 http://down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
 http://static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
