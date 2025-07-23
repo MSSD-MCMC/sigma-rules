@@ -1,3 +1,14 @@
+http://42.231.91.149:45936/i
+http://117.212.39.146:50821/i
+http://119.116.238.158:40944/i
+http://42.224.197.178:50506/bin.sh
+http://39.65.164.242:44405/i
+http://115.58.93.199:54152/i
+http://112.239.99.165:58439/bin.sh
+http://42.231.91.149:45936/bin.sh
+http://117.212.39.146:50821/bin.sh
+http://125.47.222.220:47167/bin.sh
+http://39.65.164.242:44405/bin.sh
 http://61.52.176.173:34770/bin.sh
 http://182.127.122.82:43055/i
 http://123.5.131.182:51541/i
@@ -148,7 +159,6 @@ http://103.188.83.28/arm6
 http://103.188.83.28/mpsl
 http://103.188.83.28/arm5
 http://103.188.83.28/mips
-https://64thservices64.netlify.app/64th_(Service).exe
 http://222.138.151.39:54131/bin.sh
 http://42.85.103.70:49261/bin.sh
 http://77.90.153.196/sh4
@@ -170,6 +180,7 @@ http://77.90.153.196/mipsel
 http://45.141.215.37/arm6
 http://45.141.215.37/ppc
 http://45.141.215.37/x86
+http://45.141.215.37/sh4
 http://45.141.215.37/arm7
 http://45.141.215.37/mpsl
 http://45.141.215.37/mips
@@ -262,6 +273,7 @@ http://27.213.92.236:34497/bin.sh
 http://123.14.13.229:48218/bin.sh
 http://123.188.116.167:59796/i
 http://61.163.13.58:40336/i
+http://154.198.49.48:8888/02.08.2022.exe
 http://8.133.251.169:7878/02.08.2022.exe
 http://60.205.165.173/02.08.2022.exe
 http://117.72.215.64:443/02.08.2022.exe
@@ -591,7 +603,6 @@ http://103.69.97.12/wget.sh
 http://103.69.97.12/spc
 http://27.37.117.54:35997/i
 http://42.86.181.142:34556/i
-http://vipcncnetwork.com/bins/morte.arm5
 http://vipcncnetwork.com/bins/morte.x86
 http://vipcncnetwork.com/bins/debug
 http://vipcncnetwork.com/bins/morte.ppc
@@ -872,6 +883,7 @@ http://graceparkhawthornclub.com/bins/bin.ppc
 http://graceparkhawthornclub.com/bins/bin.arm6
 http://graceparkhawthornclub.com/bins/bin.mips
 http://boxwoodrenovations.com/bins/bin.m68k
+http://boxwoodrenovations.com/bins/bin.sh4
 http://boxwoodrenovations.com/bins/bin.x86_64
 http://boxwoodrenovations.com/bins/bin.arm
 http://play-the-play-lp.com/bins/bin.x86_64
@@ -996,7 +1008,6 @@ http://confeccionescoinffaa.cl/tu.bin
 http://confeccionescoinffaa.cl/tuk.bin
 http://196.251.118.167/bins/bin.mpsl
 http://196.251.118.167/bins/bin.mips
-http://196.251.118.167/bins/bin.sh4
 http://196.251.118.167/bins/bin.x86_64
 http://192.24.206.1:3850/i
 http://192.24.206.1:3850/bin.sh
@@ -1015,7 +1026,6 @@ http://46.8.120.153:8080/ServerCC.exe
 http://124.70.158.53/1.exe
 http://p1611129-mobac01.tokyo.ocn.ne.jp/sshd
 http://p398018-mobac01.osaka.ocn.ne.jp/sshd
-http://p1614084-mobac01.tokyo.ocn.ne.jp/sshd
 http://221.205.66.180:8000/sshd
 http://200.59.88.126:47407/bin.sh
 http://support-elusa.6g.in/sh
@@ -1615,7 +1625,6 @@ http://42.7.10.147:58719/bin.sh
 http://156.238.225.44/hiddenbin/boatnet.x86_64
 http://93.123.109.218/bins/pm68k
 http://198.55.98.107/main_spc
-http://101.42.239.131:8787/02.08.2022.exe
 http://101.43.27.138:50001/02.08.2022.exe
 http://1.94.239.203:9999/02.08.2022.exe
 http://103.43.7.106:41771/i
@@ -4607,6 +4616,7 @@ http://43.226.39.44:5988/TestMemTest14.exe
 http://43.226.39.44:5988/TestMemTest12.exe
 http://43.226.39.44:5988/Test4.exe
 https://cdn.glitch.global/982c7448-1ad7-4095-83b6-e629e3bc0060/ProtecXds.dll?v=1738043025857
+https://www.namuvpn.com/install/namu832.exe
 https://windatem.com/MainWindow.dll
 http://jxhuyhoang.com/autoupdate/AutoUpdate.exe
 https://dangtienluc.com/snake/hack3.6.dll
@@ -8594,6 +8604,7 @@ https://annadegismen.com/js/ibgeaz.js
 https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/fmxscl.js
 https://annadegismen.com/js/wlnoku.js
+https://annadegismen.com/js/mqpbho.js
 https://annadegismen.com/js/rznscf.js
 https://annadegismen.com/js/qlzjfg.js
 https://annadegismen.com/js/pnescq.js
@@ -8626,7 +8637,6 @@ https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/rqdgsp.js
 https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/wmxrlh.js
-https://annadegismen.com/js/jiurtg.js
 https://annadegismen.com/js/oyhixg.js
 https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/tmvhgx.js
@@ -8666,7 +8676,6 @@ https://annadegismen.com/js/lmaknf.js
 https://annadegismen.com/js/yiuojp.js
 https://annadegismen.com/js/pamvwr.js
 https://annadegismen.com/js/heqigs.js
-https://annadegismen.com/js/lzjxve.js
 https://annadegismen.com/js/xcvepk.js
 https://annadegismen.com/js/yduphe.js
 https://annadegismen.com/js/iodhgt.js
@@ -8805,7 +8814,6 @@ https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/yuesrp.js
 https://annadegismen.com/js/wkmpis.js
 https://annadegismen.com/js/tjsqpz.js
-https://annadegismen.com/js/lzgmnf.js
 https://annadegismen.com/js/zefhca.js
 https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
@@ -8974,6 +8982,7 @@ https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
+https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
 https://annadegismen.com/js/gcbepw.js
@@ -9234,7 +9243,6 @@ http://annadegismen.com/js/wachij.js
 http://annadegismen.com/js/ljvfth.js
 http://annadegismen.com/js/pqyhgb.js
 http://annadegismen.com/js/ngtlmw.js
-http://annadegismen.com/js/wbhyxl.js
 http://annadegismen.com/js/ynjsml.js
 http://annadegismen.com/js/bklhyd.js
 http://annadegismen.com/js/rodsap.js
@@ -9486,6 +9494,7 @@ http://annadegismen.com/js/cjtvmy.js
 http://annadegismen.com/js/bqivxc.js
 http://annadegismen.com/js/tqdwvp.js
 http://annadegismen.com/js/vwgohb.js
+http://annadegismen.com/js/xoasqn.js
 http://annadegismen.com/js/eyivgm.js
 http://annadegismen.com/js/twjikg.js
 http://annadegismen.com/js/ktaxgd.js
@@ -9662,7 +9671,6 @@ https://raw.githubusercontent.com/DONW2023/ae/main/ready.apk
 http://mirailover.ddns.net/main_arm
 http://mirailover.ddns.net/main_sh4
 http://mirailover.ddns.net/main_arm7
-http://mirailover.ddns.net/main_arm6
 https://raw.githubusercontent.com/DONW2023/ad/main/BB.apk
 https://raw.githubusercontent.com/DONW2023/ad/main/ready.apk
 http://85.95.173.28/main_mpsl
@@ -9671,7 +9679,6 @@ http://85.95.173.28/main_arm
 http://85.95.173.28/main_sh4
 http://85.95.173.28/main_arm5
 http://mirailover.ddns.net/main_ppc
-http://mirailover.ddns.net/main_x86_64
 http://mirailover.ddns.net/main_arm5
 http://mirailover.ddns.net/main_x86
 http://mirailover.ddns.net/main_mpsl
@@ -9753,6 +9760,7 @@ https://github.com/hak333444/xmrig/raw/main/WinRing0x64.sys
 https://github.com/irusanov/ZenStates-Core/raw/master/WinRing0x64.sys
 https://github.com/xmrig/xmrig/blob/master/bin/WinRing0/WinRing0x64.sys?raw=true
 https://github.com/so251/olaquerida/releases/download/1releasae/WinRing0x64.sys
+https://mymin11.oss-cn-hangzhou.aliyuncs.com/WinRing0x64.sys
 https://github.com/jsjsjsc79/advsd/raw/main/WinRing0x64.sys
 https://github.com/StickmenGamer/idk/raw/main/WinRing0x64.sys
 https://raw.githubusercontent.com/sopranotech/dimeo/main/WinRing0x64.sys
@@ -11317,7 +11325,6 @@ http://154.0.129.114:10702/.i
 http://36.88.109.138:25236/.i
 http://78.30.234.163:54495/.i
 http://118.127.112.49:17818/.i
-http://181.193.59.78:39941/.i
 http://212.55.98.177:48211/.i
 http://79.111.119.241:38922/.i
 http://176.195.191.123:54140/.i
@@ -11725,6 +11732,7 @@ http://138.36.239.20/cron
 http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-armv6l.tar.bz2
 http://75.119.134.80/armv7l
 http://75.119.134.80/i386
+http://91.92.187.23:17555/.i
 http://58.216.207.82/.index/scan.tar
 https://github.com/incoper887/tua/raw/main/Build.exe
 http://60.22.23.50:9898/ykwsyyt/help/HDDrive1095_XinAnPlug3030_20230619_inno.exe
