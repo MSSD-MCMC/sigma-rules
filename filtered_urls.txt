@@ -1,3 +1,55 @@
+http://bot.chanbaba.online/00101010101001/morte.mpsl
+http://bot.chanbaba.online/00101010101001/morte.arc
+http://bot.chanbaba.online/morte.ppc
+http://bot.chanbaba.online/00101010101001/morte.spc
+http://bot.chanbaba.online/00101010101001/morte.x86
+http://bot.chanbaba.online/morte.arc
+http://bot.chanbaba.online/00101010101001/morte.arm7
+http://bot.chanbaba.online/morte.mips
+http://bot.chanbaba.online/morte.spc
+http://bot.chanbaba.online/morte.arm7
+http://bot.chanbaba.online/00101010101001/morte.arm6
+http://bot.chanbaba.online/morte.m68k
+http://bot.chanbaba.online/morte.sh4
+http://bot.chanbaba.online/morte.arm5
+http://bot.chanbaba.online/00101010101001/morte.sh4
+http://bot.chanbaba.online/00101010101001/morte.arm
+http://bot.chanbaba.online/morte.x86
+http://bot.chanbaba.online/morte.arm
+http://219.157.63.37:40332/i
+http://bot.chanbaba.online/00101010101001/morte.mips
+http://bot.chanbaba.online/debug
+http://bot.chanbaba.online/00101010101001/morte.ppc
+http://bot.chanbaba.online/morte.arm6
+http://bot.chanbaba.online/00101010101001/morte.x86_64
+http://bot.chanbaba.online/morte.i686
+http://bot.chanbaba.online/00101010101001/debug
+http://103.77.241.176/morte.arm5
+http://103.77.241.176/morte.x86_64
+http://103.77.241.176/morte.i686
+http://103.77.241.176/morte.ppc
+http://103.77.241.176/morte.mips
+http://103.77.241.176/morte.arm6
+http://103.77.241.176/00101010101001/debug
+http://103.77.241.176/morte.arm
+http://103.77.241.176/morte.x86
+http://103.77.241.176/00101010101001/morte.m68k
+http://103.77.241.176/debug
+http://103.77.241.176/00101010101001/morte.arc
+http://103.77.241.176/morte.m68k
+http://103.77.241.176/morte.arc
+http://103.77.241.176/morte.mpsl
+http://103.77.241.176/morte.sh4
+http://103.77.241.176/morte.spc
+http://103.77.241.176/morte.arm7
+http://182.121.46.123:58945/i
+http://117.198.10.51:60626/bin.sh
+http://219.157.63.37:40332/bin.sh
+http://42.231.40.188:40584/bin.sh
+http://119.116.37.233:42049/i
+http://222.137.229.58:35609/i
+http://182.121.46.123:58945/bin.sh
+http://117.209.83.157:60986/i
 http://182.126.240.58:45325/i
 http://42.7.96.223:41360/i
 http://222.137.229.58:35609/bin.sh
@@ -184,7 +236,6 @@ http://115.49.5.46:54579/bin.sh
 http://221.202.183.115:38543/bin.sh
 http://60.211.46.111:55039/i
 http://112.237.249.140:36492/i
-http://61.53.84.24:39179/i
 http://175.148.28.136:52924/bin.sh
 http://183.214.149.164:44273/i
 http://60.18.49.58:39598/i
@@ -260,7 +311,6 @@ http://60.205.165.173/02.08.2022.exe
 http://117.72.215.64:443/02.08.2022.exe
 http://49.232.159.121/02.08.2022.exe
 http://8.140.22.103/02.08.2022.exe
-http://8.213.230.114/02.08.2022.exe
 http://99.103.16.149:5708/i
 http://121.173.138.102:48076/i
 http://189.164.253.163:8729/sshd
@@ -302,7 +352,6 @@ http://42.232.64.94:38943/i
 http://14.155.235.51:47242/bin.sh
 http://42.232.64.94:38943/bin.sh
 http://113.205.13.153:48483/bin.sh
-http://222.243.95.50:35907/bin.sh
 http://175.173.119.243:33559/i
 http://219.156.83.81:37388/i
 http://120.28.217.108:41294/i
@@ -665,6 +714,7 @@ https://mybrainscanner.com/assets/web/assets/cookies-alert-plugin/tools/newtools
 http://118.178.89.112/02.08.2022.exe
 http://59.110.81.93:9999/02.08.2022.exe
 http://42.51.34.56:8009/02.08.2022.exe
+http://43.163.221.96:8080/02.08.2022.exe
 http://117.50.175.19/02.08.2022.exe
 http://104.223.123.227:1234/02.08.2022.exe
 http://36.76.234.100:16992/i
@@ -822,7 +872,6 @@ http://153.0.48.74:42513/i
 http://110.178.41.217:49919/bin.sh
 http://60.17.88.124:54132/i
 http://stioman.com/assets/sass/Cockles.mdp
-https://stioman.com/assets/sass/Sternest.inf
 https://stioman.com/assets/sass/Christoffel.asd
 http://115.187.17.117/mpsl
 http://119.118.48.73:40693/i
@@ -1664,6 +1713,7 @@ http://219.70.90.108:38567/i
 http://219.70.90.108:38567/bin.sh
 http://118.26.174.163/app/view/za.sh
 http://113.229.176.161:52563/i
+http://113.229.176.161:52563/bin.sh
 http://120.28.164.12:35614/i
 http://120.28.164.12:35614/bin.sh
 http://93.123.109.218/bins/pspc
@@ -1780,6 +1830,7 @@ http://47.238.228.19/12/Name.txt
 http://220.158.234.135/j/ppc1
 http://220.158.234.135/j/xale1
 http://220.158.234.135/x/realtek
+http://45.142.122.235/bot.arm5
 http://45.142.122.235/bot.sh4
 http://45.142.122.235/bot.mips
 http://45.142.122.235/bot.x86
@@ -3731,6 +3782,7 @@ http://8.138.182.17/%C4%A7%BE%A7.exe
 http://8.213.237.239:8089/02.08.2022.exe
 http://43.230.158.68:39132/i
 http://121.144.52.106:50962/i
+https://hogarsancamilo.org/Trash/Tdkywzxm.vdf
 https://hogarsancamilo.org/Trash/Zrdabuukqo.mp4
 http://8.213.237.239/02.08.2022.exe
 http://39.103.58.78/02.08.2022.exe
@@ -3953,7 +4005,6 @@ http://143.92.48.9/2023
 http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://47.102.209.177:22211/02.08.2022.exe
 http://117.72.206.39:443/02.08.2022.exe
-http://81.71.64.78/02.08.2022.exe
 http://186.87.82.140:31414/i
 http://2.54.83.155:802/sshd
 http://47.242.224.97:60147/linux
@@ -4445,7 +4496,6 @@ https://62.60.226.251/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.160/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.205/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://112.243.69.230:42236/i
-http://112.243.69.230:42236/Mozi.m
 http://2.55.73.103:802/sshd
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 http://77.226.241.197:5003/tftp
@@ -7677,7 +7727,6 @@ http://178.253.103.221:1693/i
 http://122.168.123.76:57500/i
 http://27.147.196.138:22320/i
 http://46.175.139.20:11074/i
-http://93.170.128.248:52806/i
 http://101.126.11.168/xsh/xsh.exe
 http://ny.lshdw.cc/SigmaPlus/4.exe
 https://raw.githubusercontent.com/TylerMT99/ZZZaaa/refs/heads/main/Built.exe
@@ -8212,7 +8261,6 @@ http://103.164.191.74:12576/.i
 http://185.162.140.242:18411/.i
 http://95.170.113.242:62214/.i
 http://154.126.186.44:34102/.i
-http://216.155.92.203:3956/.i
 http://89.216.107.99:65414/.i
 http://93.87.31.84:40955/.i
 http://103.236.135.177:21414/.i
@@ -8446,6 +8494,7 @@ https://drive.google.com/uc?export=download&id=1JBZzNtbk1KUszoofWw7HsQfDh066oNtf
 https://drive.google.com/uc?export=download&id=1HkvynlDKcbdd50_BSW3S9Tk5elBDuXtG
 https://annadegismen.com/js/natsgp.js
 https://annadegismen.com/js/bfkovw.js
+https://annadegismen.com/js/xnzoum.js
 https://annadegismen.com/js/ibgeaz.js
 https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/fmxscl.js
@@ -8590,6 +8639,7 @@ https://annadegismen.com/js/eyivgm.js
 https://annadegismen.com/js/cpeqni.js
 https://annadegismen.com/js/gdqxnm.js
 https://annadegismen.com/js/rnejox.js
+https://annadegismen.com/js/ngvihl.js
 https://annadegismen.com/js/qrwujv.js
 https://annadegismen.com/js/kpqgja.js
 https://annadegismen.com/js/npjovg.js
@@ -9234,7 +9284,6 @@ http://annadegismen.com/js/mskbyg.js
 http://annadegismen.com/js/qgpckt.js
 http://annadegismen.com/js/whdsul.js
 http://annadegismen.com/js/wdupyk.js
-http://annadegismen.com/js/htfvnw.js
 http://annadegismen.com/js/yhnbve.js
 http://annadegismen.com/js/inrkdl.js
 http://annadegismen.com/js/zyuakm.js
@@ -10026,6 +10075,7 @@ http://84.22.48.234:63218/Mozi.m
 http://182.160.124.186:5529/Mozi.m
 http://66.181.166.140:27299/Mozi.m
 http://200.11.216.34:54077/Mozi.m
+http://78.26.81.99:58230/Mozi.m
 http://202.191.123.196:27033/Mozi.m
 http://196.202.220.96:29588/Mozi.m
 http://176.12.6.42:47684/Mozi.m
@@ -10306,6 +10356,7 @@ http://web.archive.org/web/20240808120646if_/http://154.216.19.139/bins/mirai.ar
 http://web.archive.org/web/20240808122936if_/http://154.216.19.139/bins/mirai.gnueabihf
 http://web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mips
 http://37.9.35.70/latest.exe
+http://101.43.2.116/02.08.2022.exe
 http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v2_v1.9.1.1.apk
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
 http://tengfeidn.com/down/tb/tb.exe
@@ -11224,6 +11275,7 @@ http://79.111.14.68:25041/i
 http://41.215.23.222:44072/i
 http://118.127.105.182:17818/i
 http://66.181.166.140:27299/i
+http://114.31.28.42:33445/i
 http://95.170.113.227:32493/i
 http://119.40.91.22:1544/i
 http://91.122.210.7:42618/i
@@ -11502,7 +11554,6 @@ http://67.78.106.21:55731/o
 http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
-http://36.67.66.178:23987/bin.sh
 http://43.224.0.5:1316/o
 http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
@@ -11989,7 +12040,6 @@ http://0022a601.pphost.net/threatsim/exe/pdf.exe
 http://0022a601.pphost.net/threatsim/doc/774d0427cd607b1c09131cc277a68c9edd7cf01499d356bcb1ef4a08e6fc322a.doc
 http://0022a601.pphost.net/threatsim/exe/xerox01_pdf.exe
 http://0022a601.pphost.net/threatsim/doc/46cad0e0ca3b2d6d9d3ce691ca2887b18abc80acf0e81799fbb290cce104c8eb.doc
-http://0022a601.pphost.net/threatsim/exe/order_pdf.exe
 http://0022a601.pphost.net/threatsim/exe/640.exe
 http://cfs5.tistory.com/upload_control/download.blog?fhandle=YmxvZzcxMzYyQGZzNS50aXN0b3J5LmNvbTovYXR0YWNoLzAvMTQwMDAwMDAwMDAwLmV4ZQ%3D%3D&filename=crack-pro20.exe
 https://raw.githubusercontent.com/fuzzbunch/fuzzbunch/master/payloads/Doublepulsar-1.3.1.exe
