@@ -1,3 +1,33 @@
+http://117.247.217.28:34246/bin.sh
+http://123.14.81.172:47217/bin.sh
+http://123.11.129.167:37964/i
+http://196.251.71.105/rtz
+http://196.251.71.105/z/arm6
+http://196.251.71.105/z/debug.dbg
+http://196.251.71.105/z/89/x86_64
+http://196.251.71.105/z/mpsl
+http://196.251.71.105/z/89/arm7
+http://196.251.71.105/z/spc
+http://196.251.71.105/z/89/mpsl
+http://196.251.71.105/z/89/mips
+http://196.251.71.105/z/arm7
+http://196.251.71.105/z/89/arm6
+http://196.251.71.105/z/x86
+http://196.251.71.105/z/mips
+http://196.251.71.105/z/m68k
+http://196.251.71.105/z/ppc
+http://196.251.71.105/z/x86_64
+http://196.251.71.105/z/arm
+http://196.251.71.105/z/arm5
+http://196.251.71.105/z/runtime
+http://117.209.93.81:56706/i
+http://42.179.7.122:43702/bin.sh
+http://117.198.10.51:60626/i
+http://bot.chanbaba.online/morte.x86_64
+http://bot.chanbaba.online/00101010101001/morte.arm5
+http://bot.chanbaba.online/00101010101001/morte.i686
+http://bot.chanbaba.online/00101010101001/morte.m68k
+http://bot.chanbaba.online/morte.mpsl
 http://bot.chanbaba.online/00101010101001/morte.mpsl
 http://bot.chanbaba.online/00101010101001/morte.arc
 http://bot.chanbaba.online/morte.ppc
@@ -294,6 +324,7 @@ http://222.127.153.64:48891/bin.sh
 http://182.127.152.6:56572/bin.sh
 http://125.41.8.32:55965/i
 http://182.117.41.218:44940/Mozi.m
+http://125.41.8.32:55965/bin.sh
 http://61.137.144.146:35637/bin.sh
 http://112.248.9.188:46691/i
 http://60.211.43.168:33971/i
@@ -337,6 +368,7 @@ http://123.128.141.170:36211/i
 http://61.53.111.27:37500/bin.sh
 http://180.191.20.148:50244/bin.sh
 http://42.58.147.104:35751/bin.sh
+http://42.85.218.85:36718/i
 http://175.148.203.55:53784/i
 http://42.85.218.85:36718/bin.sh
 http://125.43.33.57:49415/i
@@ -500,6 +532,7 @@ http://124.6.113.194:46981/i
 http://222.137.39.100:53112/bin.sh
 http://175.147.157.224:48409/bin.sh
 http://60.18.56.95:54578/bin.sh
+http://42.177.109.15:45728/bin.sh
 http://175.175.204.247:37612/i
 http://46.227.184.211:51861/i
 http://46.227.184.211:51861/bin.sh
@@ -850,7 +883,6 @@ http://play-the-play-lp.com/bins/bin.mips
 http://alina-quintana.com/bins/bin.arm
 http://alina-quintana.com/bins/bin.m68k
 http://play-the-play-lp.com/bins/bin.arm5
-http://play-the-play-lp.com/bins/bin.arm6
 http://play-the-play-lp.com/bins/bin.mpsl
 http://alina-quintana.com/bins/bin.ppc
 http://play-the-play-lp.com/bins/bin.m68k
@@ -863,6 +895,19 @@ http://156.238.225.44/LjEZs/uYtea.x86_64
 http://42.57.190.131:53892/bin.sh
 http://113.228.61.90:50530/i
 http://113.228.61.90:50530/bin.sh
+http://196.251.71.105/x86_64
+http://196.251.71.105/sh4
+http://196.251.71.105/x86
+http://196.251.71.105/spc
+http://196.251.71.105/ppc
+http://196.251.71.105/arm5
+http://196.251.71.105/mips
+http://196.251.71.105/arm7
+http://196.251.71.105/arm/
+http://196.251.71.105/m68k
+http://196.251.71.105/arm6
+http://196.251.71.105/mpsl
+http://196.251.71.105/arm
 http://156.238.225.44/hiddenbin/Space.arm7
 http://156.238.225.44/hiddenbin/Space.x86_64
 http://124.95.42.63:40994/bin.sh
@@ -966,6 +1011,7 @@ http://196.251.118.167/bins/bin.x86_64
 http://196.251.118.167/bins/bin.arm6
 http://196.251.118.167/bins/bin.x86
 http://196.251.118.167/bins/bin.ppc
+http://196.251.118.167/bins/bin.arc
 http://196.251.118.167/bins/bin.arm7
 http://192.24.206.1:3850/i
 http://192.24.206.1:3850/bin.sh
@@ -999,7 +1045,6 @@ http://unext.am.in/ssh
 http://unext.am.in/telnetd
 http://unext.am.in/getty
 http://unext.am.in/klogd
-http://support-elusa.6g.in/sshd
 http://support-elusa.6g.in/agetty
 http://support-elusa.6g.in/telnetd
 http://unext.am.in/sh
@@ -1075,7 +1120,6 @@ http://1.izumisv1.cc/00101010101001/morte.mpsl
 http://1.izumisv1.cc/00101010101001/debug
 http://1.izumisv1.cc/00101010101001/morte.m68k
 http://1.izumisv1.cc/00101010101001/morte.arm6
-http://1.izumisv1.cc/00101010101001/morte.x86
 http://1.izumisv1.cc/00101010101001/morte.spc
 http://1.izumisv1.cc/00101010101001/morte.i686
 http://175.147.224.171:41058/i
@@ -1306,6 +1350,8 @@ http://96.44.154.196/fIljhKRASKKDXQwsd239.bin
 http://96.44.154.196/VEeYqIicsZj161.bin
 http://96.44.154.196/cNKeVrD197.bin
 http://96.44.154.196/qmeqmKfoGmQvEvqaJJh143.bin
+http://196.251.71.105/z/89/arm5
+http://196.251.71.105/z/89/arm
 http://95.47.176.138:50119/i
 http://41.211.101.107:26334/i
 http://112.78.43.109:55492/i
@@ -1781,6 +1827,7 @@ http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
 http://78.70.203.243:56414/bin.sh
+http://119.148.103.214:37559/i
 http://94.255.232.166:37372/bin.sh
 http://175.174.87.210:36983/i
 http://ecs-124-70-158-53.compute.hwclouds-dns.com/1.exe
@@ -3941,6 +3988,7 @@ http://47.239.251.9:8080/Video.lnk
 https://maidforyou1985.com/bufs.zip
 https://medthermography.com/raxs.zip
 https://windomstatetheater.com/mits.zip
+https://medthermography.com/fsxs.zip
 https://jakestrack.com/zsps.zip
 http://medthermography.com/oste.zip
 https://jakestrack.com/fste.zip
@@ -4495,7 +4543,6 @@ https://62.60.226.253/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://62.60.226.251/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.160/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.205/////bin/support.client.exe?i=&e=Support&y=Guest&r=
-http://112.243.69.230:42236/i
 http://2.55.73.103:802/sshd
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 http://77.226.241.197:5003/tftp
@@ -4659,6 +4706,7 @@ https://192.159.99.195/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://192.159.99.194/bin//support.client.exe?i=&e=Support&y=Guest&r=
 https://192.159.99.194/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.khavar.com/GHDsdCBN124.bin
+http://82.156.190.69/02.08.2022.exe
 http://31.170.22.205/dl16
 http://160.25.8.42:52088/i
 http://66.187.4.77/fish.arm6
@@ -6267,6 +6315,7 @@ https://onyxfortifypro.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardshift.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxnexguard.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsentinelx.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://onyxsafecrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://axhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsecuregate.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -7669,7 +7718,6 @@ http://210.208.104.219:64995/i
 http://78.44.174.90:2477/i
 http://upchemicals.co.in/test/cgi-bin/ADONIS/Pure_Adonis
 http://upchemicals.co.in/test/cgi-bin/JND/PURE_JND
-http://upchemicals.co.in/test/cgi-bin/ADONIS/ALL_ADONIS
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/ALL_BEAN
 http://upchemicals.co.in/test/cgi-bin/JND/JND_ALL
@@ -7812,6 +7860,7 @@ http://200.72.199.204:1542/i
 http://43.230.157.52:19667/i
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
+http://101.35.235.124:4444/02.08.2022.exe
 http://36.88.6.203:8907/i
 http://202.152.45.93:37048/i
 http://212.70.156.70:43412/i
@@ -8666,7 +8715,7 @@ https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
 https://annadegismen.com/js/gecixy.js
 https://annadegismen.com/js/qrxjgz.js
-https://annadegismen.com/js/xoasqn.js
+https://annadegismen.com/js/owvzhd.js
 https://annadegismen.com/js/cotbjd.js
 https://annadegismen.com/js/dybexn.js
 https://annadegismen.com/js/ukitdj.js
@@ -8734,7 +8783,6 @@ https://annadegismen.com/js/dnmzaq.js
 https://annadegismen.com/js/jtocel.js
 https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
-https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/tkwlbg.js
 https://annadegismen.com/js/fqtdxe.js
 https://annadegismen.com/js/oemktg.js
@@ -8851,6 +8899,7 @@ https://annadegismen.com/js/qnzymd.js
 https://annadegismen.com/js/jstepv.js
 https://annadegismen.com/js/vdrwog.js
 https://annadegismen.com/js/xtgcul.js
+https://annadegismen.com/js/rplkdt.js
 https://annadegismen.com/js/ljvfth.js
 https://annadegismen.com/js/mpkgyo.js
 https://annadegismen.com/js/bqfgev.js
@@ -8997,6 +9046,7 @@ http://annadegismen.com/js/acdkqh.js
 http://annadegismen.com/js/natsgp.js
 http://annadegismen.com/js/qzmcax.js
 http://annadegismen.com/js/dspvek.js
+http://annadegismen.com/js/kwxdtb.js
 http://annadegismen.com/js/hudrnc.js
 http://annadegismen.com/js/zvwift.js
 http://annadegismen.com/js/dopvba.js
@@ -11194,6 +11244,7 @@ http://190.185.119.13:53572/i
 http://75.136.50.41:20362/i
 http://188.175.134.62:4496/i
 http://212.55.98.177:48211/i
+http://185.236.46.120:45209/i
 http://185.190.20.228:46441/i
 http://202.124.33.242:51961/i
 http://188.72.6.218:43597/i
@@ -11297,7 +11348,6 @@ http://2.180.35.231:56242/i
 http://36.66.105.177:22255/i
 http://36.66.108.167:57344/i
 http://36.67.251.227:10466/i
-http://36.93.219.59:20564/i
 https://github.com/pbhhdf/12/raw/main/keepvid-pro_full2578.exe
 http://vulnfactory.org/exploits/full-nelson.c
 http://185.21.223.166:60622/i
@@ -11735,7 +11785,6 @@ https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
 https://villanyzsolti.hu/scarica/
 https://rpperformance.com.br/scarica/
-https://suakhoaketsattphcm.com/agenzia/
 https://nhatheptienchebinhduong.com/connect/
 https://cfu.twr.mybluehost.me/connect/
 https://www.institut-corps-a-ligne.fr/scarica/
@@ -11858,7 +11907,6 @@ https://www.crazywickedaddiction.com/development/public/uploads/images/categorie
 https://forms.saurashtrauniversity.edu/belt.php
 http://153.152.44.153:42076/.i
 http://84.22.136.158:32729/.i
-http://fulltai.top/wp-includes/oKXYj/
 http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 https://chaparral.es/sphygmus.php
 https://chaparral.es/reactron.php
@@ -11883,7 +11931,6 @@ http://server.toeicswt.co.kr/svr_netchecker/server.asp?V_COMMAND=3002&V_PROGNAME
 https://bridgeroad.maverickpreviews.com/zoologies.php
 https://taka.com.mx/builking.php
 https://bridgeroad.maverickpreviews.com/whacked.php
-https://bridgeroad.maverickpreviews.com/unplug.php
 http://shop.mediasova.ru/upload/medialibrary/012/fucking.php
 http://shop.mediasova.ru/upload/medialibrary/012/chaperon.php
 https://onedrive.live.com/download?cid=04A3894062E7D373&resid=4A3894062E7D373%21192&authkey=AB7I1w77n6TSB3M
