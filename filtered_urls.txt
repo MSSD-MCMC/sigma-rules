@@ -1,3 +1,30 @@
+http://219.155.41.193:36940/bin.sh
+http://196.188.80.3:45417/i
+http://117.216.181.236:51043/bin.sh
+http://42.6.53.64:60192/bin.sh
+http://112.248.30.160:35074/i
+http://42.5.32.160:48271/bin.sh
+http://182.116.20.134:46986/i
+http://194.233.86.192/bins/sora.ppc
+http://194.233.86.192/bins/sora.m68k
+http://194.233.86.192/bins/sora.arm7
+http://194.233.86.192/bins/sora.x86
+http://194.233.86.192/bins/sora.spc
+http://45.153.34.32/mpsl
+http://194.233.86.192/bins/sora.mpsl
+http://194.233.86.192/bins/sora.arm
+http://194.233.86.192/bins/sora.mips
+http://45.153.34.32/mips
+http://194.233.86.192/bins/sora.arm5
+http://45.153.34.32/arm4
+http://45.153.34.32/x86
+http://194.233.86.192/bins/sora.sh4
+http://194.233.86.192/bins/sora.arm6
+http://45.153.34.32/arm5
+http://45.153.34.32/arm6
+http://45.153.34.32/arm7
+http://112.248.30.160:35074/bin.sh
+http://115.55.130.246:56781/i
 http://112.64.53.135:37229/bin.sh
 http://182.116.54.11:59467/i
 http://115.63.9.78:49014/i
@@ -433,7 +460,6 @@ http://113.229.190.131:36210/bin.sh
 http://42.226.70.128:49482/bin.sh
 http://119.109.243.210:48885/bin.sh
 http://202.107.10.195:58425/i
-http://61.52.156.133:38100/i
 http://27.202.96.132:45729/i
 http://202.107.10.195:58425/bin.sh
 http://60.18.10.22:55518/bin.sh
@@ -606,6 +632,7 @@ http://58.240.100.24:35963/i
 http://116.140.172.170:50424/bin.sh
 http://58.240.100.24:35963/bin.sh
 http://42.236.222.66:42893/i
+http://27.197.5.62:58835/i
 http://185.213.240.242/bins/morte.x86_64
 http://185.213.240.242/bins/morte.m68k
 http://185.213.240.242/bins/morte.arm7
@@ -857,9 +884,7 @@ http://153.0.48.74:42513/bin.sh
 http://60.18.84.242:33595/i
 http://175.151.241.148:39204/i
 http://185.93.89.139:9000/wmglb
-http://175.151.241.148:39204/bin.sh
 http://213.209.150.18/bjnklkeqvjuMaLnym.exe
-http://115.63.164.33:35690/i
 http://115.63.164.33:35690/bin.sh
 http://185.208.159.135//ppc
 http://185.208.159.135//mpsl
@@ -1047,7 +1072,6 @@ http://boxwoodrenovations.com/bins/bin.mpsl
 http://play-the-play-lp.com/bins/bin.arm7
 http://play-the-play-lp.com/bins/bin.mips
 http://alina-quintana.com/bins/bin.arm
-http://alina-quintana.com/bins/bin.m68k
 http://play-the-play-lp.com/bins/bin.arm5
 http://alina-quintana.com/bins/bin.mips
 http://play-the-play-lp.com/bins/bin.arm6
@@ -1306,7 +1330,6 @@ http://196.251.113.7/z/f5
 http://196.251.113.7/create.py
 http://196.251.113.7/lll
 http://196.251.113.7/z/fb
-http://196.251.113.7/z/weed
 http://196.251.113.7/z/test.sh
 http://196.251.113.7/zz
 http://196.251.113.7/z/fdgsfg
@@ -1325,7 +1348,6 @@ http://196.251.113.7/z/mag
 http://196.251.113.7/z/xaxa
 http://196.251.113.7/linksys
 http://196.251.113.7/av.sh
-http://196.251.113.7/z/zz
 http://196.251.113.7/z/bx
 http://196.251.113.7/test.sh
 http://196.251.113.7/ipc
@@ -1468,7 +1490,6 @@ http://96.44.154.196/cNKeVrD197.bin
 http://96.44.154.196/qmeqmKfoGmQvEvqaJJh143.bin
 http://196.251.71.105/z/89/arm5
 http://196.251.71.105/z/89/arm
-http://47.108.63.64:7787/02.08.2022.exe
 http://95.47.176.138:50119/i
 http://41.211.101.107:26334/i
 http://112.78.43.109:55492/i
@@ -4701,6 +4722,7 @@ http://211.219.49.173:4089/i
 http://201.191.156.103:6913/i
 http://124.123.26.174:8888/sshd
 https://113.44.67.52:9443/02.08.2022.exe
+https://189.1.220.101:28443/02.08.2022.exe
 https://43.139.207.11/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
@@ -4844,6 +4866,7 @@ http://2.54.238.31:802/sshd
 http://91.130.61.223:62082/i
 http://203.58.85.190:38206/i
 http://106.244.41.133:29572/i
+http://174.106.42.3:24739/i
 http://179.60.216.19:65020/i
 http://46.210.95.241:802/sshd
 http://37.255.241.82:2195/i
@@ -7566,6 +7589,7 @@ https://blessdayservices.org/up/
 https://admin.gestroom.it/
 https://test.peperoncinochepassione.it/
 https://first-security-verden.de/
+https://www.website.mypetapp.co.za/
 https://www.bratusferramentas.grupomoltz.com.br/
 https://website.mypetapp.co.za/
 https://bmdcompany.com/
@@ -7822,6 +7846,7 @@ http://222.165.237.62:37379/i
 http://46.236.65.235:38436/i
 http://222.165.237.61:37379/i
 http://222.165.237.60:37379/i
+http://103.187.31.50:23626/i
 http://222.165.237.59:37379/i
 http://43.226.39.44:5988/LoginAntiCheat.dll
 http://43.226.39.44:5988/LoginAntiCheat4.dll
@@ -8570,6 +8595,7 @@ https://annadegismen.com/js/avicfl.js
 https://annadegismen.com/js/vbiqhm.js
 https://annadegismen.com/js/rfliok.js
 https://annadegismen.com/js/ufxcid.js
+https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
 https://annadegismen.com/js/ygwqnm.js
@@ -8852,7 +8878,6 @@ https://annadegismen.com/js/yijwpl.js
 https://annadegismen.com/js/nfzacd.js
 https://annadegismen.com/js/fqihjy.js
 https://annadegismen.com/js/atckub.js
-https://annadegismen.com/js/ftrzvp.js
 https://annadegismen.com/js/bklhyd.js
 https://annadegismen.com/js/xejvig.js
 https://annadegismen.com/js/ndzbiy.js
@@ -9186,6 +9211,7 @@ http://annadegismen.com/js/zefhca.js
 http://annadegismen.com/js/balqsd.js
 http://annadegismen.com/js/xzpwsy.js
 http://annadegismen.com/js/vxoiba.js
+http://annadegismen.com/js/mkpfoy.js
 http://annadegismen.com/js/ucnfaq.js
 http://annadegismen.com/js/majqwv.js
 http://annadegismen.com/js/qrxjgz.js
@@ -9387,7 +9413,6 @@ http://annadegismen.com/js/ukitdj.js
 http://annadegismen.com/js/udjzbl.js
 http://annadegismen.com/js/bemzuh.js
 http://annadegismen.com/js/qduize.js
-http://annadegismen.com/js/jxufsd.js
 http://annadegismen.com/js/qgkljo.js
 http://annadegismen.com/js/qrwujv.js
 http://annadegismen.com/js/zfyaqp.js
@@ -11130,6 +11155,7 @@ http://37.252.69.92:15274/.i
 http://103.7.27.90:17260/.i
 http://47.50.169.82:55508/.i
 http://103.101.81.142:1281/.i
+http://119.40.91.22:1544/.i
 http://190.113.124.155:64726/.i
 http://82.114.200.50:48416/.i
 http://109.108.84.121:28531/.i
@@ -11206,7 +11232,6 @@ http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
 http://150.107.205.29:54598/.i
 http://150.129.202.193:1316/.i
-http://121.200.63.165:27123/.i
 http://81.16.247.81:17403/.i
 http://109.92.143.90:65469/.i
 http://176.65.35.214:61252/.i
@@ -11559,6 +11584,7 @@ http://188.65.235.46:2414/i
 http://178.34.183.162:34512/i
 http://178.34.157.178:34820/i
 http://79.175.42.206:7773/i
+http://179.51.168.26:10428/i
 http://178.214.241.150:28760/i
 http://94.159.74.226:65320/i
 http://87.197.107.203:52364/i
@@ -11916,7 +11942,6 @@ http://95.38.24.186:2127/.i
 http://211.197.134.180:37772/.i
 http://222.117.7.182:12472/.i
 http://49.204.235.203:1899/.i
-https://www.maxmoney.com/opencart/system/library/cache/.cache/loader.exe
 http://1717.1000uc.com/Updates1/up.exe
 https://mersped.mycpanel.rs/ema_KvcEBm137.bin
 https://www.usaayurveda.com/js/prototype/form.js
@@ -11934,7 +11959,6 @@ http://farschid.de/verkaufsberater_service/OZRw36a2y1CH2clUzY/
 http://farschid.de/verkaufsberater_service/uADJw/
 https://zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/0011b9cd240249c3aeb520ea1205eaf1.jpg
 https://github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz
-http://farschid.de/verkaufsberater_service/3CxMQ4uaxy/
 http://farschid.de/verkaufsberater_service/3CxMQ4uaxy/?i=1
 https://trtmyanmar.com/wp-content/plugins/yjmqxmidki/a/hyehwggs.ps1
 http://89.25.223.211/logfiles/U2O/
