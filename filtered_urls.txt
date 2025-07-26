@@ -1,3 +1,11 @@
+http://42.230.41.210:36856/i
+http://182.126.246.151:49564/i
+http://42.230.41.210:36856/bin.sh
+http://222.136.22.162:58418/i
+http://123.14.21.183:45804/i
+http://182.126.246.151:49564/bin.sh
+http://196.189.39.17:60855/i
+http://222.136.22.162:58418/bin.sh
 http://123.14.21.183:45804/bin.sh
 http://119.163.166.13:59727/i
 http://42.58.165.112:55810/i
@@ -258,7 +266,6 @@ http://gov-antivirus.com/hiddenbin/Space.mips
 http://mijn-omgeving.almostmy.com/hiddenbin/Space.m68k
 http://comcocgbl.com/hiddenbin/Space.m68k
 http://mijn-formulier.jkub.com/hiddenbin/Space.ppc
-http://youthful-wu.196-251-72-205.plesk.page/1.sh
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.ppc
 http://zecgbl.com/hiddenbin/Space.sh4
 http://gov-antivirus.com/hiddenbin/Space.spc
@@ -323,7 +330,6 @@ http://chrome-upgrade.com/hiddenbin/Space.mips
 http://196-251-72-205.plesk.page/hiddenbin/Space.sh4
 http://196-251-72-205.plesk.page/hiddenbin/Space.mips
 http://lrs.gov-antivirus.com/hiddenbin/Space.arm
-http://google.chrome-upgrade.com/hiddenbin/Space.x86
 http://gov-antivirus.com/hiddenbin/Space.arm7
 http://nostalgic-shannon.196-251-72-205.plesk.page/hiddenbin/Space.spc
 http://youthful-wu.196-251-72-205.plesk.page/hiddenbin/Space.arc
@@ -365,6 +371,7 @@ http://youthful-wu.196-251-72-205.plesk.page/hiddenbin/Space.ppc
 http://youthful-wu.196-251-72-205.plesk.page/hiddenbin/Space.mips
 http://qingsonghe.com/hiddenbin/Space.m68k
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.x86
+http://youthful-wu.196-251-72-205.plesk.page/hiddenbin/Space.arm7
 http://google.chrome-upgrade.com/hiddenbin/Space.sh4
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.arm
 http://qingsonghe.com/hiddenbin/Space.x86
@@ -1368,6 +1375,7 @@ http://213.209.150.18/1nklk1vPbjjueqLnywd.exe
 http://213.209.150.18/53Pbjnklk1vuMaLnyll.exe
 http://213.209.150.18/23bjnklk1vjuaLnylppp.exe
 http://5.135.131.74:20108/download_exe
+http://204.12.203.52/service.exe
 http://162.248.53.119:8000/sbb.exe
 http://162.248.53.119:8000/cpuminer-sse2
 http://162.248.53.119:8000/cln
@@ -2133,6 +2141,7 @@ http://66.63.187.193/aarch64
 http://66.63.187.193/x86_64
 http://66.63.187.193/sh
 http://45.141.233.66:8080/02.08.2022.exe
+http://47.98.151.171/02.08.2022.exe
 http://101.42.239.131:8880/02.08.2022.exe
 http://47.116.197.65/02.08.2022.exe
 http://31.132.152.126:39656/i
@@ -3793,7 +3802,6 @@ http://78.153.140.66/kij.sh
 http://recursing-villani.213-209-143-44.plesk.page/mipsel
 http://recursing-villani.213-209-143-44.plesk.page/arm7
 http://upbeat-williams.213-209-143-44.plesk.page/arm7
-http://recursing-villani.213-209-143-44.plesk.page/mips
 http://recursing-villani.213-209-143-44.plesk.page/x86
 http://upbeat-williams.213-209-143-44.plesk.page/mipsel
 http://upbeat-williams.213-209-143-44.plesk.page/sh4
@@ -4555,6 +4563,7 @@ http://85.185.185.193:50500/i
 http://43.229.20.42:2874/i
 https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
+https://lsks.volamngayxua.net/AutoUpdate.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
@@ -4855,6 +4864,7 @@ https://github.com/Sylvanogammer/Apex-No-Recoil/releases/download/v1.8.4-beta.4/
 https://github.com/roniel8/Apex-No-Recoil/releases/download/v2.5.1-alpha.3/apex-no-recoil-v2-5-1-alpha-3.zip
 https://onyxironvault.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxphantomlock.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+http://79.124.72.22:8246/sshd
 https://github.com/JuanBustoss/src/raw/refs/heads/master/Application.zip
 https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip
 https://github.com/shellyACM/imgx/releases/download/v2.0/Software.zip
@@ -8168,6 +8178,7 @@ https://167.250.49.155/bin/Win32/mimilib.dll
 http://e4l4.com/ez_kiwi
 http://85.25.72.70//ChromeSetup.exe
 http://103.187.146.29/e991/Injek3.mentah
+http://88.248.194.163:4437/.i
 http://e4l4.com/unicorn-2.0.0rc7.dist-info/RECORD
 https://167.250.49.155/bin/Win32/mimilove.exe
 https://167.250.49.155/bin/Win32/mimidrv.sys
@@ -8648,7 +8659,6 @@ https://annadegismen.com/js/hxysdw.js
 https://annadegismen.com/js/zoafhp.js
 https://annadegismen.com/js/cigfds.js
 https://annadegismen.com/js/rkvabp.js
-https://annadegismen.com/js/otpgcj.js
 https://annadegismen.com/js/jaieho.js
 https://annadegismen.com/js/ergubk.js
 https://annadegismen.com/js/mnyrdf.js
@@ -8715,6 +8725,7 @@ https://annadegismen.com/js/meciyz.js
 https://annadegismen.com/js/tgfhvd.js
 https://annadegismen.com/js/ivrfja.js
 https://annadegismen.com/js/sejktf.js
+https://annadegismen.com/js/tcbned.js
 https://annadegismen.com/js/iylbjk.js
 https://annadegismen.com/js/nsjypd.js
 https://annadegismen.com/js/komysw.js
@@ -8765,6 +8776,7 @@ https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
 https://annadegismen.com/js/qzmcax.js
 https://annadegismen.com/js/owajis.js
+https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
 https://annadegismen.com/js/hmarws.js
 https://annadegismen.com/js/htbgwa.js
@@ -10478,7 +10490,6 @@ http://update.cg100iii.com/cg100/Update.exe
 http://47.120.46.210/cve/cve-2021-4034
 http://92.127.156.174:8880/SharpHound.exe
 https://github.com/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments.zip
-http://karoonpc.com/Slade107.psm
 https://reusable-flex.com/o.elf
 http://karoonpc.com/Walesboller.pcx
 http://93.118.112.68:58915/.i
@@ -11012,7 +11023,6 @@ http://91.216.28.112:20531/.i
 http://178.134.42.162:18520/.i
 http://154.126.186.56:43941/.i
 http://36.91.144.195:2274/.i
-http://190.2.237.104:65088/.i
 http://118.71.250.6:28411/.i
 http://109.69.79.44:55952/.i
 http://200.61.163.235:27538/.i
@@ -11615,7 +11625,6 @@ http://69.142.178.141:39145/i
 http://www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_r1.bmp
 https://hitman-pro.ru/hitmanpro.zip
-https://contentmentfairnesspesky.com/54/66/ea/5466ea04d7d3b8b726b1288f75403510.js
 https://computersupportexperts.com/css/down.exe
 https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
@@ -12061,7 +12070,6 @@ http://www.chenwangqiao.com/wordpress/FILE/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
 http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
-https://dezcom.com/about/lm/5oj0ss1de/
 http://olingerphoto.com/photoblog/lli9c05hrj/2bwx-901909-89178267-5c5xr-qfvwc/
 http://cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723382710/9.915787746614242.jpg
 http://cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723350789/0.25579108623802416.jpg
