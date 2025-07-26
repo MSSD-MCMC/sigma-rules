@@ -1,3 +1,11 @@
+http://119.185.242.31:60586/i
+http://124.235.238.8:47737/i
+http://119.185.242.31:60586/bin.sh
+http://124.235.238.8:47737/bin.sh
+http://42.231.91.120:48894/bin.sh
+http://92.42.218.208:56987/i
+http://61.53.87.235:54787/i
+http://221.15.204.23:58964/bin.sh
 http://42.52.107.127:39285/i
 http://42.227.0.154:56231/bin.sh
 http://182.114.198.48:33952/bin.sh
@@ -351,17 +359,14 @@ http://vibe-rp.online/Downloads/reaaad.lnk
 http://95.215.108.28/Downloads/reaaad.lnk
 http://103.77.241.178/L7/rapidreset.js
 http://83.217.209.229/Documents/Sign%20Document.lnk
-http://gov-antivirus.com/1.sh
 http://83.217.209.229/Documents/NDA%20Signature.lnk
 http://192.124.178.78/Documents/Report%20Form.lnk
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.spc
 http://zecgbl.com/hiddenbin/Space.arm6
 http://google.chrome-upgrade.com/1.sh
 http://chrome-upgrade.com/hiddenbin/Space.ppc
-http://ttokapp03.com/hiddenbin/Space.x86
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.mips
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.m68k
-http://ttokapp03.com/hiddenbin/Space.m68k
 http://ttokapp03.com/1.sh
 http://google.chrome-upgrade.com/hiddenbin/Space.arm
 http://mijn-formulier.jkub.com/hiddenbin/Space.arc
@@ -399,7 +404,6 @@ http://qingsonghe.com/hiddenbin/Space.arc
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.sh4
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.arm
 http://196-251-72-205.plesk.page/hiddenbin/Space.arm7
-http://ttokapp03.com/hiddenbin/Space.arc
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.ppc
 http://196-251-72-205.plesk.page/hiddenbin/Space.ppc
 http://lrs.gov-antivirus.com/hiddenbin/Space.x86
@@ -436,9 +440,7 @@ http://comcocgbl.com/hiddenbin/Space.arm7
 http://mijn-omgeving.almostmy.com/hiddenbin/Space.x86
 http://chrome-upgrade.com/hiddenbin/Space.m68k
 http://ttokapp03.com/hiddenbin/Space.arm7
-http://zecgbl.com/hiddenbin/Space.mips
 http://crazy-burnell.196-251-72-205.plesk.page/hiddenbin/Space.mpsl
-http://google.chrome-upgrade.com/hiddenbin/Space.arm7
 http://comcocgbl.com/hiddenbin/Space.spc
 http://zecgbl.com/1.sh
 http://mijn-omgeving.almostmy.com/hiddenbin/Space.arm7
@@ -457,7 +459,6 @@ http://bbk33.in/hiddenbin/Space.m68k
 http://gov-antivirus.com/hiddenbin/Space.mpsl
 http://mijn-omgeving.almostmy.com/hiddenbin/Space.sh4
 http://qingsonghe.com/hiddenbin/Space.arm7
-http://ttokapp03.com/hiddenbin/Space.ppc
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.m68k
 http://comcocgbl.com/hiddenbin/Space.arm
 http://zecgbl.com/hiddenbin/Space.ppc
@@ -850,7 +851,6 @@ http://175.167.237.230:49987/i
 http://175.165.44.213:39899/i
 http://42.6.189.42:35010/bin.sh
 http://175.165.44.213:39899/bin.sh
-http://42.177.198.38:33845/i
 http://45.141.215.37/x86_64
 http://42.57.39.73:40011/i
 http://119.116.136.124:53967/i
@@ -1324,7 +1324,6 @@ http://87.75.67.194:2280/sshd
 http://88.18.184.77:91/sshd
 https://xnhauvietnam.vietnamddns.com/arm6
 http://103.163.118.122/cbot/System%20interrupts.exe
-http://103.163.118.122/cbot/Java%20Update%20Scheduler%20(32%20bit).exe
 https://firebasestorage.googleapis.com/v0/b/atom2024-84ea3.appspot.com/o/cryptmurrayxworm.txt?alt=media&token=9a9fe9e5-2ad6-447c-90d5-5935ec882c55
 https://kavacanada.ca/catalog/model/cummersMG.exe
 http://209.54.101.166/157/wecreatedbestnetworkingskillwithbetterattitudeformegood.hta
@@ -2041,7 +2040,6 @@ http://111.57.151.202:8888/sshd
 http://213.209.150.18/PluGman23333%20233.exe
 http://213.209.150.18/catqw.exe
 https://hbws.cc/grace.cmd
-http://191.96.11.215/mpsl
 http://191.96.11.215/sh4
 http://191.96.11.215/m68k
 http://191.96.11.215/spc
@@ -2057,6 +2055,7 @@ http://191.96.11.215/arm7
 http://121.147.179.88:52712/i
 http://37.34.172.44:50350/i
 http://117.72.102.110:8888/02.08.2022.exe
+http://117.102.100.74:65003/i
 http://135.148.129.32/sex.sh
 http://1.94.183.238/02.08.2022.exe
 http://69.136.49.127:6729/i
@@ -3675,6 +3674,7 @@ http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
 http://43.138.30.109:8888/02.08.2022.exe
+http://43.159.57.217:5555/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
@@ -4462,7 +4462,6 @@ http://8.217.21.175:60109/linux
 http://8.218.125.202:60147/linux
 http://123.57.166.174:60118/linux
 http://47.86.176.50:60145/linux
-http://47.237.86.186:60147/linux
 http://121.171.162.63:17945/.i
 http://121.181.234.240:59928/.i
 http://118.233.240.6:20511/.i
@@ -4753,7 +4752,6 @@ http://8.134.199.119/wj/glib-2.0.dll
 http://8.134.199.119/wj/intl.dll
 http://8.134.199.119/wj/hei.dll
 http://8.134.199.119/wj/gmodule-2.0.dll
-http://8.134.199.119/wj/vcruntime140_1.dll
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s86.txt
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
@@ -5981,7 +5979,6 @@ https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip
 https://github.com/Nodiq/TempMail/releases/download/v2.0/Software.zip
 https://github.com/Narrr16/pihole-ausnews/releases/download/v1.0/App.zip
 https://github.com/vipshiva/sss/releases/download/v1.0/Software.zip
-https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip
 https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip
 https://github.com/Narrr16/pihole-ausnews/releases/download/v2.0/Software.zip
 https://github.com/keitaro000/Oliver-3/releases/download/v1.0/Software.zip
@@ -8754,6 +8751,7 @@ https://annadegismen.com/js/lzgmnf.js
 https://annadegismen.com/js/zefhca.js
 https://annadegismen.com/js/ahpftx.js
 https://annadegismen.com/js/ndekvz.js
+https://annadegismen.com/js/nhtybe.js
 https://annadegismen.com/js/lqmbvz.js
 https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
@@ -8864,6 +8862,7 @@ https://annadegismen.com/js/zyuakm.js
 https://annadegismen.com/js/vjyzld.js
 https://annadegismen.com/js/dopvba.js
 https://annadegismen.com/js/twjikg.js
+https://annadegismen.com/js/qkrbco.js
 https://annadegismen.com/js/ngtlmw.js
 https://annadegismen.com/js/qpaywg.js
 https://annadegismen.com/js/nrqhmt.js
@@ -8907,6 +8906,7 @@ https://annadegismen.com/js/pwxzmg.js
 https://annadegismen.com/js/lisyxb.js
 https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
+https://annadegismen.com/js/njrtbu.js
 https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
@@ -9004,6 +9004,7 @@ http://annadegismen.com/js/qlegvd.js
 http://annadegismen.com/js/awnrzg.js
 http://annadegismen.com/js/bvnqhc.js
 http://annadegismen.com/js/gdufvy.js
+http://annadegismen.com/js/rsmupb.js
 http://annadegismen.com/js/qkrbco.js
 http://annadegismen.com/js/kyhmov.js
 http://annadegismen.com/js/ebavlw.js
@@ -9183,7 +9184,6 @@ http://annadegismen.com/js/jstepv.js
 http://annadegismen.com/js/bcflxs.js
 http://annadegismen.com/js/obinaf.js
 http://annadegismen.com/js/ogytzk.js
-http://annadegismen.com/js/zoafhp.js
 http://annadegismen.com/js/euhzjt.js
 http://annadegismen.com/js/pvhmaj.js
 http://annadegismen.com/js/duvijc.js
@@ -10312,6 +10312,7 @@ https://epanpano.com/log/ORGN.txt
 http://down.qqfarmer.com.cn/QQHelper_1540.exe
 http://cdn.ly.9377.com/login/1188%E7%83%88%E7%84%B0.exe
 http://144.172.71.105:1338/nova_flow/patcher.exe
+http://cs.go.kg/pages/update/css/self/[UPG]CSS.exe
 http://down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 http://43.249.193.54:81/tjqdq.exe
 http://www.medises.co.kr/AsMedises/PXray_Cast_Sort.exe
@@ -10402,6 +10403,7 @@ http://111.231.145.137:8888/supershell/compile/download/3=====.exe
 http://111.231.145.137:8888/supershell/compile/download/3.exe
 https://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 http://27.147.132.114:38521/.i
+http://120.77.253.240/Photo.scr
 https://raw.githubusercontent.com/KoMasinfo/IDcb/main/CBS_applcation_details_072602024_xlsx.rar
 https://github.com/Adrinnno/PTwis/raw/main/File_CBS_App_details_no-0923871691_xlsx.zip
 https://github.com/Reporgu/fakado/raw/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
@@ -11344,10 +11346,8 @@ http://63.78.214.18:33536/i
 http://82.114.200.50:48416/i
 http://41.203.218.38:45842/i
 http://36.66.108.167:57344/i
-http://36.93.219.59:20564/i
 https://github.com/pbhhdf/12/raw/main/keepvid-pro_full2578.exe
 http://vulnfactory.org/exploits/full-nelson.c
-http://62.162.141.194:27673/i
 http://185.21.223.166:60622/i
 http://180.250.160.26:37143/i
 http://193.228.134.234:20043/i
@@ -11959,6 +11959,7 @@ https://drive.google.com/uc?export=download&id=1YfqTuGAHQHQrUlWUGDEkEAvfFktSL8cI
 http://advansys.com.ar/anthropoid.php
 http://advansys.com.ar/liniment.php
 http://103.230.153.181:2570/.i
+http://www.ysbaojia.com/downfile.asp?sid=276663/
 https://docs.google.com/uc?export=download&id=1SbD1rnw8lUztJMSH6GDlZUPVyUPBopa0&revid=0B3yyJTs_WOKLR2VnYXVQOHlidXBXN1l2WWJnTXFnWVI5V0h3PQ
 http://www.amranhvac.com/archbishopric.php
 http://www.amranhvac.com/digging.php
