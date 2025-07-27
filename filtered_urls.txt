@@ -1,3 +1,48 @@
+http://59.92.86.222:34534/i
+http://27.217.109.105:44951/i
+http://42.178.171.186:59041/bin.sh
+http://59.92.86.222:34534/bin.sh
+http://196.251.80.54/bins/NexImpact.arm6
+http://196.251.80.54/bins/NexImpact.spc
+http://196.251.80.54/bins/NexImpact.mips
+http://196.251.80.54/bins/NexImpact.arm
+http://196.251.80.54/bins/NexImpact.sh4
+http://196.251.80.54/bins/NexImpact.ppc
+http://115.50.32.16:57536/i
+http://196.251.80.97/bins/huawei
+http://196.251.80.97/bins/scan.x32
+http://196.251.80.97/bins/kaizen.arm7
+http://196.251.80.97/bins/bot.arm7
+http://196.251.80.97/bins/bot.mpsl
+http://196.251.80.97/bins/ssh.mpsl
+http://196.251.80.97/bins/cnc
+http://196.251.80.97/bins/ssh.x86_64
+http://196.251.80.97/bins/kaizen.m68k
+http://196.251.80.97/bins/bot.x86_64
+http://196.251.80.97/bins/ssh.arm
+http://196.251.80.97/bins/ssh.mips
+http://196.251.80.97/bins/kaizen.ppc
+http://196.251.80.97/bins/scan.x86
+http://196.251.80.97/bins/kaizen.arm6
+http://196.251.80.97/bins/ssh.ppc
+http://196.251.80.97/bins/kaizen.spc
+http://196.251.80.97/bins/bot.ppc
+http://196.251.80.97/bins/ssh.sh4
+http://196.251.80.97/bins/kaizen.mips
+http://196.251.80.97/bins/kaizen.arm5
+http://196.251.80.97/bins/bot.mips
+http://196.251.80.97/bins/kaizen.x86_64
+http://196.251.80.97/bins/kaizen.x86
+http://196.251.80.97/bins/ssh.arm6
+http://196.251.80.97/bins/ssh.arm7
+http://196.251.80.97/bins/ssh.arm5
+http://196.251.80.97/bins/kaizen.arm
+http://196.251.80.97/bins/bot.sh4
+http://196.251.80.97/bins/kaizen.mpsl
+http://196.251.80.97/bins/kaizen.sh4
+http://27.217.109.105:44951/bin.sh
+http://112.248.117.248:56555/i
+http://182.113.195.152:33036/i
 http://182.113.195.152:33036/bin.sh
 http://115.50.32.16:57536/bin.sh
 http://112.248.117.248:56555/bin.sh
@@ -404,6 +449,7 @@ http://196-251-72-205.plesk.page/hiddenbin/Space.arm6
 http://crazy-burnell.196-251-72-205.plesk.page/1.sh
 http://mijn-formulier.jkub.com/hiddenbin/Space.spc
 http://196-251-72-205.plesk.page/hiddenbin/Space.mpsl
+http://mijn-omgeving.almostmy.com/1.sh
 http://angry-vaughan.196-251-72-205.plesk.page/hiddenbin/Space.arc
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.arm6
 http://youthful-wu.196-251-72-205.plesk.page/hiddenbin/Space.arm
@@ -440,7 +486,6 @@ http://angry-vaughan.196-251-72-205.plesk.page/hiddenbin/Space.ppc
 http://festive-heyrovsky.196-251-72-205.plesk.page/hiddenbin/Space.arm7
 http://nostalgic-shannon.196-251-72-205.plesk.page/hiddenbin/Space.arm
 http://mijn-formulier.jkub.com/hiddenbin/Space.mips
-http://mijn-omgeving.almostmy.com/hiddenbin/Space.arm
 http://nostalgic-shannon.196-251-72-205.plesk.page/hiddenbin/Space.mpsl
 http://nostalgic-shannon.196-251-72-205.plesk.page/hiddenbin/Space.arm6
 http://mijn-omgeving.almostmy.com/hiddenbin/Space.x86
@@ -644,7 +689,6 @@ http://221.202.23.42:58734/i
 http://221.202.23.42:58734/bin.sh
 http://196.251.72.205/1.sh
 http://50.3.47.60/Sakura.sh
-http://175.146.157.212:47035/bin.sh
 http://42.179.7.122:43702/i
 http://196.251.71.105/z/w.sh
 http://196.251.71.105/asd
@@ -1087,7 +1131,6 @@ http://196.251.80.97/bins/mpsl
 http://196.251.80.97/bins/arm
 http://196.251.80.97/bins/arm7
 http://196.251.80.97/bins/mips
-http://196.251.80.97/bins/x86_64
 http://45.152.241.33/hiddenbin/boatnet.arm5
 http://212.11.64.25/bins/sora.mips
 http://212.11.64.25/bins/sora.ppc
@@ -1236,6 +1279,7 @@ http://113.236.249.144:34868/i
 http://113.44.89.87:8888/02.08.2022.exe
 http://42.193.4.115:6667/02.08.2022.exe
 http://1.12.236.84:18080/02.08.2022.exe
+http://1.94.183.238:443/02.08.2022.exe
 http://196.216.56.126:31424/i
 http://59.30.12.254:38009/i
 http://103.212.128.174:1697/i
@@ -3551,7 +3595,6 @@ http://106.55.134.240:8888/WxWorkMultiOpen.exe
 http://114.132.185.158:8888/WxWorkMultiOpen.exe
 http://119.91.199.156:8888/WxWorkMultiOpen.exe
 http://45.40.228.233:8888/WxWorkMultiOpen.exe
-http://119.91.58.97:8888/WxWorkMultiOpen.exe
 http://43.136.28.89:8888/WxWorkMultiOpen.exe
 http://211.159.155.136:8888/WxWorkMultiOpen.exe
 http://106.52.183.145:8888/WxWorkMultiOpen.exe
@@ -3560,7 +3603,6 @@ http://175.178.112.226:8888/WxWorkMultiOpen.exe
 http://49.233.189.252:8888/WxWorkMultiOpen.exe
 http://49.232.134.200:8888/WxWorkMultiOpen.exe
 http://118.89.84.133:8888/WxWorkMultiOpen.exe
-http://43.139.244.32:8888/WxWorkMultiOpen.exe
 http://15.235.134.131:8080/Invoice.pdf
 http://15.235.134.131:8080/dcaathur.msi
 http://15.235.134.131:8080/test1.msi
@@ -3836,7 +3878,6 @@ http://213.209.150.18/linkinggg55%205.exe
 http://213.209.150.18/linkingg66%206.exe
 http://213.209.150.18/obii55%205.exe
 http://47.102.209.177/02.08.2022.exe
-http://47.95.31.143:6666/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://46.236.65.100:46981/i
 http://37.156.10.208:7481/i
@@ -3945,6 +3986,7 @@ https://windomstatetheater.com/osxs.zip
 https://jakestrack.com/fste.zip
 https://medthermography.com/lebu.zip
 https://jakestrack.com/fsps.zip
+https://windomstatetheater.com/rars.zip
 https://skynetx.com.br/atendimento/bk.txt
 http://8.210.122.125:60149/linux
 http://43.161.216.41:7000/02.08.2022.exe
@@ -8549,7 +8591,6 @@ https://annadegismen.com/js/afyles.js
 https://annadegismen.com/js/ropalb.js
 https://annadegismen.com/js/evfolp.js
 https://annadegismen.com/js/bivasm.js
-https://annadegismen.com/js/xpdlwg.js
 https://annadegismen.com/js/kawjhl.js
 https://annadegismen.com/js/gabjzd.js
 https://annadegismen.com/js/ehyjku.js
@@ -8893,6 +8934,7 @@ https://annadegismen.com/js/ldfnaq.js
 https://annadegismen.com/js/pxobar.js
 https://annadegismen.com/js/dspvek.js
 https://annadegismen.com/js/nozmuk.js
+https://annadegismen.com/js/vrxbsi.js
 https://annadegismen.com/js/nqcgyb.js
 https://annadegismen.com/js/xtobjn.js
 https://annadegismen.com/js/hcwxve.js
@@ -9068,6 +9110,7 @@ http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
 http://annadegismen.com/js/kewbaz.js
 http://annadegismen.com/js/abovez.js
+http://annadegismen.com/js/syzghb.js
 http://annadegismen.com/js/tfnkvy.js
 http://annadegismen.com/js/fnezgm.js
 http://annadegismen.com/js/pxobar.js
@@ -9182,7 +9225,6 @@ http://annadegismen.com/js/bivasm.js
 http://annadegismen.com/js/btyrlu.js
 http://annadegismen.com/js/fulspy.js
 http://annadegismen.com/js/kovprd.js
-http://annadegismen.com/js/zndrwm.js
 http://annadegismen.com/js/nsdztx.js
 http://annadegismen.com/js/nsubfo.js
 http://annadegismen.com/js/fqtdxe.js
@@ -9273,7 +9315,6 @@ http://annadegismen.com/js/xntyfk.js
 http://annadegismen.com/js/skcoju.js
 http://annadegismen.com/js/gchrsz.js
 http://annadegismen.com/js/wpglyv.js
-http://annadegismen.com/js/yijwpl.js
 http://annadegismen.com/js/mskbyg.js
 http://annadegismen.com/js/qgpckt.js
 http://annadegismen.com/js/whdsul.js
@@ -9881,6 +9922,7 @@ http://181.94.245.254:3028/Mozi.m
 http://103.209.184.118:9257/Mozi.m
 http://185.56.172.234:9362/Mozi.m
 http://62.162.113.34:21172/Mozi.m
+http://194.183.186.164:50835/Mozi.m
 http://92.241.77.214:20631/Mozi.m
 http://182.253.115.156:59323/Mozi.m
 http://36.93.219.59:20564/Mozi.m
@@ -10208,6 +10250,7 @@ http://36.249.46.154:8765/DownVerySync.exe
 http://78.188.137.146:9999/DLLGIRIS.dll
 http://212.98.231.10:8888/DLLGIRIS.dll
 http://139.198.15.223:8080/ScanPort.exe
+http://39.105.31.193:1389/abc
 http://103.123.98.86/winbox/winbox.exe
 http://103.123.98.86:8082/winbox/winbox.exe
 http://43.240.65.55:81/pornhub_downloader.exe
@@ -10500,7 +10543,6 @@ http://139.159.155.204:88/help.scr
 http://139.159.155.204:81/help.scr
 http://117.157.17.194:9999/help.scr
 https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
-http://27.156.224.11:43529/.i
 https://raw.githubusercontent.com/sirvivor32/sirvivor/main/LukeJazz.exe
 http://47.120.46.210/cve/cve-2021-4034
 http://92.127.156.174:8880/SharpHound.exe
@@ -11534,6 +11576,7 @@ http://103.50.7.123:3689/i
 http://37.34.209.216:59068/i
 http://89.140.176.228:40352/i
 http://109.171.80.104:12522/i
+http://41.205.90.51:24235/i
 http://91.244.112.102:7861/i
 http://66.198.193.249:3451/i
 http://46.229.139.93:55850/i
@@ -11642,6 +11685,7 @@ https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
+https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
 http://78.188.215.66:57861/.i
 http://103.6.5.3/MobileAnjian.apk
 https://github.com/Den4ikYT/spoofer/raw/main/HWID%20SPOOFER.rar
@@ -11747,6 +11791,7 @@ http://46.100.49.235:63034/.i
 http://217.144.173.240:2559/.i
 https://github.com/salatikochen/salatapps/archive/refs/heads/main.zip
 https://afrihealthexpo.org/sb/sb.js
+https://chinesegarden.com.tr/nit/nit.js
 https://villanyzsolti.hu/connect/
 https://admin.byte.in.ua/agenzia/
 https://donkeytourscroatia.com/agenzia/
