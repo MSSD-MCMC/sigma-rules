@@ -1,3 +1,21 @@
+http://87.121.84.75/jaws
+http://87.121.84.75/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.sh4
+http://87.121.84.75/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.m68k
+http://87.121.84.75/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.mips
+http://87.121.84.75/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.ppc
+http://87.121.84.75/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.mpsl
+http://117.247.213.199:56046/bin.sh
+http://175.147.224.207:44725/i
+http://37.54.29.54:48044/bin.sh
+http://182.127.70.209:41101/i
+http://175.147.224.207:44725/bin.sh
+http://60.18.227.207:58021/i
+http://42.4.250.148:48623/i
+http://27.202.82.228:50583/i
+http://182.127.47.148:44188/i
+http://123.10.224.198:36689/i
+http://182.127.70.209:41101/bin.sh
+http://42.238.166.52:35586/i
 http://27.202.82.228:50583/bin.sh
 http://chapters-sofa-shopper-pasta.trycloudflare.com/ver/fi.wsf
 http://chapters-sofa-shopper-pasta.trycloudflare.com/doc/Document.pdf.lnk
@@ -536,7 +554,6 @@ http://196.251.80.54/bins/NexImpact.arm6
 http://196.251.80.54/bins/NexImpact.spc
 http://196.251.80.54/bins/NexImpact.mips
 http://196.251.80.54/bins/NexImpact.arm
-http://196.251.80.54/bins/NexImpact.sh4
 http://196.251.80.54/bins/NexImpact.ppc
 http://196.251.80.97/bins/huawei
 http://196.251.80.97/bins/scan.x32
@@ -694,6 +711,7 @@ http://176.46.158.8/files/7212159662/0jsyXSF.exe
 http://176.46.158.8/files/5254702106/LXkGFUT.exe
 http://176.46.158.8/files/5296057416/G4gtDRI.exe
 http://176.46.158.8/files/7968908970/k9fbiLm.exe
+http://176.46.158.8/files/7338649596/it4pKAE.exe
 http://42.56.203.121:50202/bin.sh
 http://176.46.158.8/luma/random.exe
 http://200.59.87.13:58754/i
@@ -1111,6 +1129,7 @@ http://103.188.83.28/arm6
 http://103.188.83.28/mpsl
 http://103.188.83.28/arm5
 http://103.188.83.28/mips
+http://167.160.161.247/v9d9d.exe
 http://221.202.183.115:38543/bin.sh
 http://112.237.249.140:36492/i
 http://60.18.49.58:39598/i
@@ -1634,6 +1653,7 @@ http://45.141.27.70/hanoi.sh4
 http://45.141.27.70/hanoi.arm
 http://45.141.27.70/hanoi.arm5
 http://45.141.27.70/hanoi.arm6
+http://45.141.27.70/hanoi.x86_64
 http://45.141.27.70/hanoi.x86
 http://117.72.69.118:8081/02.08.2022.exe
 http://113.46.198.202:3333/02.08.2022.exe
@@ -1678,7 +1698,6 @@ http://rtost.duckdns.org/mimicr/gcide.exe
 http://rtost.duckdns.org/mimicr/clper.exe
 http://196.251.71.105/z/89/arm5
 http://196.251.71.105/z/89/arm
-http://47.108.63.64:7787/02.08.2022.exe
 http://41.211.101.107:26334/i
 http://112.78.43.109:55492/i
 http://81.152.253.173:81/sshd
@@ -1739,6 +1758,7 @@ http://121.202.153.132/sshd
 http://2.54.96.233:802/sshd
 http://88.8.22.161:10012/sshd
 http://196.251.73.7/bins/sora.arm
+http://196.251.73.7/bins/sora.spc
 http://196.251.73.7/bins/sora.ppc
 http://196.251.73.7/bins/sora.sh4
 http://196.251.73.7/bins/sora.arm5
@@ -5998,6 +6018,7 @@ https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v1.0/Software.z
 https://github.com/ariel-pachec0/SeeyooHK.github.io/releases/download/v1.0/Software.zip
 https://github.com/MiyajiAnimation/Spam-Filter/releases/download/v2.0/Software.zip
 https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip
+https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip
 https://github.com/Flarerealfr/url-biblioteca-web/releases/download/v2.0/Software.zip
 https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip
 https://github.com/suprithakv02/buildfair/releases/download/v2.0/Software.zip
@@ -8200,6 +8221,7 @@ https://167.250.49.155/bin/Win32/mimilib.dll
 http://85.25.72.70//ChromeSetup.exe
 http://103.187.146.29/e991/Injek3.mentah
 http://88.248.194.163:4437/.i
+http://e4l4.com/unicorn-2.0.0rc7.dist-info/RECORD
 https://167.250.49.155/bin/Win32/mimilove.exe
 https://167.250.49.155/bin/Win32/mimidrv.sys
 https://167.250.49.155/bin/x64/mimispool.dll
@@ -8397,7 +8419,6 @@ http://211.204.100.20:1234/ShadowForce2008_64_Add.vmp.dll
 http://211.204.100.20:1234/InfectSocks64_SQL_AntiVirus.vmp.dll
 http://211.204.100.20:1234/upm2008.exe
 http://211.204.100.20:1234/NdisInstaller3.2.32.1.exe
-https://xww.bucea.edu.cn/docs/2018-11/20181122103207926164.doc
 https://www.reifenquick.de/Scripts/statement/ul397wfyb/
 http://211.204.100.20:1234/IATInfect2008_64.exe
 http://211.204.100.20:1234/winsetaccess64.exe
@@ -8581,6 +8602,7 @@ https://annadegismen.com/js/uhoqtj.js
 https://annadegismen.com/js/pkacbg.js
 https://annadegismen.com/js/lrabiq.js
 https://annadegismen.com/js/hjiosv.js
+https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/rqdgsp.js
 https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/wmxrlh.js
@@ -8732,6 +8754,7 @@ https://annadegismen.com/js/dybexn.js
 https://annadegismen.com/js/ukitdj.js
 https://annadegismen.com/js/dhbwlx.js
 https://annadegismen.com/js/kyhmov.js
+https://annadegismen.com/js/ybisjv.js
 https://annadegismen.com/js/cktlar.js
 https://annadegismen.com/js/mkvuip.js
 https://annadegismen.com/js/pdemzv.js
@@ -9840,6 +9863,7 @@ http://117.72.70.169/xl_ext_chrome.crx
 http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
+https://39.98.174.154:8888/02.08.2022.exe
 https://39.98.174.154:52683/02.08.2022.exe
 https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
@@ -11130,7 +11154,6 @@ http://118.127.105.182:17818/.i
 http://82.117.197.102:19001/.i
 http://188.68.95.174:13872/.i
 http://131.108.39.235:1237/.i
-http://45.161.217.70:4690/.i
 http://181.193.62.225:39941/.i
 http://66.198.193.249:3451/.i
 http://79.175.42.206:7773/.i
@@ -11283,6 +11306,7 @@ http://185.126.195.110:51413/i
 http://190.4.44.202:14124/i
 http://181.49.100.190:56953/i
 http://202.154.187.26:9896/i
+http://62.33.114.219:56719/i
 http://213.5.19.220:13079/i
 http://203.115.103.19:43652/i
 http://154.126.178.16:30629/i
@@ -11393,6 +11417,7 @@ http://131.108.39.235:1237/i
 http://89.254.173.147:44386/i
 http://84.22.48.234:63218/i
 http://195.34.91.22:61437/i
+http://216.155.93.238:33194/i
 http://186.67.227.98:65300/i
 http://164.77.147.186:12652/i
 http://81.16.247.81:17403/i
@@ -11799,6 +11824,7 @@ https://admin.byte.in.ua/scarica/
 https://records.dennisign.se/agenzia/
 https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
+https://nhatheptienchebinhduong.com/scarica/
 https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
 https://villanyzsolti.hu/scarica/
@@ -11992,6 +12018,7 @@ http://www.amranhvac.com/digging.php
 https://docs.google.com/uc?export=download&id=1CtmYWLj5woUiug1WgIZy3kE7YJ1u0YoR&revid=0B_t0-zked1mGaGxwMXcwYWQ5Q0Q1Uk1UOXcwaUp6L2ovMTdjPQ
 https://drive.google.com/uc?export=download&id=1alQ8r5TnR6wWIfTqA3l6D9FYMv7y0G9m
 https://www.playtown.co.za/watercress.php
+https://www.playtown.co.za/lining.php
 https://jyothishmathi.in/pinout.php
 https://jyothishmathi.in/steeplechases.php
 https://jyothishmathi.in/familial.php
@@ -12254,7 +12281,6 @@ http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
 http://www.okhan.net/soft/uploadfile/anquan/pjbingdianhuanyuan.rar
 http://flyingmutts.com/US/Information/122018/
-http://flyingmutts.com/US/Information/122018
 http://ccilogistica.com.br/Southwire/910459143107617649/LLC/US/Summit-Companies-Invoice-33396595/
 http://static.3001.net/upload/20140812/14078161556897.rar
 http://okhan.net/soft/UploadFile/YOUXI/okhan.net-2wn.rar
@@ -12266,6 +12292,7 @@ http://itssprout.com/wp-includes/1
 http://p6.zbjimg.com/task/2010-11/17/pub/4ce336b4661fd.rar
 http://p6.zbjimg.com/task/2010-11/04/pub/4cd2620ce3f10.rar
 http://p6.zbjimg.com/task/2011-08/11/pub/4e4334b150fcf.rar
+http://p6.zbjimg.com/task/2011-10/14/1121109/4e97e74d5dd8e.rar
 http://p6.zbjimg.com/task/2010-12/03/519808/4cf8bc6362f34.rar
 http://p6.zbjimg.com/task/2010-12/12/pub/4d043cebf1e0b.rar
 http://p6.zbjimg.com/task/2011-10/22/1164339/4ea2a4c43df54.rar
