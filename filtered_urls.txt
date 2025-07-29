@@ -1,3 +1,11 @@
+http://119.162.36.67:50229/bin.sh
+http://182.127.102.115:45818/bin.sh
+http://115.46.156.54:44018/bin.sh
+http://112.248.211.245:37866/i
+http://61.52.49.211:41436/i
+http://119.166.77.135:49102/i
+http://112.248.211.245:37866/bin.sh
+http://115.57.49.140:33694/i
 https://paste.ee/d/lcNFB6gM/0
 https://paste.ee/d/YOKE7jKl/0
 http://ron.swpriest.com/gree/readme.txt
@@ -127,7 +135,6 @@ http://61.53.75.144:52593/i
 http://42.235.144.147:34951/i
 http://42.227.179.51:37717/i
 http://222.139.91.3:58235/i
-http://217.156.122.189/Y91/arm
 http://115.53.203.123:44059/i
 http://119.179.239.120:48876/bin.sh
 http://123.12.231.131:50586/bin.sh
@@ -622,7 +629,6 @@ http://105.96.108.46:50486/bin.sh
 http://115.57.165.22:57582/bin.sh
 https://serverdata-cloud.cloud/arquivo_9304bf4aaa63476ca0820ddbe663b6fb.txt
 http://123.12.46.181:53146/i
-http://115.52.23.253:40527/bin.sh
 http://crazy-burnell.196-251-72-205.plesk.page/LjEZs/uYtea.x86_64
 http://crazy-burnell.196-251-72-205.plesk.page/LjEZs/uYtea.mips
 http://crazy-burnell.196-251-72-205.plesk.page/LjEZs/uYtea.mpsl
@@ -679,6 +685,7 @@ http://196.251.72.205/LjEZs/uYtea.spc
 http://196.251.72.205/LjEZs/uYtea.m68k
 http://196.251.72.205/LjEZs/uYtea.ppc
 http://196.251.72.205/LjEZs/uYtea.arm5
+http://196.251.72.205/LjEZs/uYtea.arm6
 http://196.251.72.205/LjEZs/uYtea.mips
 http://196.251.72.205/LjEZs/uYtea.x86
 http://196.251.72.205/LjEZs/uYtea.arm
@@ -880,7 +887,6 @@ http://irenae.cfd/phanes.arm6
 http://irenae.cfd/phanes.x86
 http://irenae.cfd/phanes.sh4
 http://iresz.org/phanes.arm5
-http://iresz.org/phanes.x86
 http://ireakk.my/phanes.mips
 http://iresz.org/phanes.mpsl
 http://iresz.org/phanes.arm7
@@ -891,7 +897,6 @@ http://ireakk.my/phanes.arm
 http://ireakk.my/phanes.ppc
 http://ireakk.my/phanes.sh4
 http://irenae.cfd/phanes.arc
-http://iresz.org/phanes.sh4
 http://irenae.cfd/phanes.arm5
 http://iresz.org/phanes.arc
 http://ireakk.my/phanes.arc
@@ -1115,6 +1120,7 @@ http://196.251.80.97/bins/bot.arm7
 http://196.251.80.97/bins/bot.mpsl
 http://196.251.80.97/bins/ssh.x86_64
 http://196.251.80.97/bins/kaizen.m68k
+http://196.251.80.97/bins/bot.x86_64
 http://196.251.80.97/bins/ssh.arm
 http://196.251.80.97/bins/ssh.mips
 http://196.251.80.97/bins/kaizen.ppc
@@ -1174,6 +1180,7 @@ http://196.251.73.115/HBTs/top1miku.powerpc
 http://196.251.73.115/HBTs/top1miku.mips
 http://196.251.73.115/HBTs/top1miku.mipsel
 http://196.251.73.115/HBTs/top1miku.m68k
+http://196.251.73.115/HBTs/top1miku.armv4l
 http://196.251.73.115/HBTs/top1miku.arc
 http://196.251.73.115/HBTs/top1miku.armv7l
 http://196.251.73.115/HBTs/top1miku.armv5l
@@ -1341,6 +1348,7 @@ http://135.116.64.145/02.08.2022.exe
 http://121.43.152.104:18081/02.08.2022.exe
 http://43.143.114.43:8090/02.08.2022.exe
 http://101.34.66.77:8089/02.08.2022.exe
+http://110.41.12.167/02.08.2022.exe
 http://47.109.69.234:8088/02.08.2022.exe
 http://43.138.22.149:8082/02.08.2022.exe
 http://196.251.71.197/02.08.2022.exe
@@ -1371,6 +1379,7 @@ http://88.24.52.121:10072/sshd
 http://113.224.87.200:43633/i
 http://39.88.23.100:37549/bin.sh
 http://60.18.108.216:46557/i
+http://113.238.12.215:60344/i
 http://113.229.7.30:46476/bin.sh
 http://113.238.12.215:60344/bin.sh
 http://175.148.93.244:53545/i
@@ -2404,6 +2413,7 @@ http://220.158.234.135/j/a4le1
 http://220.158.234.135/j/aale0
 http://196.251.69.112/l
 http://196.251.69.112/mi
+http://196.251.69.112/wget.sh
 http://196.251.69.112/b
 http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
@@ -4162,7 +4172,6 @@ https://github.com/WyvernTKC/cpuminer-gr-avx2/archive/refs/tags/1.2.4.1.zip
 https://github.com/WyvernTKC/cpuminer-gr-avx2/archive/refs/tags/1.2.4.1.tar.gz
 https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.4.1/cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
 http://39.99.235.220:8002/main.exe
-http://39.99.235.220:8002/shell.hta
 http://192.140.225.33/phpMyAdmin/cpuminer-x86.exe
 http://192.140.225.33/phpMyAdmin/cpuminer-x64.exe
 http://192.140.225.33/phpMyAdmin/Ganja54.exe
@@ -5196,7 +5205,6 @@ http://82.99.248.54:24143/i
 http://49.0.41.126:64864/i
 http://173.54.182.169:43168/i
 http://35.137.185.24:7180/sshd
-http://dcrun.co.uk/chin/Ifjjmktge.mp3
 http://91.185.1.70:32869/i
 http://113.189.105.82:8080/sshd
 http://195.136.227.109:16885/i
@@ -8103,7 +8111,6 @@ https://github.com/horiffy/Sentil/raw/refs/heads/main/Sentil.exe
 https://github.com/fhebngndsg/thefunny/raw/refs/heads/main/Client-built.exe
 https://github.com/ducminh23/ddosv1/raw/refs/heads/main/ddosziller.exe
 https://github.com/user-attachments/files/17793058/lg246drE.txt
-http://111.231.144.159:4444/02.08.2022.exe
 http://152.136.159.25:4455/02.08.2022.exe
 http://144.48.171.68:39884/i
 http://www.newkey.co.kr/cab/LauncherLoader.exe
@@ -8463,7 +8470,6 @@ http://103.187.146.29/xnn/Injek3.mentah
 http://103.187.146.29/vvipejy/InjekSimple3.mentah
 http://103.187.146.29/samarinda/InjekSimple3.mentah
 http://e4l4.com/chromedriver.exe
-http://e4l4.com/libccc.zip.tar
 http://e4l4.com/zddtxxyxb.zip
 http://e4l4.com/xc.zip
 http://e4l4.com/vmpwn.7z
@@ -9089,7 +9095,6 @@ https://annadegismen.com/js/qzmcax.js
 https://annadegismen.com/js/owajis.js
 https://annadegismen.com/js/znuyhv.js
 https://annadegismen.com/js/eizwhg.js
-https://annadegismen.com/js/hmarws.js
 https://annadegismen.com/js/htbgwa.js
 https://annadegismen.com/js/ucxlfi.js
 https://annadegismen.com/js/uovxcl.js
@@ -9291,7 +9296,6 @@ https://annadegismen.com/js/jvlhib.js
 https://annadegismen.com/js/kdmgzy.js
 https://annadegismen.com/js/nscgoi.js
 https://annadegismen.com/js/gvtuqd.js
-https://annadegismen.com/js/nwqtuo.js
 https://annadegismen.com/js/youwtb.js
 https://annadegismen.com/js/xfsnmk.js
 https://annadegismen.com/js/bazyuq.js
@@ -10146,7 +10150,6 @@ http://37.252.86.167:36327/.i
 http://95.70.238.134:55591/.i
 http://88.248.23.133:43901/.i
 http://185.56.172.234:9362/.i
-http://91.92.188.72:64496/Mozi.m
 http://109.207.216.197:1031/sshd
 http://86.106.101.159:1026/sshd
 http://212.3.211.157:51080/sshd
@@ -10494,7 +10497,6 @@ http://182.253.205.235:8600/i
 http://212.85.176.23:45741/i
 http://183.100.159.244:17880/i
 http://37.252.86.167:36327/i
-http://178.216.164.48:5971/i
 http://185.151.108.232:29113/i
 http://185.56.172.234:9362/i
 http://88.248.23.133:43901/i
@@ -10855,6 +10857,7 @@ http://117.157.17.194:9999/help.scr
 https://raw.githubusercontent.com/brunoVale03/AdegaADS/main/OfferedBuilt.exe
 http://27.156.224.11:43529/.i
 https://raw.githubusercontent.com/sirvivor32/sirvivor/main/LukeJazz.exe
+http://update.cg100iii.com/cg100/Update.exe
 http://47.120.46.210/cve/cve-2021-4034
 http://92.127.156.174:8880/SharpHound.exe
 https://github.com/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments.zip
@@ -11475,7 +11478,6 @@ http://36.66.168.49:4656/.i
 http://62.162.113.34:21172/.i
 http://182.253.60.198:46757/.i
 http://92.241.19.127:61882/.i
-http://180.250.160.26:37143/.i
 http://211.186.82.229:13753/.i
 http://103.173.173.98:58982/.i
 http://185.190.20.228:46441/.i
@@ -12267,7 +12269,6 @@ https://onedrive.live.com/download?cid=2CC133E5E8E9B372&resid=2CC133E5E8E9B372%2
 https://drive.google.com/uc?export=download&id=1O9jG3OQYEWNcoPTigwsCdbTfMvtfQyGJ
 http://tiacreation.club/decapitate.php
 https://allendostmen.com/coon.php
-https://allendostmen.com/manly.php
 https://allendostmen.com/lecher.php
 https://allendostmen.com/strobing.php
 https://www.saf-oil.ru/downloads/safmanager/safman_setup.exe
@@ -12380,6 +12381,7 @@ http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
+https://drive.google.com/uc?export=download&id=1kCc3_-lUhx2Af3kG00dvIv3DzZPxzgKD
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://94.43.139.153:56656/Mozi.m
 https://drive.google.com/uc?export=download&id=14MUaD9cmJ6mxsD9LrccuO1eGxyf5f-ty
@@ -12422,6 +12424,7 @@ http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
+http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
 http://olingerphoto.com/photoblog/lli9c05hrj/2bwx-901909-89178267-5c5xr-qfvwc/
 http://cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723382710/9.915787746614242.jpg
 http://cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723350789/0.25579108623802416.jpg
