@@ -1,3 +1,16 @@
+http://119.186.144.205:36023/i
+http://106.41.140.164:56348/i
+http://60.23.239.196:33826/bin.sh
+http://123.188.66.11:39971/bin.sh
+http://115.48.162.212:38004/i
+http://89.67.27.189:45405/i
+http://119.186.144.205:36023/bin.sh
+http://116.55.173.5:55454/bin.sh
+http://182.126.118.186:52593/bin.sh
+http://106.41.140.164:56348/bin.sh
+http://89.67.27.189:45405/bin.sh
+http://115.48.162.212:38004/bin.sh
+http://182.113.197.208:52181/bin.sh
 http://116.140.9.90:52164/i
 http://221.15.9.162:44393/i
 http://123.188.61.48:37392/i
@@ -1100,7 +1113,6 @@ http://196.251.80.97/bins/kaizen.arm
 http://196.251.80.97/bins/bot.sh4
 http://196.251.80.97/bins/kaizen.sh4
 http://113.238.67.155:42121/i
-http://87.121.84.105/telnet.sh
 http://42.53.14.25:55348/i
 http://46.160.139.44:37918/i
 http://46.160.139.44:37918/bin.sh
@@ -1242,7 +1254,6 @@ http://60.23.195.191:35722/bin.sh
 http://196.251.70.155/hiddenbin/boatnet.m68k
 http://196.251.70.155/hiddenbin/boatnet.arm5
 http://196.251.70.155/hiddenbin/boatnet.mpsl
-http://196.251.70.155/hiddenbin/boatnet.sh4
 http://196.251.70.155/hiddenbin/boatnet.x86
 http://196.251.70.155/hiddenbin/boatnet.arc
 http://196.251.70.155/hiddenbin/boatnet.mips
@@ -1312,7 +1323,6 @@ http://176.97.162.241:45696/i
 http://91.192.69.24:48957/i
 http://88.24.52.121:10072/sshd
 http://113.224.87.200:43633/i
-http://39.88.23.100:37549/bin.sh
 http://60.18.108.216:46557/i
 http://113.238.12.215:60344/i
 http://113.229.7.30:46476/bin.sh
@@ -1335,7 +1345,6 @@ http://196.251.71.105/z/sdt
 http://196.251.71.105/bx
 http://196.251.71.105/z/mag
 http://196.251.71.105/z/gocl
-http://196.251.71.105/z/aaa
 http://196.251.71.105/z/b
 http://196.251.71.105/av.sh
 http://196.251.71.105/xaxa
@@ -1471,6 +1480,7 @@ http://77.90.41.206/arm7
 http://196.251.71.153/hiddenbin/boatnet.sh4
 http://196.251.71.153/hiddenbin/boatnet.arm
 http://196.251.71.153/hiddenbin/boatnet.mpsl
+http://196.251.71.153/hiddenbin/boatnet.m68k
 http://196.251.71.153/hiddenbin/boatnet.ppc
 http://196.251.71.153/hiddenbin/boatnet.spc
 http://196.251.71.153/hiddenbin/boatnet.arm7
@@ -1878,7 +1888,6 @@ http://23.146.184.43/hiddenbin/Space.arm
 http://23.146.184.43/hiddenbin/Space.arm7
 http://23.146.184.43/hiddenbin/Space.m68k
 http://175.147.224.171:41058/i
-http://ecs-1-94-222-140.compute.hwclouds-dns.com/NetPower.exe
 http://ecs-1-94-222-140.compute.hwclouds-dns.com/%E4%BB%A3%E7%90%86.exe
 http://213.232.114.169/powerpc-440fp
 http://213.232.114.169/powerpc
@@ -1923,6 +1932,7 @@ http://68.69.186.182/bolubotnetx86
 http://68.69.186.182/bolubotnetppc
 http://97.81.149.91:58801/i
 http://97.81.149.91:58801/bin.sh
+http://117.72.69.118:8081/02.08.2022.exe
 http://113.46.198.202:3333/02.08.2022.exe
 http://61.2.45.172:2000/sshd
 http://81.152.253.173:82/sshd
@@ -2314,7 +2324,6 @@ http://220.158.234.135/j/a4le0
 http://220.158.234.135/j/mle0w
 http://220.158.234.135/j/mbe0w
 http://220.158.234.135/j/a5le1w
-http://220.158.234.135/j/xle0
 http://220.158.234.135/j/a4le1
 http://220.158.234.135/j/aale0
 http://196.251.69.112/z/wget.sh
@@ -2492,6 +2501,7 @@ http://104.152.49.102/xmr.sh
 http://104.152.49.102/xmrig/bin/WinRing0/WinRing0x64.sys
 http://162.215.218.82/aminer.gz
 http://162.215.218.82/install.tgz
+http://43.139.228.20:800/02.08.2022.exe
 http://46.236.65.11:45811/i
 http://45.141.233.66:2096/02.08.2022.exe
 http://45.141.233.66:443/02.08.2022.exe
@@ -4263,6 +4273,7 @@ http://213.209.150.18/linkingg66%206.exe
 http://213.209.150.18/obii55%205.exe
 http://47.102.209.177/02.08.2022.exe
 http://47.95.31.143:6666/02.08.2022.exe
+http://8.138.47.245/02.08.2022.exe
 http://2.54.83.37:803/sshd
 http://46.236.65.100:46981/i
 http://37.156.10.208:7481/i
@@ -4943,7 +4954,6 @@ http://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-msvc-win64.
 http://github.com/vinhuptoday/testbn/raw/refs/heads/main/brbotnet.exe
 http://fz.tiansys.cn:85/TianSys(XP%E4%B8%93%E7%94%A8).exe
 http://github.com/disbalancer-project/main/releases/latest/download/disbalancer-go-client-windows-386.exe
-http://52mj.susuwei.cn:8090/game/ysjyx880.exe?tk=UjYxMzYlVzN3UTYwUmY0QWOmdDMyYTOzQWO1gDO0QDN852b812bj5CM2MTaopXaixHN1IDNzcjM5YTM
 http://42.194.150.118:7789/images/TP.exe
 http://download.haozip.com/uniondown/haozip_tiny.201805.exe
 http://45.91.133.59/client/update.exe
@@ -8168,6 +8178,7 @@ http://2.54.89.165:804/sshd
 http://93.117.75.7:8080/sshd
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
+http://8.140.239.162/02.08.2022.exe
 http://121.121.71.113:31863/i
 http://190.220.229.49:12646/i
 http://31.185.103.48:54941/i
@@ -8882,8 +8893,10 @@ https://annadegismen.com/js/ckhvft.js
 https://annadegismen.com/js/nwbgvc.js
 https://annadegismen.com/js/ijermv.js
 https://annadegismen.com/js/ieubhk.js
+https://annadegismen.com/js/ctiakn.js
 https://annadegismen.com/js/stlhfw.js
 https://annadegismen.com/js/swejgo.js
+https://annadegismen.com/js/wijbyn.js
 https://annadegismen.com/js/ebavlw.js
 https://annadegismen.com/js/poclxy.js
 https://annadegismen.com/js/qldfwy.js
@@ -9702,6 +9715,7 @@ http://annadegismen.com/js/ndekvz.js
 http://annadegismen.com/js/hxysdw.js
 http://annadegismen.com/js/lihkms.js
 http://annadegismen.com/js/gatled.js
+http://annadegismen.com/js/xcyqdg.js
 http://annadegismen.com/js/nozmuk.js
 http://annadegismen.com/js/brgdto.js
 http://annadegismen.com/js/fgjzlp.js
@@ -9858,6 +9872,7 @@ http://ftp.ywxww.net:820/x210.exe
 http://ftp.ywxww.net:820/ydcx.exe
 http://ftp.ywxww.net:820/smb.exe
 http://ftp.ywxww.net:820/svchost.exe
+http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
 http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
@@ -10142,7 +10157,6 @@ http://216.188.216.17:54983/Mozi.m
 http://64.140.105.9:44920/Mozi.m
 http://81.16.249.96:46703/Mozi.m
 http://45.116.68.70:23115/Mozi.m
-http://103.173.173.98:58982/Mozi.m
 http://43.252.8.46:7806/Mozi.m
 http://190.145.205.178:6360/Mozi.m
 http://91.139.153.236:59812/Mozi.m
@@ -10324,6 +10338,7 @@ http://37.252.86.167:36327/Mozi.m
 http://190.129.2.198:24944/Mozi.m
 http://81.16.247.83:54069/Mozi.m
 http://190.2.237.104:65088/Mozi.m
+http://91.244.169.56:48300/Mozi.m
 http://178.77.228.166:37077/Mozi.m
 http://213.91.236.237:10713/Mozi.m
 http://14.200.203.114:7122/Mozi.m
@@ -12314,6 +12329,7 @@ https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
 http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 https://drive.google.com/uc?export=download&id=1kCc3_-lUhx2Af3kG00dvIv3DzZPxzgKD
+https://drive.google.com/uc?export=download&id=1TnZ5llXpOroEi-cM3g1GSYQ3ziKDa-ht
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 http://94.43.139.153:56656/Mozi.m
 https://drive.google.com/uc?export=download&id=14MUaD9cmJ6mxsD9LrccuO1eGxyf5f-ty
