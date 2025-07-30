@@ -1,3 +1,12 @@
+http://27.222.196.253:53698/i
+http://182.113.223.148:57018/i
+http://27.215.51.37:43871/bin.sh
+http://27.222.196.253:53698/bin.sh
+http://42.176.193.192:50424/i
+http://175.151.220.187:41137/bin.sh
+http://175.151.220.187:41137/i
+http://182.113.223.148:57018/bin.sh
+http://219.157.182.185:33685/i
 http://182.116.82.188:49792/i
 http://27.37.226.88:38495/i
 http://119.184.28.114:55265/i
@@ -168,7 +177,6 @@ http://176.46.158.8/test/exe/random2.exe
 http://119.187.247.151:42025/bin.sh
 http://113.229.179.10:47164/bin.sh
 http://61.52.49.211:41436/bin.sh
-http://182.116.116.88:41455/bin.sh
 http://221.15.20.223:34371/bin.sh
 http://117.196.255.168:49189/i
 http://171.249.42.77:1107/.i
@@ -210,7 +218,6 @@ http://119.117.104.176:35032/bin.sh
 http://45.141.27.70/bins/hanoi.i686
 http://45.141.27.70/bins/hanoi.mips
 http://45.141.27.70/bins/hanoi.arm6
-http://45.141.27.70/bins/hanoi.x86_64
 http://45.141.27.70/bins/hanoi.spc
 http://45.141.27.70/bins/hanoi.arm5
 http://45.141.27.70/bins/hanoi.arm7
@@ -326,7 +333,6 @@ http://yhc-home-panel.gvaz.net/hiddenbin/boatnet.arc
 http://yho-homepage.gvaz.net/hiddenbin/boatnet.sh4
 http://yho-homepage.gvaz.net/hiddenbin/boatnet.spc
 http://yho-homepage.gvaz.net/hiddenbin/boatnet.ppc
-http://sector-panel-ymc.gvaz.net/hiddenbin/boatnet.m68k
 http://mailx-appnx-update.gvaz.net/hiddenbin/boatnet.ppc
 http://175.174.100.92:46146/i
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
@@ -390,7 +396,6 @@ http://vipcncnetwork.com/00101010101001/morte.i686
 http://vipcncnetwork.com/00101010101001/morte.sh4
 http://vipcncnetwork.com/00101010101001/morte.arm7
 http://vipcncnetwork.com/00101010101001/morte.x86
-http://vipcncnetwork.com/00101010101001/morte.arm
 http://vipcncnetwork.com/00101010101001/morte.ppc
 http://vipcncnetwork.com/00101010101001/morte.spc
 http://vipcncnetwork.com/00101010101001/morte.mips
@@ -881,7 +886,6 @@ http://121.224.58.125:57783/bin.sh
 http://112.249.186.8:51202/bin.sh
 http://42.227.206.250:58921/bin.sh
 http://42.179.0.172:60192/i
-http://42.179.0.172:60192/bin.sh
 http://175.149.113.132:51531/i
 http://175.149.113.132:51531/bin.sh
 http://200.59.81.117:45303/bin.sh
@@ -1058,7 +1062,6 @@ http://222.141.82.177:53954/bin.sh
 http://42.242.163.148:51260/bin.sh
 http://42.178.171.186:59041/bin.sh
 http://196.251.80.97/bins/huawei
-http://196.251.80.97/bins/scan.x32
 http://196.251.80.97/bins/kaizen.arm7
 http://196.251.80.97/bins/bot.arm7
 http://196.251.80.97/bins/bot.mpsl
@@ -1072,7 +1075,6 @@ http://196.251.80.97/bins/bot.ppc
 http://196.251.80.97/bins/kaizen.mips
 http://196.251.80.97/bins/kaizen.arm5
 http://196.251.80.97/bins/bot.mips
-http://196.251.80.97/bins/kaizen.x86_64
 http://196.251.80.97/bins/kaizen.x86
 http://196.251.80.97/bins/ssh.arm6
 http://196.251.80.97/bins/ssh.arm7
@@ -1141,6 +1143,7 @@ http://209.54.101.182/200/bigthingsbetterperofmancewitihmybestgirlforme.hta
 http://213.209.150.18/92eqvju7P18klaLjgEDwktkbkLtW.exe
 http://107.172.132.30/156/wethinkitsbetterforbestthingsongivingideaforthatbetter.hta
 http://42.5.5.249:35561/i
+http://196.251.73.115/HBTs/top1miku.x86_64
 http://196.251.73.115/HBTs/top1miku.i586
 http://42.5.5.249:35561/bin.sh
 http://175.149.120.121:46438/bin.sh
@@ -2019,6 +2022,7 @@ http://196.251.73.7/bins/sora.arm6
 http://196.251.73.7/bins/sora.arm
 http://196.251.73.7/bins/sora.spc
 http://196.251.73.7/bins/sora.mips
+http://196.251.73.7/bins/sora.arm7
 http://200.59.88.134:54450/i
 http://200.59.88.134:54450/bin.sh
 http://222.127.237.115:41633/i
@@ -2027,6 +2031,7 @@ http://213.232.114.169/x86_64
 https://city.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://book.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://camp.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://book.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://city.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
@@ -2253,7 +2258,6 @@ http://120.28.164.12:35614/bin.sh
 http://198.55.98.29/HOST/BM.ps1
 http://198.55.98.29/HOST/VZXCHH66.exe
 http://93.123.109.218/bins/pspc
-http://93.123.109.218/bins/parm7
 http://93.123.109.218/bins/parm5
 http://93.123.109.218/bins/pmpsl
 http://93.123.109.218/bins/psh4
@@ -2428,7 +2432,6 @@ http://135.148.129.32/sex.sh
 http://118.26.38.52:61521/02.08.2022.exe
 http://1.94.183.238/02.08.2022.exe
 http://69.136.49.127:6729/i
-http://176.120.203.230:49452/i
 http://213.173.74.116:16876/i
 http://58.240.204.207:13913/i
 http://197.155.206.126:22236/i
@@ -4310,6 +4313,7 @@ https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
 https://xai830k.com/plugin4.plg
 https://xai830k.com/plugin1.plg
+http://39.107.85.83:50050/02.08.2022.exe
 http://1.92.135.168:8074/02.08.2022.exe
 http://31.202.153.12:13264/i
 http://115.127.119.198:28033/i
@@ -4330,7 +4334,6 @@ https://github.com/Da2dalus/The-MALWARE-Repo/raw/refs/heads/master/Ransomware/Wa
 http://31.202.153.12:13264/.i
 http://190.214.55.142:23120/i
 http://181.199.86.79:32837/i
-http://217.64.135.53:63442/i
 http://2.55.90.62:802/sshd
 http://182.239.78.134/sshd
 https://celebratingseniors.net/rate.zip
@@ -4403,6 +4406,7 @@ http://47.119.34.138:60135/linux
 http://47.86.190.58:60135/linux
 http://80.94.92.143/mig
 http://143.92.48.9/2023
+http://8.138.182.17/3R%BC%BC%CA%F5.exe
 http://47.102.209.177:22211/02.08.2022.exe
 http://117.72.206.39:443/02.08.2022.exe
 http://186.87.82.140:31414/i
@@ -5017,6 +5021,7 @@ http://8.134.199.119/wj/vcruntime140_1.dll
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s86.txt
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
+http://111.229.108.128:12233/02.08.2022.exe
 http://47.108.39.159:4446/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
@@ -8037,7 +8042,6 @@ http://github.com/blackhatethicalhacking/fud/raw/refs/heads/master/access.exe
 https://ah-scanning.oss-cn-hongkong.aliyuncs.com/cos
 http://193.176.252.85:8083/sshd
 http://80.11.36.4:10014/sshd
-http://194.54.162.137:9873/i
 https://raw.githubusercontent.com/blackhatethicalhacking/fud/refs/heads/master/access.exe
 http://200.40.61.38:10193/i
 http://78.11.94.15:32650/i
@@ -8509,7 +8513,6 @@ http://202.53.164.90:5465/.i
 http://103.164.191.74:12576/.i
 http://185.162.140.242:18411/.i
 http://95.170.113.242:62214/.i
-http://154.126.186.44:34102/.i
 http://216.155.92.203:3956/.i
 http://89.216.107.99:65414/.i
 http://93.87.31.84:40955/.i
@@ -8748,7 +8751,6 @@ https://annadegismen.com/js/qduize.js
 https://annadegismen.com/js/fdrqhv.js
 https://annadegismen.com/js/qgpckt.js
 https://annadegismen.com/js/pveubn.js
-https://annadegismen.com/js/trgebo.js
 https://annadegismen.com/js/rtbivg.js
 https://annadegismen.com/js/uegkma.js
 https://annadegismen.com/js/ahyfgb.js
@@ -9009,7 +9011,6 @@ https://annadegismen.com/js/hrdcou.js
 https://annadegismen.com/js/gbfyoz.js
 https://annadegismen.com/js/nmphwx.js
 https://annadegismen.com/js/hnwkmj.js
-https://annadegismen.com/js/nlizmc.js
 https://annadegismen.com/js/rsbhal.js
 https://annadegismen.com/js/mbfnwq.js
 https://annadegismen.com/js/laurhk.js
@@ -9506,7 +9507,6 @@ http://annadegismen.com/js/tjsqpz.js
 http://annadegismen.com/js/xpdlwg.js
 http://annadegismen.com/js/glyphn.js
 http://annadegismen.com/js/naryxl.js
-http://annadegismen.com/js/bfkovw.js
 http://annadegismen.com/js/swejgo.js
 http://annadegismen.com/js/oemktg.js
 http://annadegismen.com/js/nucksg.js
@@ -9525,7 +9525,6 @@ http://annadegismen.com/js/gcbepw.js
 http://annadegismen.com/js/fmxscl.js
 http://annadegismen.com/js/dsqvlp.js
 http://annadegismen.com/js/ergubk.js
-http://annadegismen.com/js/jhoxtn.js
 http://annadegismen.com/js/lkcwbp.js
 http://annadegismen.com/js/cekhjv.js
 http://annadegismen.com/js/xntyfk.js
@@ -11115,7 +11114,6 @@ http://109.245.220.229:44759/.i
 http://176.37.170.214:6685/.i
 http://190.109.205.237:64797/.i
 http://172.85.143.74:47929/.i
-http://37.192.22.166:28149/.i
 http://46.39.247.173:21514/.i
 http://190.145.205.178:6360/.i
 http://212.107.232.167:21838/.i
@@ -11770,6 +11768,7 @@ http://80.19.172.50:57652/i
 http://77.42.243.110:46471/i
 http://84.242.139.154:15341/i
 http://64.140.105.9:44920/i
+http://2.36.68.156:54788/i
 http://1.55.243.196:28311/i
 http://94.154.84.37:64790/i
 http://109.92.143.90:65469/i
@@ -11898,7 +11897,6 @@ http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://synergyconsulting.us
 https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.org/
-https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
 http://113.214.56.232:15053/.i
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
@@ -12128,7 +12126,6 @@ https://kramersmarionnettes.com/redesign.php
 https://kramersmarionnettes.com/antienuretic.php
 https://kramersmarionnettes.com/fizz.php
 https://kramersmarionnettes.com/designer.php
-https://kramersmarionnettes.com/frustrating.php
 https://kramersmarionnettes.com/conditioner.php
 https://kramersmarionnettes.com/unthinkably.php
 https://kramersmarionnettes.com/unexplainable.php
