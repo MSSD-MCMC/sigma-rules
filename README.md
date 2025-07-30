@@ -16,10 +16,10 @@ This repository contains updated Suricata rules specifically tailored for Projec
 
 **Compatibility**
 
-Suricata Version: 7.x and above
+Suricata Version: 8.x and above
 
 
 
 Project: SIGMA - Suricata Intrusion Guard and Monitoring Appliance
 
-Maintainer: Project SIGMA Security Team (Last Updated: February 2025)
+Maintainer: Project SIGMA Security Team (Last Updated: July 2025)
