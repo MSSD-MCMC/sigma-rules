@@ -1,3 +1,8 @@
+http://115.58.134.140:54433/bin.sh
+http://119.179.254.215:36931/i
+http://42.178.94.130:34015/i
+http://182.122.233.81:53823/i
+http://42.235.64.30:43643/i
 http://219.156.124.207:59735/bin.sh
 http://112.225.240.45:32893/i
 http://119.179.254.215:36931/bin.sh
@@ -5,6 +10,7 @@ http://42.87.140.80:51815/i
 http://42.235.64.30:43643/bin.sh
 http://115.63.48.67:42265/i
 http://112.225.240.45:32893/bin.sh
+http://196.251.115.36/HBTs/top1miku.x86_64
 http://196.251.115.36/HBTs/top1miku.armv6l
 http://196.251.115.36/HBTs/top1miku.powerpc-440fp
 http://196.251.115.36/HBTs/top1miku.i586
@@ -172,7 +178,6 @@ http://116.139.143.64:34737/bin.sh
 http://182.121.65.150:41099/bin.sh
 http://45.164.96.119:47089/i
 http://27.206.237.211:36900/bin.sh
-http://113.228.102.25:46137/i
 http://112.255.28.155:37173/bin.sh
 http://45.164.96.119:47089/bin.sh
 http://182.116.117.228:58065/bin.sh
@@ -185,6 +190,7 @@ http://196.251.87.187/bins/sora.sh4
 http://113.237.64.80:35457/i
 http://116.139.176.20:57055/i
 http://196.251.87.187/bins/sora.x86
+http://196.251.87.187/bins/sora.arm6
 http://42.230.35.249:53954/i
 http://182.115.192.201:35897/bin.sh
 http://115.56.155.47:55965/i
@@ -263,6 +269,7 @@ http://180.191.255.234:44583/i
 http://188.38.3.30:59214/i
 http://125.47.89.18:60340/bin.sh
 http://113.236.113.127:50156/i
+http://42.5.240.23:56603/bin.sh
 http://112.255.28.155:37173/i
 http://119.114.14.201:54352/i
 http://123.11.72.110:42145/i
@@ -461,7 +468,6 @@ http://42.55.28.161:45643/i
 http://83.252.42.112/rondo.xqe.sh
 http://83.252.42.112/rondo.powerpc
 http://83.252.42.112/rondo.fbsdi386
-http://83.252.42.112/rondo.i686
 http://83.252.42.112/rondo.m68k
 http://83.252.42.112/rondo.fbsdarm64
 http://83.252.42.112/rondo.fbsdpowerpc
@@ -766,7 +772,6 @@ http://vmklsfdv.duckdns.org/huhu/titanjr.arm5
 http://www.asdfavae.duckdns.org/huhu/titanjr.spc
 http://vmklsfdv.duckdns.org/huhu/titanjr.i686
 http://www.asdfavae.duckdns.org/huhu/titanjr.mipsl
-http://savaswsd.duckdns.org/huhu/titanjr.arm6
 http://www.savaswsd.duckdns.org/huhu/titanjr.m68k
 http://www.cvawrs.duckdns.org/huhu/titanjr.arc
 http://vmklsfdv.duckdns.org/huhu/titanjr.arm6
@@ -792,6 +797,7 @@ http://cvawrs.duckdns.org/huhu/titanjr.i686
 http://www.cvawrs.duckdns.org/huhu/titanjr.m68k
 http://www.savaswsd.duckdns.org/huhu/titanjr.arc
 http://www.savaswsd.duckdns.org/huhu/titanjr.sh4
+http://www.cvawrs.duckdns.org/huhu/titanjr.arm6
 http://savaswsd.duckdns.org/huhu/titanjr.i486
 http://savaswsd.duckdns.org/huhu/titanjr.spc
 http://www.savaswsd.duckdns.org/huhu/titanjr.arm
@@ -799,7 +805,6 @@ http://savaswsd.duckdns.org/huhu/titanjr.m68k
 http://asdfavae.duckdns.org/huhu/titanjr.x86_64
 http://asdfavae.duckdns.org/huhu/titanjr.arm
 http://savaswsd.duckdns.org/huhu/titanjr.arc
-http://www.savaswsd.duckdns.org/huhu/titanjr.i486
 http://asdfavae.duckdns.org/huhu/titanjr.x86_32
 http://www.cvawrs.duckdns.org/huhu/titanjr.mipsl
 http://www.cvawrs.duckdns.org/huhu/titanjr.x86_32
@@ -856,7 +861,6 @@ http://103.176.20.59/spc
 http://103.176.20.59/xmips
 http://103.176.20.59/garm7
 http://103.176.20.59/harm5
-http://103.176.20.59/lmips
 http://103.176.20.59/arm6
 http://103.176.20.59/larm7
 http://103.176.20.59/hmips
@@ -1066,7 +1070,6 @@ http://212.11.64.25/main_arm7
 http://119.115.252.234:54916/bin.sh
 http://42.242.163.148:51260/bin.sh
 http://196.251.116.34/1.sh
-http://42.53.14.25:55348/i
 https://github.com/msarthak06/web/raw/refs/heads/main/Launcher.zip
 https://github.com/Hafiz12cyber/request/raw/refs/heads/main/Launcher.zip
 https://github.com/midkourtbbe/network/raw/refs/heads/main/Software.zip
@@ -1516,6 +1519,7 @@ http://45.122.246.215:8989/sshd
 http://87.75.67.194:2280/sshd
 https://xnhauvietnam.vietnamddns.com/arm6
 https://firebasestorage.googleapis.com/v0/b/atom2024-84ea3.appspot.com/o/cryptmurrayxworm.txt?alt=media&token=9a9fe9e5-2ad6-447c-90d5-5935ec882c55
+https://kavacanada.ca/catalog/model/cummersMG.exe
 http://209.54.101.166/157/wecreatedbestnetworkingskillwithbetterattitudeformegood.hta
 http://213.209.150.18/nklk1vPbjjueqLnyw.exe
 http://confeccionescoinffaa.cl/pld.bin
@@ -9269,7 +9273,7 @@ http://annadegismen.com/js/brgdto.js
 http://annadegismen.com/js/fgjzlp.js
 http://annadegismen.com/js/xkhlro.js
 http://annadegismen.com/js/eyfbaq.js
-http://annadegismen.com/js/wfrtcn.js
+http://annadegismen.com/js/hznwrv.js
 http://annadegismen.com/js/crfobl.js
 http://annadegismen.com/js/dnuwsr.js
 http://annadegismen.com/js/tcbned.js
@@ -11712,6 +11716,7 @@ https://kramersmarionnettes.com/unexplainable.php
 https://kramersmarionnettes.com/whiz.php
 https://ukguk71.ru/libraries/vendor/joomla/registry/src/Format/pinafore.php
 http://server.toeicswt.co.kr/svr_netchecker/server.asp?V_COMMAND=3002&V_PROGNAME=SJPTManagerLauncher.exe
+https://bridgeroad.maverickpreviews.com/zoologies.php
 https://taka.com.mx/builking.php
 https://bridgeroad.maverickpreviews.com/whacked.php
 https://bridgeroad.maverickpreviews.com/unplug.php
@@ -11726,6 +11731,7 @@ http://94.43.139.153:50379/mozi.m
 https://drive.google.com/uc?export=download&id=12Ma_YvBmprTs6E_VkFNMWIkRNWSARQbW
 https://onedrive.live.com/download?cid=2CC133E5E8E9B372&resid=2CC133E5E8E9B372%21113&authkey=AGFTUfFxLPqkAZ8&em=2
 https://drive.google.com/uc?export=download&id=1O9jG3OQYEWNcoPTigwsCdbTfMvtfQyGJ
+http://tiacreation.club/decapitate.php
 https://allendostmen.com/coon.php
 https://allendostmen.com/manly.php
 https://allendostmen.com/lecher.php
@@ -11769,6 +11775,7 @@ http://103.125.163.10:7080/.i
 https://jyothishmathi.in/habitual.php
 https://jyothishmathi.in/ruleless.php
 https://docs.google.com/uc?export=download&id=1tiLqoZOt07VyLvDmmSfS7iA452jWhKTj&revid=0B7gsMQZks4XkcDJCWHUvaTJ2QVlvcHNmNnovU2lDZStEK2JZPQ
+http://212.107.239.43:8026/.i
 https://drive.google.com/uc?export=download&id=1ETPmpb2shvUny5DxJ5awfpxklxqpBzGx
 https://jyothishmathi.in/toothy.php
 https://jyothishmathi.in/unpunished.php
@@ -12023,6 +12030,7 @@ http://www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
 http://www.okhan.net/soft/uploadfile/anquan/pjbingdianhuanyuan.rar
 http://flyingmutts.com/US/Information/122018/
 http://flyingmutts.com/US/Information/122018
+http://ccilogistica.com.br/Southwire/910459143107617649/LLC/US/Summit-Companies-Invoice-33396595/
 http://static.3001.net/upload/20140812/14078161556897.rar
 http://okhan.net/soft/UploadFile/YOUXI/okhan.net-2wn.rar
 http://okhan.net/soft/UploadFile/ANQUAN/pjbingdianhuanyuan.rar
