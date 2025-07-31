@@ -1,3 +1,23 @@
+http://42.232.234.101:48022/i
+http://123.7.223.125:44131/i
+http://115.57.30.247:47560/i
+http://106.57.1.65:45445/i
+http://115.57.30.247:47560/bin.sh
+http://42.229.164.84:55646/bin.sh
+http://182.115.207.46:60900/i
+http://123.7.223.125:44131/bin.sh
+http://182.120.96.199:55718/bin.sh
+http://123.190.90.73:58698/bin.sh
+http://222.138.117.117:41455/bin.sh
+http://222.138.117.117:41455/i
+http://106.57.1.65:45445/bin.sh
+http://117.216.58.142:56724/bin.sh
+http://42.235.189.174:47588/bin.sh
+http://60.216.239.163:39290/i
+http://161.8.220.4:58620/i
+http://222.137.211.125:60249/i
+http://88.247.16.4:54351/i
+http://42.235.74.232:52221/i
 http://115.58.134.140:54433/bin.sh
 http://119.179.254.215:36931/i
 http://42.178.94.130:34015/i
@@ -144,7 +164,6 @@ http://45.141.233.196/inc/7058864940.exe
 http://45.141.233.196/inc/12321.exe
 http://219.155.209.167:40181/bin.sh
 http://45.141.233.196/test/amnew.exe
-http://182.117.121.119:38826/bin.sh
 http://60.17.195.61:53187/bin.sh
 http://125.41.214.43:56440/bin.sh
 http://116.138.15.102:35010/bin.sh
@@ -287,7 +306,6 @@ http://196.251.80.14/main_m68k
 http://196.251.80.14/main_mips
 http://196.251.80.14/main_arm6
 http://196.251.80.14/debug.dbg
-http://196.251.80.14/main_arm7
 http://94.156.152.152/sh4
 http://94.156.152.152/arm4
 http://94.156.152.152/m68k
@@ -332,6 +350,7 @@ http://182.121.177.211:50728/i
 http://182.121.177.211:50728/bin.sh
 http://42.224.169.199:52036/bin.sh
 http://101.35.95.220:18062/02.08.2022.exe
+http://39.105.165.37/02.08.2022.exe
 http://143.92.39.50:8080/02.08.2022.exe
 http://180.97.220.91:8765/02.08.2022.exe
 http://1.15.62.170:7777/02.08.2022.exe
@@ -465,22 +484,6 @@ http://116.138.27.181:35092/i
 http://175.148.63.24:40944/bin.sh
 http://116.138.27.181:35092/bin.sh
 http://42.55.28.161:45643/i
-http://83.252.42.112/rondo.xqe.sh
-http://83.252.42.112/rondo.powerpc
-http://83.252.42.112/rondo.fbsdi386
-http://83.252.42.112/rondo.m68k
-http://83.252.42.112/rondo.fbsdarm64
-http://83.252.42.112/rondo.fbsdpowerpc
-http://83.252.42.112/rondo.x86_64
-http://83.252.42.112/rondo.i586
-http://83.252.42.112/rondo.arc700
-http://83.252.42.112/rondo.i486
-http://83.252.42.112/rondo.armv4l
-http://83.252.42.112/rondo.sparc
-http://83.252.42.112/rondo.armv6l
-http://83.252.42.112/rondo.armv7l
-http://83.252.42.112/rondo.fbsdamd64
-http://83.252.42.112/rondo.powerpc-440fp
 http://42.55.28.161:45643/bin.sh
 http://42.55.11.82:41644/i
 http://123.154.29.161:44181/i
@@ -511,7 +514,6 @@ http://61.52.49.211:41436/i
 http://119.166.77.135:49102/i
 http://112.248.211.245:37866/bin.sh
 http://ron.swpriest.com/gree/readme.txt
-http://ron.swpriest.com/gree/NOVA.exe
 https://github.com/DexXC/XC/raw/refs/heads/main/AutoUpdate%20pr%20et%20en%20%20sans%20text.vbs
 https://raw.githubusercontent.com/DexXC/XC/refs/heads/main/Wlan.bat
 https://raw.githubusercontent.com/DexXC/XC/refs/heads/main/InstallInvisibleTask.vbs
@@ -645,7 +647,6 @@ http://cnnetwork.uk/00101010101001/morte.sh4
 http://vipcncnetwork.com/00101010101001/debug
 http://cnnetwork.uk/00101010101001/morte.arc
 http://cnnetwork.uk/00101010101001/morte.arm6
-http://cnnetwork.uk/00101010101001/morte.x86_64
 http://cnnetwork.uk/00101010101001/morte.arm
 http://cnnetwork.uk/00101010101001/morte.arm7
 http://cnnetwork.uk/00101010101001/morte.x86
@@ -703,6 +704,7 @@ http://savaswsd.duckdns.org/huhu/titanjr.arm5
 http://fasdv.duckdns.org/huhu/titanjr.mipsl
 http://savaswsd.duckdns.org/huhu/titanjr.i686
 http://www.cvawrs.duckdns.org/huhu/titanjr.arm5
+http://asdfavae.duckdns.org/huhu/titanjr.arm6
 http://vmklsfdv.duckdns.org/huhu/titanjr.sh4
 http://www.asdfavae.duckdns.org/huhu/titanjr.mips
 http://asdfavae.duckdns.org/huhu/titanjr.i686
@@ -1213,7 +1215,6 @@ http://120.28.161.60:32821/i
 http://42.57.39.73:40011/i
 http://119.116.136.124:53967/i
 http://119.116.136.124:53967/bin.sh
-http://60.18.10.22:55518/bin.sh
 http://103.188.83.28/harm5
 http://103.188.83.28/toto
 http://103.188.83.28/tplink.sh
@@ -1556,7 +1557,6 @@ http://p1611129-mobac01.tokyo.ocn.ne.jp/sshd
 http://p398018-mobac01.osaka.ocn.ne.jp/sshd
 http://221.205.66.180:8000/sshd
 http://106.12.215.229:8080/02.08.2022.exe
-http://47.120.48.100/02.08.2022.exe
 http://87.120.126.194/Documents/TermsOfUse.lnk
 http://121.202.204.227/sshd
 http://102.212.60.172:9023/sshd
@@ -1747,6 +1747,7 @@ http://200.59.88.134:54450/bin.sh
 http://222.127.237.115:41633/i
 http://213.232.114.169/m68k
 http://213.232.114.169/x86_64
+https://city.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://book.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://camp.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -2137,6 +2138,7 @@ http://182.143.112.125:81/AV.scr
 http://182.143.112.125:81/Photo.scr
 http://182.143.112.125:81/Photo.lnk
 http://182.143.112.125:81/AV.lnk
+http://124.222.74.146:6666/02.08.2022.exe
 http://47.109.93.252:50051/02.08.2022.exe
 http://103.159.72.227:42939/i
 http://82.139.187.78:47271/i
@@ -7651,6 +7653,7 @@ https://github.com/horiffy/Sentil/raw/refs/heads/main/Sentil.exe
 https://github.com/fhebngndsg/thefunny/raw/refs/heads/main/Client-built.exe
 https://github.com/ducminh23/ddosv1/raw/refs/heads/main/ddosziller.exe
 https://github.com/user-attachments/files/17793058/lg246drE.txt
+http://111.231.144.159:4444/02.08.2022.exe
 http://www.newkey.co.kr/cab/LauncherLoader.exe
 http://159.224.83.32:48493/i
 http://195.250.173.158:8080/sshd
@@ -8467,7 +8470,6 @@ https://annadegismen.com/js/ebavlw.js
 https://annadegismen.com/js/poclxy.js
 https://annadegismen.com/js/qldfwy.js
 https://annadegismen.com/js/zfyaqp.js
-https://annadegismen.com/js/qlegvd.js
 https://annadegismen.com/js/jlfvyr.js
 https://annadegismen.com/js/wegpvo.js
 https://annadegismen.com/js/rodsap.js
@@ -8577,6 +8579,7 @@ https://annadegismen.com/js/ylmtcr.js
 https://annadegismen.com/js/eyfbaq.js
 https://annadegismen.com/js/fxvwgp.js
 https://annadegismen.com/js/fcvdqi.js
+https://annadegismen.com/js/xkhlro.js
 https://annadegismen.com/js/btyrlu.js
 https://annadegismen.com/js/abovez.js
 https://annadegismen.com/js/hudrnc.js
@@ -8728,7 +8731,6 @@ https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
 https://annadegismen.com/js/njrtbu.js
 https://annadegismen.com/js/xvtwbp.js
-https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
 https://annadegismen.com/js/tlcpaw.js
 https://annadegismen.com/js/zndrwm.js
@@ -8857,7 +8859,6 @@ http://annadegismen.com/js/dopvba.js
 http://annadegismen.com/js/uigzyq.js
 http://annadegismen.com/js/yhcoms.js
 http://annadegismen.com/js/tspwuj.js
-http://annadegismen.com/js/qugkmx.js
 http://annadegismen.com/js/cotbjd.js
 http://annadegismen.com/js/tzokax.js
 http://annadegismen.com/js/ivrfja.js
@@ -8894,7 +8895,6 @@ http://annadegismen.com/js/nqcgyb.js
 http://annadegismen.com/js/ecalyt.js
 http://annadegismen.com/js/ygwqnm.js
 http://annadegismen.com/js/ylienp.js
-http://annadegismen.com/js/shlebq.js
 http://annadegismen.com/js/qefpth.js
 http://annadegismen.com/js/inercb.js
 http://annadegismen.com/js/pmgyrd.js
@@ -9742,7 +9742,6 @@ http://36.94.29.82:23591/Mozi.m
 http://36.92.68.241:27066/Mozi.m
 http://91.92.94.138:15350/Mozi.m
 http://180.250.160.26:37143/Mozi.m
-http://216.155.92.204:2876/Mozi.m
 http://195.34.91.22:61437/Mozi.m
 http://115.245.112.26:20671/Mozi.m
 http://37.57.33.51:49049/Mozi.m
@@ -10861,7 +10860,6 @@ http://154.126.186.56:43941/.i
 http://36.91.144.195:2274/.i
 http://190.2.237.104:65088/.i
 http://118.71.250.6:28411/.i
-http://103.28.86.243:3812/.i
 http://109.69.79.44:55952/.i
 http://200.61.163.235:27538/.i
 http://67.78.106.23:55731/.i
@@ -11893,6 +11891,7 @@ http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
+http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
 https://dezcom.com/about/lm/5oj0ss1de/
 http://oknoplastik.sk/index_soubory/common_sector/external_area/61551354147_t4d0KY73JJyWFfGY/
 http://olingerphoto.com/photoblog/lli9c05hrj/2bwx-901909-89178267-5c5xr-qfvwc/
@@ -11944,6 +11943,7 @@ http://dl.dzqzd.com/wj1bsetup.exe
 http://caravella.com.br/arquivos/nfe.sfx.exe
 http://nerve.untergrund.net/releases/zorke_release/zorke_asciiverter_v1.00/zke-ascv.exe
 http://nerve.untergrund.net/releases/12.2013/nrv-ppwr.zip
+http://chiptune.com/razor/rzr-winner_intro.zip
 http://nerve.untergrund.net/releases/zorke_release/zorke_nfo_file_viewer_v1.00/zke-nfoview.exe
 https://itcomsrv.kz/wp-content/DOC/g1gc04s1woz64tp6ugkcifwtu7pk0_l0pue-9898692635/
 http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
@@ -12070,7 +12070,6 @@ http://vgd.vg/Document/En/Need-to-send-the-attachment
 http://vgd.vg/7MN5ZO8D/
 http://download.glzip.cn:80/n/tui/update_agency/v1.0.3.0/kzupdateagency-2.exe
 http://merctransfers.gradycares.com/022BZX/SWIFT/US
-http://onenightlife.com/4339755AQ/PAY/Business/
 http://onenightlife.com/iDetNLWu1/
 http://stud.clanweb.eu/gym.exe
 http://onenightlife.com/9qVqmt/
