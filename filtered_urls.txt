@@ -1,3 +1,15 @@
+http://42.227.207.43:49014/bin.sh
+http://221.15.187.161:54832/i
+http://113.182.135.78:59423/bin.sh
+http://42.7.238.171:56872/i
+http://112.238.193.198:48463/i
+http://221.15.187.161:54832/bin.sh
+http://42.7.238.171:56872/bin.sh
+http://42.56.197.126:57870/i
+http://123.188.61.48:37392/bin.sh
+http://42.52.18.62:56129/bin.sh
+http://171.109.159.204:51264/i
+http://123.189.168.246:45641/i
 http://115.48.154.98:36998/i
 http://42.233.107.51:54835/i
 http://120.61.7.183:38793/i
@@ -72,10 +84,15 @@ http://42.87.140.80:51815/i
 http://42.235.64.30:43643/bin.sh
 http://115.63.48.67:42265/i
 http://112.225.240.45:32893/bin.sh
+http://196.251.115.36/HBTs/top1miku.mipsel
 http://196.251.115.36/HBTs/top1miku.armv4l
 http://196.251.115.36/HBTs/top1miku.i686
 http://196.251.115.36/HBTs/top1miku.powerpc
+http://196.251.115.36/HBTs/top1miku.x86_64
+http://196.251.115.36/HBTs/top1miku.arc
 http://196.251.115.36/HBTs/top1miku.armv7l
+http://196.251.115.36/HBTs/top1miku.i586
+http://196.251.115.36/HBTs/top1miku.mips
 http://196.251.115.36/HBTs/top1miku.armv5l
 http://196.251.115.36/HBTs/top1miku.sh4
 http://42.87.140.80:51815/bin.sh
@@ -600,7 +617,6 @@ http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
-http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
@@ -614,7 +630,6 @@ http://cnnetwork.uk/00101010101001/morte.arm5
 http://cnnetwork.uk/00101010101001/debug
 http://cnnetwork.uk/00101010101001/morte.sh4
 http://vipcncnetwork.com/00101010101001/debug
-http://cnnetwork.uk/00101010101001/morte.arc
 http://cnnetwork.uk/00101010101001/morte.i686
 http://cnnetwork.uk/00101010101001/morte.arm
 http://cnnetwork.uk/00101010101001/morte.arm7
@@ -631,7 +646,6 @@ http://vipcncnetwork.com/00101010101001/morte.arm6
 http://vipcncnetwork.com/00101010101001/morte.m68k
 http://vipcncnetwork.com/00101010101001/morte.x86_64
 http://vipcncnetwork.com/00101010101001/morte.i686
-http://vipcncnetwork.com/00101010101001/morte.arm7
 http://vipcncnetwork.com/00101010101001/morte.x86
 http://vipcncnetwork.com/00101010101001/morte.arm
 http://vipcncnetwork.com/00101010101001/morte.arc
@@ -769,7 +783,6 @@ http://www.vmklsfdv.duckdns.org/huhu/titanjr.i686
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.arc
 http://fasdv.duckdns.org/huhu/titanjr.arm7
 http://savaswsd.duckdns.org/huhu/titanjr.arm
-http://www.vmklsfdv.duckdns.org/huhu/titanjr.arm
 http://cvawrs.duckdns.org/huhu/titanjr.arm6
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.arm6
 http://vmklsfdv.duckdns.org/huhu/titanjr.i486
@@ -1587,6 +1600,7 @@ http://222.255.100.119/s-h.4-.SNOOPY
 http://172.86.83.142/mig
 http://97.81.149.91:58801/i
 http://97.81.149.91:58801/bin.sh
+http://117.72.69.118:8081/02.08.2022.exe
 http://61.2.45.172:2000/sshd
 http://81.152.253.173:82/sshd
 http://103.130.213.44/hiddenbin/Space.arm
@@ -4299,6 +4313,7 @@ http://71.42.105.34:48823/i
 http://46.39.251.94:1238/i
 http://88.8.22.161:10002/sshd
 http://194.154.79.122:41757/i
+https://glaustralia.com/pocz/new_image.jpg
 http://188.12.100.131:30261/.i
 http://93.21.252.43:47572/.i
 http://203.203.88.151:16670/.i
@@ -7477,7 +7492,6 @@ http://upchemicals.co.in/test/cgi-bin/ADONIS/Pure_Adonis
 http://upchemicals.co.in/test/cgi-bin/JND/PURE_JND
 http://upchemicals.co.in/test/cgi-bin/ADONIS/ALL_ADONIS
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
-http://upchemicals.co.in/test/cgi-bin/JND/JND_ALL
 http://36.92.188.84:40111/i
 http://36.92.188.85:40111/i
 http://36.92.188.86:40111/i
@@ -7709,7 +7723,6 @@ http://103.50.4.173:28917/i
 http://119.252.167.172:45777/i
 http://103.50.4.171:28917/i
 http://112.166.18.116:54152/i
-http://84.1.110.226:13619/i
 http://190.108.227.250:63274/i
 http://159.148.48.50:55174/i
 http://94.142.63.8:24860/i
@@ -8878,7 +8891,6 @@ http://annadegismen.com/js/zsdpvi.js
 http://annadegismen.com/js/wijbyn.js
 http://annadegismen.com/js/njbcql.js
 http://annadegismen.com/js/nrqhmt.js
-http://annadegismen.com/js/jiurtg.js
 http://annadegismen.com/js/bmstep.js
 http://annadegismen.com/js/dwjupc.js
 http://annadegismen.com/js/xyphbf.js
@@ -9691,7 +9703,6 @@ http://82.117.197.102:19001/Mozi.m
 http://185.12.78.161:36220/Mozi.m
 http://183.112.2.247:45768/Mozi.m
 http://123.193.21.48:36061/Mozi.m
-http://197.159.8.222:34891/Mozi.m
 http://202.131.234.26:51118/Mozi.m
 http://124.41.225.49:61677/Mozi.m
 http://201.184.179.195:30450/Mozi.m
@@ -11366,6 +11377,7 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=https://synergyconsulting.us
 https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.org/
 https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
+http://113.214.56.232:15053/.i
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
 http://31.184.194.114/404
 http://37.139.249.103:3039/.i
@@ -11606,6 +11618,7 @@ https://kramersmarionnettes.com/conditioner.php
 https://kramersmarionnettes.com/unthinkably.php
 https://kramersmarionnettes.com/unexplainable.php
 https://kramersmarionnettes.com/whiz.php
+https://ukguk71.ru/libraries/vendor/joomla/registry/src/Format/pinafore.php
 http://server.toeicswt.co.kr/svr_netchecker/server.asp?V_COMMAND=3002&V_PROGNAME=SJPTManagerLauncher.exe
 https://bridgeroad.maverickpreviews.com/zoologies.php
 https://taka.com.mx/builking.php
@@ -11725,7 +11738,6 @@ https://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
 http://download.caihong.com/gamewd/yhdl.exe
 http://cdaonline.com.ar/wp-admin/bXjesdj7W3meuh7iAtiURBsgh/
 https://abissnet.net/u0eukz.zip
-http://yzkzixun.com/v2x2vexx.jpg
 http://ncxps.com/wp-includes/lm/7CFVaAA9jo/
 http://davaorealproperty.com/blogs/i0jOsqdfOKxC2/
 http://ncxps.com/wp-includes/rRRv7ILGM2dzPohaKlKheWb8rkju15bMqeEWcCglAp/
@@ -11882,7 +11894,6 @@ http://sanghyun.nfile.net/files/sanghyun.exe
 http://sg123.net/files/update.exe
 http://sg123.net/files/install.exe
 http://igra123.com/files/install.exe
-http://igra123.com/files/update.exe
 http://haeum.nfile.net/files/haeum.exe
 http://down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
 http://static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
@@ -11917,6 +11928,7 @@ http://www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
 http://www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
+http://www.okhan.net/soft/uploadfile/anquan/pjbingdianhuanyuan.rar
 http://flyingmutts.com/US/Information/122018/
 http://flyingmutts.com/US/Information/122018
 http://ccilogistica.com.br/Southwire/910459143107617649/LLC/US/Summit-Companies-Invoice-33396595/
