@@ -1,3 +1,21 @@
+http://45.186.37.141:51899/bin.sh
+http://42.52.106.26:59648/i
+http://185.97.113.40:40025/bin.sh
+http://198.55.98.107/123.sh
+http://221.203.179.95:53879/bin.sh
+http://14.155.187.150:47242/bin.sh
+http://196.251.115.36/sky.sh
+http://196.251.115.36/1.sh
+http://196.251.115.36/toto.sh
+http://196.251.115.36/adb
+http://196.251.115.36/w.sh
+http://196.251.115.36/wget.sh
+http://196.251.115.36/c.sh
+http://162.246.228.108:55564/bin.sh
+http://222.139.192.61:34770/i
+http://42.176.103.3:47965/bin.sh
+http://103.176.20.59/dx86
+http://219.156.59.161:44534/bin.sh
 http://117.213.81.222:34217/i
 http://182.143.112.172:81/AV.scr
 http://182.143.112.172:81/Photo.scr
@@ -343,8 +361,18 @@ http://42.235.64.30:43643/bin.sh
 http://115.63.48.67:42265/i
 http://112.225.240.45:32893/bin.sh
 http://196.251.115.36/HBTs/top1miku.mipsel
+http://196.251.115.36/HBTs/top1miku.armv4l
+http://196.251.115.36/HBTs/top1miku.i686
 http://196.251.115.36/HBTs/top1miku.powerpc
+http://196.251.115.36/HBTs/top1miku.x86_64
 http://196.251.115.36/HBTs/top1miku.arc
+http://196.251.115.36/HBTs/top1miku.armv7l
+http://196.251.115.36/HBTs/top1miku.armv6l
+http://196.251.115.36/HBTs/top1miku.powerpc-440fp
+http://196.251.115.36/HBTs/top1miku.i586
+http://196.251.115.36/HBTs/top1miku.mips
+http://196.251.115.36/HBTs/top1miku.armv5l
+http://196.251.115.36/HBTs/top1miku.m68k
 http://196.251.115.36/HBTs/top1miku.sh4
 http://42.87.140.80:51815/bin.sh
 http://115.63.48.67:42265/bin.sh
@@ -390,6 +418,7 @@ http://42.239.113.136:54203/bin.sh
 http://119.117.173.91:41524/bin.sh
 http://81.26.81.68:52271/bin.sh
 http://61.176.207.67:34556/bin.sh
+http://92.113.21.114:81/mips
 http://115.63.135.162:41857/bin.sh
 https://2111.filemail.com/api/file/get?filekey=HberOkcpjH5muwoS9oahKhCrUAoR5wrLFbzBZkZ923RCwpXNGPUW4Y8-xGvp-DbIrQFH&skipreg=true&pk_vid=31b70f9689ef41a717539169578784ad
 http://176.46.158.8/files/8434554557/OTIWCUm.exe
@@ -496,6 +525,7 @@ http://141.11.62.4/powerpc.nn
 http://141.11.62.4/arm7.nn
 http://141.11.62.4/arm6.nn
 http://115.49.74.154:46011/bin.sh
+http://175.160.114.218:53673/i
 http://125.41.214.43:56440/i
 http://175.151.170.245:58734/i
 http://175.160.114.218:53673/bin.sh
@@ -587,7 +617,6 @@ http://113.239.91.146:41038/i
 http://59.54.88.94:57391/bin.sh
 http://113.239.91.146:41038/bin.sh
 http://89.67.214.110:34909/i
-http://103.20.102.84/bins/sora.arm
 http://103.20.102.84/bins/sora.arm5
 http://103.20.102.84/bins/sora.mips
 http://120.28.70.180:50009/i
@@ -658,6 +687,7 @@ http://42.55.11.82:41644/bin.sh
 http://200.59.86.228:52145/i
 http://122.156.143.62:13916/i
 http://113.231.235.125:54136/i
+http://122.156.143.62:13916/bin.sh
 http://27.215.51.37:43871/bin.sh
 http://42.176.193.192:50424/i
 http://42.176.193.192:50424/bin.sh
@@ -702,7 +732,6 @@ http://60.21.173.225:50645/bin.sh
 http://119.187.247.151:42025/i
 http://176.46.158.8/test/exe/random2.exe
 http://119.187.247.151:42025/bin.sh
-http://61.52.49.211:41436/bin.sh
 http://60.22.252.126:46279/i
 http://175.146.224.60:49662/i
 http://60.22.252.126:46279/bin.sh
@@ -922,6 +951,7 @@ http://www.vmklsfdv.duckdns.org/huhu/titanjr.arm7
 http://www.asdfavae.duckdns.org/huhu/titanjr.ppc440
 http://cvawrs.duckdns.org/huhu/titanjr.ppc440
 http://fasdv.duckdns.org/huhu/titanjr.arm5
+http://asdfavae.duckdns.org/huhu/titanjr.i486
 http://www.fasdv.duckdns.org/huhu/titanjr.x86_64
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.sh4
 http://www.fasdv.duckdns.org/huhu/titanjr.i686
@@ -1276,6 +1306,7 @@ http://176.46.152.46/1.exe
 http://167.160.161.247/v888e.exe
 http://167.160.161.247/l838.exe
 http://167.160.161.247/q8d90.exe
+http://167.160.161.247/n89393.exe
 http://167.160.161.247/ssrt4.exe
 http://176.46.158.8/files/8111443583/YT1For2.exe
 http://176.46.158.8/files/5254702106/LXkGFUT.exe
@@ -1637,7 +1668,6 @@ http://160.191.243.55/most-arm6
 http://160.191.243.55/most-arm
 http://160.191.243.55/most-m68k
 http://160.191.243.55/most-mpsl
-http://160.191.243.55/most-arm7
 http://160.191.243.55/and
 http://47.237.120.206/02.08.2022.exe
 http://139.224.135.193/02.08.2022.exe
@@ -1911,7 +1941,6 @@ https://buzz.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://assuredfix.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://onlinehotvideos.com/44/w.exe
 http://158.51.126.131/d
-http://158.51.126.131/imeow4fun
 http://200.59.88.121:48420/i
 http://220.158.234.135/j/ppc0
 http://220.158.234.135/j/a6le0
@@ -2312,6 +2341,7 @@ https://www.vuelaviajero.com/wp-includes/images/allonymouslyfFpY.exe
 https://www.vuelaviajero.com/wp-includes/images/sd2.ps1
 http://104.152.49.102/xmr.sh
 http://104.152.49.102/xmrig/bin/WinRing0/WinRing0x64.sys
+http://103.20.102.84/arm6
 http://103.20.102.84/spc
 http://103.20.102.84/ppc
 http://103.20.102.84/x86
@@ -3559,6 +3589,7 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/13%2002%202025/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/19%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/03%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/07%2004%202025/info.zip
+http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/AV.scr
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/10%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/20%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/19%2012%202024/info.zip
@@ -3881,7 +3912,6 @@ http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:9999/02.08.2022.exe
 http://43.138.30.109:7524/02.08.2022.exe
 http://43.138.30.109:8888/02.08.2022.exe
-http://47.109.48.57/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://118.195.156.76:2443/02.08.2022.exe
@@ -4331,6 +4361,9 @@ https://www.surethinks.com/xostes.zip
 https://allstarstriping.com/wp-content/fosres.zip
 https://allstarstriping.com/wp-content/misres.zip
 http://www.silver-hubdachwohnwagen.de/js_bo/Werkstastt/Shotstar.prm
+http://78.153.140.66/d.sh
+http://78.153.140.66/k.sh
+http://78.153.140.66/lh.sh
 http://8.218.225.42:60101/linux
 http://93.190.58.102:47419/.i
 http://5.160.75.182:1871/i
@@ -7740,6 +7773,7 @@ http://200.72.199.204:1542/i
 http://43.230.157.52:19667/i
 https://raw.githubusercontent.com/lehila05/pdc/refs/heads/main/payload.bin
 https://github.com/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe
+http://101.35.235.124:4444/02.08.2022.exe
 http://47.109.90.134:88/02.08.2022.exe
 http://103.86.182.176:23620/i
 http://36.88.6.203:8907/i
@@ -8606,6 +8640,7 @@ https://annadegismen.com/js/xfnjgo.js
 https://annadegismen.com/js/uvlpmk.js
 https://annadegismen.com/js/ucnfaq.js
 https://annadegismen.com/js/tjsqpz.js
+https://annadegismen.com/js/lzgmnf.js
 https://annadegismen.com/js/zefhca.js
 https://annadegismen.com/js/ahpftx.js
 https://annadegismen.com/js/ndekvz.js
@@ -8906,7 +8941,6 @@ http://annadegismen.com/js/ivrfja.js
 http://annadegismen.com/js/ypufma.js
 http://annadegismen.com/js/chztsf.js
 http://annadegismen.com/js/mspldv.js
-http://annadegismen.com/js/slqmjg.js
 http://annadegismen.com/js/ilgesm.js
 http://annadegismen.com/js/zamdkx.js
 http://annadegismen.com/js/njrtbu.js
@@ -9297,7 +9331,6 @@ http://annadegismen.com/js/sveuca.js
 http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
-http://annadegismen.com/js/sbozjq.js
 http://annadegismen.com/js/ylherd.js
 http://annadegismen.com/js/hrdcou.js
 http://annadegismen.com/js/svandw.js
