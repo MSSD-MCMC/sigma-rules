@@ -1,3 +1,27 @@
+http://42.52.29.13:46747/i
+http://117.216.66.106:45961/bin.sh
+http://113.229.77.145:53545/bin.sh
+http://125.45.40.227:50705/bin.sh
+http://113.239.236.249:49394/bin.sh
+http://42.233.106.44:42265/i
+http://113.237.34.87:56987/i
+http://42.52.29.13:46747/bin.sh
+http://115.50.88.134:40543/i
+http://115.50.255.57:51965/i
+http://42.233.106.44:42265/bin.sh
+http://77.125.241.224:57151/i
+http://42.235.144.5:34951/bin.sh
+http://113.229.122.3:59386/bin.sh
+http://27.202.220.126:38319/i
+http://116.139.106.199:49620/i
+http://61.53.88.202:55965/i
+http://219.155.194.150:60361/i
+http://27.202.220.126:38319/bin.sh
+http://123.179.234.153:52665/bin.sh
+http://123.179.234.153:52665/i
+http://42.7.127.11:52374/i
+http://115.50.88.134:40543/bin.sh
+http://219.155.194.150:60361/bin.sh
 http://152.53.209.147/m68k
 http://87.121.84.182/mips
 http://162.247.155.210/i686
@@ -486,7 +510,6 @@ http://94.159.109.191/main_x86
 http://196.251.69.129/wget.sh
 http://196.251.69.129/w.sh
 http://72.194.227.46:36340/i
-http://115.56.157.131:41069/bin.sh
 http://42.232.224.195:59467/bin.sh
 http://72.194.227.46:36340/bin.sh
 http://42.238.130.233:39410/i
@@ -716,7 +739,6 @@ http://196.251.114.66/z/arm6
 http://196.251.114.66/debug.dbg
 http://196.251.114.66/x86
 http://196.251.114.66/z/mips
-http://196.251.114.66/z/89/x86_64
 http://222.141.82.80:45773/i
 http://66.63.187.141/larc
 http://66.63.187.141/lspc
@@ -779,14 +801,12 @@ http://66.63.187.141/wg
 http://66.63.187.141/android
 http://66.63.187.141/curl.sh
 http://66.63.187.141/w.sh
-http://66.63.187.141/ruck
 http://66.63.187.141/c.sh
 http://66.63.187.141/netgear.sh
 http://66.63.187.141/swget.sh
 http://66.63.187.141/sys.sh
 http://112.198.178.17:45783/bin.sh
 http://66.63.187.141/rep.sh4
-http://66.63.187.141/i486
 http://66.63.187.141/rep.arm7
 http://66.63.187.141/larm5
 http://66.63.187.141/rep.mips
@@ -812,7 +832,6 @@ http://heuristic-hofstadter.196-251-114-105.plesk.page/bins/hdw35f2.x86_64
 http://kind-leakey.196-251-114-105.plesk.page/bins/hdw35f2.x86
 http://kind-leakey.196-251-114-105.plesk.page/bins/hdw35f2.arm5
 http://kind-leakey.196-251-114-105.plesk.page/bins/hdw35f2.arm7
-http://heuristic-hofstadter.196-251-114-105.plesk.page/bins/hdw35f2.m68k
 http://heuristic-hofstadter.196-251-114-105.plesk.page/bins/hdw35f2.mpsl
 http://kind-leakey.196-251-114-105.plesk.page/bins/hdw35f2.x86_64
 http://222.138.119.46:58862/i
@@ -860,7 +879,6 @@ http://175.175.19.155:45245/bin.sh
 http://89.67.52.169:40939/i
 http://219.157.18.169:34861/bin.sh
 http://42.56.177.239:42421/bin.sh
-http://196.251.114.105/bins/hdw35f2.arm6
 http://196.251.114.105/bins/hdw35f2.arm5
 http://196.251.114.105/bins/hdw35f2.x86_64
 http://196.251.114.105/bins/hdw35f2.m68k
@@ -941,7 +959,6 @@ http://42.7.238.171:56872/bin.sh
 http://42.56.197.126:57870/i
 http://123.188.61.48:37392/bin.sh
 http://42.52.18.62:56129/bin.sh
-http://171.109.159.204:51264/i
 http://123.189.168.246:45641/i
 http://42.56.197.126:57870/bin.sh
 http://42.87.168.56:35033/i
@@ -950,7 +967,6 @@ http://171.109.159.204:51264/bin.sh
 http://42.52.226.219:48271/i
 http://42.87.168.56:35033/bin.sh
 http://42.225.240.40:48686/i
-http://182.126.96.47:35756/bin.sh
 http://175.151.107.159:46678/bin.sh
 http://115.49.7.91:38695/bin.sh
 http://217.64.135.181:43882/bin.sh
@@ -1240,6 +1256,7 @@ https://raw.githubusercontent.com/DexXC/XC/2208a923fbf55e96412380d7f050d2efcfcb1
 http://71.207.64.66:49750/i
 http://71.207.64.66:49750/bin.sh
 http://94.156.232.85/Documents/customer-receipt.lnk
+http://143.92.39.50:8880/02.08.2022.exe
 http://118.200.131.166:12186/i
 http://118.14.235.100/sshd
 http://95.139.106.66:56142/i
@@ -1714,6 +1731,7 @@ http://cnnetwork.uk/bins/morte.x86
 http://cnnetwork.uk/bins/morte.i686
 http://cnnetwork.uk/bins/morte.arc
 http://cnnetwork.uk/bins/morte.sh4
+http://cnnetwork.uk/bins/morte.mips
 http://cnnetwork.uk/bins/morte.arm
 http://cnnetwork.uk/bins/morte.arm6
 http://43.167.235.175:9987/02.08.2022.exe
@@ -1778,6 +1796,7 @@ http://213.209.150.18/92eqvju7P18klaLjgEDwktkbkLtW.exe
 http://107.172.132.30/156/wethinkitsbetterforbestthingsongivingideaforthatbetter.hta
 http://42.5.5.249:35561/i
 http://42.5.5.249:35561/bin.sh
+http://175.149.120.121:46438/bin.sh
 http://217.208.204.56:49075/i
 http://184.70.122.98:41009/bin.sh
 http://217.208.204.56:49075/bin.sh
@@ -2283,7 +2302,6 @@ http://213.232.114.169/powerpc-440fp
 http://213.232.114.169/powerpc
 http://43.241.110.206:62952/.i
 http://177.70.102.228:8070/info.zip
-https://images.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://hr.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://staging.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://docs.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -2763,7 +2781,6 @@ https://michellegraci.com/hatz.zip?le=17
 https://michellegraci.com/hatz.zip?le=65
 https://michellegraci.com/hatz.zip?le=9
 http://112.87.155.246:23393/i
-http://112.87.155.16:21858/i
 http://69.18.251.111:32132/i
 http://120.157.48.139:85/sshd
 http://77.90.153.137/vv/powerpc
@@ -6847,6 +6864,7 @@ https://onyxleo.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxfortifypro.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxguardshift.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxnexguard.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://onyxsentinelx.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsafecrypt.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://axhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://onyxsecuregate.de/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -6951,6 +6969,7 @@ https://employees.medicalcenterclinic.com/_WCM_images/toke.jpg
 https://employees.medicalcenterclinic.com/_WCM_images/si.jpg
 https://employees.medicalcenterclinic.com/_WCM_images/bea.jpg
 https://www.blackhost.xyz/srv/fup/uploads/DRGDF.HGFG
+http://87.241.165.210:6713/i
 http://84.20.230.95:27178/i
 http://203.190.54.34:4693/i
 http://2.126.54.218:3647/i
@@ -9201,7 +9220,6 @@ https://annadegismen.com/js/ahpftx.js
 https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
 https://annadegismen.com/js/ldrqxi.js
-https://annadegismen.com/js/nhtybe.js
 https://annadegismen.com/js/lqmbvz.js
 https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
@@ -9225,7 +9243,6 @@ https://annadegismen.com/js/cafxdu.js
 https://annadegismen.com/js/tkwlbg.js
 https://annadegismen.com/js/fqtdxe.js
 https://annadegismen.com/js/oemktg.js
-https://annadegismen.com/js/xzpwsy.js
 https://annadegismen.com/js/vwgohb.js
 https://annadegismen.com/js/ufeigv.js
 https://annadegismen.com/js/qzmcax.js
@@ -9890,6 +9907,7 @@ http://annadegismen.com/js/imbdcr.js
 http://annadegismen.com/js/tsqyuk.js
 http://annadegismen.com/js/zemxuh.js
 http://annadegismen.com/js/sbozjq.js
+http://annadegismen.com/js/ylherd.js
 http://annadegismen.com/js/hrdcou.js
 http://annadegismen.com/js/hexmvb.js
 http://annadegismen.com/js/svandw.js
@@ -10368,7 +10386,6 @@ http://181.94.245.254:3028/Mozi.m
 http://103.209.184.118:9257/Mozi.m
 http://185.56.172.234:9362/Mozi.m
 http://62.162.113.34:21172/Mozi.m
-http://194.183.186.164:50835/Mozi.m
 http://92.241.77.214:20631/Mozi.m
 http://202.5.50.108:15808/Mozi.m
 http://182.253.115.156:59323/Mozi.m
@@ -11295,7 +11312,6 @@ https://static.zongheng.com/app/filesrc/android/apk/2023/zonghengXSAndroid_7.5.6
 http://89.231.14.137:2282/.i
 http://88.119.193.17:10462/.i
 http://88.116.62.226:52714/.i
-http://88.119.151.142:10462/.i
 http://45.120.38.214:1208/.i
 http://194.208.56.189:19006/.i
 http://190.92.29.206:1076/.i
@@ -11583,7 +11599,6 @@ http://150.107.205.29:54598/.i
 http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
 http://94.154.84.37:64790/.i
-http://114.7.20.38:15144/.i
 http://109.92.143.90:65469/.i
 http://176.65.35.214:61252/.i
 http://138.122.43.76:56486/.i
@@ -11739,6 +11754,7 @@ http://118.127.105.182:17818/i
 http://66.181.166.140:27299/i
 http://114.31.28.42:33445/i
 http://95.170.113.227:32493/i
+http://119.40.91.22:1544/i
 http://91.122.210.7:42618/i
 http://138.122.43.76:56486/i
 http://76.76.195.174:62922/i
@@ -12170,7 +12186,6 @@ https://suakhoaketsattphcm.com/connect/
 https://www.institut-corps-a-ligne.fr/connect/
 https://records.dennisign.se/agenzia/
 https://cfu.twr.mybluehost.me/agenzia/
-https://donkeytourscroatia.com/connect/
 https://nhatheptienchebinhduong.com/scarica/
 https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
@@ -12316,7 +12331,6 @@ https://kramersmarionnettes.com/antienuretic.php
 https://kramersmarionnettes.com/fizz.php
 https://kramersmarionnettes.com/designer.php
 https://kramersmarionnettes.com/frustrating.php
-https://kramersmarionnettes.com/conditioner.php
 https://kramersmarionnettes.com/unthinkably.php
 https://kramersmarionnettes.com/unexplainable.php
 https://kramersmarionnettes.com/whiz.php
@@ -12447,7 +12461,6 @@ http://ncxps.com/wp-includes/4LD2g8W3RRmhtGVVVPeq2OrlCqm71yyXVERIW5rZiTVIi3/
 http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
-https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 https://raw.githubusercontent.com/enteihacking/mt/master/asycivic.jpg
 https://drive.google.com/uc?export=download&id=1g_x0A_GnYXaI5GLsIpKq1b2MQknaNuw8
@@ -12542,6 +12555,7 @@ http://www.opolis.io/Opolis.exe
 http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
 http://tcgroup.com.au/MONEX%20Swift%20_11.06.2019.exe
 http://www.cc9.ne.jp/~golgo13ex/C964732.xls
+http://hseda.com/download/qt51crk.exe
 http://www.starcountry.net/screenmate/cute/sm1302.zip
 http://dl.dzqzd.com/wj1bsetup.exe
 http://www.caravella.com.br/arquivos/nfe.sfx.exe
@@ -12626,6 +12640,7 @@ http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
 http://download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 http://livetrack.in/EmployeeMasterImages/qace.jpg
+http://advustech.com/PvvWE-5ve_e-avu/InvoiceCodeChanges/US/Service-Invoice
 http://advustech.com/l5EcamTDy/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
