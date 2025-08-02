@@ -1,3 +1,11 @@
+http://42.179.150.187:53892/i
+http://45.171.177.193:56353/i
+http://113.218.244.65:40787/i
+http://115.55.147.229:37284/i
+http://182.114.252.50:48068/bin.sh
+http://117.209.87.3:33877/i
+http://115.55.147.229:37284/bin.sh
+http://221.203.179.95:53879/i
 http://103.20.102.84/hiddenbin/boatnet.mips
 http://103.20.102.84/hiddenbin/boatnet.arm5
 http://103.20.102.84/hiddenbin/boatnet.arm6
@@ -109,7 +117,6 @@ http://160.250.137.190/main_mips
 http://160.250.137.190/main_m68k
 http://vpsx64.duckdns.org/arm6
 http://vpsx64.duckdns.org/spc
-http://vpsx64.duckdns.org/x86_64
 http://vpsx64.duckdns.org/debug.dbg
 http://vpsx64.duckdns.org/mpsl
 http://vpsx64.duckdns.org/m68k
@@ -610,6 +617,7 @@ http://42.55.38.153:55810/i
 http://182.121.118.28:56239/i
 http://138.204.196.136:42127/i
 http://91.92.70.5/hiddenbin/boatnet.spc
+http://196.251.114.80/bins/sora.arm6
 http://91.92.70.5/hiddenbin/boatnet.m68k
 http://91.92.70.5/hiddenbin/boatnet.x86
 http://196.251.114.80/bins/sora.arm7
@@ -790,7 +798,6 @@ http://42.235.189.174:47588/i
 http://106.57.1.65:45445/i
 http://222.138.117.117:41455/bin.sh
 http://222.138.117.117:41455/i
-http://42.235.189.174:47588/bin.sh
 http://60.216.239.163:39290/i
 http://161.8.220.4:58620/i
 http://42.235.74.232:52221/i
@@ -1073,6 +1080,7 @@ http://91.235.181.104:35382/i
 http://91.235.181.104:35382/bin.sh
 http://89.67.6.142:47915/i
 http://112.198.129.201:52310/i
+http://222.127.153.195:55759/i
 http://222.127.153.195:55759/bin.sh
 http://119.162.36.67:50229/i
 http://119.162.36.67:50229/bin.sh
@@ -1171,6 +1179,7 @@ http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
+http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
@@ -1277,7 +1286,6 @@ http://www.cvawrs.duckdns.org/huhu/titanjr.spc
 http://asdfavae.duckdns.org/huhu/titanjr.arc
 http://www.savaswsd.duckdns.org/huhu/titanjr.spc
 http://www.savaswsd.duckdns.org/huhu/titanjr.arm7
-http://www.fasdv.duckdns.org/huhu/titanjr.arm5
 http://asdfavae.duckdns.org/huhu/titanjr.spc
 http://vmklsfdv.duckdns.org/huhu/titanjr.spc
 http://savaswsd.duckdns.org/huhu/titanjr.ppc440
@@ -1345,7 +1353,6 @@ http://vmklsfdv.duckdns.org/huhu/titanjr.arm6
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.m68k
 http://vmklsfdv.duckdns.org/huhu/titanjr.ppc440
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.x86_64
-http://fasdv.duckdns.org/huhu/titanjr.mips
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.ppc
 http://asdfavae.duckdns.org/huhu/titanjr.arm5
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.i686
@@ -1365,12 +1372,10 @@ http://asdfavae.duckdns.org/huhu/titanjr.m68k
 http://cvawrs.duckdns.org/huhu/titanjr.i686
 http://www.cvawrs.duckdns.org/huhu/titanjr.m68k
 http://www.savaswsd.duckdns.org/huhu/titanjr.arc
-http://www.savaswsd.duckdns.org/huhu/titanjr.sh4
 http://www.cvawrs.duckdns.org/huhu/titanjr.arm6
 http://savaswsd.duckdns.org/huhu/titanjr.i486
 http://savaswsd.duckdns.org/huhu/titanjr.spc
 http://www.savaswsd.duckdns.org/huhu/titanjr.arm
-http://savaswsd.duckdns.org/huhu/titanjr.m68k
 http://asdfavae.duckdns.org/huhu/titanjr.x86_64
 http://asdfavae.duckdns.org/huhu/titanjr.arm
 http://savaswsd.duckdns.org/huhu/titanjr.arc
@@ -1475,7 +1480,6 @@ http://124.94.169.210:37451/i
 http://124.94.169.210:37451/bin.sh
 http://123.188.38.245:53674/i
 http://123.188.38.245:53674/bin.sh
-http://112.85.148.201:45777/i
 http://222.127.170.84:48122/i
 http://112.85.148.201:45777/bin.sh
 http://192.227.134.76/phanes.arm7
@@ -1533,7 +1537,6 @@ http://103.1.213.81/bot.ppc
 http://103.1.213.81/bot.arm
 http://103.1.213.81/bot.m68k
 http://103.1.213.81/bot.arm5
-http://42.57.190.135:53892/bin.sh
 http://103.1.213.81/bot.x86
 http://91.92.70.36/main_x86
 http://91.92.70.36/main_arm7
@@ -1611,6 +1614,7 @@ http://103.77.241.168/0010101010100101101010111010101/nwfaiehg4ewijfgriehgirehau
 http://103.77.241.168/0010101010100101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://cnnetwork.uk/1.sh
 http://192.144.232.209:4433/02.08.2022.exe
+http://43.167.235.175:9987/02.08.2022.exe
 http://86.102.60.98:42000/i
 http://176.215.48.163:34182/i
 http://113.166.167.30:8080/sshd
@@ -1827,7 +1831,6 @@ http://189.164.253.163:8729/sshd
 http://185.95.124.42/sshd
 http://103.76.59.177:32283/i
 http://91.139.18.3:56168/i
-http://112.186.242.171:1578/i
 http://94.141.135.186:32998/i
 http://113.205.13.153:48483/bin.sh
 http://222.243.95.50:35907/bin.sh
@@ -2146,7 +2149,6 @@ http://23.146.184.43/hiddenbin/Space.arm
 http://23.146.184.43/hiddenbin/Space.arm7
 http://23.146.184.43/hiddenbin/Space.m68k
 http://ecs-1-94-222-140.compute.hwclouds-dns.com/as3d2asd269sa999asasdasfsdcxdqwwq/%E4%BB%A3%E7%90%86.exe
-http://ecs-1-94-222-140.compute.hwclouds-dns.com/%E4%BB%A3%E7%90%86.exe
 http://213.232.114.169/powerpc-440fp
 http://213.232.114.169/powerpc
 http://43.241.110.206:62952/.i
@@ -2290,7 +2292,6 @@ http://101.36.116.222:8443/02.08.2022.exe
 http://1.15.25.148:9080/02.08.2022.exe
 http://1.92.138.71:8080/02.08.2022.exe
 http://1.94.239.203:1111/02.08.2022.exe
-http://1.15.25.148:3443/02.08.2022.exe
 http://124.70.219.41:7070/02.08.2022.exe
 http://41.145.128.24:8083/sshd
 http://61.2.45.141:2000/sshd
@@ -2635,6 +2636,7 @@ http://77.90.153.137/vv/mips64
 http://77.90.153.137/f
 http://77.90.153.137/g
 http://77.90.153.137/v
+http://196.251.69.112/z/89/x86_64
 http://196.251.69.112/z/89/mpsl
 http://196.251.69.112/z/89/mips
 https://intelligentopennetworkingawards.com/ghostgera/
@@ -4264,6 +4266,7 @@ http://175.178.112.226:8888/WxWorkMultiOpen.exe
 http://49.233.189.252:8888/WxWorkMultiOpen.exe
 http://49.232.134.200:8888/WxWorkMultiOpen.exe
 http://118.89.84.133:8888/WxWorkMultiOpen.exe
+http://43.139.244.32:8888/WxWorkMultiOpen.exe
 http://15.235.134.131:8080/Invoice.pdf
 http://15.235.134.131:8080/dcaathur.msi
 http://15.235.134.131:8080/test1.msi
@@ -4318,6 +4321,7 @@ http://185.247.226.135/botx.arm
 https://185.247.226.135/botx.arm
 https://raw.githubusercontent.com/zusyaku/malware-collection-part-2/refs/heads/main/666/666.exe
 http://92.127.156.174:8880/wp.bat
+https://www.modernitgen.com/Platinum.mp4
 http://213.209.150.18/jtEmt5nxbRnq5jC.exe
 http://213.209.150.18/80aK2YmFb6vbKeU.exe
 https://103.116.190.93/live.lnk
@@ -5147,6 +5151,7 @@ http://43.226.39.44:5988/Test9.exe
 http://43.226.39.44:5988/TestPTE2.exe
 http://43.226.39.44:5988/TestWindow.exe
 https://99194034-96-20180108171507.webstarterz.com/newchaisupon/vendor/bin/psysh.bat
+http://scan-echo.online/client/PAP46EIUkZ.exe
 https://www.salonmarketing.ca/diaclients/doitallmain.exe
 https://www.ss-01.com/SA0611/SystemSA32.dll
 http://43.226.39.44:5988/Test6.exe
@@ -5275,6 +5280,7 @@ http://8.134.199.119/wj/vcruntime140_1.dll
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s86.txt
 https://raw.githubusercontent.com/deepakmeena2006/lib/6753a65f543afe81079459a8439ec1e0c0a660b4/s64.txt
 https://github.com/MossEve/reverbed/releases/download/3.8.8/reverbed.v3.8.8.zip
+http://47.108.39.159:4446/02.08.2022.exe
 http://139.255.40.124:62838/i
 https://cdn.jsdelivr.net/gh/repository-git/q@master/verif-sec.js
 https://bestieslos.com/MAKEEWYK.msi
@@ -8342,6 +8348,7 @@ https://raw.githubusercontent.com/rsvgsng/funpark/refs/heads/main/diskutil.exe
 http://github.com/rsvgsng/funpark/raw/refs/heads/main/diskutil.exe
 http://101.37.34.164:9000/1.bat
 http://47.90.142.15/02.08.2022.exe
+http://182.252.66.22:16263/i
 http://103.50.4.174:28917/i
 http://185.136.193.25:12499/i
 http://185.136.193.46:8261/i
@@ -8694,6 +8701,7 @@ http://103.43.6.114:7055/.i
 http://103.84.39.181:19439/.i
 http://181.233.95.25:40000/.i
 http://186.125.133.244:53948/.i
+http://212.85.166.12:22448/.i
 http://212.154.209.206:16122/.i
 http://121.121.71.115:31863/.i
 http://121.121.71.114:31863/.i
@@ -8920,7 +8928,6 @@ https://annadegismen.com/js/shajxm.js
 https://annadegismen.com/js/whtjqx.js
 https://annadegismen.com/js/inrkdl.js
 https://annadegismen.com/js/ygwqnm.js
-https://annadegismen.com/js/ptjfnz.js
 https://annadegismen.com/js/kovprd.js
 https://annadegismen.com/js/uhoqtj.js
 https://annadegismen.com/js/pkacbg.js
@@ -9445,17 +9452,20 @@ http://annadegismen.com/js/wfevmh.js
 http://annadegismen.com/js/tenlqx.js
 http://annadegismen.com/js/rnejox.js
 http://annadegismen.com/js/owajis.js
+http://annadegismen.com/js/hmysqu.js
 http://annadegismen.com/js/vfakmu.js
 http://annadegismen.com/js/dwaehj.js
 http://annadegismen.com/js/zmrbvx.js
 http://annadegismen.com/js/nqcgyb.js
 http://annadegismen.com/js/ecalyt.js
+http://annadegismen.com/js/jezqcu.js
 http://annadegismen.com/js/ygwqnm.js
 http://annadegismen.com/js/ylienp.js
 http://annadegismen.com/js/shlebq.js
 http://annadegismen.com/js/qefpth.js
 http://annadegismen.com/js/inercb.js
 http://annadegismen.com/js/uovxcl.js
+http://annadegismen.com/js/pmgyrd.js
 http://annadegismen.com/js/cgafnd.js
 http://annadegismen.com/js/rqdgsp.js
 http://annadegismen.com/js/ibgeaz.js
@@ -9517,6 +9527,7 @@ http://annadegismen.com/js/ropalb.js
 http://annadegismen.com/js/hmdjou.js
 http://annadegismen.com/js/qdkgmu.js
 http://annadegismen.com/js/lnpmqd.js
+http://annadegismen.com/js/xrajol.js
 http://annadegismen.com/js/youwtb.js
 http://annadegismen.com/js/ihqwvu.js
 http://annadegismen.com/js/zefhca.js
@@ -9674,7 +9685,6 @@ http://annadegismen.com/js/lzgmnf.js
 http://annadegismen.com/js/bzywxa.js
 http://annadegismen.com/js/xcvepk.js
 http://annadegismen.com/js/xezyfb.js
-http://annadegismen.com/js/gcbepw.js
 http://annadegismen.com/js/fmxscl.js
 http://annadegismen.com/js/dsqvlp.js
 http://annadegismen.com/js/ergubk.js
@@ -9738,6 +9748,7 @@ http://annadegismen.com/js/uvlpmk.js
 http://annadegismen.com/js/lrgkaj.js
 http://annadegismen.com/js/gsklwf.js
 http://annadegismen.com/js/tgfhvd.js
+http://annadegismen.com/js/hpkynl.js
 http://annadegismen.com/js/vwqrbd.js
 http://annadegismen.com/js/uegkma.js
 http://annadegismen.com/js/whtjqx.js
@@ -9914,7 +9925,6 @@ http://103.162.59.217:38340/i
 http://armanayegh.com/readme/glued.hta
 http://armanayegh.com/readme/bin.exe
 http://101.133.156.69:7777/frpc.exe
-http://101.133.156.69:7777/mysql.bat
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
 http://103.174.191.145:88/maxz/update/Client/Client.exe.zip
 http://103.174.191.145:88/maxz/update/Client/DSETUP.dll.zip
@@ -10328,6 +10338,7 @@ http://118.179.121.235:1123/Mozi.m
 http://103.90.207.13:25925/Mozi.m
 http://202.148.20.138:24291/Mozi.m
 http://181.211.252.34:1808/Mozi.m
+http://27.156.224.11:43529/Mozi.m
 http://114.7.160.114:47530/Mozi.m
 http://88.80.242.177:20131/Mozi.m
 http://212.107.239.43:8026/Mozi.m
@@ -10515,7 +10526,6 @@ http://124.123.123.15/Photo.scr
 http://82.67.13.197/Photo.scr
 http://123.117.136.97:9000/Photo.scr
 http://68.225.217.95:85/Photo.scr
-http://113.106.6.106:14319/help.scr
 http://43.132.13.252:9000/Photo.scr
 http://181.36.153.151:81/Photo.scr
 http://77.240.97.71:81/Photo.scr
@@ -10669,6 +10679,7 @@ https://github.com/techsavvysenior/ReferralReactJS/archive/refs/heads/main.zip
 http://46.16.102.32:44773/Mozi.m
 https://112.33.27.73/386.exe
 https://download.cudo.org/tenants/135790374f46b0107c516a5f5e13069b/5e5f800fdf87209fdf8f9b61441e53a1/linux/x64/stable/install.sh
+http://88.248.194.163:4437/Mozi.a
 http://46.16.102.32:44773/Mozi.a
 https://raw.githubusercontent.com/hackirby/discord-injection/main/injection.js
 http://8.219.134.35:8000/JNDIExploit-0x727-1.3-SNAPSHOT.jar
@@ -11387,6 +11398,7 @@ http://103.245.10.51:56156/.i
 http://77.89.199.242:46470/.i
 http://213.5.19.220:13079/.i
 http://62.249.140.222:7543/.i
+http://103.71.46.122:7747/.i
 http://124.41.225.49:61677/.i
 http://43.249.52.210:12166/.i
 http://181.49.0.178:51734/.i
@@ -12260,7 +12272,6 @@ http://server.toeicswt.co.kr/svr_netchecker/server.asp?V_COMMAND=3002&V_PROGNAME
 https://bridgeroad.maverickpreviews.com/zoologies.php
 https://taka.com.mx/builking.php
 https://bridgeroad.maverickpreviews.com/whacked.php
-https://bridgeroad.maverickpreviews.com/unplug.php
 http://shop.mediasova.ru/upload/medialibrary/012/fucking.php
 http://shop.mediasova.ru/upload/medialibrary/012/chaperon.php
 https://onedrive.live.com/download?cid=04A3894062E7D373&resid=4A3894062E7D373%21192&authkey=AB7I1w77n6TSB3M
@@ -12489,6 +12500,7 @@ http://redlk.com/tqpjo/Scan/UftRuaEmi2h/
 http://sk-comtel.com/templates/theme261/css/msg.jpg
 http://sk-comtel.com/templates/theme261/html/com_contact/category/hp.gf
 http://brightworks.cz/file/support/trust/En/042019/
+http://solutelco.com/cgi-bin/eWbnM-h00hVr2pTu3KYyR_YAVLSNiUf-a0u/
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
@@ -12602,6 +12614,7 @@ http://users.atw.hu/toneraruhaz/wp-admin/network/installer.rar
 http://users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe
 http://robertrowe.com/Vqd0D5/
 http://hasalltalent.com/Factures-09-2018/
+http://vgd.vg/Document/En/Need-to-send-the-attachment
 http://vgd.vg/7MN5ZO8D/
 http://download.glzip.cn:80/n/tui/update_agency/v1.0.3.0/kzupdateagency-2.exe
 http://merctransfers.gradycares.com/022BZX/SWIFT/US
