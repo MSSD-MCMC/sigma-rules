@@ -1,3 +1,12 @@
+http://42.56.145.58:54720/bin.sh
+http://119.179.251.65:56757/i
+http://175.149.81.153:55600/bin.sh
+http://61.52.111.189:37448/i
+http://123.11.76.202:53425/bin.sh
+http://59.96.143.142:42794/i
+http://115.50.217.206:54046/i
+http://175.146.250.106:35751/i
+http://110.183.21.214:56808/i
 http://221.13.167.117:35897/i
 http://222.140.117.165:60900/bin.sh
 http://115.63.186.71:59408/bin.sh
@@ -89,6 +98,7 @@ http://190.161.244.59:49085/i
 http://102.248.66.232:8083/sshd
 http://91.149.165.156:55584/sshd
 http://171.231.141.118:52085/i
+http://61.80.58.24:7971/i
 http://46.6.3.26:57610/i
 http://37.57.227.208:32990/i
 http://42.176.125.190:20014/i
@@ -248,7 +258,6 @@ http://dori8501.ddns.net/bins/dori.386
 http://dori8501.ddns.net/bins/dori.arm
 http://dori8501.ddns.net/bins/dori.amd64
 http://dori8501.ddns.net/bins/dori.mips64
-http://dori8501.ddns.net/bins/dori.mipsle
 http://42.59.89.8:33396/i
 http://www.196-251-114-105.plesk.page/bins/hdw35f2.arm6
 http://www.196-251-114-105.plesk.page/bins/hdw35f2.ppc
@@ -410,6 +419,7 @@ http://196.251.69.129/g
 http://196.251.69.129/fb
 http://196.251.69.129/z/lll
 http://196.251.69.129/z/fdgsfg
+http://196.251.69.129/z/c.sh
 http://196.251.69.129/z/w.sh
 http://196.251.69.129/av.sh
 http://196.251.69.129/z/test.sh
@@ -733,7 +743,6 @@ http://66.63.187.141/t.sh
 http://66.63.187.141/nlte.sh
 http://66.63.187.141/g
 http://66.63.187.141/cn
-http://66.63.187.141/wget.sh
 http://66.63.187.141/wg
 http://66.63.187.141/android
 http://66.63.187.141/curl.sh
@@ -751,7 +760,6 @@ http://66.63.187.141/larm5
 http://66.63.187.141/rep.mips
 http://66.63.187.141/rep.mpsl
 http://66.63.187.141/larm7
-http://66.63.187.141/larm4
 http://66.63.187.141/lmips
 http://66.63.187.141/rep.i486
 http://66.63.187.141/rep.x86_64
@@ -761,7 +769,6 @@ http://66.63.187.141/rep.spc
 http://66.63.187.141/lmpsl
 http://66.63.187.141/x32
 http://66.63.187.141/rep.arm5
-http://66.63.187.141/lx32
 http://66.63.187.141/rep.arm6
 http://66.63.187.141/rep.ppc
 http://66.63.187.141/rep.m68k
@@ -803,7 +810,6 @@ http://196.251.114.80/bins/sora.mpsl
 http://196.251.114.80/bins/sora.arm7
 http://196.251.114.80/bins/sora.sh4
 http://196.251.114.80/bins/sora.x86
-http://91.92.70.5/hiddenbin/boatnet.ppc
 http://91.92.70.5/hiddenbin/boatnet.mips
 http://91.92.70.5/hiddenbin/boatnet.arc
 http://91.92.70.5/hiddenbin/boatnet.arm7
@@ -825,7 +831,6 @@ http://42.56.177.239:42421/bin.sh
 http://196.251.114.105/bins/hdw35f2.arm6
 http://196.251.114.105/bins/hdw35f2.spc
 http://196.251.114.105/bins/hdw35f2.arm5
-http://196.251.114.105/bins/hdw35f2.sh4
 http://196.251.114.105/bins/hdw35f2.x86_64
 http://196.251.114.105/bins/hdw35f2.m68k
 http://196.251.114.105/bins/hdw35f2.x86
@@ -926,7 +931,6 @@ http://42.55.191.117:58719/bin.sh
 http://66.63.187.141/arm6
 http://66.63.187.141/x86_64
 http://66.63.187.141/ppc
-http://66.63.187.141/arm4
 http://66.63.187.141/m68k
 http://66.63.187.141/arc
 http://66.63.187.141/arm7
@@ -1291,7 +1295,6 @@ http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
-http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
@@ -1301,7 +1304,6 @@ http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
@@ -1679,6 +1681,7 @@ http://cnnetwork.uk/bins/debug
 http://cnnetwork.uk/bins/morte.arm7
 http://cnnetwork.uk/bins/morte.mpsl
 http://cnnetwork.uk/bins/morte.x86
+http://cnnetwork.uk/bins/morte.i686
 http://cnnetwork.uk/bins/morte.arc
 http://cnnetwork.uk/bins/morte.sh4
 http://cnnetwork.uk/bins/morte.arm
@@ -2395,6 +2398,7 @@ https://cast.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://city.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://book.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://camp.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://book.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://city.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
@@ -2436,6 +2440,7 @@ https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.li
 https://secure.third-domain.su/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://statement.third-domain.su/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://158.51.126.131/adb.sh
+http://158.51.126.131/zxc.sh
 http://158.51.126.131/w
 http://158.51.126.131/fc
 http://158.51.126.131/phi.sh
@@ -2778,7 +2783,6 @@ http://158.51.126.131/weed
 http://158.51.126.131/avtech.sh
 https://github.com/juancamilo1914/youtube-mp3-converter/releases/download/buprestidan/YouTube.MP3.Converter.v1.0.0.-.buprestidan.zip
 http://124.220.205.147/02.08.2022.exe
-http://185.147.39.227:9999/02.08.2022.exe
 http://93.235.69.105:92/sshd
 http://158.51.126.131/xm.sh
 http://158.51.126.131/sdt
@@ -4628,6 +4632,7 @@ http://4.233.216.36:8000/a.ps1
 http://4.233.216.36:8000/b.ps1
 http://4.233.216.36:8000/beacon.bin
 http://72.177.84.111:8232/i
+http://197.210.129.150:44008/i
 https://xai830k.com/plugin2.plg
 https://xai830k.com/plugin3.plg
 https://xai830k.com/plugin4.plg
@@ -5181,6 +5186,7 @@ http://93.182.77.20:86/tftp
 http://43.229.20.42:2874/i
 https://update.volam2005pk.com/hostfile/taptin/game.exe
 https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX2.exe
+https://thtp2.volamngayxua.net/_AutoVLBS19_NEW/TrainJX.exe
 https://cdn.glitch.global/8290189a-044c-494d-9957-5b2e993ca180/rqago1.dll?v=1726322804507
 http://tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
 http://43.226.39.44:5988/TestMemTest10.exe
@@ -5305,6 +5311,7 @@ https://raw.githubusercontent.com/JustJZero/ahh/refs/heads/main/Cloudy.exe
 http://github.com/JustJZero/ahh/raw/refs/heads/main/Cloudy.exe
 http://github.com/Uelenka/supreme-spork/raw/refs/heads/main/RuntimeBroker.exe
 http://github.com/Niggedddx/Dependenciuesfeife/raw/refs/heads/main/BruterV3.1.exe
+https://acc.trjsp41.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://24x7support.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://nnnpanel.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://www.jnhelp.top/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -8312,7 +8319,6 @@ http://115.178.100.190:4788/i
 http://185.136.193.117:26360/i
 http://31.154.235.131:9538/.i
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/1.sh
-http://186.121.239.114:19828/i
 http://185.168.227.130:39163/i
 http://2.180.18.98:58173/i
 http://69.11.121.34:39558/i
@@ -9083,6 +9089,7 @@ https://annadegismen.com/js/dsqvlp.js
 https://annadegismen.com/js/xonsry.js
 https://annadegismen.com/js/atodpl.js
 https://annadegismen.com/js/ybkela.js
+https://annadegismen.com/js/tenlqx.js
 https://annadegismen.com/js/ipdaco.js
 https://annadegismen.com/js/rfwelc.js
 https://annadegismen.com/js/eyivgm.js
@@ -10876,6 +10883,7 @@ http://125.186.91.61/Photo.scr
 http://83-87-76-41.cable.dynamic.v4.ziggo.nl/Photo.scr
 http://83.87.76.41/Photo.scr
 http://softbank126023203236.bbtec.net/Photo.scr
+http://host-195-103-203-106.business.telecomitalia.it/Photo.scr
 http://host-95-255-114-11.business.telecomitalia.it/Photo.scr
 http://45.118.79.103:8892/tftp
 http://89.184.185.198:4443/tftp
@@ -11483,6 +11491,7 @@ http://82.117.197.102:19001/.i
 http://188.68.95.174:13872/.i
 http://190.111.116.96:50724/.i
 http://131.108.39.235:1237/.i
+http://36.92.207.29:60948/.i
 http://45.161.217.70:4690/.i
 http://181.193.62.225:39941/.i
 http://66.198.193.249:3451/.i
@@ -12042,7 +12051,6 @@ http://123.193.21.48:36061/.i
 https://drive.google.com/uc?export=download&id=1RFSMRZEANvap2TNmTWRpTLEpWArWLkGE
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://synergyconsulting.us
 https://adclick.g.doubleclick.net/pcs/click?adurl=//www.deltabehavioralhealth.org/
-https://adclick.g.doubleclick.net/pcs/click?adurl=//balkarsoftware.cubistech.com
 http://112.5.6.69:56073/.i
 http://113.214.56.232:15053/.i
 http://xiangshunjy.com/vendor/bin/NOBODY/clean.it
@@ -12584,7 +12592,6 @@ http://download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 http://download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 http://livetrack.in/EmployeeMasterImages/qace.jpg
 http://advustech.com/l5EcamTDy/
-http://www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 http://patch.cdn.topgame.kr/son/minihtml/Kr.NEG.exe
 http://www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
 http://www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
