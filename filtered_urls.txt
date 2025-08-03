@@ -1,3 +1,14 @@
+http://42.4.113.39:52397/i
+http://182.112.84.234:58437/i
+http://42.231.69.189:34835/i
+http://60.18.61.94:40189/bin.sh
+http://42.228.222.146:36861/i
+http://125.46.198.187:36523/bin.sh
+http://61.3.141.124:57141/bin.sh
+http://42.228.222.146:36861/bin.sh
+http://59.94.113.65:46775/bin.sh
+http://89.42.88.210/hiddenbin/boatnet.mips
+http://42.232.48.132:58512/i
 http://61.53.94.25:58065/i
 http://182.126.122.14:57375/bin.sh
 http://188.17.93.130:38228/bin.sh
@@ -375,7 +386,6 @@ http://27.37.118.74:53783/i
 http://222.138.100.58:40209/bin.sh
 http://60.22.96.70:60571/bin.sh
 http://182.127.113.156:49844/i
-http://60.216.239.163:39290/bin.sh
 http://106.41.70.159:53474/i
 http://182.127.113.156:49844/bin.sh
 http://89.67.26.111:47189/i
@@ -456,6 +466,7 @@ http://196.251.69.129/z/ipc
 http://196.251.69.129/5
 http://196.251.69.129/aaa
 http://196.251.69.129/z/asd
+http://196.251.69.129/vc
 http://196.251.69.129/z/multi
 http://196.251.69.129/z/fb
 http://196.251.69.129/z/f5
@@ -467,7 +478,6 @@ http://196.251.69.129/toto
 http://196.251.69.129/fdgsfg
 http://196.251.69.129/irz
 http://196.251.69.129/g
-http://196.251.69.129/lll
 http://196.251.69.129/gocl
 http://196.251.69.129/xaxa
 http://196.251.69.129/bx
@@ -642,6 +652,7 @@ http://196.251.114.66/z/ipc
 http://196.251.114.66/gocl
 http://196.251.114.66/z/wget.sh
 http://196.251.114.66/z/adb
+http://196.251.114.66/l
 http://burger042.ddnsfree.com/debug.dbg
 http://burger042.ddnsfree.com/c.sh
 http://burger042.ddnsfree.com/z/sdt
@@ -656,6 +667,7 @@ http://burger042.ddnsfree.com/z/adb
 http://196.251.114.66/av.sh
 http://196.251.114.66/ru.sh
 http://burger042.ddnsfree.com/z/ruck
+http://196.251.114.66/vc
 http://burger042.ddnsfree.com/jaws
 http://burger042.ddnsfree.com/asd
 http://burger042.ddnsfree.com/gocl
@@ -777,7 +789,6 @@ http://103.176.20.59/dx86
 http://222.138.119.46:58862/i
 http://113.237.34.87:56987/bin.sh
 http://196.251.114.80/sora.sh
-http://196.251.114.80/yarn
 http://196.251.114.66/mips
 https://www.biz-lynx.com.au/uploads/cisco-secure-client-win-5.1.4.74-core-vpn-predeploy-k9.msi
 https://ww-poet-cohen-guided.trycloudflare.com/Cisco-AnyConnect-win-4.11-predeploy-k9.msi
@@ -1021,6 +1032,7 @@ http://196.251.80.14/main_arm5
 http://94.156.152.152/ppc
 http://196.251.80.14/main_m68k
 http://196.251.80.14/main_arm6
+http://196.251.80.14/debug.dbg
 http://196.251.80.14/main_arm7
 http://196.251.80.14/main_x86_64
 http://94.156.152.152/sh4
@@ -1172,7 +1184,6 @@ http://60.21.173.225:50645/bin.sh
 http://119.187.247.151:42025/i
 http://176.46.158.8/test/exe/random2.exe
 http://119.187.247.151:42025/bin.sh
-http://175.146.224.60:49662/i
 http://42.4.113.39:52397/bin.sh
 http://220.201.133.156:41535/i
 http://119.117.187.243:36719/i
@@ -1241,6 +1252,7 @@ http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
+http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -1657,7 +1669,6 @@ http://196.251.116.34/1.sh
 http://196.251.116.34/bins/morte.mpsl
 http://196.251.116.34/bins/morte.x86
 http://196.251.116.34/bins/morte.ppc
-http://196.251.116.34/bins/morte.i686
 http://196.251.116.34/bins/morte.arm6
 http://196.251.116.34/bins/morte.m68k
 http://196.251.116.34/bins/morte.arm
@@ -1763,6 +1774,7 @@ http://160.187.246.23/huhu/titanjr.i686
 http://160.187.246.23/huhu/titanjr.mips
 http://45.94.31.182/bins/x0x0x0x0x0x/x86
 http://121.43.152.104:18081/02.08.2022.exe
+http://101.200.193.211:8090/02.08.2022.exe
 http://176.46.152.35/02.08.2022.exe
 http://47.109.69.234:8088/02.08.2022.exe
 http://47.109.58.47:8989/02.08.2022.exe
@@ -1837,6 +1849,7 @@ http://77.90.41.206/x86
 http://77.90.41.206/mpsl
 http://77.90.41.206/arm7
 http://113.205.13.153:48483/i
+http://154.198.49.48:8888/02.08.2022.exe
 http://121.173.138.102:48076/i
 http://189.164.253.163:8729/sshd
 http://185.95.124.42/sshd
@@ -1999,6 +2012,7 @@ http://185.208.159.135//arm6
 http://185.208.159.135//mips
 http://160.250.129.6:8080/02.08.2022.exe
 http://118.178.89.112/02.08.2022.exe
+http://59.110.81.93:9999/02.08.2022.exe
 http://42.51.34.56:8009/02.08.2022.exe
 http://124.221.116.169/02.08.2022.exe
 http://117.50.175.19/02.08.2022.exe
@@ -2825,7 +2839,6 @@ http://201.16.194.227:2550/GdbFTP/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000167339/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000171478/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000162652/info.zip
-http://177.70.102.232:8090/TmpFTP/TD00000000000000168387/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000168291/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000160615/info.zip
 http://177.70.102.232:8090/TmpFTP/TD00000000000000165184/info.zip
@@ -3437,7 +3450,6 @@ http://81.42.249.132:1080/SER%20Costa%20Luz/11%2004%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/26%2005%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/02%2004%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/08%2002%202025/info.zip
-http://81.42.249.132:1080/SER%20Costa%20Luz/10%2003%202025/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/08%2006%202025/info.zip
 http://81.42.249.132:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://81.42.249.132:1080/R-02-RADIOLE/17%2002%202025/info.zip
@@ -4193,6 +4205,7 @@ http://42.193.115.114:8888/WxWorkMultiOpen.exe
 http://82.157.148.8:8888/WxWorkMultiOpen.exe
 http://123.206.214.105:8888/WxWorkMultiOpen.exe
 http://82.157.200.120:8888/WxWorkMultiOpen.exe
+http://43.136.88.193:8888/WxWorkMultiOpen.exe
 http://111.229.234.91:81/Ios.exe
 http://43.142.186.164:88/Android.exe
 http://62.234.82.149:8181/nginx.zip
@@ -4931,7 +4944,6 @@ http://178.131.95.168:29463/.i
 http://47.86.1.37:60125/linux
 http://47.239.192.107:60140/linux
 http://203.203.90.22:14961/.i
-http://121.101.255.108:5080/.i
 http://220.81.58.40:31249/.i
 http://117.25.137.34:19538/.i
 http://101.58.146.184:9454/.i
@@ -8086,6 +8098,7 @@ http://210.208.104.219:64995/i
 http://185.208.158.8/darka5
 http://78.44.174.90:2477/i
 http://upchemicals.co.in/test/cgi-bin/ADONIS/Pure_Adonis
+http://upchemicals.co.in/test/cgi-bin/JND/PURE_JND
 http://upchemicals.co.in/test/cgi-bin/ADONIS/ALL_ADONIS
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://upchemicals.co.in/test/cgi-bin/MR_BEAN/ALL_BEAN
@@ -8501,6 +8514,7 @@ http://103.187.146.29/vvipejy/VVIPEJY_Hard_VP.rar
 http://103.187.146.29/sumatra/Simple3.mentah
 http://103.187.146.29/fvc/File3.mentah
 http://103.187.146.29/samarinda/InjekKey.mentah
+http://103.187.146.29/tacvip/Injek3.mentah
 http://103.187.146.29/egn/Injek3.mentah
 http://103.187.146.29/xcd/InjekSimple3.mentah
 http://103.187.146.29/sumatra/InjekSimple3.mentah
@@ -9053,7 +9067,6 @@ https://annadegismen.com/js/hpkynl.js
 https://annadegismen.com/js/geruvw.js
 https://annadegismen.com/js/pqyhgb.js
 https://annadegismen.com/js/obefmt.js
-https://annadegismen.com/js/rfsduy.js
 https://annadegismen.com/js/mdnujx.js
 https://annadegismen.com/js/gchrsz.js
 https://annadegismen.com/js/lnpmqd.js
@@ -9446,7 +9459,6 @@ http://annadegismen.com/js/hcwxve.js
 http://annadegismen.com/js/gbfyoz.js
 http://annadegismen.com/js/yiuojp.js
 http://annadegismen.com/js/xqbgec.js
-http://annadegismen.com/js/ybkela.js
 http://annadegismen.com/js/ldfnaq.js
 http://annadegismen.com/js/kewbaz.js
 http://annadegismen.com/js/abovez.js
@@ -9796,8 +9808,6 @@ http://annadegismen.com/js/lihkms.js
 http://annadegismen.com/js/gatled.js
 http://annadegismen.com/js/xcyqdg.js
 http://annadegismen.com/js/brgdto.js
-http://annadegismen.com/js/fgjzlp.js
-http://annadegismen.com/js/eyfbaq.js
 http://annadegismen.com/js/hznwrv.js
 http://annadegismen.com/js/wfrtcn.js
 http://annadegismen.com/js/crfobl.js
@@ -10313,6 +10323,7 @@ http://178.165.79.24:61189/Mozi.m
 http://76.76.195.174:62922/Mozi.m
 http://178.151.34.26:9354/Mozi.m
 http://103.217.215.238:17645/Mozi.m
+http://202.74.246.172:57366/Mozi.m
 http://27.147.225.2:29392/Mozi.m
 http://93.118.104.33:41338/Mozi.m
 http://64.140.100.201:44920/Mozi.m
@@ -11310,7 +11321,6 @@ http://45.224.100.254:4139/.i
 http://181.129.106.146:38440/.i
 http://64.140.105.9:44920/.i
 http://82.212.109.51:47861/.i
-http://49.156.46.134:31244/.i
 http://87.197.107.203:52364/.i
 http://116.58.78.122:58232/.i
 http://80.19.172.50:57652/.i
@@ -12062,7 +12072,6 @@ https://rpperformance.com.br/scarica/
 https://suakhoaketsattphcm.com/agenzia/
 https://nhatheptienchebinhduong.com/connect/
 https://cfu.twr.mybluehost.me/connect/
-https://www.institut-corps-a-ligne.fr/scarica/
 https://suakhoaketsattphcm.com/scarica/
 https://admin.byte.in.ua/connect/
 https://embedone.com/scarica/
