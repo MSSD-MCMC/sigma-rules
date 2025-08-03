@@ -1,3 +1,18 @@
+http://182.117.147.64:55646/i
+http://60.18.17.55:34560/i
+http://125.47.103.212:37028/bin.sh
+http://42.58.239.141:49497/bin.sh
+http://120.28.210.41:48738/bin.sh
+http://124.128.181.88:51054/i
+http://39.40.165.172:40035/i
+http://124.95.8.162:59123/bin.sh
+http://60.18.17.55:34560/bin.sh
+http://125.43.226.162:51058/i
+http://39.40.165.172:40035/bin.sh
+http://61.53.81.107:35562/bin.sh
+http://124.128.181.88:51054/bin.sh
+http://60.18.61.94:40189/i
+http://182.117.173.28:46053/i
 http://42.4.113.39:52397/i
 http://182.112.84.234:58437/i
 http://42.231.69.189:34835/i
@@ -757,12 +772,10 @@ http://119.179.238.171:36604/i
 http://196.251.114.66/z/89/arm
 http://8.134.74.227/gg2.hta
 http://8.134.74.227/exploit.pdf
-http://8.134.74.227/724.zip
 http://8.134.74.227/gg4.hta
 http://8.134.74.227/Client.exe
 http://8.134.74.227/1/CoercedPotato.exe
 http://8.134.74.227/gg.js
-http://182.126.241.41:49792/i
 http://177.70.102.232:8070/info.zip
 http://162.246.228.108:55564/i
 http://182.126.241.41:49792/bin.sh
@@ -788,7 +801,6 @@ http://42.176.103.3:47965/bin.sh
 http://103.176.20.59/dx86
 http://222.138.119.46:58862/i
 http://113.237.34.87:56987/bin.sh
-http://196.251.114.80/sora.sh
 http://196.251.114.66/mips
 https://www.biz-lynx.com.au/uploads/cisco-secure-client-win-5.1.4.74-core-vpn-predeploy-k9.msi
 https://ww-poet-cohen-guided.trycloudflare.com/Cisco-AnyConnect-win-4.11-predeploy-k9.msi
@@ -947,7 +959,6 @@ http://92.113.21.114:81/mipsel
 http://92.113.21.114:81/armv4l
 http://92.113.21.114:81/m68k
 http://92.113.21.114:81/arc
-http://92.113.21.114:81/armv5l
 http://92.113.21.114:81/mips
 http://92.113.21.114:81/i486
 http://115.63.135.162:41857/bin.sh
@@ -990,7 +1001,6 @@ http://42.56.177.239:42421/i
 http://175.150.79.149:42001/i
 http://8.134.74.227/test.exe
 http://8.134.74.227/522.exe
-http://8.134.74.227/33.exe
 http://60.22.62.53:47013/bin.sh
 http://89.67.6.142:47915/bin.sh
 http://213.209.150.18/67427P18klaktkbLjgEDwkLtW9.exe
@@ -1108,7 +1118,6 @@ http://220.192.227.118:38414/i
 http://220.192.227.118:38414/bin.sh
 http://175.173.117.106:42509/i
 http://42.177.23.144:40727/i
-http://42.4.158.145:39204/i
 http://200.59.80.82:58096/bin.sh
 http://123.190.114.231:37555/i
 http://42.180.59.179:60453/i
@@ -1141,7 +1150,6 @@ http://42.55.11.82:41644/i
 http://123.154.29.161:44181/i
 http://42.55.11.82:41644/bin.sh
 http://200.59.86.228:52145/i
-http://122.156.143.62:13916/i
 http://42.52.18.62:56129/i
 http://113.231.235.125:54136/i
 http://122.156.143.62:13916/bin.sh
@@ -1225,6 +1233,7 @@ http://206.123.145.28/revpoopm
 http://216.247.208.231:3120/i
 http://14.46.201.56:33545/.i
 http://top1miku.duckdns.org/giga.sh
+http://top1miku.duckdns.org/w.sh
 http://top1miku.duckdns.org/1.sh
 http://top1miku.duckdns.org/massload
 http://144.172.122.69/op1/Nmquyidoy.mp3
@@ -1495,7 +1504,6 @@ http://test.galaxias.cc/001010101010010110101011101010101101010111010101/nwfaieh
 http://5.141.230.175:52547/bin.sh
 http://124.222.32.224:8780/02.08.2022.exe
 http://87.248.155.251/02.08.2022.exe
-http://166.108.200.194/02.08.2022.exe
 http://46.6.14.69:16726/i
 http://103.109.177.213:39289/i
 http://222.113.145.146:28120/i
@@ -1942,6 +1950,7 @@ http://78.142.229.12/x01/arc
 http://42.57.39.73:40011/bin.sh
 http://160.191.243.55/debug.dbg
 http://89.116.20.194:81/sh4
+http://89.116.20.194:81/i486
 http://93.123.109.218/pmips
 http://93.123.109.218/pmpsl
 http://93.123.109.218/bins/yarn
@@ -2594,7 +2603,6 @@ http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
 http://78.70.203.243:56414/bin.sh
-http://119.148.103.214:37559/i
 http://ecs-124-70-158-53.compute.hwclouds-dns.com/1.exe
 http://177.70.102.232:8090/info.zip
 http://222.239.87.50:8020/info.zip
@@ -3775,7 +3783,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/28%2003%202025/
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/06%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/08%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/30%2001%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/20%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/26%2002%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/05%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/27%2004%202025/info.zip
@@ -3825,7 +3832,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/31%2003%20
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/22%2005%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/R-02-RADIOLE/18%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/01%2003%202025/info.zip
-http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/12%2003%202025/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/TEMP/TEMP/TEMP/TEMP/TEMP/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/30%2012%202024/info.zip
 http://132.red-81-42-249.staticip.rima-tde.net:1080/SER%20Costa%20Luz/10%2001%202025/info.zip
@@ -4187,7 +4193,6 @@ http://43.136.94.178:8888/WxWorkApis.dll
 http://106.53.72.33:8888/WxWorkApis.dll
 http://43.136.51.89:8888/WxWorkApis.dll
 http://106.53.72.33:8888/WxWorkMultiOpen.exe
-http://175.178.251.212:8888/WxWorkApis.dll
 http://175.24.81.152:8888/WxWorkApis.dll
 http://124.220.78.172:8888/WxWorkApis.dll
 http://42.193.115.114:8888/WxWorkApis.dll
@@ -4594,6 +4599,7 @@ http://190.214.55.142:23120/i
 http://181.199.86.79:32837/i
 http://217.64.135.53:63442/i
 http://2.55.90.62:802/sshd
+https://celebratingseniors.net/rate.zip
 https://celebratingseniors.net/rats.zip
 https://celebratingseniors.net/oste.zip
 http://195.95.253.86:44754/i
@@ -4669,7 +4675,6 @@ http://2.54.83.155:802/sshd
 http://47.242.224.97:60147/linux
 http://jakestrack.com/fsps.zip
 https://upgradegc.com/rsrs.zip
-http://120.24.206.137:81/02.08.2022.exe
 http://88.8.22.161:10010/sshd
 http://62.56.207.27:55229/.i
 http://213.209.150.107/ohshit.sh
@@ -5178,7 +5183,6 @@ http://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-msvc-win64.
 http://github.com/vinhuptoday/testbn/raw/refs/heads/main/brbotnet.exe
 http://fz.tiansys.cn:85/TianSys(XP%E4%B8%93%E7%94%A8).exe
 http://github.com/disbalancer-project/main/releases/latest/download/disbalancer-go-client-windows-386.exe
-http://52mj.susuwei.cn:8090/game/ysjyx880.exe?tk=UjYxMzYlVzN3UTYwUmY0QWOmdDMyYTOzQWO1gDO0QDN852b812bj5CM2MTaopXaixHN1IDNzcjM5YTM
 http://42.194.150.118:7789/images/TP.exe
 http://45.91.133.59/client/update.exe
 http://github.com/cosmicdevv/Icarus-Lite/releases/download/v1.1.13/IcarusLite-v1.1.13-win.exe
@@ -8461,6 +8465,7 @@ http://188.150.21.103:60199/Mozi.m
 https://www.tdejb.com/ef/ef.bin
 https://www.tdejb.com/ef/Skifterne.sea
 http://c3poolbat.oss-accelerate.aliyuncs.com/c3pool/xmrig.exe
+https://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/231DD3BD495A42B6A479FB7F210BA69B.exe
 http://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/231DD3BD495A42B6A479FB7F210BA69B.exe
 https://zlonline.oss-cn-shenzhen.aliyuncs.com/web/img/090CC5C1A5DC444DBEB0099F36F74657.dll
 https://uyul.oss-cn-beijing.aliyuncs.com/in/1229.dll
@@ -9256,6 +9261,7 @@ https://annadegismen.com/js/jowhkb.js
 https://annadegismen.com/js/chmuob.js
 https://annadegismen.com/js/cinmfx.js
 https://annadegismen.com/js/fhqvas.js
+https://annadegismen.com/js/rsmupb.js
 https://annadegismen.com/js/obinaf.js
 https://annadegismen.com/js/pwxzmg.js
 https://annadegismen.com/js/lisyxb.js
@@ -10812,6 +10818,7 @@ http://125.186.91.61/Photo.scr
 http://83-87-76-41.cable.dynamic.v4.ziggo.nl/Photo.scr
 http://83.87.76.41/Photo.scr
 http://softbank126023203236.bbtec.net/Photo.scr
+http://host-195-103-203-106.business.telecomitalia.it/Photo.scr
 http://host-95-255-114-11.business.telecomitalia.it/Photo.scr
 http://89.184.185.198:4443/tftp
 http://185.224.107.4:8580/tftp
@@ -11080,7 +11087,6 @@ http://165.73.108.6:8028/sshd
 http://149.62.200.106:37778/sshd
 http://118.69.157.212:9112/sshd
 http://178.176.204.250:84/sshd
-http://41.71.51.243:8080/sshd
 http://89.31.226.224:8085/sshd
 http://178.176.204.240:84/sshd
 http://99.71.130.109:8049/sshd
@@ -11109,6 +11115,7 @@ http://74.72.72.247:50872/sshd
 http://86.120.181.49:6203/sshd
 http://86.120.181.49:6202/sshd
 http://94.241.90.73:3026/sshd
+http://31.173.70.100:86/sshd
 http://193.160.10.213:59783/sshd
 http://174.71.237.86:1102/sshd
 http://113.160.251.236:8080/sshd
@@ -11464,7 +11471,6 @@ http://36.93.219.59:20564/.i
 http://94.52.86.60:27955/.i
 http://212.18.223.229:40464/.i
 http://190.129.2.198:24944/.i
-http://217.218.235.202:17134/.i
 http://188.44.110.215:60566/.i
 http://81.211.8.190:4346/.i
 http://202.191.123.196:27033/.i
@@ -12425,7 +12431,6 @@ https://files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da
 http://data.kaoyany.top/2018/06/201806065969_1243.doc
 https://codeload.github.com/MeteorAdminz/hidden-tear/zip/master
 http://razorcrypter.com/rapidtables.txt
-http://fakers.co.jp/20.06.2019_130.22.doc
 http://www.opolis.io/Opolis.exe
 http://old.bullydog.com/domains/updateagent/Application%20Files/UpAgent.exe
 http://tcgroup.com.au/MONEX%20Swift%20_11.06.2019.exe
@@ -12459,6 +12464,7 @@ http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
 http://softdl2.360tpcdn.com/tomatoleizhutizy/tomatoleizhutizy.exe
 http://p5.zbjimg.com/task/2011-03/27/pub/4d8ee54db371e.zip
 http://jeantetfamily.com/nbYKX-tuyPjfD9eJIDLdI_GSUQXuUwr-SJM/p0toi-wvvspg-pzauhekva/
+http://flyingmutts.com/stats/f06bn-kgh24-ncoviajp/
 http://www.teknotown.com/wp-admin/d96m-5kduyd-gmzsf.view/
 http://local-update.com/RawabiJob.hta
 http://mitreart.com/za.ebali
