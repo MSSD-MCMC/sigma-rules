@@ -1,3 +1,17 @@
+http://42.232.48.132:58512/bin.sh
+http://119.116.69.105:49399/bin.sh
+http://123.5.181.164:38986/bin.sh
+http://61.53.94.189:58137/i
+http://42.59.239.38:49807/i
+http://42.224.41.6:47928/bin.sh
+http://125.26.202.14:35202/bin.sh
+http://42.232.239.19:48186/i
+http://123.146.247.197:47027/i
+http://123.8.29.128:52125/i
+http://61.53.94.189:58137/bin.sh
+http://42.177.186.6:54481/bin.sh
+http://42.232.239.19:48186/bin.sh
+http://123.146.247.197:47027/bin.sh
 http://176.123.2.48/hiddenbin/Space.x86_64
 http://123.8.29.128:52125/bin.sh
 http://176.123.2.48/hiddenbin/Space.arm7
@@ -516,6 +530,7 @@ http://81.26.81.68:52271/i
 http://42.53.121.46:47553/bin.sh
 http://111.127.224.25:55676/i
 http://111.127.224.25:55676/bin.sh
+http://112.255.1.166:53979/i
 http://221.203.234.47:58667/i
 http://94.159.109.191/main_x86_64
 http://94.159.109.191/main_sh4
@@ -576,6 +591,7 @@ http://196.251.69.129/test.sh
 http://196.251.69.129/z/asd
 http://196.251.69.129/vc
 http://196.251.69.129/linksys
+http://196.251.69.129/z/fb
 http://196.251.69.129/z/aaa
 http://196.251.69.129/z/linksys
 http://196.251.69.129/toto
@@ -833,6 +849,7 @@ http://196.251.114.66/spc
 http://196.251.114.66/z/ppc
 http://196.251.114.66/z/arm6
 http://196.251.114.66/debug.dbg
+http://196.251.114.66/x86
 http://196.251.114.66/arm
 http://196.251.114.66/arm5
 http://196.251.114.66/z/mips
@@ -1242,7 +1259,6 @@ http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
-http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
@@ -1253,7 +1269,6 @@ http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
-http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -1264,7 +1279,6 @@ http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
@@ -1549,7 +1563,6 @@ http://194.156.79.210/hiddenbin/boatnet.spc
 http://194.156.79.210/hiddenbin/boatnet.mpsl
 http://194.156.79.210/hiddenbin/boatnet.x86_64
 http://194.156.79.210/hiddenbin/boatnet.arc
-http://91.92.70.36/main_x86
 http://91.92.70.36/main_arm7
 http://194.156.79.210/ohshit.sh
 http://194.156.79.210/hiddenbin/boatnet.x86
@@ -1590,7 +1603,6 @@ http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4
 http://196.251.118.39/001010101010010110101011101010101101010111010101/debug
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
-http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://196.251.118.170/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
@@ -2299,6 +2311,7 @@ https://city.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://camp.organzoperate.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://crew.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
+https://cast.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://book.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://city.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 https://dive.organzoperate.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
@@ -2496,6 +2509,7 @@ http://198.55.98.107/main_arm7
 http://198.55.98.107/main_x86
 http://198.55.98.107/main_mpsl
 http://198.55.98.107/main_arm6
+http://198.55.98.107/main_arm5
 http://198.55.98.107/main_sh4
 http://198.55.98.107/main_m68k
 http://198.55.98.107/main_arm
@@ -2557,6 +2571,7 @@ http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
 http://78.70.203.243:56414/bin.sh
 http://119.148.103.214:37559/i
+http://ecs-124-70-158-53.compute.hwclouds-dns.com/1.exe
 http://177.70.102.232:8090/info.zip
 http://222.239.87.50:8020/info.zip
 http://110.227.197.204/info.zip
@@ -2601,8 +2616,8 @@ http://77.90.153.137/g
 http://77.90.153.137/v
 http://196.251.69.112/z/89/sh4
 http://196.251.69.112/z/89/x86_64
-http://196.251.69.112/z/89/m68k
 http://196.251.69.112/z/89/mips
+http://196.251.69.112/z/e
 https://intelligentopennetworkingawards.com/ghostgera/
 http://185.156.73.52/02.08.2022.exe
 http://46.236.65.58:56051/i
@@ -4954,6 +4969,7 @@ http://8.134.199.119/wj/vcruntime140.dll
 https://raw.githubusercontent.com/zxc5wezxc/new/main/dllbase64reverse.txt
 https://raw.githubusercontent.com/androidmalware/android_hid/f25d0234cff288ab8384689685e37b1b4bbaf2ba/test.exe
 http://github.com/monkeyadece/v-f/releases/download/1.4.2/Vector-fixer-v1.4.2.exe
+http://public.demo.securecloudsandbox.com/ui.exe
 http://github.com/lbormann/darts-gif/releases/download/v1.1.0/darts-gif.exe
 http://github.com/lbormann/darts-pixelit/releases/download/v1.2.2/darts-pixelit.exe
 http://github.com/lbormann/darts-wled/releases/download/v1.8.1/darts-wled.exe
@@ -8925,6 +8941,7 @@ https://annadegismen.com/js/jnfica.js
 https://annadegismen.com/js/nhoiwl.js
 https://annadegismen.com/js/wmxrlh.js
 https://annadegismen.com/js/jiurtg.js
+https://annadegismen.com/js/oyhixg.js
 https://annadegismen.com/js/unpagw.js
 https://annadegismen.com/js/tmvhgx.js
 https://annadegismen.com/js/qugkmx.js
@@ -9571,6 +9588,7 @@ http://annadegismen.com/js/mbfnwq.js
 http://annadegismen.com/js/vjyzld.js
 http://annadegismen.com/js/wegpvo.js
 http://annadegismen.com/js/lqmbvz.js
+http://annadegismen.com/js/nhsylg.js
 http://annadegismen.com/js/ucxlfi.js
 http://annadegismen.com/js/cinmfx.js
 http://annadegismen.com/js/rkvabp.js
@@ -12388,7 +12406,6 @@ https://raw.githubusercontent.com/fuzzbunch/fuzzbunch/master/payloads/Doublepuls
 https://raw.githubusercontent.com/BeRo1985/berotinypascal/e34bd4164f4b7c27e7cf667dffd9274d33d6dfbe/bin/btpc.exe
 http://vincentdemiero.com/documeynt9897.zip
 http://vincentdemiero.com/fvs.zip
-http://www.chenwangqiao.com/wordpress/wp-lm9-32/
 http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
@@ -12447,7 +12464,6 @@ http://www.caravella.com.br/arquivos/nfe.sfx.exe
 http://caravella.com.br/arquivos/nfe.sfx.exe
 http://nerve.untergrund.net/releases/zorke_release/zorke_asciiverter_v1.00/zke-ascv.exe
 http://nerve.untergrund.net/releases/12.2013/nrv-ppwr.zip
-http://chiptune.com/razor/rzr-winner_intro.zip
 http://nerve.untergrund.net/releases/zorke_release/zorke_nfo_file_viewer_v1.00/zke-nfoview.exe
 https://itcomsrv.kz/wp-content/DOC/g1gc04s1woz64tp6ugkcifwtu7pk0_l0pue-9898692635/
 http://goto.stnts.com/eypipe/pipefile/adpopup/adpopup_1382523956.exe
