@@ -1,3 +1,8 @@
+http://27.37.112.84:53193/bin.sh
+http://180.191.16.191:46927/i
+http://123.14.195.180:54225/bin.sh
+http://180.191.16.191:46927/bin.sh
+http://123.4.45.74:48885/bin.sh
 http://42.85.170.148:55475/i
 http://61.140.45.89:40245/i
 http://115.52.31.50:52085/i
@@ -466,7 +471,6 @@ http://87.121.84.83/gpon443
 http://87.121.84.83/bins/firearm.sh4
 http://87.121.84.83/huawei
 http://120.46.72.74:666/02.08.2022.exe
-http://140.143.194.26:3389/02.08.2022.exe
 http://137.131.24.201:8080/02.08.2022.exe
 http://117.72.218.179:803/02.08.2022.exe
 http://47.109.83.84:18180/02.08.2022.exe
@@ -1113,7 +1117,6 @@ http://112.255.28.155:37173/i
 http://196.251.80.14/main_x86
 http://94.156.152.152/i686
 http://94.156.152.152/ppc
-http://196.251.80.14/main_sh4
 http://196.251.80.14/main_m68k
 http://196.251.80.14/main_arm6
 http://196.251.80.14/debug.dbg
@@ -1309,7 +1312,6 @@ http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://175.174.100.92:46146/bin.sh
 http://www.fasdv.duckdns.org/huhu/titanjr.arc
@@ -1691,7 +1693,6 @@ http://196.251.116.34/bins/morte.arm5
 http://196.251.116.34/bins/morte.arc
 http://196.251.116.34/bins/morte.mips
 http://196.251.116.34/bins/morte.arm7
-http://196.251.116.34/bins/morte.arm6
 http://196.251.116.34/bins/morte.m68k
 http://196.251.116.34/bins/morte.arm
 http://196.251.116.34/bins/morte.spc
@@ -2601,7 +2602,6 @@ http://102.22.217.120:60020/i
 http://188.150.45.193:51451/bin.sh
 http://212.57.109.75:64871/i
 https://iiiconstruction.net/DOUrVSItY187.bin
-http://lomejordesalamanca.es/chrome_134.exe
 http://213.209.150.18/Mm5njCjtExPunNp1j.exe
 https://hotellacastellana.com.uy/3/2.txt
 https://hotellacastellana.com.uy/3/1.txt
@@ -4939,6 +4939,7 @@ http://101.58.146.184:9454/.i
 http://125.139.206.224:20369/.i
 http://47.252.11.60:60126/linux
 http://110.4.13.252:25937/.i
+http://79.127.101.143:54822/.i
 http://71.15.96.217:65214/.i
 http://95.153.244.164:58315/bin.sh
 https://stealer.cy/psc?uid=12%5E
@@ -5198,6 +5199,7 @@ https://43.139.207.11/02.08.2022.exe
 http://114.96.89.69:8088/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
+https://84.21.172.89:57843/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
@@ -5475,7 +5477,6 @@ https://github.com/kannankannanA/FiveM-Mod-Menu/releases/download/v2.0/Applicati
 https://github.com/Nuriia-I/Palia-Script/releases/download/anisoin/Palia-Script_anisoin.zip
 https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases/download/3.5.2/release-marvel-rivals-2025-hack-3-5-2.zip
 https://raw.githubusercontent.com/devpev777/d/refs/heads/main/r.msi
-http://8.140.239.162:81/02.08.2022.exe
 http://196.1.187.122:60247/i
 http://110.4.13.252:25937/i
 http://213.92.253.179:39020/i
@@ -8105,6 +8106,7 @@ http://85.204.104.159:17159/i
 http://36.92.188.82:40111/i
 http://46.236.65.143:55111/i
 http://195.158.88.156:13509/i
+http://146.196.122.95:1997/i
 http://114.31.8.22:65481/i
 http://85.204.104.159:17159/.i
 http://117.72.36.133/zddtxxyxb.zip
@@ -8166,6 +8168,7 @@ https://github.com/Grozniy1/folder/raw/refs/heads/main/444.exe
 https://github.com/sesafvr/ayo/raw/refs/heads/main/Client-built.exe
 https://raw.githubusercontent.com/fhebngndsg/thefunny/refs/heads/main/Client-built.exe
 https://raw.githubusercontent.com/coluich/yaf/refs/heads/main/Windows12.exe
+https://github.com/FelikzIG/WDT/raw/refs/heads/main/CollosalLoader.exe
 https://github.com/M4HVH2/dwadwa/raw/refs/heads/main/Client-built.exe
 https://github.com/1337Breaker1337/password/raw/refs/heads/main/Client-built.exe
 https://github.com/mohammedsalmannnnnnn/laughing-train/raw/refs/heads/main/Client-built.exe
@@ -8890,6 +8893,7 @@ https://annadegismen.com/js/jtcqge.js
 https://annadegismen.com/js/fmxscl.js
 https://annadegismen.com/js/wlnoku.js
 https://annadegismen.com/js/mqpbho.js
+https://annadegismen.com/js/qlzjfg.js
 https://annadegismen.com/js/pnescq.js
 https://annadegismen.com/js/qduize.js
 https://annadegismen.com/js/fdrqhv.js
@@ -9052,6 +9056,7 @@ https://annadegismen.com/js/yvhuwf.js
 https://annadegismen.com/js/xijzwd.js
 https://annadegismen.com/js/ysgnkf.js
 https://annadegismen.com/js/cfwbmd.js
+https://annadegismen.com/js/gseatn.js
 https://annadegismen.com/js/cnvlhd.js
 https://annadegismen.com/js/inercb.js
 https://annadegismen.com/js/wjnalk.js
@@ -10040,7 +10045,6 @@ http://github.com/quasar/Quasar/releases/download/v1.4.1/Quasar.v1.4.1.zip
 https://raw.githubusercontent.com/Da2dalus/The-MALWARE-Repo/refs/heads/master/RAT/NJRat.exe
 https://raw.githubusercontent.com/mestalic/site/refs/heads/main/file.exe
 http://210.56.13.114/sample.hta
-http://43.252.159.216:4004/tftp
 http://185.152.219.150:8182/tftp
 http://146.0.42.82/hs.exe
 http://146.0.42.82/kg.exe
@@ -10358,6 +10362,7 @@ http://110.34.7.5:48764/Mozi.m
 http://183.81.156.121:12929/Mozi.m
 http://78.30.234.163:54495/Mozi.m
 http://88.116.62.226:52714/Mozi.m
+http://113.214.56.232:15053/Mozi.m
 http://82.193.120.99:4958/Mozi.m
 http://178.211.135.170:12768/Mozi.m
 http://46.151.56.42:28186/Mozi.m
