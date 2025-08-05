@@ -1,3 +1,13 @@
+http://117.205.169.92:49889/bin.sh
+http://42.52.192.2:60046/bin.sh
+http://116.140.166.194:48146/bin.sh
+http://42.224.65.180:52143/bin.sh
+http://182.116.122.150:55965/bin.sh
+http://42.236.238.63:58753/bin.sh
+http://42.224.144.108:48222/i
+http://27.220.242.105:58674/bin.sh
+http://112.239.113.232:46452/i
+http://175.147.157.206:48973/i
 http://115.57.71.119:42882/i
 http://42.224.144.108:48222/bin.sh
 http://123.5.169.92:56199/i
@@ -310,7 +320,6 @@ http://89.213.174.230/bin/boatnet.i686
 http://89.213.174.230/bin/boatnet.mpsl
 http://89.213.174.230/bin/boatnet.mips
 http://89.213.174.230/bin/boatnet.i386
-http://89.213.174.230/bin/boatnet.x86
 http://89.213.174.230/bin/boatnet.arm
 http://83.150.218.182/GodAge3ATOarm5
 http://77.110.103.214:8765/download.exe
@@ -346,6 +355,7 @@ http://115.63.49.99:55745/i
 http://115.63.49.99:55745/bin.sh
 http://42.239.142.177:45419/i
 http://61.53.88.180:58599/i
+http://61.53.88.180:58599/bin.sh
 http://42.239.142.177:45419/bin.sh
 http://39.90.144.116:53285/i
 http://42.54.141.70:52164/i
@@ -646,6 +656,7 @@ http://92.41.159.95:8084/sshd
 http://196.251.85.171/main_x86
 http://196.251.85.171/main_sh4
 http://196.251.85.171/main_arm5
+http://196.251.85.171/main_arm7
 http://196.251.85.171/debug.dbg
 http://196.251.85.171/main_mips
 http://222.141.132.213:46804/i
@@ -1046,7 +1057,6 @@ http://42.55.38.153:55810/i
 http://196.251.114.80/bins/sora.mips
 http://196.251.114.80/bins/sora.mpsl
 http://196.251.114.80/bins/sora.arm7
-http://196.251.114.80/bins/sora.sh4
 http://196.251.114.80/bins/sora.spc
 http://196.251.114.80/bins/sora.ppc
 http://42.55.38.153:55810/bin.sh
@@ -2017,6 +2027,7 @@ http://vipcncnetwork.com/bins/morte.x86_64
 http://vipcncnetwork.com/bins/morte.mips
 http://vipcncnetwork.com/1.sh
 http://vipcncnetwork.com/bins/morte.mpsl
+http://vipcncnetwork.com/bins/morte.arm
 http://vipcncnetwork.com/c.sh
 http://45.144.137.60:8457/02.08.2022.exe
 http://178.131.64.251:58813/i
@@ -2141,7 +2152,6 @@ http://xnhauvietnam.vietnamddns.com/mips
 http://xnhauvietnam.vietnamddns.com/ppc
 http://confeccionescoinffaa.cl/tu.bin
 http://confeccionescoinffaa.cl/tuk.bin
-http://42.193.4.115:6666/02.08.2022.exe
 http://177.247.2.226:48894/i
 http://193.242.149.32:38302/i
 http://61.2.45.191:2001/sshd
@@ -2214,7 +2224,6 @@ http://213.232.114.169/powerpc
 http://43.241.110.206:62952/.i
 http://177.70.102.228:8070/info.zip
 https://images.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
-https://hr.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://docs.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://eu.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://vpn.silk-gen.com/bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -2274,7 +2283,6 @@ http://31.129.22.45/scstager.mp4
 http://rtost.duckdns.org/mimicr/stel.exe
 http://rtost.duckdns.org/mimicr/gcide.exe
 http://rtost.duckdns.org/mimicr/clper.exe
-http://47.108.63.64:7787/02.08.2022.exe
 http://95.47.176.138:50119/i
 http://41.211.101.107:26334/i
 http://112.78.43.109:55492/i
@@ -2505,7 +2513,6 @@ http://185.253.75.188:81/cata2.jpg
 http://119.29.147.3:8888/WxWorkMultiOpen.exe
 http://198.55.98.107/main_mips
 http://198.55.98.107/main_x86_64
-http://198.55.98.107/main_x86
 http://198.55.98.107/main_mpsl
 http://198.55.98.107/main_arm6
 http://198.55.98.107/main_sh4
@@ -4850,7 +4857,6 @@ http://132.red-81-42-249.staticip.rima-tde.net:1080/Video.scr
 https://stonecradle.com/wp/wex.gif
 https://bitbucket.org/sansebas/sdsd/downloads/01Citaci%C3%B3n_personal_demanda_virtual_juzgado_penal_de_circuito_de.zip
 http://36.94.37.236:54251/i
-http://181.177.143.51:64994/i
 http://42.200.207.90/386
 http://42.200.207.90/arm
 http://31.170.22.205/dl202
@@ -5007,6 +5013,7 @@ http://121.171.162.63:17945/.i
 http://123.240.130.119:28866/.i
 http://121.181.234.240:59928/.i
 http://95.83.158.46:52175/.i
+http://2.179.184.17:55147/.i
 http://118.233.240.6:20511/.i
 http://47.86.28.47:60131/linux
 http://81.23.169.236:64004/.i
@@ -8147,6 +8154,7 @@ http://114.31.8.22:65481/i
 http://202.4.101.78:36786/i
 http://85.204.104.159:17159/.i
 http://117.72.36.133/zddtxxyxb.zip
+https://upchemicals.co.in/test/cgi-bin/MR_BEAN/ALL_BEAN
 https://upchemicals.co.in/test/cgi-bin/MR_BEAN/Pure_Bean
 http://200.14.250.72/BLJYSVHW/info.zip
 http://200.14.250.72/BLJYSVHW/IMG001.exe
@@ -8337,6 +8345,7 @@ http://93.117.75.7:8080/sshd
 http://2.54.89.174:802/sshd
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 https://c0e5b87c.solaraweb-alj.pages.dev/download/static/files/BootstrapperNew.exe
+http://8.140.239.162/02.08.2022.exe
 http://121.121.71.113:31863/i
 http://190.220.229.49:12646/i
 http://31.185.103.48:54941/i
@@ -8383,7 +8392,6 @@ https://83.229.122.83/02.08.2022.exe
 http://185.148.3.216/fdiuIoijofgrg
 https://raw.githubusercontent.com/Nvcommander2/Allgens/refs/heads/main/msgde.exe
 http://qlqd5zqefmkcr34a.onion.sh/win/checking.hta
-http://mandarin.net.au/htaaa.hta
 https://raw.githubusercontent.com/ryycheats/EZFN-CHEATS-V2/refs/heads/main/EZFN%20op%20cheats.exe
 http://185.143.139.113:2220/sshd
 http://185.143.139.113:2221/sshd
@@ -9037,7 +9045,6 @@ https://annadegismen.com/js/lkcwbp.js
 https://annadegismen.com/js/wpglyv.js
 https://annadegismen.com/js/ilgesm.js
 https://annadegismen.com/js/ynjsml.js
-https://annadegismen.com/js/ckhvft.js
 https://annadegismen.com/js/nwbgvc.js
 https://annadegismen.com/js/ijermv.js
 https://annadegismen.com/js/ieubhk.js
@@ -9316,6 +9323,7 @@ https://annadegismen.com/js/pwxzmg.js
 https://annadegismen.com/js/lisyxb.js
 https://annadegismen.com/js/vwqrbd.js
 https://annadegismen.com/js/cjtvmy.js
+https://annadegismen.com/js/njrtbu.js
 https://annadegismen.com/js/xvtwbp.js
 https://annadegismen.com/js/mwsknf.js
 https://annadegismen.com/js/rpbgfz.js
@@ -9945,7 +9953,6 @@ http://132.255.117.198:64574/i
 https://raw.githubusercontent.com/Erez-Goldberg/Rust-reverse-shell/main/shellcode.bin
 http://103.247.218.186:49052/i
 http://103.162.59.217:38340/i
-http://armanayegh.com/readme/glued.hta
 http://armanayegh.com/readme/bin.exe
 http://101.133.156.69:7777/frpc.exe
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
@@ -10442,6 +10449,7 @@ http://193.169.146.186:61643/Mozi.m
 http://84.36.25.50:64488/Mozi.m
 http://113.214.56.228:41018/Mozi.m
 http://89.28.58.132:37382/Mozi.m
+http://103.82.211.164:45793/Mozi.m
 http://202.53.164.46:35803/Mozi.m
 http://188.137.36.53:44689/Mozi.m
 http://63.78.214.18:33536/Mozi.m
@@ -11832,6 +11840,7 @@ http://178.170.251.9:26895/i
 http://178.210.50.116:39572/i
 http://37.57.33.51:49049/i
 http://37.157.212.138:58474/i
+http://154.126.170.119:13722/i
 http://103.4.147.109:12215/i
 http://36.66.139.36:53736/i
 http://114.7.160.114:47530/i
@@ -11973,6 +11982,7 @@ http://81.16.123.55:41567/Aqua.sh4
 http://81.16.123.55:41567/Aqua.i686
 http://67.78.106.21:55731/o
 http://36.67.66.178:23987/o
+http://81.16.123.55:41567/Aqua.arm7
 http://81.16.123.55:41567/o
 http://79.120.54.194:15151/bin.sh
 http://79.120.54.194:15151/o
