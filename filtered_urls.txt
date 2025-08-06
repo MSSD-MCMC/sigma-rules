@@ -1,3 +1,20 @@
+http://113.74.13.180:60827/bin.sh
+http://113.218.240.68:40787/bin.sh
+http://115.58.91.174:50751/bin.sh
+http://77.53.43.185:36873/i
+http://61.52.73.244:36423/i
+http://202.169.234.32:45844/i
+http://182.121.153.183:48150/i
+http://125.41.74.87:34180/bin.sh
+http://42.179.3.171:60192/bin.sh
+http://112.226.49.226:46622/i
+http://125.43.80.159:39316/i
+http://88.247.16.4:45089/Mozi.m
+http://123.129.132.25:48552/i
+http://117.209.19.66:34751/i
+http://164.163.25.141:51741/i
+http://219.156.33.85:60340/i
+http://183.156.180.81:53939/i
 http://113.195.121.4:49837/bin.sh
 http://222.141.97.95:55349/i
 http://183.156.180.81:53939/bin.sh
@@ -563,7 +580,6 @@ http://182.126.127.176:58862/i
 http://27.153.144.112:60830/bin.sh
 http://60.211.60.135:33993/bin.sh
 http://99.237.150.124:5501/64/67.exe
-http://99.237.150.124:5501/free/free.exe
 http://182.126.127.176:58862/bin.sh
 http://60.22.44.100:36719/i
 http://60.22.44.100:36719/bin.sh
@@ -1169,7 +1185,6 @@ http://burger042.ddnsfree.com/z/mips
 http://burger042.ddnsfree.com/z/sh4
 http://196.251.114.66/z/m68k
 http://196.251.114.66/z/89/arm6
-http://196.251.114.66/rtz
 http://196.251.114.66/z/x86_64
 http://196.251.114.66/arm6
 http://196.251.114.66/z/89/mpsl
@@ -1227,6 +1242,7 @@ http://196.251.114.80/bins/sora.mips
 http://196.251.114.80/bins/sora.arm5
 http://196.251.114.80/bins/sora.mpsl
 http://196.251.114.80/bins/sora.arm7
+http://196.251.114.80/bins/sora.x86
 http://196.251.114.80/bins/sora.arm
 http://196.251.115.36/massload
 http://185.136.193.142:39776/i
@@ -1258,7 +1274,6 @@ http://42.56.197.126:57870/bin.sh
 http://42.87.168.56:35033/i
 http://123.189.168.246:45641/bin.sh
 http://42.52.226.219:48271/i
-http://42.87.168.56:35033/bin.sh
 http://175.151.107.159:46678/bin.sh
 http://153.37.252.56:4440/.i
 http://42.54.156.22:42945/bin.sh
@@ -1336,6 +1351,7 @@ http://196.251.80.14/main_ppc
 http://196.251.80.14/main_arm5
 http://94.156.152.152/ppc
 http://196.251.80.14/main_arm6
+http://196.251.80.14/debug.dbg
 http://196.251.80.14/main_arm7
 http://94.156.152.152/sh4
 http://94.156.152.152/arm4
@@ -1547,7 +1563,6 @@ http://vmklsfdv.duckdns.org/huhu/titanjr.spc
 http://savaswsd.duckdns.org/huhu/titanjr.ppc440
 http://www.fasdv.duckdns.org/huhu/titanjr.m68k
 http://www.fasdv.duckdns.org/huhu/titanjr.mipsl
-http://savaswsd.duckdns.org/huhu/titanjr.x86_64
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.mipsl
 http://www.cvawrs.duckdns.org/huhu/titanjr.i486
 http://cvawrs.duckdns.org/huhu/titanjr.spc
@@ -1562,7 +1577,6 @@ http://vmklsfdv.duckdns.org/huhu/titanjr.arm
 http://asdfavae.duckdns.org/huhu/titanjr.sh4
 http://fasdv.duckdns.org/huhu/titanjr.ppc
 http://fasdv.duckdns.org/huhu/titanjr.x86_64
-http://savaswsd.duckdns.org/huhu/titanjr.mipsl
 http://cvawrs.duckdns.org/huhu/titanjr.i486
 http://vmklsfdv.duckdns.org/huhu/titanjr.mips
 http://www.fasdv.duckdns.org/huhu/titanjr.i486
@@ -2412,7 +2426,6 @@ http://171.239.67.98:59701/bin.sh
 http://220.158.234.135/x/vigor
 https://bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link/test.jpg?137113
 https://secure.third-domain.su/bin/support.client.exe?i=&e=Support&y=Guest&r=
-http://158.51.126.131/adb.sh
 http://158.51.126.131/zxc.sh
 http://158.51.126.131/b
 http://158.51.126.131/w
@@ -2446,6 +2459,7 @@ http://158.51.126.131/v/armv5l
 http://158.51.126.131/v/armv4l
 http://93.123.109.218/bins/pm68k
 http://198.55.98.107/main_spc
+http://101.43.27.138:50001/02.08.2022.exe
 http://1.94.239.203:9999/02.08.2022.exe
 http://197.89.38.83:8034/sshd
 http://102.212.60.172:8026/sshd
@@ -4750,6 +4764,8 @@ http://78.63.149.52:2707/i
 https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-static-x64.tar.gz
 http://77.45.77.84:29866/i
 http://43.249.172.195:888/21
+http://211.229.88.50:32107/i
+http://103.206.130.213:35745/i
 http://93.190.58.102:47419/i
 https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_linux_amd64_v2.8.0.tar.gz
 http://13.71.2.244/.x/pax.txt
@@ -5237,6 +5253,7 @@ https://www.khavar.com/GHDsdCBN124.bin
 http://101.43.91.156:18081/02.08.2022.exe
 http://31.170.22.205/dl16
 http://160.25.8.42:52088/i
+http://66.187.4.77/fish.m68k
 http://66.187.4.77/fish.x86_64
 http://66.187.4.77/fish.i686
 http://66.187.4.77/fish.mips64
@@ -9010,7 +9027,6 @@ https://annadegismen.com/js/uigzyq.js
 https://annadegismen.com/js/xzowjy.js
 https://annadegismen.com/js/vjtbmk.js
 https://annadegismen.com/js/tspwuj.js
-https://annadegismen.com/js/jhoxtn.js
 https://annadegismen.com/js/ylienp.js
 https://annadegismen.com/js/ropalb.js
 https://annadegismen.com/js/evfolp.js
@@ -9059,7 +9075,6 @@ https://annadegismen.com/js/uxsfql.js
 https://annadegismen.com/js/stwzbl.js
 https://annadegismen.com/js/lkcwbp.js
 https://annadegismen.com/js/wpglyv.js
-https://annadegismen.com/js/ilgesm.js
 https://annadegismen.com/js/ynjsml.js
 https://annadegismen.com/js/ckhvft.js
 https://annadegismen.com/js/nwbgvc.js
@@ -9092,7 +9107,6 @@ https://annadegismen.com/js/jaieho.js
 https://annadegismen.com/js/ergubk.js
 https://annadegismen.com/js/mnyrdf.js
 https://annadegismen.com/js/vqpfdh.js
-https://annadegismen.com/js/dsqvlp.js
 https://annadegismen.com/js/xonsry.js
 https://annadegismen.com/js/atodpl.js
 https://annadegismen.com/js/ybkela.js
@@ -9141,7 +9155,6 @@ https://annadegismen.com/js/acnqoe.js
 https://annadegismen.com/js/igbavd.js
 https://annadegismen.com/js/jvrept.js
 https://annadegismen.com/js/hpkynl.js
-https://annadegismen.com/js/geruvw.js
 https://annadegismen.com/js/pqyhgb.js
 https://annadegismen.com/js/obefmt.js
 https://annadegismen.com/js/rfsduy.js
@@ -9175,7 +9188,6 @@ https://annadegismen.com/js/ndekvz.js
 https://annadegismen.com/js/bcflxs.js
 https://annadegismen.com/js/nhtybe.js
 https://annadegismen.com/js/lqmbvz.js
-https://annadegismen.com/js/athbcw.js
 https://annadegismen.com/js/zcvefb.js
 https://annadegismen.com/js/ylmtcr.js
 https://annadegismen.com/js/eyfbaq.js
@@ -9191,7 +9203,6 @@ https://annadegismen.com/js/anhosv.js
 https://annadegismen.com/js/xdtmpf.js
 https://annadegismen.com/js/kewbaz.js
 https://annadegismen.com/js/ftdyqb.js
-https://annadegismen.com/js/dnmzaq.js
 https://annadegismen.com/js/bqivxc.js
 https://annadegismen.com/js/wachij.js
 https://annadegismen.com/js/cafxdu.js
@@ -9252,7 +9263,6 @@ https://annadegismen.com/js/uizjfa.js
 https://annadegismen.com/js/phafqz.js
 https://annadegismen.com/js/icwhtg.js
 https://annadegismen.com/js/nsdztx.js
-https://annadegismen.com/js/hcfbpe.js
 https://annadegismen.com/js/tzlpch.js
 https://annadegismen.com/js/kljdsp.js
 https://annadegismen.com/js/tukayh.js
@@ -9333,7 +9343,6 @@ https://annadegismen.com/js/zndrwm.js
 https://annadegismen.com/js/zsabth.js
 https://annadegismen.com/js/qivbdo.js
 https://annadegismen.com/js/gcbepw.js
-https://annadegismen.com/js/zsdpvi.js
 https://annadegismen.com/js/nsubfo.js
 https://annadegismen.com/js/ndesbu.js
 https://annadegismen.com/js/dumbnq.js
@@ -9343,7 +9352,6 @@ https://annadegismen.com/js/upefdg.js
 https://annadegismen.com/js/wdupyk.js
 https://annadegismen.com/js/mskbyg.js
 https://annadegismen.com/js/qaglhn.js
-https://annadegismen.com/js/nemuxy.js
 https://annadegismen.com/js/evktub.js
 https://annadegismen.com/js/ypufma.js
 https://annadegismen.com/js/gaxwco.js
@@ -9384,7 +9392,6 @@ https://annadegismen.com/js/gsklwf.js
 https://annadegismen.com/js/qgkljo.js
 https://annadegismen.com/js/xqbgec.js
 https://annadegismen.com/js/vromjb.js
-https://annadegismen.com/js/sbozjq.js
 https://annadegismen.com/js/vfakmu.js
 https://annadegismen.com/js/wfevmh.js
 https://annadegismen.com/js/bemzuh.js
@@ -9392,7 +9399,6 @@ https://annadegismen.com/js/tlsoch.js
 https://annadegismen.com/js/wfrtcn.js
 https://annadegismen.com/js/fnezgm.js
 https://annadegismen.com/js/fgjzlp.js
-https://annadegismen.com/js/jpkibs.js
 https://annadegismen.com/js/awtjki.js
 https://annadegismen.com/js/tsqyuk.js
 https://annadegismen.com/js/atdxug.js
@@ -9450,7 +9456,6 @@ http://annadegismen.com/js/zvwift.js
 http://annadegismen.com/js/dopvba.js
 http://annadegismen.com/js/uigzyq.js
 http://annadegismen.com/js/yhcoms.js
-http://annadegismen.com/js/tspwuj.js
 http://annadegismen.com/js/qugkmx.js
 http://annadegismen.com/js/cotbjd.js
 http://annadegismen.com/js/tzokax.js
@@ -9487,7 +9492,6 @@ http://annadegismen.com/js/hmysqu.js
 http://annadegismen.com/js/vfakmu.js
 http://annadegismen.com/js/dwaehj.js
 http://annadegismen.com/js/zmrbvx.js
-http://annadegismen.com/js/nqcgyb.js
 http://annadegismen.com/js/ecalyt.js
 http://annadegismen.com/js/jezqcu.js
 http://annadegismen.com/js/ygwqnm.js
@@ -9496,7 +9500,6 @@ http://annadegismen.com/js/shlebq.js
 http://annadegismen.com/js/qefpth.js
 http://annadegismen.com/js/inercb.js
 http://annadegismen.com/js/uovxcl.js
-http://annadegismen.com/js/pmgyrd.js
 http://annadegismen.com/js/cgafnd.js
 http://annadegismen.com/js/rqdgsp.js
 http://annadegismen.com/js/ibgeaz.js
@@ -9553,7 +9556,6 @@ http://annadegismen.com/js/hmdjou.js
 http://annadegismen.com/js/qdkgmu.js
 http://annadegismen.com/js/lnpmqd.js
 http://annadegismen.com/js/xrajol.js
-http://annadegismen.com/js/youwtb.js
 http://annadegismen.com/js/ihqwvu.js
 http://annadegismen.com/js/zefhca.js
 http://annadegismen.com/js/balqsd.js
@@ -9639,7 +9641,6 @@ http://annadegismen.com/js/nsdztx.js
 http://annadegismen.com/js/nsubfo.js
 http://annadegismen.com/js/fqtdxe.js
 http://annadegismen.com/js/unxvws.js
-http://annadegismen.com/js/gseatn.js
 http://annadegismen.com/js/kawjhl.js
 http://annadegismen.com/js/xljwek.js
 http://annadegismen.com/js/mqpbho.js
@@ -9660,7 +9661,6 @@ http://annadegismen.com/js/xvtwbp.js
 http://annadegismen.com/js/cafxdu.js
 http://annadegismen.com/js/edfcjh.js
 http://annadegismen.com/js/rfliok.js
-http://annadegismen.com/js/mpwhqf.js
 http://annadegismen.com/js/phmvbs.js
 http://annadegismen.com/js/rfsduy.js
 http://annadegismen.com/js/idmclj.js
@@ -9744,7 +9744,6 @@ http://annadegismen.com/js/gaxwco.js
 http://annadegismen.com/js/znuyhv.js
 http://annadegismen.com/js/abdogi.js
 http://annadegismen.com/js/tpwqro.js
-http://annadegismen.com/js/wjnalk.js
 http://annadegismen.com/js/ukitdj.js
 http://annadegismen.com/js/udjzbl.js
 http://annadegismen.com/js/bemzuh.js
@@ -9801,7 +9800,6 @@ http://annadegismen.com/js/ipdaco.js
 http://annadegismen.com/js/fgejix.js
 http://annadegismen.com/js/rsbhal.js
 http://annadegismen.com/js/uxsfql.js
-http://annadegismen.com/js/otpgcj.js
 http://annadegismen.com/js/fdkrnb.js
 http://annadegismen.com/js/ndzbiy.js
 http://annadegismen.com/js/qpaywg.js
@@ -9819,7 +9817,6 @@ http://annadegismen.com/js/nfzacd.js
 http://annadegismen.com/js/ufxcid.js
 http://annadegismen.com/js/acnqoe.js
 http://annadegismen.com/js/qaglhn.js
-http://annadegismen.com/js/syabui.js
 http://annadegismen.com/js/vmjorn.js
 http://annadegismen.com/js/dybexn.js
 http://annadegismen.com/js/ueqyip.js
@@ -10847,7 +10844,6 @@ http://47.98.177.117:8888/supershell/compile/download/12.apk
 http://47.98.177.117:8888/supershell/compile/download/22.apk
 https://103.252.88.90/Npl.js
 https://www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
-http://80.210.27.206:65461/.i
 https://www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
 https://vodomer-service.ru/bitrix/cache/js/s1/kolibri_corppro/kernel_main/kernel_main_v1.js
 https://raw.githubusercontent.com/jijilovedada/jijilovedada/main/tools/cc/AdaptorOvernight.exe
@@ -12490,6 +12486,7 @@ http://vincentdemiero.com/fta.exe
 http://vincentdemiero.com/documeynt9897.zip
 http://vincentdemiero.com/fvs.zip
 http://www.chenwangqiao.com/wordpress/wp-lm9-32/
+http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
@@ -12559,7 +12556,6 @@ http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
 http://writerartist.com/images/1754808353/AVbq-NqP_gIPXnQ-IP/
 http://allister.ee/wp-includes/sec.myaccount.docs.biz/
-http://flyingmutts.com/secure.myacc.resourses.com/
 http://programandojuntos.us.tempcloudsite.com/I203611254B019514581.zip
 http://flyingmutts.com/corporation/New_invoice/1033530/HiJMQ-Jo_UQGwdlyF-8e/
 http://alarmline.com.br/artluz/produtos/sendincsec/support/sec/EN_en/03-2019/
@@ -12611,6 +12607,7 @@ http://cdn-10049480.file.myqcloud.com/jd/jd136.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 http://cdn-10049480.file.myqcloud.com/jd/jd137.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.1.17/fmt_01.exe
+http://divametalart.com/BcabYiW/
 http://www.divametalart.com/BcabYiW/
 http://www.myvcart.com/drop/css/obr.hta
 http://softdl4.360.cn/AutoGuarder/AutoGuarder_2.3.7.350.exe
@@ -12632,7 +12629,6 @@ http://static.3001.net/upload/20140812/14078161556897.rar
 http://okhan.net/soft/UploadFile/YOUXI/okhan.net-2wn.rar
 http://okhan.net/soft/UploadFile/ANQUAN/pjbingdianhuanyuan.rar
 http://artscreenstudio.ru/assets/Telekom/RechnungOnline/112018/
-http://itssprout.com/wp-includes/3
 http://itssprout.com/wp-includes/2
 http://itssprout.com/wp-includes/1
 http://p6.zbjimg.com/task/2010-11/17/pub/4ce336b4661fd.rar
