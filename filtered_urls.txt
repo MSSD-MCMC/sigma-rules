@@ -1,3 +1,16 @@
+http://222.140.64.230:35897/i
+http://182.121.185.50:51527/i
+http://182.113.6.41:36871/i
+http://182.112.95.241:47413/i
+http://176.226.208.41:54338/i
+http://182.112.95.241:47413/bin.sh
+http://85.102.140.63:53627/bin.sh
+http://88.247.16.4:45089/i
+http://182.121.233.234:49364/i
+http://112.239.113.80:37445/i
+http://221.14.37.12:40353/i
+http://85.102.140.63:53627/i
+http://119.116.238.246:40944/i
 http://182.121.185.50:51527/bin.sh
 http://113.229.178.145:49781/i
 http://112.93.136.103:49904/i
@@ -409,7 +422,6 @@ http://202.110.10.70:42121/bin.sh
 http://89.213.174.230/bin/boatnet.spc
 http://89.213.174.230/bin/boatnet.ppc
 http://89.213.174.230/bin/boatnet.arm7
-http://89.213.174.230/bin/boatnet.586
 http://89.213.174.230/bin/boatnet.i586
 http://89.213.174.230/bin/boatnet.i486
 http://89.213.174.230/bin/boatnet.arc
@@ -699,7 +711,6 @@ http://196.251.85.171/main_x86
 http://196.251.85.171/main_sh4
 http://196.251.85.171/main_arm6
 http://196.251.85.171/main_x86_64
-http://196.251.85.171/main_mips
 http://222.141.132.213:46804/i
 http://200.59.88.40:42871/i
 http://200.59.88.40:42871/bin.sh
@@ -727,6 +738,7 @@ http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4e
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
+http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
@@ -1203,6 +1215,7 @@ http://94.156.152.152/i686
 http://196.251.80.14/main_ppc
 http://196.251.80.14/main_arm5
 http://94.156.152.152/ppc
+http://196.251.80.14/main_m68k
 http://196.251.80.14/main_mips
 http://196.251.80.14/main_arm6
 http://196.251.80.14/main_x86_64
@@ -1220,7 +1233,6 @@ http://94.156.152.152/i486
 http://94.156.152.152/x86_64
 http://61.137.143.57:39598/i
 http://196.251.116.34/2.sh
-http://61.137.143.57:39598/bin.sh
 http://39.105.165.37/02.08.2022.exe
 http://143.92.39.50:8080/02.08.2022.exe
 http://180.97.220.91:8765/02.08.2022.exe
@@ -1711,7 +1723,6 @@ http://212.11.64.25/main_m68k
 http://212.11.64.25/main_ppc
 http://212.11.64.25/main_arm6
 http://212.11.64.25/main_arm7
-http://196.251.116.34/bins/morte.mpsl
 http://196.251.116.34/bins/morte.mips
 http://196.251.116.34/bins/morte.arm7
 http://196.251.116.34/bins/morte.ppc
@@ -2507,7 +2518,6 @@ http://47.238.228.19/12/DEL.bat
 http://47.238.228.19/12/WindowsPrvSE.exe
 http://47.238.228.19/12/Name.txt
 http://220.158.234.135/j/ppc1
-http://220.158.234.135/j/xale1
 http://220.158.234.135/x/realtek
 http://188.150.45.193:51451/bin.sh
 http://129.226.212.179:11111/02.08.2022.exe
@@ -4606,6 +4616,7 @@ http://183.91.77.253:19833/i
 http://87.119.108.21:40462/i
 http://84.236.147.129/sshd
 http://36.93.2.29:62352/i
+http://119.28.116.34/02.08.2022.exe
 http://91.247.124.188:8937/i
 http://94.28.95.35:60431/i
 http://5.228.153.222:13167/i
@@ -5104,6 +5115,7 @@ http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/
 http://47.113.217.92:8001/02.08.2022.exe
 http://156.19.57.50:24183/i
 https://192.159.99.195/bin//support.client.exe?i=&e=Support&y=Guest&r=
+http://123.200.12.186:1418/i
 https://www.khavar.com/GHDsdCBN124.bin
 http://101.43.91.156:18081/02.08.2022.exe
 http://31.170.22.205/dl16
@@ -10540,6 +10552,7 @@ http://27.147.132.114:38521/i
 http://31.223.60.33:38054/i
 http://175.211.219.57:42362/i
 http://178.211.135.170:12768/i
+http://47.254.74.170:13560/02.08.2022.exe
 http://106.15.224.147:36500/02.08.2022.exe
 https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
@@ -11651,7 +11664,6 @@ http://212.231.226.35:27102/i
 http://190.128.195.138:50368/i
 http://131.108.39.235:1237/i
 http://89.254.173.147:44386/i
-http://5.235.186.47:12396/i
 http://195.34.91.22:61437/i
 http://200.72.199.205:1542/i
 http://164.77.147.186:12652/i
@@ -12482,7 +12494,6 @@ http://igra123.com/files/update.exe
 http://haeum.nfile.net/files/haeum.exe
 http://down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
 http://static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
-http://p4man.com.br/Rechnungen/01_19/
 http://attach.mail.daum.net/bigfile/v1/urls/d/4QnWTDd-4XsuUy1XlRMzcibqJfU/IHdzYO55cuS7ds4lmMKxpA
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin128.exe
 http://cdn-10049480.file.myqcloud.com/qcoin/qcoin133.exe
