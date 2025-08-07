@@ -1,3 +1,14 @@
+http://221.15.91.143:55478/i
+http://42.232.229.72:52494/i
+http://42.56.136.27:55810/bin.sh
+http://184.171.219.84:56955/bin.sh
+http://115.48.134.98:51703/bin.sh
+http://221.15.91.143:55478/bin.sh
+http://175.173.85.56:46257/i
+http://112.248.187.118:33259/i
+http://59.95.95.44:45600/bin.sh
+http://175.175.214.66:33592/i
+http://175.173.85.56:46257/bin.sh
 http://42.232.229.72:52494/bin.sh
 http://182.127.37.154:46394/i
 http://112.248.187.118:33259/bin.sh
@@ -832,6 +843,7 @@ http://223.14.78.168:51050/bin.sh
 http://200.59.84.204:59714/bin.sh
 http://123.190.24.220:36210/i
 http://123.190.24.220:36210/bin.sh
+http://119.114.139.56:50657/i
 http://119.114.139.56:50657/bin.sh
 http://60.18.68.201:52451/i
 http://42.5.194.201:57567/i
@@ -879,7 +891,6 @@ http://178.183.125.31:8088/sshd
 http://178.183.125.31:8094/sshd
 http://94.255.232.166:59946/bin.sh
 http://42.6.128.51:51014/i
-http://116.10.132.190:45126/bin.sh
 http://27.220.242.105:58674/i
 http://175.173.78.146:48227/i
 http://42.180.140.25:41535/i
@@ -1091,10 +1102,12 @@ http://89.42.88.210/hiddenbin/boatnet.x86
 http://89.42.88.210/hiddenbin/boatnet.sh4
 http://89.42.88.210/hiddenbin/boatnet.mpsl
 http://89.42.88.210/hiddenbin/boatnet.arm6
+http://89.42.88.210/hiddenbin/boatnet.arm7
 http://196.251.114.63/bins/H0NEY.arc
 http://196.251.114.63/bins/H0NEY.x86
 http://196.251.114.63/bins/H0NEY.ppc
 http://196.251.114.63/bins/H0NEY.spc
+http://196.251.114.63/bins/H0NEY.arm5
 http://196.251.114.63/bins/H0NEY.arm7
 http://196.251.114.63/bins/H0NEY.mips
 http://196.251.114.63/bins/H0NEY.arm6
@@ -1280,6 +1293,7 @@ http://196.251.69.129/z/fdgsfg
 http://196.251.69.129/z/w.sh
 http://196.251.69.129/av.sh
 http://196.251.69.129/z/test.sh
+http://196.251.69.129/z/sdt
 http://196.251.69.129/z/b
 http://124.230.194.118:36913/i
 http://222.246.90.64:59726/i
@@ -1301,7 +1315,6 @@ http://196.251.114.66/xaxa
 http://196.251.114.66/aaa
 http://196.251.114.66/z/fb
 http://196.251.114.66/z/av.sh
-http://196.251.114.66/c.sh
 http://196.251.114.66/multi
 http://burger042.ddnsfree.com/av.sh
 http://burger042.ddnsfree.com/xaxa
@@ -1563,6 +1576,7 @@ http://42.53.15.44:55348/i
 http://42.53.15.44:55348/bin.sh
 http://39.69.88.184:55149/i
 http://196.251.114.80/bins/sora.mips
+http://196.251.114.80/bins/sora.spc
 http://196.251.114.80/bins/sora.x86
 http://196.251.114.80/bins/sora.m68k
 http://196.251.114.80/bins/sora.ppc
@@ -1751,7 +1765,6 @@ http://top1miku.duckdns.org/toto.sh
 http://top1miku.duckdns.org/c.sh
 http://77.90.153.62/dll.dll
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
-http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -2245,7 +2258,6 @@ http://103.188.83.28/mips
 http://167.160.161.247/v9d9d.exe
 http://58.22.95.122:6868/Video.scr
 http://113.205.13.153:48483/i
-http://49.232.159.121/02.08.2022.exe
 http://121.173.138.102:48076/i
 http://189.164.253.163:8729/sshd
 http://185.95.124.42/sshd
@@ -2408,6 +2420,7 @@ http://198.55.98.107/debug.dbg
 https://i.ibb.co/KjCy9KGh/02vCJ.png
 http://212.11.64.25/ohshit.sh
 http://163.5.63.17/UnHAnaAW.arm6
+http://163.5.63.17/UnHAnaAW.spc
 http://163.5.63.17/UnHAnaAW.arm7
 http://163.5.63.17/c.sh
 http://163.5.63.17/UnHAnaAW.m68k
@@ -2848,7 +2861,6 @@ http://220.158.234.135/j/xle0
 http://220.158.234.135/j/a4le1
 http://220.158.234.135/j/aale0
 http://196.251.69.112/l
-http://196.251.69.112/mi
 http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
@@ -2879,7 +2891,6 @@ http://213.209.150.18/Mm5njCjtExPunNp1j.exe
 https://hotellacastellana.com.uy/3/2.txt
 https://hotellacastellana.com.uy/3/1.txt
 http://196.251.69.112/g
-http://196.251.69.112/q
 http://196.251.69.112/rtz
 http://77.90.153.137/r
 http://77.90.153.137/k
@@ -3005,7 +3016,6 @@ http://162.215.218.82/install.tgz
 http://43.139.228.20:800/02.08.2022.exe
 http://194.54.160.182:5953/i
 http://46.236.65.11:45811/i
-http://106.52.6.128:801/02.08.2022.exe
 http://47.108.162.213/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
 http://45.141.233.66:443/02.08.2022.exe
@@ -3338,6 +3348,7 @@ http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy
 http://116.171.106.3:3435/tomcat8/work/Catalina/localhost/bfxt/org/apache/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/statistic/log/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/log/info.zip
+http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/statistic/unusual/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pda/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/static/images/new/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pda/WEB-INF/classes/com/info.zip
@@ -5208,6 +5219,7 @@ http://188.12.100.131:30261/.i
 http://37.156.8.131:31179/.i
 http://93.21.252.43:47572/.i
 http://203.203.88.151:16670/.i
+http://178.131.95.168:29463/.i
 http://47.86.1.37:60125/linux
 http://203.203.90.22:14961/.i
 http://220.81.58.40:31249/.i
@@ -5349,6 +5361,7 @@ https://107.150.0.138/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.166/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.228/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.183/////bin/support.client.exe?i=&e=Support&y=Guest&r=
+https://107.150.0.228/////bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.190/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.200/bin/support.client.exe?i=&e=Support&y=Guest&r=
 https://107.150.0.168/////bin/support.client.exe?i=&e=Support&y=Guest&r=
@@ -5848,6 +5861,7 @@ https://github.com/howlux40worthyfp4h/1af-StarWars-TheOldRepublicf/releases/down
 https://github.com/Uragon005/ai-chatbot-svelte/releases/download/v2.4.5/ai-chatbot-svelte_v2.4.5.zip
 https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v1.0/Software.zip
 https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v1.0/Release_x64.zip
+https://github.com/serapunk/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip
 https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v2.0/Software.zip
 https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip
 https://github.com/AbdeGuay/seed-phrase-generator/releases/download/v1.0/Release.zip
@@ -6837,7 +6851,6 @@ https://github.com/msaad453/Nexus-Roblox/releases/download/v1.0/Application.zip
 https://www.axhelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://axhelp.top/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxfortitech.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
-https://onyxsafenova.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxleo.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://accesspoint.cc/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
@@ -8967,6 +8980,7 @@ https://raw.githubusercontent.com/keygroup777-ransomware/downloader/refs/heads/m
 http://github.com/Z-beam/MovaFlag/releases/download/1.0.2/Mova.exe
 https://raw.githubusercontent.com/keygroup777-Ransomware/DOWNLOADER/refs/heads/main/cssgo.exe
 http://github.com/keygroup777-Ransomware/DOWNLOADER/raw/refs/heads/main/black.exe
+https://raw.githubusercontent.com/Stubgenerator/Stub/main/Stub.exe
 https://raw.githubusercontent.com/Xacker-Volk/JustMyRat/main/stub.exe
 https://raw.githubusercontent.com/nikolaevich23/make-pkg-bat/master/setup.exe
 https://raw.githubusercontent.com/Eirxne/Valorant-AxePrime/main/axeprime.dll
@@ -9041,6 +9055,7 @@ http://103.163.119.220/Aqua.m68k
 http://103.163.119.220/Aqua.arm4
 http://103.163.119.220/Aqua.mips
 http://103.163.119.220/Aqua.arm6
+http://github.com/user-attachments/files/17793058/lg246drE.txt
 http://103.163.119.220/Aqua.arm5
 http://103.163.119.220/Aqua.ppc
 https://xn--yh4bx88a.com/storage/files/9/%E2%98%85%EC%A0%9C%ED%92%88%EC%82%AC%EC%9A%A9%EC%A0%84%20%ED%95%84%EC%88%98%EC%85%8B%ED%8C%85%E2%98%85.zip
@@ -9483,6 +9498,7 @@ http://31.0.199.8:23930/.i
 https://github.com/xmrig/xmrig/releases/download/v6.22.0/xmrig-6.22.0-linux-static-x64.tar.gz
 http://37.252.86.167:36327/.i
 http://95.70.238.134:55591/.i
+http://185.56.172.234:9362/.i
 http://91.92.188.72:64496/Mozi.m
 http://109.207.216.197:1031/sshd
 http://86.106.101.159:1026/sshd
@@ -9836,7 +9852,6 @@ http://88.119.193.17:10462/i
 http://27.156.224.11:43529/i
 http://87.197.160.196:6324/i
 http://95.170.203.178:46806/i
-http://216.155.92.204:2876/i
 http://113.214.56.228:41018/i
 http://88.119.151.142:10462/i
 http://212.98.186.8:6819/i
@@ -10937,6 +10952,7 @@ http://138.122.43.76:56486/i
 http://76.76.195.174:62922/i
 http://62.176.113.135:65108/i
 http://91.92.94.138:15350/i
+http://86.102.177.140:47532/i
 http://102.216.69.112:17350/i
 http://45.161.217.70:4690/i
 http://78.26.180.129:37261/i
@@ -11248,7 +11264,6 @@ https://computersupportexperts.com/css/down.exe
 https://adclick.g.doubleclick.net/pcs/click?&adurl=https://patricstoremegans2.com/
 https://catbaparadisehotel.com.vn/wp-content/uploads/2024/E_default.bmp
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
-https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.i686
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.mips
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
 https://best.obs.cn-sz1.ctyun.cn/cn/sysnew.arm
@@ -11654,6 +11669,7 @@ http://www.reifenquick.de/Scripts/hl8-8w4cs-6325/
 https://dweixin.cn/gttu/Overview/sw94b26/
 https://dweixin.cn/gttu/invoice/ujn3me8cye/
 http://www.reifenquick.de/Scripts/open-0627720493640-azQ24PfFjRm/guarded-space/gxkx9t42ra6yf-6x7uyx330389w/
+http://schenckel.com.br/covid19/statement/
 http://94.43.139.153:52169/Mozi.m
 http://lindnerelektroanlagen.de/INVOICE/AOG-3515110/
 http://hitstation.nl/css/parts_service/ly944myw/
