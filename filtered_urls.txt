@@ -1,3 +1,30 @@
+http://123.190.31.173:34839/i
+http://176.65.148.51/binz/arm5
+http://176.65.148.51/binz/x86_64
+http://176.65.148.51/binz/sh4
+http://176.65.148.51/binz/ppc
+http://176.65.148.51/binz/arm6
+http://176.65.148.51/binz/m68k
+http://176.65.148.51/1.sh
+http://176.65.148.51/binz/arm4
+http://176.65.148.51/binz/mips
+http://176.65.148.51/binz/i686
+http://176.65.148.51/binz/arm7
+http://176.65.148.51/binz/x86
+http://176.65.148.51/binz/mpsl
+http://117.212.32.21:41743/bin.sh
+http://115.49.217.16:35421/bin.sh
+http://120.28.194.30:45689/bin.sh
+http://123.9.115.200:41718/bin.sh
+http://222.140.227.211:47349/i
+http://61.52.178.57:41840/bin.sh
+http://175.175.107.195:58734/i
+http://42.232.56.47:42981/i
+http://42.234.234.95:33182/i
+http://115.55.134.33:59162/i
+http://218.60.176.226:32855/i
+http://27.207.240.236:58388/i
+http://61.52.53.135:44048/bin.sh
 http://42.234.234.95:33182/bin.sh
 http://42.52.107.180:59648/i
 http://117.209.6.20:40262/i
@@ -7,7 +34,6 @@ http://222.140.227.211:47349/bin.sh
 http://222.139.86.236:58235/i
 http://218.60.176.226:32855/bin.sh
 http://42.239.114.31:48686/i
-http://117.209.6.20:40262/bin.sh
 http://222.139.86.236:58235/bin.sh
 http://113.10.155.239:34905/i
 http://60.18.115.26:53023/i
@@ -780,7 +806,6 @@ http://23.146.184.21/bins/kernaldriver.sh4
 http://23.146.184.21/bins/kernaldriver.arm
 http://23.146.184.21/bins/kernaldriver.arm7
 http://23.146.184.21/bins/kernaldriver.x86_64
-http://23.146.184.21/bins/kernaldriver.ppc
 http://42.57.46.130:50156/i
 http://113.237.110.201:41667/i
 http://42.57.46.130:50156/bin.sh
@@ -984,7 +1009,6 @@ http://196.251.115.36/HBTs/.modprobe
 http://196.251.115.36/HBTs/.dbusd
 http://196.251.115.36/HBTs/.rsysl
 http://196.251.115.36/HBTs/.netd
-http://196.251.115.36/HBTs/.udevmon
 http://175.165.116.130:52100/bin.sh
 http://89.42.88.210/hiddenbin/boatnet.sh4
 http://89.42.88.210/hiddenbin/boatnet.mpsl
@@ -1182,7 +1206,6 @@ http://196.251.69.129/z/89/arm6
 http://196.251.69.129/bx
 http://196.251.69.129/weed
 http://196.251.69.129/z/ruck
-http://196.251.69.129/z/fdgsfg
 http://196.251.69.129/z/c.sh
 http://196.251.69.129/z/w.sh
 http://196.251.69.129/av.sh
@@ -1198,6 +1221,7 @@ http://135.125.190.59/arm
 http://135.125.190.59/x86
 http://196.251.69.129/z/89/arm7
 http://196.251.69.129/wget.sh
+http://196.251.69.129/b
 http://196.251.69.129/jaws
 http://196.251.69.129/w.sh
 http://72.194.227.46:36340/i
@@ -1585,6 +1609,7 @@ http://196.251.80.14/main_x86
 http://94.156.152.152/i686
 http://196.251.80.14/main_arm5
 http://94.156.152.152/ppc
+http://196.251.80.14/main_m68k
 http://196.251.80.14/main_arm
 http://196.251.80.14/main_arm7
 http://196.251.80.14/main_x86_64
@@ -1717,7 +1742,6 @@ http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
-http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
@@ -1776,11 +1800,13 @@ http://www.asdfavae.duckdns.org/huhu/titanjr.arm7
 http://www.asdfavae.duckdns.org/huhu/titanjr.m68k
 http://asdfavae.duckdns.org/huhu/titanjr.mipsl
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.mips
+http://vmklsfdv.duckdns.org/huhu/titanjr.arm
 http://asdfavae.duckdns.org/huhu/titanjr.sh4
 http://fasdv.duckdns.org/huhu/titanjr.x86_64
 http://cvawrs.duckdns.org/huhu/titanjr.i486
 http://vmklsfdv.duckdns.org/huhu/titanjr.mips
 http://www.fasdv.duckdns.org/huhu/titanjr.i486
+http://cvawrs.duckdns.org/huhu/titanjr.sh4
 http://savaswsd.duckdns.org/huhu/titanjr.ppc
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.ppc440
 http://www.cvawrs.duckdns.org/huhu/titanjr.sh4
@@ -1852,7 +1878,6 @@ http://as.ddos678.com/00101010101001/morte.mips
 http://as.ddos678.com/00101010101001/morte.arm6
 http://200.59.87.2:44766/bin.sh
 http://42.6.179.158:40407/i
-http://158.51.126.131/pox
 http://103.176.20.59/wget.sh
 http://103.176.20.59/g.sh
 http://103.176.20.59/toto
@@ -6829,7 +6854,6 @@ https://github.com/D3M0NVR/Electron-Executor/releases/download/v2.0/Release_x64.
 https://github.com/D3M0NVR/Electron-Executor/releases/download/v1.0/Software.zip
 https://github.com/Stepegemeyod/Codex-Roblox/releases/download/v1.0.2/Release-x64.zip
 https://github.com/timy2007/Trigon-Evo/releases/download/v3.0/Software.zip
-https://masgrave.com/apps/gets.ps1
 https://github.com/Stepegemeyod/Codex-Roblox/releases/download/v1.0.1/Release-x64.zip
 https://github.com/Shadowlord11/Arceus-Executor/releases/download/v3.0/Software.zip
 https://github.com/R3Dtop/Chaos-Executor/releases/download/v3.0/Software.zip
@@ -8489,7 +8513,6 @@ http://31.154.235.131:9538/.i
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/1.sh
 http://186.121.239.114:19828/i
 http://185.168.227.130:39163/i
-http://2.180.18.98:58173/i
 http://69.11.121.34:39558/i
 https://staplebrokenmetaliyro.blogspot.com/
 http://178.160.240.83:3487/i
@@ -11442,7 +11465,6 @@ https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
 https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
-https://kelaskan.com/agenzia/
 https://villanyzsolti.hu/scarica/
 https://rpperformance.com.br/scarica/
 https://cfu.twr.mybluehost.me/connect/
