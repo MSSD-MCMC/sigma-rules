@@ -1,3 +1,12 @@
+http://115.50.7.19:33224/bin.sh
+http://91.143.174.252:39978/bin.sh
+http://124.29.225.50:47332/i
+http://115.50.68.133:56199/i
+http://42.58.151.197:42421/i
+http://42.235.43.195:58922/i
+http://124.29.225.50:47332/bin.sh
+http://182.126.200.218:49371/bin.sh
+http://42.55.58.56:57829/bin.sh
 http://42.235.43.195:58922/bin.sh
 http://115.63.48.139:44504/bin.sh
 http://222.127.60.217:49451/bin.sh
@@ -191,6 +200,7 @@ http://123.129.132.25:48552/i
 http://219.156.33.85:60340/i
 http://183.156.180.81:53939/i
 http://222.141.97.95:55349/i
+http://183.156.180.81:53939/bin.sh
 http://182.121.231.16:59433/i
 http://123.13.62.35:55469/i
 http://123.129.132.25:48552/bin.sh
@@ -1221,6 +1231,7 @@ http://196.251.115.36/w.sh
 http://196.251.115.36/c.sh
 http://42.176.103.3:47965/bin.sh
 http://103.176.20.59/dx86
+http://66.63.187.141/rep.sh4
 http://113.237.34.87:56987/bin.sh
 http://196.251.114.80/pay
 http://196.251.114.66/mips
@@ -1257,6 +1268,7 @@ http://123.189.168.246:45641/bin.sh
 http://42.52.226.219:48271/i
 http://175.151.107.159:46678/bin.sh
 http://153.37.252.56:4440/.i
+http://66.63.187.141/arm4
 http://42.54.156.22:42945/bin.sh
 http://112.225.240.45:32893/i
 http://112.225.240.45:32893/bin.sh
@@ -1477,7 +1489,6 @@ http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://175.174.100.92:46146/bin.sh
 http://www.fasdv.duckdns.org/huhu/titanjr.arc
@@ -1786,6 +1797,7 @@ http://cnnetwork.uk/bins/morte.sh4
 http://cnnetwork.uk/bins/morte.arm
 http://8.134.205.250:60133/02.08.2022.exe
 http://86.102.60.98:42000/i
+http://201.110.151.165:8080/sshd
 http://83.59.42.54:1068/sshd
 http://176.46.158.8/files/fate/random.exe
 http://176.46.158.8/files/7453936223/RenT7Wg.exe
@@ -4287,6 +4299,7 @@ http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
 http://43.138.30.109:9999/02.08.2022.exe
+http://47.109.48.57/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
 http://191.33.171.242:55443/i
@@ -4995,6 +5008,7 @@ http://37.205.81.56:29406/i
 http://183.109.132.188:35716/i
 http://183.100.12.86:2663/i
 http://113.214.56.238:3269/i
+http://85.26.211.169/sshd
 http://85.26.222.124/sshd
 http://47.239.193.183:60113/linux
 http://47.83.124.121:60105/linux
@@ -9927,7 +9941,6 @@ https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomw
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/InfinityCrypt.exe
 https://github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe
 http://ssl.ftp21.cc/TQ.jpg
-http://85.207.44.106/Photo.scr
 http://186.3.78.195/Photo.scr
 http://94.226.135.252/Photo.scr
 http://116.58.62.74/Photo.scr
