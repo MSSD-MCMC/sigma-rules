@@ -1,3 +1,15 @@
+http://219.155.17.119:42685/bin.sh
+http://219.154.152.228:60107/bin.sh
+http://42.235.3.220:45419/i
+http://175.148.80.152:45903/i
+http://125.43.227.142:45623/bin.sh
+http://123.12.64.238:50336/bin.sh
+http://125.43.75.164:47588/i
+http://42.56.145.58:54720/i
+http://42.58.215.214:54481/i
+http://115.56.148.162:41672/bin.sh
+http://125.41.74.87:34180/i
+http://115.48.144.110:57194/bin.sh
 http://115.50.7.19:33224/bin.sh
 http://91.143.174.252:39978/bin.sh
 http://124.29.225.50:47332/i
@@ -531,7 +543,6 @@ http://116.10.132.190:45126/bin.sh
 http://222.127.154.48:35943/i
 http://27.220.242.105:58674/i
 http://175.173.78.146:48227/i
-http://42.180.140.25:41535/i
 http://116.140.166.194:48146/i
 http://42.52.192.2:60046/bin.sh
 http://116.140.166.194:48146/bin.sh
@@ -908,6 +919,7 @@ http://103.20.102.84/hiddenbin/boatnet.arm5
 http://103.20.102.84/hiddenbin/boatnet.arm6
 http://103.20.102.84/hiddenbin/boatnet.mpsl
 http://103.20.102.84/hiddenbin/boatnet.arm
+http://103.20.102.84/hiddenbin/boatnet.ppc
 http://60.22.96.70:60571/i
 http://116.55.173.142:55454/i
 http://60.22.96.70:60571/bin.sh
@@ -975,7 +987,6 @@ http://196.251.69.129/gocl
 http://196.251.69.129/z/89/arm6
 http://196.251.69.129/z/89/mips
 http://196.251.69.129/fb
-http://196.251.69.129/weed
 http://196.251.69.129/z/ruck
 http://196.251.69.129/z/w.sh
 http://196.251.69.129/zz
@@ -998,6 +1009,7 @@ http://72.194.227.46:36340/i
 http://72.194.227.46:36340/bin.sh
 http://175.151.67.7:50202/i
 http://113.236.39.164:40965/bin.sh
+http://196.251.114.66/arm/
 http://burger042.ddnsfree.com/z/bx
 http://burger042.ddnsfree.com/z/weed
 http://196.251.114.66/xaxa
@@ -1338,6 +1350,7 @@ http://196.251.80.14/main_ppc
 http://94.156.152.152/ppc
 http://196.251.80.14/main_m68k
 http://196.251.80.14/main_mips
+http://196.251.80.14/main_arm6
 http://196.251.80.14/main_arm
 http://196.251.80.14/main_arm7
 http://196.251.80.14/main_x86_64
@@ -1372,7 +1385,6 @@ http://187.45.100.225:10083/i
 http://95.53.217.42:44817/i
 http://95.139.109.60:57489/i
 http://171.247.205.124:1082/sshd
-http://14.46.201.56:33545/i
 http://123.190.7.191:35259/i
 http://123.190.7.191:35259/bin.sh
 http://89.42.88.241/Y91/arm
@@ -1727,6 +1739,7 @@ http://200.59.85.7:48140/bin.sh
 http://112.85.148.201:45777/i
 http://112.85.148.201:45777/bin.sh
 http://172.94.96.217/home
+http://172.94.96.217/aboutus
 http://200.59.81.117:45303/bin.sh
 http://23.95.247.31/cat.sh
 http://103.176.20.59/arm5
@@ -1819,6 +1832,7 @@ http://212.11.64.25/main_arm6
 http://212.11.64.25/main_arm7
 http://196.251.116.34/o.xml
 http://196.251.116.34/bins/morte.mpsl
+http://196.251.116.34/bins/morte.arm5
 http://196.251.116.34/bins/morte.arc
 http://196.251.116.34/bins/morte.mips
 http://196.251.116.34/bins/morte.x86
@@ -2253,7 +2267,6 @@ http://23.146.184.43/hiddenbin/Space.arm7
 http://23.146.184.43/hiddenbin/Space.m68k
 http://ecs-1-94-222-140.compute.hwclouds-dns.com/as3d2asd269sa999asasdasfsdcxdqwwq/%E4%BB%A3%E7%90%86.exe
 http://ecs-1-94-222-140.compute.hwclouds-dns.com/NetPower.exe
-http://ecs-1-94-222-140.compute.hwclouds-dns.com/%E4%BB%A3%E7%90%86.exe
 http://213.232.114.169/powerpc-440fp
 http://213.232.114.169/powerpc
 http://43.241.110.206:62952/.i
@@ -2673,7 +2686,6 @@ http://77.90.153.137/vv/armv7l
 http://77.90.153.137/vv/armv5l
 http://77.90.153.137/vv/armv6l
 http://77.90.153.137/vv/armv4l
-http://70.153.73.172/02.08.2022.exe
 http://78.38.19.192:16739/i
 http://111.57.151.202:8888/sshd
 http://213.209.150.18/PluGman23333%20233.exe
@@ -4173,8 +4185,8 @@ http://43.201.174.89/ngrok.exe
 http://150.158.33.235:9997/evil.zip
 http://123.206.214.105:8888/WxWorkApis.dll
 http://43.136.88.193:8888/WxWorkApis.dll
-http://101.33.243.139:8888/WxWorkApis.dll
 http://175.178.174.23:8888/WxWorkMultiOpen.exe
+http://175.178.174.23:8888/WxWorkApis.dll
 http://43.136.94.178:8888/WxWorkApis.dll
 http://106.53.72.33:8888/WxWorkApis.dll
 http://43.136.51.89:8888/WxWorkApis.dll
@@ -4599,6 +4611,7 @@ http://47.239.251.9:8080/Video.scr
 http://47.239.251.9:8080/Photo.scr
 http://47.239.251.9:8080/Video.lnk
 https://maidforyou1985.com/bufs.zip
+https://windomstatetheater.com/mits.zip
 https://jakestrack.com/zsps.zip
 https://windomstatetheater.com/osxs.zip
 https://jakestrack.com/fsps.zip
@@ -9538,7 +9551,6 @@ http://82.193.118.99:63838/Mozi.m
 http://46.100.50.137:56504/Mozi.m
 http://103.245.10.51:56156/Mozi.m
 http://89.140.176.228:40352/Mozi.m
-http://190.109.223.202:28588/Mozi.m
 http://202.5.61.33:62997/Mozi.m
 http://182.253.205.235:8600/Mozi.m
 http://88.204.58.118:54105/Mozi.m
@@ -9719,6 +9731,7 @@ https://github.com/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php
 http://192.176.50.190:33952/i
 http://192.176.50.190:33952/bin.sh
+http://download.suxiazai.com/for_down/2013/new/dlls/rse/rsreport.exe
 https://crystalpvp.ru/slinky/slinkycrack.zip
 http://113.50.0.109:8083/Host.out
 http://139.198.15.223:8080/PingInfoView.exe
@@ -10275,7 +10288,6 @@ http://46.250.54.75:83/sshd
 http://188.170.32.148:84/sshd
 http://118.69.157.212:9114/sshd
 http://31.0.241.65:8082/sshd
-http://91.164.39.142:50006/sshd
 http://188.147.175.18:8088/sshd
 http://118.69.157.212:9127/sshd
 http://174.71.237.86:1101/sshd
@@ -11376,6 +11388,7 @@ https://kramersmarionnettes.com/antienuretic.php
 https://kramersmarionnettes.com/fizz.php
 https://kramersmarionnettes.com/designer.php
 https://kramersmarionnettes.com/frustrating.php
+https://kramersmarionnettes.com/conditioner.php
 https://kramersmarionnettes.com/unthinkably.php
 https://kramersmarionnettes.com/unexplainable.php
 https://kramersmarionnettes.com/whiz.php
@@ -11435,7 +11448,6 @@ https://jyothishmathi.in/familial.php
 http://visam.info/update_vbase/VOKLIGHT.exe
 http://visam.info/update_vbase/VOKLIGHTD.exe
 https://jyothishmathi.in/habitual.php
-https://jyothishmathi.in/ruleless.php
 https://docs.google.com/uc?export=download&id=1tiLqoZOt07VyLvDmmSfS7iA452jWhKTj&revid=0B7gsMQZks4XkcDJCWHUvaTJ2QVlvcHNmNnovU2lDZStEK2JZPQ
 http://212.107.239.43:8026/.i
 https://drive.google.com/uc?export=download&id=1ETPmpb2shvUny5DxJ5awfpxklxqpBzGx
