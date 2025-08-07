@@ -1,3 +1,23 @@
+http://115.50.228.119:47038/i
+http://113.229.65.38:52385/i
+http://117.243.242.4:49654/bin.sh
+http://42.178.85.162:51582/bin.sh
+http://42.7.11.77:58719/bin.sh
+http://120.28.113.126:50817/i
+http://117.209.92.46:48804/i
+http://42.4.113.188:57870/i
+http://61.1.218.2:52750/bin.sh
+http://123.10.49.65:38040/bin.sh
+http://197.246.71.230:45104/i
+http://120.28.113.126:50817/bin.sh
+http://42.4.113.188:57870/bin.sh
+http://124.94.229.106:33652/i
+http://78.164.127.68:46612/bin.sh
+http://42.239.188.14:41784/i
+http://188.38.245.143:42070/Mozi.m
+http://123.189.149.83:56245/i
+http://113.231.207.28:45607/i
+http://78.164.127.68:46612/i
 http://113.228.116.186:42121/i
 http://197.246.71.230:45104/bin.sh
 http://123.190.29.249:50031/i
@@ -757,6 +777,7 @@ http://182.143.113.249:81/Photo.scr
 http://182.143.113.249:81/Video.scr
 http://182.143.113.249:81/images/Video.scr
 http://182.143.113.249:81/images/Photo.scr
+http://182.143.113.249:81/modules/AV.scr
 http://182.143.113.249:81/assets/Video.scr
 http://182.143.112.98:81/assets/Video.scr
 http://182.143.112.98:81/modules/Video.scr
@@ -900,6 +921,7 @@ http://220.201.24.70:37213/bin.sh
 http://175.175.207.176:42558/i
 http://27.194.124.114:53294/i
 http://42.6.186.57:56008/i
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/zo.zip
 https://eugene-reuters-subdivision-quarter.trycloudflare.com/crew.bat
 http://120.28.197.166:34001/i
 http://120.28.197.166:34001/bin.sh
@@ -1017,6 +1039,7 @@ http://45.83.28.115:7333/Map.zip
 http://45.83.28.115:7333/Stark.zip
 http://39.106.144.162/02.08.2022.exe
 http://47.97.118.238:8888/02.08.2022.exe
+http://43.134.9.57/02.08.2022.exe
 http://43.139.221.182:8888/02.08.2022.exe
 http://47.102.87.217/02.08.2022.exe
 http://42.51.34.56:8010/02.08.2022.exe
@@ -1313,6 +1336,7 @@ http://135.125.190.59/spc
 http://196.251.69.129/mag
 http://196.251.69.129/f5
 http://196.251.69.129/z/z.sh
+http://196.251.69.129/z/zz
 http://196.251.69.129/z/adb
 http://196.251.69.129/z/89/arm5
 http://196.251.69.129/li
@@ -1532,7 +1556,6 @@ http://burger042.ddnsfree.com/x86
 http://burger042.ddnsfree.com/z/mips
 http://burger042.ddnsfree.com/z/sh4
 http://196.251.114.66/rtz
-http://196.251.114.66/z/arm7
 http://196.251.114.66/arm7
 http://196.251.114.66/z/arm
 http://196.251.114.66/z/arm5
@@ -1667,7 +1690,6 @@ http://195.226.48.244:4803/i
 http://92.40.116.241:8082/sshd
 http://113.164.255.28:10004/sshd
 http://91.39.186.149/sshd
-http://92.113.21.114:81/mips
 https://2111.filemail.com/api/file/get?filekey=HberOkcpjH5muwoS9oahKhCrUAoR5wrLFbzBZkZ923RCwpXNGPUW4Y8-xGvp-DbIrQFH&skipreg=true&pk_vid=31b70f9689ef41a717539169578784ad
 http://176.46.158.8/files/8434554557/OTIWCUm.exe
 http://180.191.16.206:46028/i
@@ -1819,6 +1841,7 @@ http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
+http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
@@ -2829,7 +2852,6 @@ http://101.43.244.21:8888/WxWorkApis.dll
 http://161.132.50.128:88/mlwr/MLAV-MS-Doc.doc
 http://156.67.105.217/xmrig-6.21.3.zip
 http://43.140.214.197:8888/WxWorkMultiOpen.exe
-http://119.91.238.101:8888/WxWorkMultiOpen.exe
 http://101.33.244.192:8888/WxWorkMultiOpen.exe
 http://161.132.50.128:88/mlwr/MLAV-MS-Exe.exe.000
 http://161.132.50.128:88/mlwr/MLAV-MS-Excel.xls
@@ -3614,6 +3636,7 @@ http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/pub/
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/base/dao/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/visitwss/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/cksy/base/service/info.zip
+http://116.171.106.3:3435/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/operationsetting/entity/info.zip
 http://116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/dept/info.zip
 http://116.171.106.3:3435/tomcat8/work/Catalina/localhost/info.zip
@@ -5028,6 +5051,7 @@ http://183.91.77.253:19833/i
 http://87.119.108.21:40462/i
 http://84.236.147.129/sshd
 http://36.93.2.29:62352/i
+http://119.28.116.34/02.08.2022.exe
 http://91.247.124.188:8937/i
 http://94.28.95.35:60431/i
 http://5.228.153.222:13167/i
@@ -5522,7 +5546,6 @@ http://github.com/SERVERGAME2024/yrdy/raw/main/quasarat.exe
 http://213.16.62.185/all/Software/BMW/Software/Coding/BMW-FSC-NBT/tools/SWID_reader.exe
 http://162.215.218.82/ns3.jpg
 http://162.215.218.82/ns1.jpg
-http://139.159.157.238:5555/02.08.2022.exe
 http://185.208.158.206/7766.elf
 http://185.208.158.206/z.sh
 http://124.123.26.174:8889/sshd
@@ -9199,6 +9222,7 @@ http://annadegismen.com/js/ufeigv.js
 http://annadegismen.com/js/zefhca.js
 http://annadegismen.com/js/lzjxve.js
 https://annadegismen.com/js/aqhyxf.js
+https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/y.png
 https://raw.githubusercontent.com/rouki555/dcm/refs/heads/main/Document.zip
 https://raw.githubusercontent.com/SteAmeR/malwerjobs/refs/heads/master/test.xll
 https://raw.githubusercontent.com/rouki555/lnk/refs/heads/main/ud.bat
@@ -10116,7 +10140,6 @@ https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_E
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
 http://51.255.46.245/CVE-2023-36874.zip
 http://51.255.46.245/nc64.exe
-http://51.255.46.245/b64
 http://202.107.235.202:8088/info.zip
 http://43.240.65.55:81/info.zip
 http://220.248.47.54:76/info.zip
@@ -10339,6 +10362,7 @@ http://91.231.190.163:8080//sshd
 http://99.71.130.109:8034//sshd
 http://46.250.54.75:84//sshd
 http://81.42.247.62:8084//sshd
+http://77.237.29.219:2025//sshd
 http://102.165.122.114:6100//sshd
 http://81.42.247.62:8087//sshd
 http://81.42.247.62:8082//sshd
@@ -10753,6 +10777,7 @@ http://82.114.109.66:60555/.i
 http://151.237.4.20:46151/.i
 http://193.228.134.161:62706/.i
 http://91.92.94.138:15350/.i
+http://185.71.69.198:34190/.i
 http://119.15.92.78:4374/.i
 http://212.43.34.226:57556/.i
 http://79.111.14.68:25041/.i
@@ -10839,7 +10864,6 @@ http://202.191.123.196:27033/.i
 http://150.107.205.29:54598/.i
 http://62.162.141.194:27673/.i
 http://150.129.202.193:1316/.i
-http://94.154.84.37:64790/.i
 http://121.200.63.165:27123/.i
 http://114.7.20.38:15144/.i
 http://109.92.143.90:65469/.i
@@ -11666,6 +11690,7 @@ https://docs.google.com/uc?export=download&id=1GV_Nk9lLqw4fxUdO-khJA7NUUJ1KEvvw&
 http://103.50.7.126:3689/.i
 https://drive.google.com/uc?id=1a7jWDzayVXW_d3CgV_N7TjF4STY3UFOr&export=download
 https://docs.google.com/uc?export=download&id=1H_DyP_d5Lst4Akyf2QEzXL7J1SCVbtVs&revid=0B5thCKui5i0mdk5mOElBNm9vUHNYdVJnVWpYQ01VRG5XVWhrPQ
+http://41.86.21.5:45018/Mozi.m
 https://drive.google.com/uc?export=download&id=1uYGnPwZZyzn2rODSRImg0-SlOxy_leTG
 https://sites.google.com/view/59bmj3vj18vh2/drive/storage/a/files/download?ID=625899581658508733
 https://docs.google.com/uc?export=download&id=1YGn4gkmy9mUSDp_LgNPyJjh6RSKT39vP&revid=0B8rbGP2BpEOfMk5Ta3N3MGJTeFBZdEVwTk5WWHpjd3YrUEJJPQ
@@ -11692,6 +11717,7 @@ http://59.29.135.151:11442/.i
 http://yzkzixun.com/v2x2vexx.jpg
 http://ncxps.com/wp-includes/lm/7CFVaAA9jo/
 http://davaorealproperty.com/blogs/i0jOsqdfOKxC2/
+http://ncxps.com/wp-includes/rRRv7ILGM2dzPohaKlKheWb8rkju15bMqeEWcCglAp/
 http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
 http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 http://soft.110route.com/PAETools.exe
