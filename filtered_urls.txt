@@ -1,3 +1,13 @@
+http://61.52.63.214:37903/bin.sh
+http://191.241.143.33:52916/i
+http://124.131.139.32:60191/i
+http://222.141.230.157:47173/i
+http://182.121.131.86:44701/bin.sh
+http://120.28.139.212:52370/i
+http://115.56.148.162:41672/i
+http://191.241.143.33:52916/bin.sh
+http://124.131.139.32:60191/bin.sh
+http://120.28.139.212:52370/bin.sh
 http://72.29.46.195:36681/bin.sh
 http://222.141.230.157:47173/bin.sh
 http://117.209.84.18:40672/i
@@ -635,6 +645,7 @@ http://23.146.184.21/bins/kernaldriver.spc
 http://23.146.184.21/bins/kernaldriver.m68k
 http://23.146.184.21/bins/kernaldriver.sh4
 http://23.146.184.21/bins/kernaldriver.arm
+http://23.146.184.21/bins/kernaldriver.x86_64
 http://23.146.184.21/bins/kernaldriver.ppc
 http://23.146.184.21/bins/kernaldriver.arm6
 http://23.146.184.21/bins/kernaldriver.mips
@@ -645,6 +656,7 @@ http://42.57.52.68:59041/i
 http://119.117.181.231:37021/i
 http://123.190.123.232:57182/i
 http://119.117.181.231:37021/bin.sh
+http://123.190.123.232:57182/bin.sh
 http://180.191.16.206:46028/bin.sh
 http://42.55.184.169:55513/i
 http://42.55.184.169:55513/bin.sh
@@ -846,7 +858,6 @@ http://175.174.85.141:36983/bin.sh
 http://175.174.85.141:36983/i
 http://60.211.60.135:33993/i
 http://118.248.37.80:56785/i
-http://175.165.116.130:52100/i
 http://91.143.174.252:39978/i
 http://196.251.115.36/HBTs/.syncd
 http://196.251.115.36/HBTs/.irqbal
@@ -917,7 +928,7 @@ http://94.156.232.85/Documents/receipt-TC-2739230.lnk
 http://140.143.194.26:3389/02.08.2022.exe
 http://117.72.218.179:803/02.08.2022.exe
 http://47.109.83.84:18180/02.08.2022.exe
-http://47.122.30.177/02.08.2022.exe
+http://120.46.72.74/02.08.2022.exe
 http://178.131.50.117:62105/i
 http://103.248.196.84:4747/i
 http://104.247.249.211:41704/i
@@ -966,7 +977,6 @@ http://185.186.26.34/001010101010010110101011101010101101010111010101/debug
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
-http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -1044,7 +1054,6 @@ http://196.251.69.129/z/z.sh
 http://196.251.69.129/z/zz
 http://196.251.69.129/z/av.sh
 http://196.251.69.129/sdt
-http://196.251.69.129/z.sh
 http://196.251.69.129/ipc
 http://196.251.69.129/z/k.sh
 http://196.251.69.129/5
@@ -1316,12 +1325,14 @@ http://94.156.152.152/x86_64.dbg
 http://94.156.152.152/2/arm6
 http://198.55.98.107/123.sh
 http://196.251.115.36/sky.sh
+http://196.251.115.36/1.sh
 http://196.251.115.36/toto.sh
 http://196.251.115.36/w.sh
 http://196.251.115.36/c.sh
 http://42.176.103.3:47965/bin.sh
 http://103.176.20.59/dx86
 http://66.63.187.141/rep.sh4
+http://66.63.187.141/rep.spc
 http://113.237.34.87:56987/bin.sh
 http://196.251.114.80/pay
 http://196.251.114.66/mips
@@ -1358,6 +1369,7 @@ http://123.189.168.246:45641/bin.sh
 http://42.52.226.219:48271/i
 http://175.151.107.159:46678/bin.sh
 http://153.37.252.56:4440/.i
+http://66.63.187.141/arm6
 http://66.63.187.141/arm4
 http://66.63.187.141/mpsl
 http://42.54.156.22:42945/bin.sh
@@ -1546,7 +1558,6 @@ http://top1miku.duckdns.org/sky.sh
 http://top1miku.duckdns.org/giga.sh
 http://top1miku.duckdns.org/massload
 http://top1miku.duckdns.org/toto.sh
-http://top1miku.duckdns.org/wget.sh
 http://77.90.153.62/dll.dll
 http://175.174.100.92:46146/i
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
@@ -1724,7 +1735,6 @@ http://www.vmklsfdv.duckdns.org/huhu/titanjr.arm6
 http://vmklsfdv.duckdns.org/huhu/titanjr.i486
 http://vmklsfdv.duckdns.org/huhu/titanjr.mipsl
 http://www.vmklsfdv.duckdns.org/huhu/titanjr.x86_32
-http://vmklsfdv.duckdns.org/huhu/titanjr.ppc
 http://cvawrs.duckdns.org/huhu/titanjr.arm7
 http://www.cvawrs.duckdns.org/huhu/titanjr.x86_64
 http://asdfavae.duckdns.org/huhu/titanjr.m68k
@@ -2058,7 +2068,6 @@ http://103.188.83.28/mips
 http://167.160.161.247/v9d9d.exe
 http://58.22.95.122:6868/Video.scr
 http://113.205.13.153:48483/i
-http://49.232.159.121/02.08.2022.exe
 http://121.173.138.102:48076/i
 http://189.164.253.163:8729/sshd
 http://185.95.124.42/sshd
@@ -2180,6 +2189,7 @@ http://vipcncnetwork.com/1.sh
 http://vipcncnetwork.com/bins/morte.mpsl
 http://vipcncnetwork.com/bins/morte.arm
 http://vipcncnetwork.com/c.sh
+http://106.12.215.229:8099/02.08.2022.exe
 http://178.131.64.251:58813/i
 http://103.165.30.254:51317/i
 http://1.1.104.97:60080/sshd
@@ -2280,6 +2290,7 @@ http://xnhauvietnam.vietnamddns.com/wget.sh
 http://xnhauvietnam.vietnamddns.com/mpsl
 http://xnhauvietnam.vietnamddns.com/mips
 http://xnhauvietnam.vietnamddns.com/ppc
+http://confeccionescoinffaa.cl/tu.bin
 http://confeccionescoinffaa.cl/tuk.bin
 http://177.247.2.226:48894/i
 http://193.242.149.32:38302/i
@@ -2401,6 +2412,7 @@ https://gitlab.com/rated1337-group/rated1337-project/-/raw/main/000.exe
 http://47.109.45.147:23072/02.08.2022.exe
 http://79.165.92.31:3718/i
 http://39.75.4.193:53269/i
+https://www.frontier.net.pk/Red.mp4
 http://www.frontier.net.pk/Green.mp4
 https://sgsmtp12.sgcloudhosting.com/d/venturashiprepair.com.sg/!kBspg/W0YXPMN78Q1V
 https://sgsmtp12.sgcloudhosting.com/d/venturashiprepair.com.sg/!kBspg/X8PJ861Y9Q1V
@@ -2516,7 +2528,6 @@ http://158.51.126.131/aarch64
 http://158.51.126.131/t/aarch64
 http://158.51.126.131/mips64
 http://158.51.126.131/arm
-http://158.51.126.131/arm7
 http://158.51.126.131/z/mips
 http://36.163.57.158:41041/i
 http://218.93.44.86:60349/i
@@ -5334,7 +5345,6 @@ http://66.187.4.77/fish.i486
 http://66.187.4.77/fish.arm5
 http://66.187.4.77/fish.mipsel
 http://66.187.4.77/fish.sh4
-http://66.187.4.77/fish.mips
 http://66.187.4.77/fish.arm
 http://66.187.4.77/fish.ppc
 http://186.10.26.26:8581/i
@@ -6801,6 +6811,7 @@ https://sharegolem.com/storage/de373d0df/f0eee999
 http://94.159.113.64/b.jpg
 https://raw.githubusercontent.com/numonehittaboy/cdn/refs/heads/main/cvf.exe
 http://103.79.114.29:17429/i
+http://185.103.130.250:14052/i
 https://raw.githubusercontent.com/AlishaZara/api/refs/heads/master/rh_s.txt
 https://2024.sci-hub.se/6354/70534a410169b51c914e9ac9ca318c73/skidanov2017.pdf
 https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip
@@ -8149,7 +8160,6 @@ http://174.138.179.43/panel/panel/uploads/Dtrodpp.mp4
 http://174.138.179.43/panel/panel/uploads/Eguwf.pdf
 http://174.138.179.43/panel/panel/uploads/Skaoryop.pdf
 http://174.138.179.43/panel/panel/uploads/Edlga.mp4
-http://114.55.100.165:19998/02.08.2022.exe
 http://196.251.80.174/cet/aduna
 http://95.62.202.150:10071/sshd
 https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
@@ -11748,6 +11758,7 @@ http://down.pcclear.com/active/PCclear_Eng_mini.exe
 http://onlinetanecni.cz/US_us/info/Invoice_Notice/04742192589/TlPP-L3mt_mDyhK-Fp3/
 http://sanghyun.nfile.net/files/sanghyun-guest.exe
 http://sanghyun.nfile.net/files/sanghyun.exe
+http://sg123.net/files/update.exe
 http://sg123.net/files/install.exe
 http://igra123.com/files/install.exe
 http://igra123.com/files/update.exe
