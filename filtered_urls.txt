@@ -1,7 +1,54 @@
+http://113.228.116.186:42121/i
+http://197.246.71.230:45104/bin.sh
+http://123.190.29.249:50031/i
+http://111.229.151.200:8888/02.08.2022.exe
+http://103.43.18.10/02.08.2022.exe
+http://98.142.241.234:60020/02.08.2022.exe
+http://31.208.90.43:11992/i
+http://197.165.185.115:22033/i
+http://78.157.28.21:8497/i
+http://2.177.175.43:57637/i
+http://193.233.179.208:7180/i
+http://201.73.82.226:24371/i
+http://218.150.133.20:10630/i
+http://79.116.85.132:20234/i
+http://94.30.38.209:4803/i
+http://69.121.69.155:43161/i
+http://121.73.162.157:8082/sshd
+http://171.235.236.154/sshd
+http://60.43.125.140/sshd
+http://42.119.96.116/sshd
+http://113.164.199.191/sshd
+http://183.185.252.213:8000/sshd
+http://94.44.136.30:8080/sshd
+http://92.40.119.248:8001/sshd
+http://152.173.221.97:8080/sshd
+http://178.50.103.42:9301/sshd
+http://14.185.118.29/sshd
+http://91.80.170.186/sshd
+http://83.224.137.182/sshd
+http://27.215.181.250:60338/i
+http://91.80.158.243/sshd
+http://78.51.179.1:8080/sshd
+http://113.237.99.31:51791/i
+http://223.220.154.162:37449/i
+http://124.94.229.106:33652/bin.sh
+http://123.190.29.249:50031/bin.sh
+http://27.215.181.250:60338/bin.sh
+http://182.120.15.172:50029/i
+http://42.224.67.223:52043/i
+http://113.237.99.31:51791/bin.sh
+http://42.56.136.27:55810/i
+http://175.146.103.35:52231/i
+http://42.224.214.244:49044/bin.sh
+http://223.220.154.162:37449/bin.sh
+http://175.146.103.35:52231/bin.sh
+http://27.217.90.212:42875/i
 http://221.15.91.143:55478/i
 http://42.232.229.72:52494/i
 http://42.56.136.27:55810/bin.sh
 http://184.171.219.84:56955/bin.sh
+http://27.217.90.212:42875/bin.sh
 http://115.48.134.98:51703/bin.sh
 http://221.15.91.143:55478/bin.sh
 http://175.173.85.56:46257/i
@@ -462,6 +509,7 @@ http://78.142.229.8/hiddenbin/Space.arm7
 http://78.142.229.8/hiddenbin/Space.m68k
 http://78.142.229.8/hiddenbin/Space.i686
 http://78.142.229.8/hiddenbin/Space.arm5
+http://45.9.2.5/mpsl
 http://45.9.2.5/arm4
 http://45.9.2.5/arm5
 http://45.9.2.5/arm6
@@ -891,6 +939,7 @@ http://178.183.125.31:8088/sshd
 http://178.183.125.31:8094/sshd
 http://94.255.232.166:59946/bin.sh
 http://42.6.128.51:51014/i
+http://116.10.132.190:45126/bin.sh
 http://27.220.242.105:58674/i
 http://175.173.78.146:48227/i
 http://42.180.140.25:41535/i
@@ -998,6 +1047,7 @@ http://89.213.174.230/bin/boatnet.ppc
 http://89.213.174.230/bin/boatnet.sh4
 http://89.213.174.230/bin/boatnet.i586
 http://89.213.174.230/bin/boatnet.i486
+http://89.213.174.230/bin/boatnet.arc
 http://89.213.174.230/bin/boatnet.arm6
 http://89.213.174.230/bin/boatnet.i686
 http://89.213.174.230/bin/boatnet.mips
@@ -1099,7 +1149,6 @@ http://196.251.115.36/HBTs/.netd
 http://175.165.116.130:52100/bin.sh
 http://89.42.88.210/hiddenbin/boatnet.arc
 http://89.42.88.210/hiddenbin/boatnet.x86
-http://89.42.88.210/hiddenbin/boatnet.sh4
 http://89.42.88.210/hiddenbin/boatnet.mpsl
 http://89.42.88.210/hiddenbin/boatnet.arm6
 http://89.42.88.210/hiddenbin/boatnet.arm7
@@ -1186,7 +1235,6 @@ http://162.250.16.20:36522/bin.sh
 http://120.28.195.142:50462/bin.sh
 http://222.246.90.64:59726/bin.sh
 http://175.31.190.173:39331/i
-http://175.31.190.173:39331/bin.sh
 http://175.150.79.149:42001/bin.sh
 http://60.23.161.4:48983/bin.sh
 http://185.186.26.34/1.sh
@@ -1210,6 +1258,7 @@ http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4e
 http://185.186.26.34/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://45.141.233.196/files/1387079731/1wbVZkk.exe
 http://burger042.ddnsfree.com/z/89/sh4
+http://196.251.114.66/z/89/sh4
 http://196.251.114.66/z/89/ppc
 http://196.251.114.66/z/89/m68k
 http://196.251.114.66/z/89/spc
@@ -1225,7 +1274,6 @@ http://103.20.102.84/hiddenbin/boatnet.mips
 http://103.20.102.84/hiddenbin/boatnet.arm6
 http://103.20.102.84/hiddenbin/boatnet.mpsl
 http://60.22.96.70:60571/i
-http://116.55.173.142:55454/i
 http://60.22.96.70:60571/bin.sh
 http://120.84.212.143:34390/i
 http://42.86.169.32:60687/i
@@ -1312,6 +1360,7 @@ http://113.236.39.164:40965/bin.sh
 http://burger042.ddnsfree.com/z/bx
 http://burger042.ddnsfree.com/z/weed
 http://196.251.114.66/xaxa
+http://196.251.114.66/dvr
 http://196.251.114.66/aaa
 http://196.251.114.66/z/fb
 http://196.251.114.66/z/av.sh
@@ -1379,7 +1428,6 @@ http://196.251.114.66/cn
 http://196.251.114.66/linksys
 http://196.251.114.66/li
 http://burger042.ddnsfree.com/cn
-http://196.251.114.66/q
 http://burger042.ddnsfree.com/l
 http://burger042.ddnsfree.com/e
 http://196.251.114.66/z/linksys
@@ -1438,7 +1486,6 @@ http://burger042.ddnsfree.com/gocl
 http://196.251.114.66/z/k.sh
 http://burger042.ddnsfree.com/z/multi
 http://burger042.ddnsfree.com/z.sh
-http://196.251.114.66/k.sh
 http://196.251.114.66/create.py
 http://burger042.ddnsfree.com/z/linksys
 http://burger042.ddnsfree.com/test.sh
@@ -1793,7 +1840,6 @@ http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://www.fasdv.duckdns.org/huhu/titanjr.arc
 http://www.fasdv.duckdns.org/huhu/titanjr.arm6
@@ -2906,6 +2952,7 @@ http://77.90.153.137/vv/mips64
 http://77.90.153.137/f
 http://77.90.153.137/g
 http://77.90.153.137/v
+http://196.251.69.112/z/89/sh4
 https://intelligentopennetworkingawards.com/ghostgera/
 http://185.156.73.52/02.08.2022.exe
 http://46.236.65.58:56051/i
@@ -5612,6 +5659,7 @@ https://raw.githubusercontent.com/anaMesias580/upload/refs/heads/master/Software
 https://github.com/phanu85/upload/raw/refs/heads/master/Software.zip
 https://github.com/Pantay/upload/raw/refs/heads/master/Software.zip
 http://213.209.150.18/goodlogs.doc
+https://192.159.99.195/bin/support.client.exe?i=&e=Support&y=Guest&r=
 http://2.54.238.31:802/sshd
 http://203.58.85.190:38206/i
 http://106.244.41.133:29572/i
@@ -5843,6 +5891,7 @@ https://github.com/bosstrung/fedora/releases/download/v1.0/Software.zip
 https://github.com/jppb1216/hit-swap-fix/releases/download/v2.0/Software.zip
 https://github.com/Hzufu/CosmicStar/releases/download/v2.0/Software.zip
 https://github.com/Hzufu/CosmicStar/releases/download/v1.0/Application.zip
+https://github.com/jppb1216/hit-swap-fix/releases/download/v1.0/Application.zip
 https://github.com/Artinplay123/Seed-Checker-by-Creqtor/releases/download/v2.0/Software.zip
 https://github.com/Artinplay123/Seed-Checker-by-Creqtor/releases/download/v1.0/Software.zip
 https://github.com/taham56/Bliss_Browser_Golo/releases/download/v2.0/Software.zip
@@ -7624,6 +7673,7 @@ https://img1.wsimg.com/blobby/go/93a7eb93-9eef-4244-8f20-7f48de1f8294/downloads/
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/dupibutemuxubezukexe.pdf
 https://img1.wsimg.com/blobby/go/58f82e37-5723-4fc5-be87-1ca34da7fc9c/downloads/ladovarudugusujo.pdf
 https://img1.wsimg.com/blobby/go/db112521-e536-400b-b453-631e78951ba0/downloads/93623530863.pdf
+https://img1.wsimg.com/blobby/go/f4482b02-adbc-4511-a01d-8f5a32444a75/downloads/31982364803.pdf
 https://img1.wsimg.com/blobby/go/c29905cb-cab1-47d6-9263-d073f5bcab67/downloads/manually_update_officescan_server.pdf
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/meligofat.pdf
 https://img1.wsimg.com/blobby/go/7c4463e3-109c-48af-b9be-98e22cdf2116/downloads/pibajusapasadasizuvabo.pdf
@@ -8075,6 +8125,7 @@ https://img1.wsimg.com/blobby/go/ce6ffbd8-735a-4087-afcd-48ff437b91ba/downloads/
 https://img1.wsimg.com/blobby/go/2b383d2d-2b5a-4b4f-949f-124c21f71183/downloads/how_to_fill_up_deed_of_sale_of_motor_vehicle.pdf
 https://img1.wsimg.com/blobby/go/33d2c907-2bf6-4426-875f-30dcfdd2ea6c/downloads/takeshi_amemiya_advanced_econometrics.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/paxakuvenu.pdf
+https://img1.wsimg.com/blobby/go/51d0d552-51a2-4187-835e-597cbad426c9/downloads/astm_e2500.pdf
 https://img1.wsimg.com/blobby/go/ce6ffbd8-735a-4087-afcd-48ff437b91ba/downloads/16407212514.pdf
 https://img1.wsimg.com/blobby/go/f2215a6c-0436-4d82-8033-c5d079398259/downloads/mewivisonixapolivifit.pdf
 https://img1.wsimg.com/blobby/go/5778216d-14df-4dd7-ac4c-aefbb7c07c24/downloads/kugaduvekujewotaz.pdf
@@ -8263,6 +8314,7 @@ http://174.138.179.43/panel/panel/uploads/Skaoryop.pdf
 http://174.138.179.43/panel/panel/uploads/Edlga.mp4
 http://114.55.100.165:19998/02.08.2022.exe
 http://95.62.202.150:10071/sshd
+https://dacemirror.sci-hub.ru/journal-article/a147182cc7fab317ca1d96d380f536cb/skidmore1987.pdf
 http://book.rollingvideogames.com/temp/putty.exe
 https://github.com/LoveRyajenja/lwafmwoafmw11/raw/refs/heads/main/Install.exe
 https://www.benshamcentre.co.uk/continue/45.ps1
@@ -8591,7 +8643,6 @@ http://154.126.186.44:34102/i
 http://177.247.15.185:5451/i
 http://78.26.136.125:25540/i
 http://14.33.239.247:48764/i
-https://83.229.122.83/02.08.2022.exe
 http://185.148.3.216/fdiuIoijofgrg
 https://raw.githubusercontent.com/Nvcommander2/Allgens/refs/heads/main/msgde.exe
 http://qlqd5zqefmkcr34a.onion.sh/win/checking.hta
@@ -9213,6 +9264,7 @@ https://raw.githubusercontent.com/Erez-Goldberg/Rust-reverse-shell/main/shellcod
 http://103.247.218.186:49052/i
 http://103.162.59.217:38340/i
 http://armanayegh.com/readme/glued.hta
+http://101.133.156.69:7777/frpc.exe
 http://101.133.156.69:7777/mysql.bat
 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1
 http://103.174.191.145:88/maxz/update/Client/Client.exe.zip
@@ -9664,7 +9716,6 @@ http://98.103.171.36:19021/Mozi.m
 http://186.154.93.81:8125/Mozi.m
 http://37.194.25.119:32244/Mozi.m
 http://37.192.22.166:28149/Mozi.m
-http://138.186.156.210:23058/Mozi.m
 http://183.100.159.244:17880/Mozi.m
 http://103.70.204.249:30005/Mozi.m
 http://95.170.119.57:1271/Mozi.m
@@ -10844,7 +10895,6 @@ http://202.53.164.46:35803/.i
 http://118.127.112.49:17818/.i
 http://181.193.59.78:39941/.i
 http://212.55.98.177:48211/.i
-http://79.111.119.241:38922/.i
 http://176.195.191.123:54140/.i
 http://185.126.195.110:51413/.i
 http://185.43.228.126:2473/.i
@@ -11218,7 +11268,6 @@ http://67.78.106.21:55731/bin.sh
 http://109.171.30.19:33609/o
 http://81.16.123.55:41567/bin.sh
 http://81.16.123.55:41567/Aqua.arm6
-http://81.16.123.55:41567/Aqua.arm5
 http://109.171.30.19:33609/bin.sh
 http://36.67.66.178:23987/Mozi.a
 http://67.78.106.21:55731/Mozi.m
