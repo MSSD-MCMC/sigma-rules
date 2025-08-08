@@ -1,3 +1,37 @@
+http://93.117.31.240:20256/i
+http://5.239.215.8:1201/i
+http://94.181.2.166:17229/i
+http://116.90.236.250:45542/i
+http://178.50.73.101:9301/sshd
+http://180.115.152.199:62640/i
+http://79.13.92.37:4690/i
+http://91.92.239.159:65527/i
+http://200.54.221.234:55031/i
+http://116.105.132.153/sshd
+http://91.80.132.187/sshd
+http://125.140.60.32:55667/i
+http://91.80.167.46/sshd
+http://31.171.223.162:40965/i
+http://83.224.139.133/sshd
+http://113.184.237.171/sshd
+http://78.51.171.108:8080/sshd
+http://80.235.87.23:11080/sshd
+http://61.53.238.81:60377/bin.sh
+http://42.55.247.183:41623/i
+http://123.5.191.195:33224/bin.sh
+http://42.239.164.164:58103/bin.sh
+http://115.50.191.94:44079/i
+http://117.243.246.192:43746/bin.sh
+http://117.223.3.47:39216/i
+http://42.55.247.183:41623/bin.sh
+http://113.229.212.234:45159/i
+http://117.223.3.47:39216/bin.sh
+http://113.230.234.173:55354/i
+http://219.155.209.205:58125/i
+http://222.140.156.249:44758/i
+http://106.40.81.6:37076/bin.sh
+http://113.229.212.234:45159/bin.sh
+http://115.50.191.94:44079/bin.sh
 http://175.173.78.146:48227/bin.sh
 http://113.230.234.173:55354/bin.sh
 http://222.140.156.249:44758/bin.sh
@@ -700,7 +734,6 @@ http://202.169.234.55:55089/i
 http://123.4.197.76:49936/bin.sh
 http://202.169.234.55:55089/bin.sh
 http://176.65.148.220/x86
-http://176.65.148.220/mpsl
 http://176.65.148.220/mips
 http://176.65.148.220/m68k
 http://176.65.148.220/arm5
@@ -752,13 +785,13 @@ http://181.206.158.190/CopilotDrivers.js
 http://45.141.233.196/files/6910514733/r6JiyOq.exe
 http://96.44.159.204/ylxXPy79.bin
 http://8.136.3.219/02.08.2022.exe
-http://121.43.179.233:8000/02.08.2022.exe
 http://3.253.84.205/02.08.2022.exe
 http://47.98.136.161/02.08.2022.exe
 http://134.175.236.240:8011/02.08.2022.exe
 http://47.102.21.22:9999/02.08.2022.exe
 http://124.70.100.149:7979/02.08.2022.exe
 http://47.97.118.238/02.08.2022.exe
+http://156.239.238.94/02.08.2022.exe
 http://120.157.159.22:3213/sshd
 http://27.12.104.82:26297/i
 http://14.244.221.232:8082/sshd
@@ -818,7 +851,6 @@ http://123.129.104.107:34264/bin.sh
 http://182.114.254.201:35567/bin.sh
 http://181.94.220.75:43701/i
 http://116.53.58.29:40552/i
-http://116.53.58.29:40552/bin.sh
 http://200.59.88.139:47915/i
 http://113.238.15.58:46028/i
 http://175.146.219.52:33900/i
@@ -1147,7 +1179,6 @@ http://rhinovate.tech:8080/sh4
 http://rhinovate.tech:8080/m68k
 http://rhinovate.tech:8080/ppc
 http://94.156.232.85/Documents/receipt-TC.lnk
-http://172.190.147.123/02.08.2022.exe
 http://176.215.199.12:45554/i
 http://88.23.171.183:8080/sshd
 http://85.159.0.251:9438/i
@@ -1199,6 +1230,7 @@ http://196.251.114.63/bins/H0NEY.ppc
 http://196.251.114.63/bins/H0NEY.mpsl
 http://196.251.114.63/bins/H0NEY.spc
 http://196.251.114.63/bins/H0NEY.arm5
+http://196.251.114.63/bins/H0NEY.arm7
 http://196.251.114.63/bins/H0NEY.mips
 http://196.251.114.63/bins/H0NEY.x86_64
 http://196.251.114.63/c.sh
@@ -1306,7 +1338,6 @@ http://103.20.102.84/hiddenbin/boatnet.arc
 http://110.183.25.136:54100/bin.sh
 http://42.179.150.187:53892/i
 http://103.20.102.84/hiddenbin/boatnet.mips
-http://103.20.102.84/hiddenbin/boatnet.arm5
 http://103.20.102.84/hiddenbin/boatnet.arm6
 http://103.20.102.84/hiddenbin/boatnet.mpsl
 http://103.20.102.84/hiddenbin/boatnet.arm
@@ -1389,7 +1420,6 @@ http://196.251.69.129/wget.sh
 http://196.251.69.129/adb
 http://196.251.69.129/b
 http://196.251.69.129/c.sh
-http://196.251.69.129/w.sh
 http://72.194.227.46:36340/i
 http://72.194.227.46:36340/bin.sh
 http://burger042.ddnsfree.com/z/bx
@@ -1423,6 +1453,7 @@ http://196.251.114.66/jaws
 http://burger042.ddnsfree.com/z/ipc
 http://196.251.114.66/z/fdgsfg
 http://burger042.ddnsfree.com/z/av.sh
+http://196.251.114.66/z/c.sh
 http://196.251.114.66/zz
 http://burger042.ddnsfree.com/aaa
 http://196.251.114.66/z/weed
@@ -1472,7 +1503,6 @@ http://196.251.114.66/f5
 http://196.251.114.66/get.sh
 http://196.251.114.66/toto
 http://burger042.ddnsfree.com/z/zz
-http://196.251.114.66/z/mag
 http://196.251.114.66/z/irz
 http://burger042.ddnsfree.com/x
 http://burger042.ddnsfree.com/z/g
@@ -1482,7 +1512,6 @@ http://burger042.ddnsfree.com/z/jaws
 http://burger042.ddnsfree.com/z/b
 http://burger042.ddnsfree.com/b
 http://196.251.114.66/adb
-http://196.251.114.66/irz
 http://burger042.ddnsfree.com/z/gocl
 http://burger042.ddnsfree.com/g
 http://burger042.ddnsfree.com/multi
@@ -1835,12 +1864,11 @@ http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
-http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
+http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
-http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm7
@@ -1855,6 +1883,7 @@ http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
+http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
@@ -2457,7 +2486,7 @@ http://vipcncnetwork.com/bins/morte.mips
 http://vipcncnetwork.com/bins/morte.i686
 http://vipcncnetwork.com/1.sh
 http://vipcncnetwork.com/bins/morte.mpsl
-http://vipcncnetwork.com/bins/morte.arm
+http://vipcncnetwork.com/c.sh
 http://106.12.215.229:8099/02.08.2022.exe
 http://178.131.64.251:58813/i
 http://103.165.30.254:51317/i
@@ -4714,6 +4743,7 @@ http://130.61.242.29/EvilFlashLight.apk
 http://101.43.49.183/tcp_linux_amd64
 http://119.28.140.233/CVE-2020-15972/tear-down.js
 http://119.45.29.172:8089/02.08.2022.exe
+http://43.138.30.109:7524/02.08.2022.exe
 http://47.109.48.57/02.08.2022.exe
 http://46.232.167.99:41855/i
 http://60.43.127.245/sshd
@@ -4974,7 +5004,6 @@ https://xai830k.com/plugin1.plg
 http://31.202.153.12:13264/i
 http://115.127.119.198:28033/i
 http://81.30.208.254:6792/i
-http://182.239.78.135/sshd
 http://192.250.228.95/Tcp1000gbps.mips
 http://192.250.228.95/Tcp1000gbps.m68k
 http://192.250.228.95/Tcp1000gbps.mpsl
@@ -5151,6 +5180,7 @@ https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-stat
 http://77.45.77.84:29866/i
 http://43.249.172.195:888/21
 http://211.229.88.50:32107/i
+http://103.206.130.213:35745/i
 http://93.190.58.102:47419/i
 https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_linux_amd64_v2.8.0.tar.gz
 http://13.71.2.244/.x/pax.txt
@@ -5623,14 +5653,12 @@ http://114.96.89.69:8088/02.08.2022.exe
 https://120.79.64.164:58232/02.08.2022.exe
 http://47.120.13.85:8889/02.08.2022.exe
 https://84.21.172.89:57843/02.08.2022.exe
-https://47.96.13.97:8443/02.08.2022.exe
 http://47.93.28.103:33333/02.08.2022.exe
 http://47.93.28.103/02.08.2022.exe
 https://20.74.209.192:8081/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
 https://20.74.209.192:8080/02.08.2022.exe
-https://43.155.195.102:8888/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://156.19.57.50:24183/i
@@ -6046,7 +6074,6 @@ http://d3cciiowg5l3jx.cloudfront.net/RH/setup.exe
 https://raw.githubusercontent.com/kammywammyman/boyboy/main/ChromeUpdate.exe
 https://raw.githubusercontent.com/tacocat2222/materia-fivem/refs/heads/main/loader.exe
 http://31.170.22.205/dl18
-http://175.112.170.177/js/x.exe
 http://175.112.170.177/js/x.rar
 http://175.112.170.177/js/config.json
 https://talentrecruitments.com/ConvertedFile.txt
@@ -7031,6 +7058,7 @@ https://onyxfortitech.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxsafenova.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://onyxleo.de/bin/support.client.exe??i=&e=Support&y=Guest&r=
 https://accesspoint.cc/bin/support.client.exe??i=&e=Support&y=Guest&r=
+https://innaflux.com/Creation_Made_By_GrokAI.mp4%20%20%20OpenAI.com
 http://31.170.22.205/dl17
 https://github.com/heartwfed/Carbon-Executor/releases/download/v3.0/Software.zip
 https://github.com/timy2007/Trigon-Evo/releases/download/v1.0/Software.zip
@@ -8682,7 +8710,6 @@ http://202.189.196.233:63033/i
 http://hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
 http://hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 http://202.141.166.71:30117/.i
-http://182.109.0.22:28888/sshd
 http://92.66.30.68:9015/sshd
 http://92.66.30.68:9012/sshd
 http://92.66.30.68:9014/sshd
@@ -11449,7 +11476,6 @@ http://2.57.122.121/ping
 http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-armv6l.tar.bz2
 http://75.119.134.80/armv7l
 http://75.119.134.80/i386
-http://91.92.187.23:17555/.i
 http://58.216.207.82/.index/scan.tar
 http://60.22.23.50:9898/ykwsyyt/help/HDDrive1095_XinAnPlug3030_20230619_inno.exe
 http://65.49.44.84/bash
