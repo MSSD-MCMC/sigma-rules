@@ -1,3 +1,11 @@
+http://182.115.206.189:35897/i
+http://125.46.213.4:44914/bin.sh
+http://222.137.40.97:57839/i
+http://219.157.23.93:39776/bin.sh
+http://27.215.86.55:54452/i
+http://82.22.184.214/bins/sora.spc
+http://82.22.184.214/bins/sora.mips
+http://82.22.184.214/bins/sora.arm
 http://113.229.162.12:50234/i
 http://222.139.86.230:44610/i
 http://36.158.74.30:52005/i
@@ -964,7 +972,6 @@ http://42.180.140.25:41535/i
 http://1.70.13.82:50116/i
 http://116.140.166.194:48146/i
 http://42.52.192.2:60046/bin.sh
-http://116.140.166.194:48146/bin.sh
 http://42.236.238.63:58753/bin.sh
 http://175.147.157.206:48973/i
 http://42.57.46.130:50156/i
@@ -1676,6 +1683,7 @@ http://176.46.158.8/files/unique1/random.exe
 http://62.113.66.137/comhost.exe
 http://62.113.66.137/ServiceUpdateWindows.vbs
 http://112.255.28.155:37173/bin.sh
+http://8.134.74.227/test.exe
 http://8.134.74.227/Project1.exe
 http://213.209.150.18/67427P18klaktkbLjgEDwkLtW9.exe
 http://95.167.104.62:46075/i
@@ -1828,7 +1836,6 @@ http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
-http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://3-vth7ovy61jx3rw81.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://www.fasdv.duckdns.org/huhu/titanjr.arc
 http://www.fasdv.duckdns.org/huhu/titanjr.arm6
@@ -2897,6 +2904,7 @@ http://220.158.234.135/j/a5le1w
 http://220.158.234.135/j/xle0
 http://220.158.234.135/j/a4le1
 http://220.158.234.135/j/aale0
+http://196.251.69.112/l
 http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
@@ -2949,7 +2957,6 @@ http://196.251.69.112/z/89/m68k
 http://196.251.69.112/z/89/mips
 http://196.251.69.112/z/89/ppc
 http://196.251.69.112/z/e
-http://196.251.69.112/z/89/spc
 https://intelligentopennetworkingawards.com/ghostgera/
 http://185.156.73.52/02.08.2022.exe
 http://46.236.65.58:56051/i
@@ -5076,6 +5083,7 @@ http://2.54.239.97:802/sshd
 http://2.54.239.98:802/sshd
 http://2.54.83.40:802/sshd
 http://124.221.32.87:9001/02.08.2022.exe
+http://1.92.100.230/02.08.2022.exe
 http://109.229.224.26:63333/i
 http://100.1.53.24:24178/i
 http://77.50.222.238:51680/i
@@ -8459,7 +8467,6 @@ http://179.248.3.202.ll.sta.mana.pf/sshd
 http://178.248.3.202.ll.sta.mana.pf/sshd
 http://99-118-215-24.lightspeed.irvnca.sbcglobal.net/sshd
 http://host-95-230-215-65.business.telecomitalia.it/sshd
-http://103.159.152.118:27726/i
 http://91.108.132.229:44685/i
 http://202.69.40.164:47983/i
 http://172.250.238.27:557/sshd
@@ -8817,6 +8824,7 @@ http://117.240.155.245:30300/sshd
 http://117.240.155.245:30480/sshd
 http://117.240.155.245:30270/sshd
 http://46.141.62.238:10000/sshd
+http://117.240.155.245:30410/sshd
 http://114.247.47.52:9081/sshd
 http://117.240.155.245:30420/sshd
 http://117.240.155.245:30490/sshd
@@ -8932,7 +8940,6 @@ http://e4l4.com/chromedriver.exe
 http://e4l4.com/libccc.zip.tar
 http://e4l4.com/zddtxxyxb.zip
 http://e4l4.com/xc.zip
-http://e4l4.com/vmpwn.7z
 http://e4l4.com/without_hook.zip
 http://e4l4.com/TinyNote.zip
 http://e4l4.com/ez_kiwi.zip
@@ -11883,7 +11890,6 @@ http://download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 http://download.pdf00.cn/pdfreader/mini/v1.0.7.31/mini_01.exe
 http://download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 http://download.pdf00.cn/pdfreader/fmt/v1.0.7.31/fmt_02.exe
-http://download.pdf00.cn/pdfreader/news/v1.0.7.16/news_01.exe
 http://download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
 http://download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
 http://fakers.co.jp/25072019_0963.xls
