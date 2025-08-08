@@ -1,3 +1,27 @@
+http://221.15.176.225:53688/bin.sh
+http://222.246.34.0:51384/i
+http://113.58.209.109:41055/i
+http://216.126.86.192:49407/i
+http://42.235.68.148:48788/i
+http://116.139.40.100:34528/i
+http://27.207.46.73:49311/bin.sh
+http://123.11.15.4:42145/i
+http://180.191.255.234:44583/bin.sh
+http://113.58.209.109:41055/bin.sh
+http://176.124.167.109:48896/bin.sh
+http://106.40.242.170:48137/i
+http://125.40.84.192:42115/i
+http://93.177.151.72:35404/i
+http://27.219.218.229:41107/i
+http://125.43.89.127:40204/i
+http://60.212.118.255:42144/i
+http://39.77.47.104:46733/i
+http://39.88.188.58:47941/i
+http://176.124.167.109:48896/i
+http://117.209.22.185:57568/i
+http://113.237.110.201:41667/bin.sh
+http://200.59.86.12:36242/i
+http://27.215.183.120:50453/bin.sh
 http://216.126.86.192:49407/bin.sh
 http://182.127.134.196:37687/i
 http://116.139.40.100:34528/bin.sh
@@ -992,7 +1016,6 @@ http://42.57.46.130:50156/i
 http://113.237.110.201:41667/i
 http://42.57.46.130:50156/bin.sh
 http://119.117.181.231:37021/i
-http://123.190.123.232:57182/i
 http://119.117.181.231:37021/bin.sh
 http://123.190.123.232:57182/bin.sh
 http://180.191.16.206:46028/bin.sh
@@ -1185,6 +1208,7 @@ http://113.239.236.249:49394/i
 http://113.229.77.145:53545/bin.sh
 http://113.239.236.249:49394/bin.sh
 http://152.53.209.147/m68k
+http://162.247.155.210/aarch64
 http://152.53.209.147/armv5l
 http://152.53.209.147/armv4l
 http://152.53.209.147/mipsel
@@ -1441,6 +1465,7 @@ http://burger042.ddnsfree.com/l
 http://burger042.ddnsfree.com/e
 http://196.251.114.66/z/linksys
 http://196.251.114.66/f5
+http://196.251.114.66/get.sh
 http://burger042.ddnsfree.com/z/zz
 http://196.251.114.66/z/mag
 http://196.251.114.66/z/irz
@@ -1472,7 +1497,6 @@ http://burger042.ddnsfree.com/toto
 http://196.251.114.66/ipc
 http://196.251.114.66/lll
 http://196.251.114.66/test.sh
-http://196.251.114.66/sdt
 http://196.251.114.66/z/ipc
 http://196.251.114.66/gocl
 http://196.251.114.66/z/wget.sh
@@ -1552,7 +1576,6 @@ http://196.251.114.66/rtz
 http://196.251.114.66/z/x86_64
 http://196.251.114.66/z/arm7
 http://196.251.114.66/arm7
-http://196.251.114.66/z/mpsl
 http://196.251.114.66/m68k
 http://196.251.114.66/x86_64
 http://196.251.114.66/z/89/mips
@@ -2797,7 +2820,6 @@ http://116.133.72.10:20000/1/Video.lnk
 http://116.133.72.10:20000/1/Photo.lnk
 http://116.133.72.10:20000/1/info.zip
 http://116.133.72.10:20000/info.zip
-http://36.212.238.69:800/%E6%98%9F%E5%BA%A7.exe
 http://42.51.49.238:6828/%E9%AA%97%E6%88%91%E3%81%AE.apk
 http://42.51.49.238:6828/Dopamine.ipa
 http://42.51.49.238:6828/%E9%9B%AA%E8%8A%B1%E8%BF%9C%E7%A8%8B%E7%89%88.apk
@@ -2920,6 +2942,7 @@ http://220.158.234.135/j/xle0
 http://220.158.234.135/j/a4le1
 http://220.158.234.135/j/aale0
 http://196.251.69.112/l
+http://196.251.69.112/wget.sh
 http://200.59.83.35:51124/i
 http://200.59.83.35:51124/bin.sh
 http://78.70.203.243:56414/i
@@ -3078,6 +3101,7 @@ http://43.139.228.20:800/02.08.2022.exe
 http://194.54.160.182:5953/i
 http://46.236.65.11:45811/i
 http://106.52.6.128:801/02.08.2022.exe
+http://47.108.162.213/02.08.2022.exe
 http://45.141.233.66:2096/02.08.2022.exe
 http://45.141.233.66:443/02.08.2022.exe
 http://221.113.193.128/sshd
@@ -6935,6 +6959,7 @@ http://31.170.22.205/dl19
 http://203.115.101.20:32242/i
 http://190.196.99.168:64040/i
 http://89.231.18.9:62605/i
+http://196.29.232.203:37255/i
 http://114.159.30.59:50005/sshd
 http://77.52.157.210/sshd
 https://raw.githubusercontent.com/ilganrat342/dgasgxc/refs/heads/main/setup.exe
@@ -9064,7 +9089,6 @@ https://raw.githubusercontent.com/xbest11/ddl1/main/xbest.dll
 https://raw.githubusercontent.com/xbest11/ddl1/main/BLUE_AND_WHITE.dll
 https://raw.githubusercontent.com/huuuuggga/aaaaa1/refs/heads/main/srtware.exe
 http://186.125.133.243:53948/.i
-http://80.23.51.234:60454/.i
 http://119.203.105.19:10166/.i
 http://178.136.225.254:9840/.i
 http://186.125.133.242:53948/.i
@@ -9314,7 +9338,6 @@ https://drive.google.com/uc?export=download&id=1JBZzNtbk1KUszoofWw7HsQfDh066oNtf
 https://drive.google.com/uc?export=download&id=1HkvynlDKcbdd50_BSW3S9Tk5elBDuXtG
 https://annadegismen.com/js/lzgmnf.js
 http://annadegismen.com/js/itxrfk.js
-http://annadegismen.com/js/ufeigv.js
 http://annadegismen.com/js/qdkgmu.js
 http://annadegismen.com/js/zefhca.js
 http://annadegismen.com/js/lzjxve.js
@@ -10384,6 +10407,7 @@ https://www.sendspace.com/pro/dl/8gikly
 https://www.sendspace.com/pro/dl/medjl1
 https://www.sendspace.com/pro/dl/dy1f16
 https://www.sendspace.com/pro/dl/kx3wl4
+https://www.sendspace.com/pro/dl/ppxodm
 https://www.sendspace.com/pro/dl/e7opy8
 https://www.sendspace.com/pro/dl/tbfvpd
 https://www.sendspace.com/pro/dl/6f2c5c
@@ -11114,7 +11138,6 @@ http://138.122.43.76:56486/i
 http://76.76.195.174:62922/i
 http://62.176.113.135:65108/i
 http://91.92.94.138:15350/i
-http://86.102.177.140:47532/i
 http://136.169.119.33:51153/i
 http://102.216.69.112:17350/i
 http://45.161.217.70:4690/i
@@ -11570,6 +11593,7 @@ https://nhatheptienchebinhduong.com/mise/Funzioni.zip
 https://nhatheptienchebinhduong.com/mise/Servizi.zip
 https://nhatheptienchebinhduong.com/mise/Disposizioni.zip
 https://nhatheptienchebinhduong.com/mise/Cliente.zip
+https://nhatheptienchebinhduong.com/mise/Contratto.zip
 https://github.com/tedburke/CommandCam/archive/refs/heads/master.zip
 https://codeload.github.com/UnlockTeame/Unlimited/zip/refs/heads/main
 https://anapa-zarya.ru/assets/images/gallery/CREDIT%20ALERT.zip
@@ -11826,7 +11850,6 @@ http://ncxps.com/wp-includes/OCT/w9hmkanqe5py4r/
 http://cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 http://soft.110route.com/PAETools.exe
 https://github.com/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe
-https://chuguadventures.co.tz/wp-includes/js/jquery/jquery.js
 http://cdaonline.com.ar/wp-admin/FILE/x7Z9wBk77Tt6v9/
 http://cd.textfiles.com/hmatrix/Data/hack1226.exe
 http://94.43.139.153:52169/Mozi.x
@@ -11837,6 +11860,7 @@ https://drive.google.com/uc?export=download&id=1yRMkzXF4RMy9utrIkbh6RGVSOkehBmeo
 https://drive.google.com/uc?export=download&id=1SM7B9902I8v4YitEPF6GZOmqc84LTloI
 https://drive.google.com/uc?export=download&id=1gAVcbY-nHlQ22OHbgm530ExFFsrG1aUb
 http://reifenquick.de/Scripts/statement/ul397wfyb/
+http://file.elecfans.com/web1/M00/8F/36/o4YBAFy-2m2AARFZAAhkAIik5pI122.exe
 http://www.reifenquick.de/Scripts/FILE/21mnqlvi/oz88535657v7rbazasyth9x8i/
 http://www.reifenquick.de/Scripts/statement/ul397wfyb/
 http://yongtai.cn/wp-includes/VctIE/
@@ -11875,7 +11899,6 @@ http://www.chenwangqiao.com/wordpress/3waa9-ke38h-15/
 http://www.chenwangqiao.com/wordpress/FILE/
 http://www.xyffqh.com/wp-admin/private_resource/interior_Mgzeu_1NsLTPYDJ/aQxdRiGQe_e4k6usnwxrg/
 http://www.cippe.com.cn/exeim/cippe2020bj/cippe2020en_bj_zhanghao.doc
-http://amuletweb.com/wp/closed_08597_XWBAV/51578533_ixwt6QqXha0O_space/H7uvgAA_hfeywxaM/
 http://oknoplastik.sk/index_soubory/common_sector/external_area/61551354147_t4d0KY73JJyWFfGY/
 http://olingerphoto.com/photoblog/lli9c05hrj/2bwx-901909-89178267-5c5xr-qfvwc/
 http://cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723382710/9.915787746614242.jpg
