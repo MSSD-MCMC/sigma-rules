@@ -1,3 +1,23 @@
+http://175.173.78.146:48227/bin.sh
+http://113.230.234.173:55354/bin.sh
+http://222.140.156.249:44758/bin.sh
+http://42.225.89.103:32889/bin.sh
+http://117.216.180.81:41969/i
+http://219.156.5.10:40685/i
+http://124.92.93.165:36414/i
+http://42.52.6.102:60323/bin.sh
+http://82.22.184.214/bins/sora.arm7
+http://82.22.184.214/bins/sora.ppc
+http://82.22.184.214/bins/sora.mpsl
+http://82.22.184.214/bins/sora.m68k
+http://82.22.184.214/bins/sora.arm6
+http://82.22.184.214/bins/sora.x86
+http://82.22.184.214/bins/sora.arm5
+http://82.22.184.214/bins/sora.sh4
+http://82.22.184.214/sora.sh
+http://59.96.140.172:40713/i
+http://39.80.121.234:56219/i
+http://176.226.174.66:54549/i
 http://117.216.180.81:41969/bin.sh
 http://124.92.93.165:36414/bin.sh
 http://42.228.47.112:60049/bin.sh
@@ -953,7 +973,6 @@ http://216.9.224.93/xampp/cv/MSI.png
 http://185.208.159.135/cat.sh
 http://185.208.159.135/powerpc
 http://52.17.229.255/02.08.2022.exe
-http://101.43.94.35:9180/02.08.2022.exe
 http://121.43.28.208:8888/02.08.2022.exe
 http://140.143.170.12:443/02.08.2022.exe
 http://110.44.123.73:52612/i
@@ -1074,7 +1093,6 @@ http://113.231.211.71:35637/bin.sh
 http://89.213.174.230/bin/boatnet.spc
 http://89.213.174.230/bin/boatnet.ppc
 http://89.213.174.230/bin/boatnet.arm7
-http://89.213.174.230/bin/boatnet.sh4
 http://89.213.174.230/bin/boatnet.586
 http://89.213.174.230/bin/boatnet.i586
 http://89.213.174.230/bin/boatnet.i486
@@ -1829,6 +1847,7 @@ http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm6
+http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -2218,7 +2237,6 @@ http://160.187.246.23/all.sh
 http://176.46.152.46/2.exe
 http://176.46.152.46/1.exe
 http://167.160.161.247/l838.exe
-http://167.160.161.247/n89393.exe
 http://167.160.161.247/ssrt4.exe
 http://176.46.158.8/files/8111443583/YT1For2.exe
 http://176.46.158.8/files/5254702106/LXkGFUT.exe
@@ -5051,7 +5069,6 @@ http://47.102.209.177:22211/02.08.2022.exe
 http://2.54.83.155:802/sshd
 http://47.242.224.97:60147/linux
 http://jakestrack.com/fsps.zip
-https://upgradegc.com/rsrs.zip
 http://120.24.206.137:81/02.08.2022.exe
 http://88.8.22.161:10010/sshd
 http://62.56.207.27:55229/.i
@@ -8592,6 +8609,7 @@ http://81.70.85.113/dvrLocker
 http://81.70.85.113/empsl
 http://81.70.85.113/backdoor/ex86
 http://96.18.93.160:21220/i
+http://95.67.107.182:16810/i
 http://168.232.158.148:43716/i
 http://116.72.2.83:3950/i
 http://175.100.115.43:50106/i
@@ -8692,6 +8710,7 @@ http://178.160.240.83:3487/.i
 http://192.140.225.33/phpmyadmin/!HELP_SOS.hta
 http://43.143.123.40:11111/02.08.2022.exe
 http://115.178.100.190:4788/i
+http://185.136.193.117:26360/i
 http://31.154.235.131:9538/.i
 https://raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/1.sh
 http://186.121.239.114:19828/i
@@ -9043,7 +9062,6 @@ http://github.com/Xacker-Volk/JustMyRat/raw/refs/heads/main/NJRAT%20DANGEROUS.ex
 http://github.com/fericarr/newky/raw/refs/heads/main/prueba.exe
 http://github.com/Erez-Goldberg/Rust-reverse-shell/raw/refs/heads/main/shellcode.bin
 http://github.com/krishnatherock9673/krishna22/raw/refs/heads/main/Krishna33.exe
-http://github.com/ducminh23/ddosv1/raw/refs/heads/main/ddosziller.exe
 http://github.com/iamgelogger233/imagelogger/raw/refs/heads/main/imagelogger.exe
 http://github.com/fengjixuchui/CVE-2022-26810/raw/refs/heads/main/shellcode.bin
 https://raw.githubusercontent.com/attatier/Cloud/main/TestExe.exe
@@ -9715,6 +9733,7 @@ http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
 https://39.98.174.154:8888/02.08.2022.exe
 https://39.98.174.154:52683/02.08.2022.exe
+https://152.32.202.240:8443/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -10272,6 +10291,7 @@ http://47.109.77.84:8888/%5Bwww.ghxi.com%5D%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86v
 http://47.109.77.84:8888/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86TV-v2.1.8-%E5%85%8D%E8%B4%B9%E7%BA%AF%E5%87%80%E7%89%88.apk
 http://tengfeidn.com/down/tb/tb.exe
 http://tengfeidn.com/down/jf/jf.exe
+http://8.218.138.77:8888/supershell/compile/download/%5Bwin
 https://sgz-1302338321.cos.ap-guangzhou.myqcloud.com/store_app/guardservice.exe
 http://27.147.132.114:38521/.i
 http://120.77.253.240/Photo.scr
@@ -11396,7 +11416,6 @@ http://43.224.0.5:1316/Aqua.arm6
 http://36.67.66.178:23987/Aqua.arm6
 http://109.171.30.19:33609/Aqua.arm4
 http://109.171.30.19:33609/Aqua.arm6
-http://36.67.66.178:23987/Aqua.arm4
 http://81.16.123.55:41567/Aqua.sh4
 http://81.16.123.55:41567/Aqua.i686
 http://67.78.106.21:55731/o
@@ -11578,7 +11597,6 @@ https://donkeytourscroatia.com/agenzia/
 https://admin.byte.in.ua/scarica/
 https://www.institut-corps-a-ligne.fr/connect/
 https://records.dennisign.se/agenzia/
-https://cfu.twr.mybluehost.me/agenzia/
 https://donkeytourscroatia.com/connect/
 https://donkeytourscroatia.com/scarica/
 https://villanyzsolti.hu/agenzia/
@@ -11884,6 +11902,7 @@ http://dweixin.cn/gttu/xOfSL/
 https://dweixin.cn/gttu/xOfSL/
 http://www.reifenquick.de/Scripts/hl8-8w4cs-6325/
 https://dweixin.cn/gttu/Overview/sw94b26/
+https://dweixin.cn/gttu/invoice/ujn3me8cye/
 http://www.reifenquick.de/Scripts/open-0627720493640-azQ24PfFjRm/guarded-space/gxkx9t42ra6yf-6x7uyx330389w/
 http://schenckel.com.br/covid19/statement/
 http://94.43.139.153:52169/Mozi.m
