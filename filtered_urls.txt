@@ -1,3 +1,17 @@
+http://115.61.19.91:54371/i
+http://27.215.212.206:39571/bin.sh
+http://115.55.58.89:50846/i
+http://119.179.229.210:51290/bin.sh
+http://115.55.51.34:45475/i
+http://115.61.19.91:54371/bin.sh
+http://27.206.234.51:50663/i
+http://219.155.224.20:46457/i
+http://125.44.194.71:39170/bin.sh
+http://115.55.51.34:45475/bin.sh
+http://115.55.58.89:50846/bin.sh
+http://162.247.155.210/arm7
+http://72.29.46.195:36681/i
+http://202.110.30.35:42113/i
 http://175.147.157.206:48973/bin.sh
 http://175.146.157.169:51886/i
 http://219.155.224.20:46457/bin.sh
@@ -605,6 +619,7 @@ http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3a
 http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.spc
 http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.ppc
 http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.arm7
+http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.sh4
 http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.mips
 http://213.209.150.159/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.m68k
 http://213.209.150.159/jaws
@@ -654,7 +669,6 @@ http://120.28.139.212:52370/i
 http://191.241.143.33:52916/bin.sh
 http://120.28.139.212:52370/bin.sh
 http://72.29.46.195:36681/bin.sh
-http://222.141.230.157:47173/bin.sh
 http://175.149.76.247:52397/bin.sh
 http://202.169.234.39:56252/i
 http://78.142.229.8/hiddenbin/Space.mpsl
@@ -823,7 +837,6 @@ http://182.143.113.249:81/assets/Photo.scr
 http://182.143.113.249:81/AV.scr
 http://182.143.113.249:81/modules/Photo.scr
 http://182.143.113.249:81/modules/Video.scr
-http://182.143.113.249:81/modules/Video.lnk
 http://182.143.113.249:81/modules/Photo.lnk
 http://182.143.113.249:81/modules/AV.lnk
 http://182.143.113.249:81/Photo.lnk
@@ -1118,8 +1131,8 @@ http://196.251.114.63/bins/H0NEY.mips
 http://196.251.114.63/bins/H0NEY.arm6
 http://196.251.114.63/bins/H0NEY.x86_64
 http://196.251.114.63/bins/H0NEY.m68k
-http://89.42.88.210/hiddenbin/boatnet.m68k
 http://89.42.88.210/hiddenbin/boatnet.arm
+http://120.28.210.41:48738/i
 http://120.28.210.41:48738/bin.sh
 http://89.42.88.210/hiddenbin/boatnet.mips
 http://119.115.160.225:52639/bin.sh
@@ -1135,6 +1148,7 @@ http://162.247.155.210/aarch64
 http://152.53.209.147/armv5l
 http://152.53.209.147/armv4l
 http://162.247.155.210/ppc
+http://162.247.155.210/mipsel
 http://152.53.209.147/mipsel
 http://152.53.209.147/x86_64
 http://162.247.155.210/arm5
@@ -1485,6 +1499,7 @@ http://196.251.114.66/arm6
 http://196.251.114.66/z/89/mpsl
 http://196.251.114.66/z/runtime
 http://196.251.114.66/z/arm
+http://196.251.114.66/z/arm5
 http://196.251.114.66/z/mpsl
 http://196.251.114.66/m68k
 http://196.251.114.66/x86_64
@@ -2105,7 +2120,6 @@ http://196.251.116.34/bins/morte.mips
 http://196.251.116.34/bins/morte.ppc
 http://196.251.116.34/bins/morte.arm6
 http://196.251.116.34/bins/morte.m68k
-http://196.251.116.34/bins/morte.spc
 http://196.251.116.34/bins/morte.x86_64
 http://196.251.116.34/bins/o.xml
 https://github.com/Hafiz12cyber/request/raw/refs/heads/main/Launcher.zip
@@ -2335,6 +2349,7 @@ http://vipcncnetwork.com/w.sh
 http://vipcncnetwork.com/bins/morte.x86
 http://vipcncnetwork.com/bins/debug
 http://vipcncnetwork.com/bins/morte.ppc
+http://vipcncnetwork.com/bins/morte.arm7
 http://vipcncnetwork.com/wget.sh
 http://vipcncnetwork.com/bins/morte.spc
 http://vipcncnetwork.com/bins/morte.sh4
@@ -2916,6 +2931,7 @@ http://77.90.153.137/vv/armv5l
 http://77.90.153.137/vv/armv6l
 http://77.90.153.137/vv/armv4l
 http://196.251.69.112/z/89/arm5
+http://70.153.73.172/02.08.2022.exe
 http://111.57.151.202:8888/sshd
 http://213.209.150.18/PluGman23333%20233.exe
 http://213.209.150.18/catqw.exe
@@ -3280,6 +3296,7 @@ http://200.14.250.72/TmpFTP/DELCACHEPRODUTOSEG/info.zip
 http://200.14.250.72/bkp/info.zip
 http://200.14.250.72/RelFTP/info.zip
 http://200.14.250.72/ExeFTP%20-%20copia/Drop/info.zip
+http://200.14.250.72/ExeFTP/info.zip
 http://200.14.250.72/ExeFTP%20-%20copia/Pickup/info.zip
 http://200.14.250.72/H4LUD3AE/info.zip
 http://200.14.250.72/Install/info.zip
@@ -4525,6 +4542,7 @@ http://192.140.225.33/phpMyAdmin/Ganja99.exe
 http://192.140.225.33/phpMyAdmin/Ganja66.exe
 http://192.140.225.33/phpMyAdmin/Ganja3.exe
 http://192.140.225.33/phpMyAdmin/Ganja180.exe
+http://192.140.225.33/phpMyAdmin/test1.exe
 http://192.140.225.33/phpMyAdmin/Ganja168.exe
 http://192.140.225.33/phpMyAdmin/php-service.exe
 http://192.140.225.33/phpMyAdmin/m-minerd.exe
@@ -4826,6 +4844,7 @@ http://81.226.201.46:54352/bin.sh
 http://213.209.150.18/xtonyee2.exe
 http://213.209.150.18/qwalphaqw.exe
 http://213.209.150.18/agodee.exe
+http://213.209.150.18/agodee2.exe
 http://213.209.150.18/catee.exe
 https://khavar.com/acheck3.txt
 https://khavar.com/Atata.txt
@@ -5327,6 +5346,7 @@ http://github.com/Jackson2323/MoHRadiant/blob/master/updt.exe?raw=true
 http://115.159.149.113:36155/down/pkexU0YtxaR3.exe
 http://47.238.238.16/uploads/public_file/relogintool.exe
 http://github.com/bol-van/zapret/releases/download/v70.6/zapret-v70.6.zip
+http://github.com/TheGreen444/ffxfilesxdlls/raw/refs/heads/main/TheGreen.dll
 http://github.com/boyo3473/irack/releases/download/idk/Load.Driver.exe
 http://157.185.170.200/2590057.s21d-2.faiusrd.com/0/abuiabblgaagytxhtauo1pck0ge.exe?f=ghost%E7%BD%91%E5%85%8B%E9%9A%86%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7.exe&v=1452829385&wsiphost=local&wsrid_tag=61c52eb2_PSmgzjgORD1de87_17635-16713
 http://github.com/vexcentry/vex/raw/refs/heads/main/RuntimeBroker.exe
@@ -5545,6 +5565,7 @@ https://github.com/kinayeeasd/WpCracker/releases/download/2.0.7-beta.4/WpCracker
 https://github.com/Tefa1234/WpCracker/releases/download/v1.0.2/Release-x64.zip
 https://github.com/Tefa1234/WpCracker/releases/download/v1.0.1/Release-x64.zip
 https://github.com/Rockfort73/Global-Mapper-Download/releases/download/v1.0.1/Release-x64.zip
+https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases/download/v1.0.2/Release-x64.zip
 https://github.com/slyge/yescrypt_crack/releases/download/v2.0/Application.zip
 https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases/download/v1.0.1/Release-x64.zip
 https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases/download/v1.0.1/Release-x64.zip
@@ -6110,6 +6131,7 @@ https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v1.0.0/Applicatio
 https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v2.0/Software.zip
 https://github.com/Sickclaymaker/text-processing-tool/releases/download/v2.0/Software.zip
 https://github.com/hza3o/Covid-19_Dashboard/releases/download/v2.0/Software.zip
+https://github.com/antoniomrbr/CosmicStar/releases/download/v1.0/Program.zip
 https://github.com/Relic87/Blox-Fruits-Script-Roblox/releases/download/v1.0/Program.zip
 https://github.com/12345far/metrics-calculation-precision-recall/releases/download/v2.0/Software.zip
 https://github.com/1set-t/ai-model/releases/download/v1.0.0/Application.zip
@@ -6143,6 +6165,7 @@ https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip
 https://github.com/gopuatop100/badan-hukum/releases/download/v2.0/Software.zip
 https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v1.0/Application.zip
 https://github.com/jakester2020/DesignSystem/releases/download/v2.0/Software.zip
+https://github.com/jobetsison/Working-with-Form-Validation-in-an-ASP.NET-Core-Rich-Text-Editor/releases/download/v2.0/Software.zip
 https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v1.0/Program.zip
 https://github.com/PapajSzef/web-devapp/releases/download/v1.0/Program.zip
 https://github.com/levdlyon/U6143_ssd1306-OLED-Display-Setup-for-Raspberry-Pi/releases/download/v1.0/Program.zip
@@ -6519,6 +6542,7 @@ https://github.com/vukhang16/ggg/releases/download/v1.0/Software.zip
 https://github.com/ColtOSTemp/platform_external_airbnb-lottie/releases/download/v1.0/Application.zip
 https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v2.0/Software.zip
 https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v2.0/Software.zip
+https://github.com/Mejicool/Casino-scripts.com-/releases/download/v2.0/Software.zip
 https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip
 https://github.com/rizki7680/auto-GMTSAR-setup/releases/download/v1.0/App.zip
 https://github.com/yourmumsbad/testkanban/releases/download/v2.0/Software.zip
@@ -6577,7 +6601,6 @@ https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip
 https://github.com/rofix12/spring-microservices/releases/download/v2.0/Software.zip
 https://github.com/bloodbag/PrestigePreview_WebGL_Docs/releases/download/v1.0/App.zip
 https://github.com/justnem/deep-research/releases/download/v1.0/App.zip
-https://github.com/Mkiuk/Jullus2Api/releases/download/v2.0/Software.zip
 https://github.com/suryaimelandabp/TM1637_PICO/releases/download/v1.0/App.zip
 https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip
 https://github.com/ttoyi/Basic-Web-Auth/releases/download/v2.0/Software.zip
@@ -6586,6 +6609,7 @@ https://github.com/Kayden2024/AIDA64-Extreme-Free/releases/download/v2.0/Softwar
 https://github.com/JEFF2807/GithubAIPy/releases/download/v1.0/Software.zip
 https://github.com/Ydpox/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild/releases/download/v2.0/Software.zip
 https://github.com/Rahul110110/rocket-telemetry-logger-using-raspberry-pi-pico/releases/download/v1.0/Software.zip
+https://github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip
 https://github.com/Abyss675/AlfaRomeoGiulia_DashboardInfo_ESP32-S3/releases/download/v1.0/Software.zip
 https://github.com/BinniZenobioCordovaLeandro/apachimuhkayqui-server/releases/download/v2.0/Software.zip
 https://github.com/Envility/pic18f56q24-cnano-8bit-mdfu-solution-mplab-mcc/releases/download/v2.0/Software.zip
@@ -6694,6 +6718,7 @@ https://github.com/loolsfrkg/Roblox-Oxygen/releases/download/v2.0/Program.zip
 https://github.com/00146664032q/DX9WARE-Roblox/releases/download/v3.0/Software.zip
 https://github.com/loolsfrkg/Roblox-Oxygen/releases/download/v1.0/Software.zip
 https://github.com/HTEREGR/Roblox-Krampus/releases/download/v1.0/Software.zip
+https://github.com/KevinYTx/Roblox-Nihon/releases/download/v1.0/Software.zip
 https://github.com/00146664032q/DX9WARE-Roblox/releases/download/v1.0/Software.zip
 https://github.com/Amr414/Roblox-Celery/releases/download/v1.0/Application.zip
 https://github.com/loolsfrkg/Roblox-Oxygen/releases/download/v3.0/Software.zip
@@ -6748,6 +6773,7 @@ https://raw.githubusercontent.com/AlishaZara/api/refs/heads/master/rh_s.txt
 https://github.com/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip
 https://github.com/nurraif/MyTonWallet/releases/download/v2.0/Program.zip
 https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip
+https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip
 https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip
 https://github.com/Pig85236/45K-Udemy-Course-WordPress-Posts/releases/download/v2.0/Software.zip
 https://github.com/gwynelan/Linux-Basics-for-Hackers/releases/download/v2.1.2/linux-basics-for-hackers-v2.1.2.zip
@@ -7481,6 +7507,7 @@ https://img1.wsimg.com/blobby/go/2d664301-7b5e-474d-97a1-1305c7ece601/downloads/
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/12922543008.pdf
 https://img1.wsimg.com/blobby/go/804274b4-5f10-4c26-9de6-df56f38aac7c/downloads/20643132370.pdf
 https://img1.wsimg.com/blobby/go/2bb4e8cb-ec7e-44c1-a645-d94d4534f3a4/downloads/far_from_you_tess_sharpe.pdf
+https://img1.wsimg.com/blobby/go/88933df5-ca10-43b5-b140-6aa02868b89c/downloads/87076889980.pdf
 https://web.archive.org/web/20220120151100/https://uploads.strikinglycdn.com/files/88fe4363-1198-45e6-9226-8b94f28355d4/biwuzu.pdf
 https://img1.wsimg.com/blobby/go/d37a9b24-bc42-4cb1-ab3b-3d1b21b01aec/downloads/40331451843.pdf
 https://img1.wsimg.com/blobby/go/71d9f42f-0bad-4406-8a48-95c698e57e68/downloads/sumitomo_f50_compressor_manual.pdf
@@ -7732,6 +7759,7 @@ https://img1.wsimg.com/blobby/go/fa4295b9-8c98-4187-bbf8-91c9d7ce5f9e/downloads/
 https://img1.wsimg.com/blobby/go/44d0963d-ba71-4620-abdb-e3c6631b392b/downloads/balance_confirmation_letter_format_in_word.pdf
 https://img1.wsimg.com/blobby/go/5102464b-373a-4f87-829a-69343208c6ac/downloads/rollo_tomassi_the_rational_male_turkce.pdf
 https://img1.wsimg.com/blobby/go/800bda9c-ed1b-45a1-a7d5-702e4e14f980/downloads/pmp_42_processes_chart.pdf
+https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/86917927693.pdf
 https://img1.wsimg.com/blobby/go/356923eb-d23c-4b0c-808e-e9b58fb291da/downloads/methodologie_du_commentaire_compose_francais.pdf
 https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/gauss_elimination_method_example_with_solution.pdf
 https://img1.wsimg.com/blobby/go/5f03ee03-a319-4a1e-a052-a99710c59365/downloads/bujulodipesotixugakujup.pdf
@@ -8524,7 +8552,6 @@ http://103.187.146.29/xnn/Injek3.mentah
 http://103.187.146.29/vvipejy/InjekSimple3.mentah
 http://e4l4.com/chromedriver.exe
 http://e4l4.com/libccc.zip.tar
-http://e4l4.com/zddtxxyxb.zip
 http://e4l4.com/xc.zip
 http://e4l4.com/vmpwn.7z
 http://e4l4.com/without_hook.zip
@@ -8902,6 +8929,7 @@ http://178.160.216.103:49752/.i
 http://www.zhikey.com/crm/exe/update.exe
 http://101.200.220.118:8090/ledshow.exe
 http://101.200.220.118:8090/ledshow1.exe
+https://github.com/Noureddine-nt9/rgsdr/raw/refs/heads/main/cheet.exe
 http://14.33.239.247:48764/.i
 http://5.181.28.63:5945/.i
 http://47.181.114.185:35261/.i
@@ -9011,6 +9039,7 @@ http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
 http://ftp.ywxww.net:820/AutoRuns.exe
 http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
+http://ftp.ywxww.net:820/hdtune.exe
 http://123.ywxww.net:820/wblog.exe
 http://ftp.ywxww.net:820/steam.txt
 http://123.ywxww.net:820/svchost.exe
@@ -9033,6 +9062,7 @@ https://github.com/MorganTaraum/automatic-octo-barnacle/raw/refs/heads/main/svch
 https://github.com/zodiac1616/test/raw/refs/heads/main/svchost.exe
 https://raw.githubusercontent.com/zzreVva1/osu-maple/refs/heads/main/ExtremeInjector.exe
 https://github.com/zzreVva1/osu-maple/raw/refs/heads/main/ExtremeInjector.exe
+https://firebasestorage.googleapis.com/v0/b/blader-4f96f.appspot.com/o/REM251.txt?alt=media&token=c0f99eb2-2f4d-4b6b-8bb6-bdb0e353c395
 http://217.114.43.149/abc3.sh
 http://217.114.43.149/abc2.sh
 http://217.114.43.149/abc1.sh
@@ -9331,6 +9361,7 @@ http://118.179.121.235:1123/Mozi.m
 http://103.90.207.13:25925/Mozi.m
 http://202.148.20.138:24291/Mozi.m
 http://181.211.252.34:1808/Mozi.m
+http://27.156.224.11:43529/Mozi.m
 http://114.7.160.114:47530/Mozi.m
 http://88.80.242.177:20131/Mozi.m
 http://212.107.239.43:8026/Mozi.m
@@ -9774,6 +9805,7 @@ https://raw.githubusercontent.com/TRevSglAss/MornA/main/Ref_BA0929399122_pdf.zip
 https://github.com/TRevSglAss/MornA/raw/main/Ref_BA0929399122_pdf.zip
 https://raw.githubusercontent.com/Reporgu/fakado/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar
 https://github.com/GrayInV/henidus/raw/main/Transaction_End_Ids_58788719853478_Pdf.rar
+http://51.255.46.245/CVE-2023-36874.zip
 http://51.255.46.245/b64
 http://202.107.235.202:8088/info.zip
 http://43.240.65.55:81/info.zip
@@ -9877,6 +9909,7 @@ http://36.138.125.70:8089/UNP%20Setup.exe
 http://92.127.156.174:8880/SharpHound.exe
 https://github.com/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments.zip
 http://karoonpc.com/Slade107.psm
+http://27.159.154.179:44041/.i
 https://reusable-flex.com/o.elf
 http://karoonpc.com/Walesboller.pcx
 http://93.118.112.68:58915/.i
@@ -10709,6 +10742,7 @@ http://82.193.118.99:63838/i
 http://91.215.61.181:26378/i
 http://64.140.99.97:44920/i
 http://77.65.45.186:9693/i
+http://81.16.123.55:41567/i
 http://103.42.201.36:38107/i
 http://112.5.6.69:56073/i
 http://36.67.66.178:23987/i
@@ -11292,7 +11326,6 @@ http://41.86.21.5:40901/Mozi.m
 http://41.86.21.5:40901/Mozi.a
 https://buscascolegios.diit.cl/txs9e9.zip
 https://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
-http://download.caihong.com/gamewd/yhdl.exe
 https://abissnet.net/u0eukz.zip
 http://59.29.135.151:11442/.i
 http://yzkzixun.com/v2x2vexx.jpg
