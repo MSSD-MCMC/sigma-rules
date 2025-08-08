@@ -1,3 +1,24 @@
+http://147.124.215.110/evernew/AUTOPILOT.zip
+http://147.124.215.110/xampp/stein.txt
+http://147.124.215.110/xampp/S.zip
+http://147.124.215.110/xampp/EUROOOOO.zip
+http://147.124.215.110/xampp/WADS.zip
+http://147.124.215.110/evernew/Bgain.txt
+http://147.124.215.110/xampp/XZCZCT.zip
+http://117.146.92.46:51667/i
+http://122.156.143.62:42757/bin.sh
+http://27.215.180.37:38474/i
+http://182.121.248.216:54188/bin.sh
+http://115.55.31.251:48411/i
+http://42.228.91.218:48363/i
+http://182.112.1.239:35756/i
+http://182.112.1.239:35756/bin.sh
+http://115.55.31.251:48411/bin.sh
+http://45.141.233.196/files/5390889402/L6qQkwT.exe
+http://42.234.180.195:52125/bin.sh
+http://27.215.180.37:38474/bin.sh
+http://221.15.176.225:53688/i
+http://42.228.91.218:48363/bin.sh
 http://221.15.176.225:53688/bin.sh
 http://222.246.34.0:51384/i
 http://113.58.209.109:41055/i
@@ -613,6 +634,7 @@ http://213.209.150.187/bizy.mipss
 http://42.230.39.132:42101/bin.sh
 http://168.197.157.188:37294/i
 http://123.179.228.32:34077/i
+http://42.6.51.134:49914/i
 http://168.197.157.188:37294/bin.sh
 http://42.6.51.134:49914/bin.sh
 http://184.171.219.84:56955/i
@@ -1086,6 +1108,7 @@ http://188.38.3.30:33664/bin.sh
 http://113.231.211.71:35637/bin.sh
 http://89.213.174.230/bin/boatnet.spc
 http://89.213.174.230/bin/boatnet.sh4
+http://89.213.174.230/bin/boatnet.586
 http://89.213.174.230/bin/boatnet.i586
 http://89.213.174.230/bin/boatnet.i486
 http://89.213.174.230/bin/boatnet.arc
@@ -1142,8 +1165,6 @@ http://rhinovate.tech:8080/arm7
 http://rhinovate.tech:8080/ppc
 http://94.156.232.85/Documents/receipt-TC.lnk
 http://196.251.114.65/02.08.2022.exe
-http://51.44.22.83/02.08.2022.exe
-http://111.231.23.22:55321/02.08.2022.exe
 http://139.224.54.133:8333/02.08.2022.exe
 http://43.248.78.104:4444/02.08.2022.exe
 http://176.215.199.12:45554/i
@@ -1176,11 +1197,12 @@ http://175.174.85.141:36983/i
 http://118.248.37.80:56785/i
 http://175.165.116.130:52100/i
 http://91.143.174.252:39978/i
-http://196.251.115.36/HBTs/.irqbal
 http://196.251.115.36/HBTs/.modprobe
 http://196.251.115.36/HBTs/.dbusd
 http://196.251.115.36/HBTs/.upstart
+http://196.251.115.36/HBTs/.klogd
 http://196.251.115.36/HBTs/.netd
+http://196.251.115.36/HBTs/.ksysd
 http://175.165.116.130:52100/bin.sh
 http://89.42.88.210/hiddenbin/boatnet.arc
 http://89.42.88.210/hiddenbin/boatnet.sh4
@@ -1251,7 +1273,6 @@ http://2.68.65.184/sshd
 http://41.146.76.236:8081/sshd
 http://41.146.76.236:8082/sshd
 http://92.41.159.95:8084/sshd
-http://196.251.85.171/main_x86
 http://196.251.85.171/main_sh4
 http://196.251.85.171/main_arm5
 http://196.251.85.171/main_ppc
@@ -1345,8 +1366,6 @@ http://196.251.69.129/z/li
 http://196.251.69.129/z/89/arm5
 http://196.251.69.129/sdt
 http://196.251.69.129/z.sh
-http://196.251.69.129/ipc
-http://196.251.69.129/z/k.sh
 http://196.251.69.129/aaa
 http://196.251.69.129/z/xaxa
 http://196.251.69.129/z/asd
@@ -1442,7 +1461,6 @@ http://196.251.114.66/fb
 http://burger042.ddnsfree.com/fdgsfg
 http://burger042.ddnsfree.com/f5
 http://burger042.ddnsfree.com/z/irz
-http://196.251.114.66/z/gocl
 http://burger042.ddnsfree.com/q
 http://burger042.ddnsfree.com/zz
 http://burger042.ddnsfree.com/lll
@@ -1535,7 +1553,6 @@ http://burger042.ddnsfree.com/vc
 http://burger042.ddnsfree.com/dvr
 http://196.251.114.66/w.sh
 http://196.251.114.66/z/ruck
-http://196.251.114.66/z/bx
 http://196.251.114.66/t.sh
 http://burger042.ddnsfree.com/z/wget.sh
 http://burger042.ddnsfree.com/z/x86
@@ -1844,6 +1861,7 @@ http://top1miku.duckdns.org/wget.sh
 http://77.90.153.62/dll.dll
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
+http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.m68k
@@ -1864,7 +1882,6 @@ http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111
 http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.i686
 http://4-foiqag7r50tqmfjf.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mpsl
-http://5-bkywlqbncj6bgnx7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://2-7smhsud1cgid1ti7.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://1-x0puwht74wwurxbd.izumisv1.cc/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc
@@ -2989,7 +3006,6 @@ http://77.90.153.137/f
 http://77.90.153.137/g
 http://77.90.153.137/v
 http://196.251.69.112/z/89/sh4
-http://196.251.69.112/z/89/x86_64
 http://196.251.69.112/z/89/x86
 http://196.251.69.112/z/89/m68k
 http://196.251.69.112/z/89/mips
@@ -9690,7 +9706,6 @@ http://117.72.70.169/xl_ext_chrome.crx
 http://117.72.70.169/test.pdf.lnk
 http://117.72.70.169/distribution.exe
 http://117.72.70.169/protect_distribution.exe
-https://39.98.174.154:8888/02.08.2022.exe
 https://github.com/user-attachments/files/16737801/Wave.zip?
 https://github.com/user-attachments/files/16419615/Solara.zip
 https://codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main
@@ -9961,6 +9976,7 @@ http://31.210.217.24:64046/Mozi.m
 http://89.28.58.97:37382/Mozi.m
 http://103.61.103.83:2620/Mozi.m
 http://103.1.157.126:20748/Mozi.m
+http://37.202.49.118:56648/Mozi.m
 http://93.175.223.140:5544/Mozi.m
 http://2.180.35.231:56242/Mozi.m
 http://203.80.244.154:46151/Mozi.m
@@ -11031,6 +11047,7 @@ http://78.30.234.163:54495/.i
 http://118.127.112.49:17818/.i
 http://181.193.59.78:39941/.i
 http://212.55.98.177:48211/.i
+http://79.111.119.241:38922/.i
 http://176.195.191.123:54140/.i
 http://185.126.195.110:51413/.i
 http://185.43.228.126:2473/.i
@@ -11391,6 +11408,7 @@ http://36.67.66.178:23987/o
 http://81.16.123.55:41567/Aqua.arm7
 http://81.16.123.55:41567/o
 http://79.120.54.194:15151/bin.sh
+http://41.79.233.62:14051/bin.sh
 http://79.120.54.194:15151/o
 http://43.224.0.5:1316/bin.sh
 http://36.67.66.178:23987/bin.sh
@@ -11617,6 +11635,7 @@ http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Irvwgjjfsyc
 http://ramactools.net/DOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Zjqyppwjmbp
 http://ramactools.net/image2021042GFREDS12322ERDQ1DOC03027382DOC20220513PRELIDOC20220513HGY37845657488494338293TRDFEDNARC0559DOC0302732112202135JIHG25485/Ztjemchbyhr
+http://41.86.21.5:40901/bin.sh
 https://github.com/janchuk/VoidRAT/raw/master/VoidRAT.exe
 http://47.98.224.91/buding.exe
 http://91.92.188.72:64496/.i
@@ -11670,7 +11689,6 @@ http://182.253.205.236:48543/.i
 https://www.usaayurveda.com/js/prototype/form.js
 https://gmgeneraltrading.com/runobject.hta
 http://update.cg100iii.com/cg100/CG100.exe
-http://update.cg100iii.com/cgmb/BenzMonster.exe
 http://dhnconstrucciones.com.ar/wp-admin/Sm02ZsVDYWdoTb7rqL/
 http://218.157.219.170:43369/.i
 https://palharesinformatica.com.br/down/newsales/adm_atu.exe
@@ -11834,6 +11852,7 @@ http://102.39.242.53:50000/
 http://191.33.171.242:55443/.i
 https://dl.packetstormsecurity.net/DoS/nemesy13.zip
 https://spaceframe.mobi.space-frame.co.za/agha25.tar
+http://41.86.21.5:40901/Mozi.a
 http://buscascolegios.diit.cl/txs9e9.zip
 https://buscascolegios.diit.cl/txs9e9.zip
 https://github.com/WariblE82/Miner/raw/main/MinerBTC.exe
