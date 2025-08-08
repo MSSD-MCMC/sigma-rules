@@ -1,3 +1,16 @@
+http://180.118.52.65:36734/i
+http://125.45.65.249:41373/bin.sh
+http://39.88.185.121:38151/i
+http://115.57.191.132:41843/i
+http://115.48.134.98:51703/i
+http://42.5.83.206:36678/i
+http://59.96.105.12:58404/i
+http://222.136.89.8:48439/bin.sh
+http://101.108.12.248:44998/i
+http://220.201.47.216:35864/i
+http://42.5.83.206:36678/bin.sh
+http://39.88.185.121:38151/bin.sh
+http://59.96.105.12:58404/bin.sh
 http://101.108.12.248:44998/bin.sh
 http://123.189.130.125:53879/i
 http://125.41.4.115:53708/bin.sh
@@ -883,7 +896,6 @@ http://23.146.184.21/bins/kernaldriver.mpsl
 http://23.146.184.21/bins/kernaldriver.m68k
 http://23.146.184.21/bins/kernaldriver.sh4
 http://23.146.184.21/bins/kernaldriver.arm
-http://23.146.184.21/bins/kernaldriver.arm7
 http://23.146.184.21/bins/kernaldriver.x86_64
 http://23.146.184.21/bins/kernaldriver.arm5
 http://23.146.184.21/bins/kernaldriver.ppc
@@ -1189,12 +1201,12 @@ http://110.183.25.136:54100/i
 http://45.141.233.196/files/1387079731/1wbVZkk.exe
 http://burger042.ddnsfree.com/z/89/sh4
 http://196.251.114.66/z/89/sh4
+http://196.251.114.66/z/89/x86
 http://196.251.114.66/z/89/ppc
 http://196.251.114.66/z/89/m68k
 http://196.251.114.66/z/89/spc
 https://github.com/r00tnik8/zianr35524869492586/raw/refs/heads/main/plugin3.plg
 http://103.20.102.84/ohshit.sh
-http://103.20.102.84/hiddenbin/boatnet.arm7
 http://62.60.248.91/project/cursinqload
 http://103.20.102.84/hiddenbin/boatnet.m68k
 http://103.20.102.84/hiddenbin/boatnet.sh4
@@ -1277,6 +1289,7 @@ http://196.251.69.129/z/c.sh
 http://196.251.69.129/zz
 http://196.251.69.129/z/test.sh
 http://196.251.69.129/z/sdt
+http://196.251.69.129/z/b
 http://196.251.69.129/k.sh
 http://124.230.194.118:36913/i
 http://222.246.90.64:59726/i
@@ -1440,7 +1453,6 @@ http://burger042.ddnsfree.com/vc
 http://burger042.ddnsfree.com/dvr
 http://196.251.114.66/z/ruck
 http://196.251.114.66/z/bx
-http://196.251.114.66/t.sh
 http://burger042.ddnsfree.com/z/wget.sh
 http://burger042.ddnsfree.com/z/x86
 http://burger042.ddnsfree.com/mips
@@ -1499,7 +1511,6 @@ http://196.251.114.66/z/ppc
 http://196.251.114.66/z/arm6
 http://196.251.114.66/debug.dbg
 http://196.251.114.66/x86
-http://196.251.114.66/arm5
 http://66.63.187.141/larc
 http://66.63.187.141/lspc
 http://66.63.187.141/larm6
@@ -2036,6 +2047,7 @@ http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.ppc
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.mips
+http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.sh4
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.spc
 http://196.251.118.39/001010101010010110101011101010101101010111010101/debug
 http://196.251.118.39/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm5
@@ -4507,6 +4519,7 @@ http://175.24.81.152:8888/WxWorkMultiOpen.exe
 http://43.136.51.89:8888/WxWorkMultiOpen.exe
 http://123.207.73.161:8888/WxWorkMultiOpen.exe
 http://175.178.251.212:8888/WxWorkMultiOpen.exe
+http://119.29.37.236:8888/WxWorkMultiOpen.exe
 http://124.220.78.172:8888/WxWorkMultiOpen.exe
 http://101.33.243.139:8888/WxWorkMultiOpen.exe
 http://42.193.115.114:8888/WxWorkMultiOpen.exe
@@ -5479,6 +5492,7 @@ http://43.226.39.44:5988/TestMemTest36.exe
 http://52575815-38-20200406120634.webstarterz.com/eric.exe
 http://43.226.39.44:5988/Test5.exe
 https://windatem.com/TingPong.dll
+http://www.ss-01.com/R0400/YahooDLL.dll
 http://noithaticon.vn/DRIVEapplet.exe
 https://www.blackhattoolz.com/licensing/updates/AddMeFast%20Bot.exe
 https://pub-0478b308b8cf46709a73d0eed5afd633.r2.dev/nircmd.exe
@@ -5530,6 +5544,7 @@ https://47.96.13.97:8443/02.08.2022.exe
 https://8.219.211.139:8080/02.08.2022.exe
 https://116.205.242.143/02.08.2022.exe
 https://20.74.209.192:8080/02.08.2022.exe
+https://43.155.195.102:8888/02.08.2022.exe
 http://66.187.4.10/asdfghjkl/frp.zip
 http://github.com/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe
 http://156.19.57.50:24183/i
@@ -5538,6 +5553,7 @@ https://www.khavar.com/GHDsdCBN124.bin
 http://101.43.91.156:18081/02.08.2022.exe
 http://31.170.22.205/dl16
 http://160.25.8.42:52088/i
+http://218.200.94.63:8081/sshd
 http://66.187.4.77/fish.arm6
 http://66.187.4.77/fish.arm7
 http://66.187.4.77/fish.m68k
@@ -9420,6 +9436,7 @@ http://ftp.ywxww.net:820/ydcx.exe
 http://ftp.ywxww.net:820/svchost.exe
 http://ftp.ywxww.net:820/rlpb15.exe
 http://ftp.ywxww.net:820/hydkj.exe
+http://ftp.ywxww.net:820/AutoRuns.exe
 http://ftp.ywxww.net:820/cysoft/winrarx64521sc.exe
 http://ftp.ywxww.net:820/hdtune.exe
 http://123.ywxww.net:820/wblog.exe
@@ -9720,7 +9737,6 @@ http://103.7.27.90:17260/Mozi.m
 http://43.230.158.26:5393/Mozi.m
 http://12.148.208.86:42009/Mozi.m
 http://181.94.245.254:3028/Mozi.m
-http://216.155.93.238:33194/Mozi.m
 http://62.162.113.34:21172/Mozi.m
 http://92.241.77.214:20631/Mozi.m
 http://202.5.50.108:15808/Mozi.m
@@ -10351,7 +10367,6 @@ https://www.sendspace.com/pro/dl/tbfvpd
 https://www.sendspace.com/pro/dl/6f2c5c
 https://www.sendspace.com/pro/dl/g2js91
 https://www.sendspace.com/pro/dl/lt00vw
-https://www.sendspace.com/pro/dl/i7tdbr
 https://www.sendspace.com/pro/dl/3a9xj1
 https://www.sendspace.com/pro/dl/wyg3h5
 http://212.3.211.157:50080/sshd
@@ -11411,7 +11426,6 @@ https://adclick.g.doubleclick.net/pcs/click?adurl=//kavyasourcing.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://cliffg.me
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://streammobs.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://redeamazoniaazul.org/
-https://adclick.g.doubleclick.net/pcs/click?adurl=//old.umcl.us/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://wegrowcoaching.com/
 https://adclick.g.doubleclick.net/pcs/click?adurl=https://dongyu.us/
 https://github.com/ssslllap1/asdasd/raw/main/crypted.exe
